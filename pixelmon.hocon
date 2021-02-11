@@ -5,7 +5,7 @@ AFKHandler {
     # The time in seconds before the auto-battle handler picks a move automatically each turn.
     afkHandlerTurnSeconds=15
     # Have auto-battle take over if the player is AFK during a battle. Activates after the specified time period and gives specified time for each turn after that.
-    enableAFKHandler=false
+    enableAFKHandler=true
 }
 # Settings for breeding behavior.
 Breeding {
@@ -28,7 +28,7 @@ Breeding {
     # Sets the number of steps per Egg cycle. Lower numbers hatch Eggs faster.
     stepsPerEggCycle=255
     # Control speed of breeding based on the blocks set in the area. If false, will set breeding speed to 1.0x.
-    useBreedingEnvironment=true
+    useBreedingEnvironment=false
 }
 # Options for the elevator.
 Elevator {
@@ -61,7 +61,7 @@ ExternalFiles {
 # Settings for controlling external moves.
 ExternalMoves {
     # Allow destructive external moves (includes Cut, Dig, Explode, LightFire, Lightning, RockSmash)
-    allowDestructiveExternalMoves=true
+    allowDestructiveExternalMoves=false
     # Allows the use of external moves such as Rock Smash and Cut.
     allowExternalMoves=true
     # Higher values for better chances of obtaining item.
@@ -234,7 +234,7 @@ Graphics {
     # Sets how far Pokémon names and levels can be seen from (client setting only). 1=Default, 2=Farther, 3=Far
     namePlateRange=1
     # If true, attack effects are only displayed to players participating in or spectating a battle.
-    onlyShowAttackEffectsToBattlers=true
+    onlyShowAttackEffectsToBattlers=false
     # Set whether or not the player can control the camera during battles (sets to sphere based camera positioning)
     playerControlCamera=true
     # The range (in blocks) at which battle effects should be displayed to players if they are not in the battle.
@@ -250,7 +250,7 @@ Graphics {
     # Whether to show wild Pokémon names on their nameplates.
     showWildNames=true
     # pixelmon.config.smoothAnimations.comment
-    smoothAnimations=false
+    smoothAnimations=true
     # Set whether or not to switch to an external camera during battles.
     useBattleCamera=true
     # Use the SMD normal maps for shading Poke Balls.
@@ -301,9 +301,9 @@ PixelUtilities {
     # Allows Poke Gifts to be used (both placing and using, prevention against spam).
     pokeGiftHaveEvents=true
     # Enable multiple players to get the Pokémon from the gift.
-    pokeGiftReusable=false
+    pokeGiftReusable=true
     # Scale grass battles to players' team levels?
-    scaleGrassBattles=false
+    scaleGrassBattles=true
 }
 # Settings for controlling PokeLoot chest spawns and behavior.
 PokeLoot {
@@ -347,7 +347,7 @@ Riding {
     # Allows riding Pokémon mounts that do not have the ability to fly or surf.
     landMount=true
     # Requires flying and water Pokémon mounts to have HM moves Fly or Surf (respectively) to use those abilities when ridden.
-    requireHM=false
+    requireHM=true
     # Multipier for the speed that mounted Pokémon travel at.
     ridingSpeedMultiplier=1
 }
@@ -432,9 +432,9 @@ Spawning {
     # The maximum number of Pokémon that can be naturally spawned in at once. This does not count fishing, external moves, commands, or legendary spawning.
     maximumSpawnedPokemon=3000
     # Chance for a Meltan to spawn when smelting a metal ore block. 1/x
-    meltanSpawnChance=3072
+    meltanSpawnChance=128
     # Percentage chance for a Meltan to transform into Ditto on capture.
-    meltanTransformChance=0.25
+    meltanTransformChance=0.9
     # The minimum number of blocks between a spawned entity and an existing living entity.
     minimumDistanceBetweenSpawns=15
     # The minimum distance from the player that entities may spawn. The lower this is, the closer entities will spawn to players.
@@ -446,21 +446,21 @@ Spawning {
     # The number of spawn passes made per minute. Decrease for better performance.
     spawnFrequency=60
     # Sets spawning of Gyms in close proximity to newly generated towns on or off.
-    spawnGyms=true
+    spawnGyms=false
     # Sets whether or not Pokémon levels are determined by distance from the World's spawn point.
-    spawnLevelsByDistance=false
+    spawnLevelsByDistance=true
     # Whether or not wild Pokémon will have levels closer to the player's Pokémon. Note: This will effect the external jsons!
     spawnLevelsCloserToPlayerLevels=true
     # Poke Marts will spawn with shopkeepers in Minecraft's towns.
-    spawnPokeMarts=true
+    spawnPokeMarts=false
     # A multiplier that speeds up legendary and mega boss spawning based on player count. ticks = spawnTicks / (1 + (number of players - 1) * spawnTicksPlayerMultiplier)
     spawnTicksPlayerMultiplier=0.009999999776482582
     # pixelmon.config.spawnZygardeCells.comment
-    spawnZygardeCells=true
+    spawnZygardeCells=false
     # The maximum number of spawns in a single spawn cycle for a single player. Lower for slower spawning and better performance.
     spawnsPerPass=2
     # Chance for a wild Pokemon to turn into a Ditto on capture.
-    transformToDittoOnCatch=0.001
+    transformToDittoOnCatch=0.01
     # If true, Pokémon will spawn with the most recent moves in their level-up movepools. If false, Pokémon will spawn with random moves from their level-up movepools.
     useRecentLevelMoves=false
     # The vertical radius of the areas randomly selected near the player to do spawning in. Lower for better performance but less reliable spawning. Larger than horizontal to better match player behavior.
@@ -514,19 +514,19 @@ Storage {
 # Settings to change Ultra Space's dimension settings and benefits.
 UltraSpace {
     # Whether End Cities should be generated in new Ultra Space chunks.
-    spawnUltraSpaceEndCities=true
+    spawnUltraSpaceEndCities=false
     # Whether more Pokéloot chests should be generated in new Ultra Space chunks.
     spawnUltraSpaceExtraLoots=true
     # Whether more ores should be generated in new Ultra Space chunks.
-    spawnUltraSpaceExtraOres=true
+    spawnUltraSpaceExtraOres=false
     # Whether more plants (apricorns, berries) should be generated in new Ultra Space chunks.
-    spawnUltraSpaceExtraPlants=true
+    spawnUltraSpaceExtraPlants=false
     # Whether more shrines should be generated in new Ultra Space chunks.
-    spawnUltraSpaceExtraShrines=true
+    spawnUltraSpaceExtraShrines=false
     # Whether Nether Forts should be generated in new Ultra Space chunks.
-    spawnUltraSpaceNetherForts=true
+    spawnUltraSpaceNetherForts=false
     # Whether the Ultra Space Dimension is activated or not.
-    ultraSpace=true
+    ultraSpace=false
     # Modifies the rarity of bosses in the Ultra Space Dimension (bossRate * ultraSpaceBossModifier).
     ultraSpaceBossModifier=0.5
     # Whether to use Ultra Space fog colourblind mode.

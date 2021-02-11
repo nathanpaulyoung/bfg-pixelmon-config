@@ -29,13 +29,13 @@ minimapSize:0
 entityAmount:1
 chunkGrid:-1
 slimeChunks:false
-playersColor:15
+playersColor:10
 mobsColor:14
 hostileColor:14
 itemsColor:12
 otherColor:5
-otherTeamColor:-1
-tamedMobsColor:-1
+otherTeamColor:11
+tamedMobsColor:14
 mapSafeMode:false
 minimapOpacity:100.0
 waypointsIngameScale:1.0
@@ -53,16 +53,16 @@ compassOverWaypoints:false
 showBiome:true
 showEntityHeight:true
 showFlowers:true
-keepWaypointNames:true
+keepWaypointNames:false
 waypointsDistance:0.0
 waypointsDistanceMin:0.0
 waypointTPCommand:/tp @s
 arrowScale:1.5
 arrowColour:0
 smoothDots:true
-playerIcons:1
-mobIcons:1
-hostileIcons:1
+playerIcons:2
+mobIcons:0
+hostileIcons:0
 tamedIcons:3
 heightLimit:20
 worldMap:true
@@ -91,7 +91,7 @@ lookingAtAngleVertical:180
 centeredEnlarged:false
 zoomedOutEnlarged:false
 alwaysEntityNametags:false
-minimapTextAlign:2
+minimapTextAlign:0
 showAngles:false
 waypointsMutualEdit:true
 compass:true
