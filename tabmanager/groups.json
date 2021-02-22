@@ -1,0 +1,29 @@
+{
+  "groupList": {
+    "HIGHEST_GROUP_(OWNER)": {
+      "name": "owner",
+      "prefix": "[OWNER]",
+      "suffix": "[OWNER]"
+    },
+    "LOWER_GROUP_(0)": {
+      "name": "group0",
+      "prefix": "[PREFIX]",
+      "suffix": "[SUFFIX]"
+    },
+    "LOWER_GROUP_(1)": {
+      "name": "group1",
+      "prefix": "[PREFIX]",
+      "suffix": "[SUFFIX]"
+    },
+    "LOWER_GROUP_(2)": {
+      "name": "group2",
+      "prefix": "[PREFIX]",
+      "suffix": "[SUFFIX]"
+    },
+    "LOWEST_GROUP(DEFAULT)": {
+      "name": "default",
+      "prefix": "[DEFAULT]",
+      "suffix": "[DEFAULT]"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "options": {
+    "header": {
+      "type": "Header",
+      "display": "This is a header"
+    },
+    "footer": {
+      "type": "Footer",
+      "display": "This is a footer"
+    }
+  }
+}
