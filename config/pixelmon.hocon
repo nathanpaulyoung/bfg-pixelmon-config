@@ -191,7 +191,7 @@ General {
     # Chance of the Pickup Ability picking up an item after a battle (1/rate). 0 disables this.
     pickupRate=10
     # Allows wild Pokémon to drop items like feathers, etc. on death.
-    pokemonDropsEnabled=true
+    pokemonDropsEnabled=false
     # Prints more detailed error messages to the server.log file if enabled.
     printErrors=true
     # If enabled, consumable held items will be returned to Pokémon at the end of player vs. player battles.
