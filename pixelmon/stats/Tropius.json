@@ -1,0 +1,184 @@
+{
+  "pixelmonName": "Tropius",
+  "pokemon": "Tropius",
+  "stats": {
+    "HP": 99,
+    "Attack": 68,
+    "Defence": 83,
+    "Speed": 51,
+    "SpecialAttack": 72,
+    "SpecialDefence": 87
+  },
+  "catchRate": 200,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 15,
+  "baseExp": 169,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Flying"
+  ],
+  "height": 2.0,
+  "width": 1.2,
+  "length": 2.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 20,
+    "flySpeedModifier": 0.6,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.6,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.6,
+      "z": 0.0
+    }
+  },
+  "weight": 100.0,
+  "evolutions": [],
+  "abilities": [
+    "Chlorophyll",
+    "SolarPower",
+    "Harvest"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Leaf Storm",
+      "Leer",
+      "Gust",
+      "Growth",
+      "Razor Leaf"
+    ],
+    "6": [
+      "Sweet Scent"
+    ],
+    "10": [
+      "Stomp"
+    ],
+    "16": [
+      "Magical Leaf"
+    ],
+    "21": [
+      "Whirlwind"
+    ],
+    "26": [
+      "Leaf Tornado"
+    ],
+    "30": [
+      "Natural Gift"
+    ],
+    "36": [
+      "Air Slash"
+    ],
+    "41": [
+      "Body Slam"
+    ],
+    "46": [
+      "Bestow"
+    ],
+    "50": [
+      "Synthesis"
+    ],
+    "56": [
+      "Solar Beam"
+    ],
+    "61": [
+      "Leaf Storm"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Fly",
+    "Roar",
+    "Hyper Beam",
+    "Solar Beam",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Steel Wing",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Sunny Day",
+    "Facade",
+    "Nature Power",
+    "Aerial Ace",
+    "Roost",
+    "Energy Ball",
+    "Giga Impact",
+    "Grass Knot",
+    "Round",
+    "Bulldoze",
+    "Confide",
+    "Brutal Swing"
+  ],
+  "tutorMoves": [
+    "Defog",
+    "Dragon Pulse",
+    "Giga Drain",
+    "Outrage",
+    "Seed Bomb",
+    "Snore",
+    "Stomping Tantrum",
+    "Synthesis",
+    "Tailwind",
+    "Worry Seed"
+  ],
+  "eggMoves": [
+    "Bullet Seed",
+    "Curse",
+    "Dragon Dance",
+    "Dragon Hammer",
+    "Headbutt",
+    "Leaf Blade",
+    "Leaf Storm",
+    "Leech Seed",
+    "Natural Gift",
+    "Nature Power",
+    "Razor Wind",
+    "Slam",
+    "Synthesis"
+  ],
+  "forms": {},
+  "form": -1
+}

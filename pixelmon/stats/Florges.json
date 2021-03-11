@@ -1,0 +1,136 @@
+{
+  "pixelmonName": "Florges",
+  "pokemon": "Florges",
+  "stats": {
+    "HP": 78,
+    "Attack": 65,
+    "Defence": 68,
+    "Speed": 75,
+    "SpecialAttack": 112,
+    "SpecialDefence": 154
+  },
+  "catchRate": 45,
+  "malePercent": 0,
+  "spawnLevel": 34,
+  "spawnLevelRange": 15,
+  "baseExp": 248,
+  "baseFriendship": 0,
+  "types": [
+    "Fairy"
+  ],
+  "height": 1.1,
+  "width": 1.1,
+  "length": 1.1,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Floette",
+    "Flabebe"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 3
+  },
+  "weight": 10.0,
+  "evolutions": [],
+  "abilities": [
+    "FlowerVeil",
+    null,
+    "Symbiosis"
+  ],
+  "eggGroups": [
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Disarming Voice",
+      "Lucky Chant",
+      "Wish",
+      "Magical Leaf",
+      "Flower Shield",
+      "Grass Knot",
+      "Grassy Terrain",
+      "Petal Blizzard",
+      "Misty Terrain",
+      "Moonblast",
+      "Petal Dance",
+      "Aromatherapy"
+    ]
+  },
+  "tmMoves": [
+    "Hyper Beam",
+    "Solar Beam",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Light Screen",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Nature Power",
+    "Calm Mind",
+    "Energy Ball",
+    "Giga Impact",
+    "Grass Knot",
+    "Round",
+    "Echoed Voice",
+    "Confide",
+    "Dazzling Gleam"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Ally Switch",
+    "Covet",
+    "Defog",
+    "Endeavor",
+    "Giga Drain",
+    "Heal Bell",
+    "Helping Hand",
+    "Magic Coat",
+    "Seed Bomb",
+    "Snore",
+    "Synthesis",
+    "Worry Seed"
+  ],
+  "eggMoves": [
+    "Camouflage",
+    "Captivate",
+    "Copycat",
+    "Tearful Look"
+  ],
+  "forms": {
+    "1": {
+      "form": 1
+    },
+    "2": {
+      "form": 2
+    },
+    "3": {
+      "form": 3
+    },
+    "4": {
+      "form": 4
+    }
+  },
+  "form": 0
+}

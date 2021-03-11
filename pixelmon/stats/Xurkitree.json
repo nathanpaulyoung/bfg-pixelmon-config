@@ -1,0 +1,158 @@
+{
+  "pixelmonName": "Xurkitree",
+  "pokemon": "Xurkitree",
+  "stats": {
+    "HP": 83,
+    "Attack": 89,
+    "Defence": 71,
+    "Speed": 83,
+    "SpecialAttack": 173,
+    "SpecialDefence": 71
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 114,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 6.0,
+  "width": 3.8,
+  "length": 3.8,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0
+    }
+  },
+  "weight": 100.0,
+  "evolutions": [],
+  "abilities": [
+    "BeastBoost",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Tail Glow",
+      "Spark",
+      "Charge",
+      "Wrap",
+      "Thunder Shock"
+    ],
+    "7": [
+      "Thunder Wave"
+    ],
+    "13": [
+      "Shock Wave"
+    ],
+    "19": [
+      "Ingrain"
+    ],
+    "23": [
+      "Thunder Punch"
+    ],
+    "29": [
+      "Eerie Impulse"
+    ],
+    "31": [
+      "Signal Beam"
+    ],
+    "37": [
+      "Thunderbolt"
+    ],
+    "43": [
+      "Hypnosis"
+    ],
+    "47": [
+      "Discharge"
+    ],
+    "53": [
+      "Electric Terrain"
+    ],
+    "59": [
+      "Power Whip"
+    ],
+    "67": [
+      "Ion Deluge"
+    ],
+    "73": [
+      "Zap Cannon"
+    ]
+  },
+  "tmMoves": [
+    "Hyper Beam",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Toxic",
+    "Double Team",
+    "Light Screen",
+    "Reflect",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Nature Power",
+    "Calm Mind",
+    "Fling",
+    "Energy Ball",
+    "Giga Impact",
+    "Grass Knot",
+    "Charge Beam",
+    "Round",
+    "Volt Switch",
+    "Wild Charge",
+    "Confide",
+    "Dazzling Gleam",
+    "Brutal Swing"
+  ],
+  "tutorMoves": [
+    "Bind",
+    "Electroweb",
+    "Gravity",
+    "Magic Coat",
+    "Magnet Rise",
+    "Shock Wave",
+    "Signal Beam",
+    "Snore",
+    "Thunder Punch"
+  ],
+  "forms": {},
+  "form": -1,
+  "eggMoves": []
+}

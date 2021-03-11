@@ -1,0 +1,166 @@
+{
+  "pixelmonName": "Togedemaru",
+  "pokemon": "Togedemaru",
+  "stats": {
+    "HP": 65,
+    "Attack": 98,
+    "Defence": 63,
+    "Speed": 96,
+    "SpecialAttack": 40,
+    "SpecialDefence": 73
+  },
+  "catchRate": 180,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 15,
+  "baseExp": 152,
+  "baseFriendship": 70,
+  "types": [
+    "Electric",
+    "Steel"
+  ],
+  "height": 0.3,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 3.3,
+  "evolutions": [],
+  "abilities": [
+    "IronBarbs",
+    "LightningRod",
+    "Sturdy"
+  ],
+  "eggGroups": [
+    "Field",
+    "Fairy"
+  ],
+  "eggCycles": 10,
+  "levelUpMoves": {
+    "1": [
+      "Nuzzle",
+      "Tackle"
+    ],
+    "5": [
+      "Defense Curl"
+    ],
+    "10": [
+      "Charge"
+    ],
+    "15": [
+      "Thunder Shock"
+    ],
+    "20": [
+      "Fell Stinger"
+    ],
+    "25": [
+      "Spark"
+    ],
+    "30": [
+      "Pin Missile"
+    ],
+    "35": [
+      "Magnet Rise"
+    ],
+    "40": [
+      "Zing Zap"
+    ],
+    "45": [
+      "Discharge"
+    ],
+    "50": [
+      "Electric Terrain"
+    ],
+    "55": [
+      "Wild Charge"
+    ],
+    "60": [
+      "Spiky Shield"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Super Fang",
+    "Iron Head",
+    "Bounce",
+    "Gravity",
+    "Magnet Rise",
+    "Last Resort",
+    "Electroweb",
+    "Zen Headbutt",
+    "Iron Tail",
+    "Snore",
+    "Role Play",
+    "Shock Wave",
+    "After You",
+    "Helping Hand",
+    "Endeavor"
+  ],
+  "eggMoves": [
+    "Present",
+    "Wish",
+    "Fake Out",
+    "Tickle",
+    "Flail",
+    "Disarming Voice"
+  ],
+  "forms": {},
+  "form": -1,
+  "tmMoves8": [
+    7,
+    8,
+    9,
+    14,
+    18,
+    21,
+    23,
+    24,
+    25,
+    31,
+    39,
+    40,
+    41,
+    52,
+    56,
+    57,
+    58,
+    59,
+    76,
+    80,
+    82,
+    90,
+    93
+  ],
+  "trMoves": [
+    8,
+    9,
+    12,
+    20,
+    21,
+    26,
+    27,
+    30,
+    31,
+    52,
+    57,
+    69,
+    74,
+    77,
+    80,
+    85,
+    86
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "pixelmonName": "Morelull",
+  "pokemon": "Morelull",
+  "stats": {
+    "HP": 40,
+    "Attack": 35,
+    "Defence": 55,
+    "Speed": 15,
+    "SpecialAttack": 65,
+    "SpecialDefence": 75
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 24,
+  "baseExp": 57,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Fairy"
+  ],
+  "height": 0.2,
+  "width": 0.2,
+  "length": 0.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 1.5,
+  "evolutions": [
+    {
+      "level": 24,
+      "to": {
+        "name": "Shiinotic"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Illuminate",
+    "EffectSpore",
+    "RainDish"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "1": [
+      "Absorb",
+      "Astonish"
+    ],
+    "4": [
+      "Confuse Ray"
+    ],
+    "8": [
+      "Ingrain"
+    ],
+    "12": [
+      "Mega Drain"
+    ],
+    "16": [
+      "Sleep Powder"
+    ],
+    "20": [
+      "Moonlight"
+    ],
+    "25": [
+      "Strength Sap"
+    ],
+    "28": [
+      "Giga Drain"
+    ],
+    "32": [
+      "Dazzling Gleam"
+    ],
+    "36": [
+      "Spore"
+    ],
+    "40": [
+      "Moonblast"
+    ],
+    "44": [
+      "Dream Eater"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Signal Beam",
+    "Seed Bomb",
+    "Magic Coat",
+    "Snore",
+    "Synthesis",
+    "Giga Drain",
+    "Worry Seed",
+    "After You",
+    "Magic Room",
+    "Wonder Room",
+    "Recycle"
+  ],
+  "eggMoves": [
+    "Poison Powder",
+    "Stun Spore",
+    "Growth",
+    "Leech Seed"
+  ],
+  "forms": {},
+  "form": -1,
+  "tmMoves8": [
+    11,
+    14,
+    17,
+    19,
+    21,
+    24,
+    25,
+    28,
+    31,
+    34,
+    39,
+    71,
+    72,
+    76,
+    87
+  ],
+  "trMoves": [
+    17,
+    20,
+    22,
+    26,
+    27,
+    59,
+    65,
+    77,
+    92,
+    96
+  ]
+}

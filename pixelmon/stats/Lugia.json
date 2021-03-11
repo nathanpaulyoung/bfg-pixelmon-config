@@ -1,0 +1,205 @@
+{
+  "pixelmonName": "Lugia",
+  "pokemon": "Lugia",
+  "stats": {
+    "HP": 106,
+    "Attack": 90,
+    "Defence": 130,
+    "Speed": 110,
+    "SpecialAttack": 90,
+    "SpecialDefence": 154
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 220,
+  "baseFriendship": 0,
+  "types": [
+    "Psychic",
+    "Flying"
+  ],
+  "height": 2.5,
+  "width": 1.0,
+  "length": 5.2,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 40,
+    "swimSpeed": 0.5,
+    "decayRate": 0.99,
+    "refreshRate": 200
+  },
+  "flyingParameters": {
+    "flyHeightMin": 30,
+    "flyHeightMax": 50,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 400,
+    "flyRefreshRateSpeed": 400,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "SpecialDefence": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.5,
+      "z": 0.2
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.8,
+      "z": -0.2
+    }
+  },
+  "weight": 216.0,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    "Multiscale"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Whirlwind",
+      "Weather Ball"
+    ],
+    "9": [
+      "Gust"
+    ],
+    "15": [
+      "Dragon Rush"
+    ],
+    "23": [
+      "Extrasensory"
+    ],
+    "29": [
+      "Rain Dance"
+    ],
+    "37": [
+      "Hydro Pump"
+    ],
+    "43": [
+      "Aeroblast"
+    ],
+    "50": [
+      "Punishment"
+    ],
+    "57": [
+      "Ancient Power"
+    ],
+    "65": [
+      "Safeguard"
+    ],
+    "71": [
+      "Recover"
+    ],
+    "79": [
+      "Future Sight"
+    ],
+    "85": [
+      "Natural Gift"
+    ],
+    "93": [
+      "Calm Mind"
+    ],
+    "99": [
+      "Sky Attack"
+    ]
+  },
+  "tmMoves": [
+    "Fly",
+    "Roar",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Earthquake",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Light Screen",
+    "Reflect",
+    "Waterfall",
+    "Dream Eater",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Steel Wing",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Shadow Ball",
+    "Hail",
+    "Facade",
+    "Aerial Ace",
+    "Calm Mind",
+    "Roost",
+    "Giga Impact",
+    "Charge Beam",
+    "Psyshock",
+    "Round",
+    "Echoed Voice",
+    "Sky Drop",
+    "Bulldoze",
+    "Dragon Tail",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Defog",
+    "Dragon Pulse",
+    "Earth Power",
+    "Giga Drain",
+    "Hyper Voice",
+    "Icy Wind",
+    "Iron Head",
+    "Iron Tail",
+    "Laser Focus",
+    "Shock Wave",
+    "Signal Beam",
+    "Skill Swap",
+    "Sky Attack",
+    "Snore",
+    "Tailwind",
+    "Telekinesis",
+    "Trick",
+    "Water Pulse",
+    "Wonder Room",
+    "Zen Headbutt"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": []
+}

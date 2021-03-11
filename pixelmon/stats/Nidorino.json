@@ -1,0 +1,161 @@
+{
+  "pixelmonName": "Nidorino",
+  "pokemon": "Nidorino",
+  "stats": {
+    "HP": 61,
+    "Attack": 72,
+    "Defence": 57,
+    "Speed": 65,
+    "SpecialAttack": 55,
+    "SpecialDefence": 55
+  },
+  "catchRate": 120,
+  "malePercent": 100,
+  "spawnLevel": 16,
+  "spawnLevelRange": 9,
+  "baseExp": 118,
+  "baseFriendship": 70,
+  "types": [
+    "Poison"
+  ],
+  "height": 0.9,
+  "width": 0.6,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Nidoranmale"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 19.5,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:moon_stone"
+      },
+      "to": {
+        "name": "Nidoking"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "PoisonPoint",
+    "Rivalry",
+    "Hustle"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Peck"
+    ],
+    "7": [
+      "Focus Energy"
+    ],
+    "9": [
+      "Double Kick"
+    ],
+    "13": [
+      "Poison Sting"
+    ],
+    "20": [
+      "Fury Attack"
+    ],
+    "23": [
+      "Horn Attack"
+    ],
+    "28": [
+      "Helping Hand"
+    ],
+    "35": [
+      "Toxic Spikes"
+    ],
+    "38": [
+      "Flatter"
+    ],
+    "43": [
+      "Poison Jab"
+    ],
+    "50": [
+      "Captivate"
+    ],
+    "58": [
+      "Horn Drill"
+    ]
+  },
+  "tmMoves": [
+    "Ice Beam",
+    "Blizzard",
+    "Thunderbolt",
+    "Thunder",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Sludge Bomb",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Poison Jab",
+    "Shadow Claw",
+    "Venoshock",
+    "Round",
+    "Echoed Voice",
+    "Confide",
+    "Smart Strike"
+  ],
+  "tutorMoves": [
+    "Drill Run",
+    "Helping Hand",
+    "Iron Tail",
+    "Shock Wave",
+    "Snore",
+    "Stomping Tantrum",
+    "Super Fang",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Beat Up",
+    "Chip Away",
+    "Psychic",
+    "Counter",
+    "Disable",
+    "Endure",
+    "Head Smash",
+    "Iron Tail",
+    "Poison Tail",
+    "Sucker Punch",
+    "Supersonic",
+    "Take Down",
+    "Venom Drench"
+  ],
+  "forms": {},
+  "form": -1
+}

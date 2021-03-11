@@ -1,0 +1,174 @@
+{
+  "pixelmonName": "Fraxure",
+  "pokemon": "Fraxure",
+  "stats": {
+    "HP": 66,
+    "Attack": 117,
+    "Defence": 70,
+    "Speed": 67,
+    "SpecialAttack": 40,
+    "SpecialDefence": 50
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 39,
+  "spawnLevelRange": 8,
+  "baseExp": 144,
+  "baseFriendship": 35,
+  "types": [
+    "Dragon"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Axew"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 36.0,
+  "evolutions": [
+    {
+      "level": 48,
+      "to": {
+        "name": "Haxorus"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Rivalry",
+    "MoldBreaker",
+    "Unnerve"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "1": [
+      "Scratch",
+      "Leer",
+      "Bite",
+      "False Swipe"
+    ],
+    "9": [
+      "Assurance"
+    ],
+    "12": [
+      "Taunt"
+    ],
+    "15": [
+      "Slash"
+    ],
+    "18": [
+      "Dragon Claw"
+    ],
+    "21": [
+      "Scary Face"
+    ],
+    "24": [
+      "Crunch"
+    ],
+    "27": [
+      "Dragon Dance"
+    ],
+    "30": [
+      "Dual Chop"
+    ],
+    "33": [
+      "Laser Focus"
+    ],
+    "36": [
+      "Dragon Pulse"
+    ],
+    "41": [
+      "Swords Dance"
+    ],
+    "46": [
+      "Outrage"
+    ],
+    "51": [
+      "Guillotine"
+    ],
+    "56": [
+      "Giga Impact"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Draco Meteor",
+    "Dual Chop",
+    "Endeavor",
+    "Low Kick",
+    "Outrage",
+    "Superpower",
+    "Reversal",
+    "Scary Face",
+    "Harden",
+    "Focus Energy",
+    "Slash",
+    "Leer",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    9,
+    15,
+    21,
+    24,
+    25,
+    26,
+    31,
+    33,
+    34,
+    39,
+    40,
+    48,
+    57,
+    58,
+    59,
+    65,
+    76,
+    94,
+    98,
+    99
+  ],
+  "trMoves": [
+    0,
+    7,
+    13,
+    20,
+    21,
+    24,
+    26,
+    27,
+    31,
+    32,
+    37,
+    39,
+    47,
+    51,
+    57,
+    60,
+    62
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "pixelmonName": "Axew",
+  "pokemon": "Axew",
+  "stats": {
+    "HP": 46,
+    "Attack": 87,
+    "Defence": 60,
+    "Speed": 57,
+    "SpecialAttack": 30,
+    "SpecialDefence": 40
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 15,
+  "baseExp": 64,
+  "baseFriendship": 35,
+  "types": [
+    "Dragon"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 18.0,
+  "evolutions": [
+    {
+      "level": 38,
+      "to": {
+        "name": "Fraxure"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Rivalry",
+    "MoldBreaker",
+    "Unnerve"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "1": [
+      "Scratch",
+      "Leer"
+    ],
+    "3": [
+      "Bite"
+    ],
+    "6": [
+      "False Swipe"
+    ],
+    "9": [
+      "Assurance"
+    ],
+    "12": [
+      "Taunt"
+    ],
+    "15": [
+      "Slash"
+    ],
+    "18": [
+      "Dragon Claw"
+    ],
+    "21": [
+      "Scary Face"
+    ],
+    "24": [
+      "Crunch"
+    ],
+    "27": [
+      "Dragon Dance"
+    ],
+    "30": [
+      "Dual Chop"
+    ],
+    "33": [
+      "Laser Focus"
+    ],
+    "36": [
+      "Dragon Pulse"
+    ],
+    "39": [
+      "Swords Dance"
+    ],
+    "42": [
+      "Outrage"
+    ],
+    "45": [
+      "Guillotine"
+    ],
+    "48": [
+      "Giga Impact"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Draco Meteor",
+    "Dragon Pulse",
+    "Dual Chop",
+    "Endeavor",
+    "Iron Tail",
+    "Outrage",
+    "Shock Wave",
+    "Snore",
+    "Superpower"
+  ],
+  "eggMoves": [
+    "Counter",
+    "Night Slash",
+    "Endeavor",
+    "Harden",
+    "First Impression",
+    "Counter"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    9,
+    15,
+    21,
+    24,
+    25,
+    26,
+    31,
+    33,
+    34,
+    39,
+    40,
+    48,
+    57,
+    58,
+    59,
+    76,
+    94,
+    99
+  ],
+  "trMoves": [
+    0,
+    13,
+    20,
+    21,
+    24,
+    26,
+    27,
+    31,
+    32,
+    37,
+    39,
+    47,
+    51,
+    57,
+    60,
+    62
+  ]
+}

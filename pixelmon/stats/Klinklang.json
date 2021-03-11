@@ -1,0 +1,157 @@
+{
+  "pixelmonName": "Klinklang",
+  "pokemon": "Klinklang",
+  "stats": {
+    "HP": 60,
+    "Attack": 100,
+    "Defence": 115,
+    "Speed": 90,
+    "SpecialAttack": 70,
+    "SpecialDefence": 85
+  },
+  "catchRate": 30,
+  "malePercent": -1,
+  "spawnLevel": 49,
+  "spawnLevelRange": 11,
+  "baseExp": 234,
+  "baseFriendship": 70,
+  "types": [
+    "Steel"
+  ],
+  "height": 0.6,
+  "width": 0.8,
+  "length": 0.8,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Klang",
+    "Klink"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Defence": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.1,
+      "y": -1.05,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.1,
+      "y": -1.05,
+      "z": 0.0
+    }
+  },
+  "hoverHeight": 1.0,
+  "weight": 81.0,
+  "evolutions": [],
+  "abilities": [
+    "Plus",
+    "Minus",
+    "ClearBody"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Gear Up",
+      "Magnetic Flux",
+      "Thunder Shock",
+      "Vise Grip",
+      "Bind",
+      "Charge"
+    ],
+    "12": [
+      "Charge Beam"
+    ],
+    "16": [
+      "Metal Sound"
+    ],
+    "20": [
+      "Autotomize"
+    ],
+    "24": [
+      "Discharge"
+    ],
+    "28": [
+      "Screech"
+    ],
+    "32": [
+      "Gear Grind"
+    ],
+    "36": [
+      "Lock-On"
+    ],
+    "42": [
+      "Shift Gear"
+    ],
+    "48": [
+      "Zap Cannon"
+    ],
+    "56": [
+      "Hyper Beam"
+    ],
+    "64": [
+      "Electric Terrain"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bind",
+    "Gravity",
+    "Iron Defense",
+    "Magic Coat",
+    "Magnet Rise",
+    "Signal Beam",
+    "Uproar",
+    "Metal Sound",
+    "Screech",
+    "Ally Switch",
+    "Telekinesis"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": [],
+  "tmMoves8": [
+    8,
+    9,
+    14,
+    16,
+    21,
+    24,
+    25,
+    32,
+    39,
+    58,
+    70,
+    76,
+    80,
+    90
+  ],
+  "trMoves": [
+    8,
+    9,
+    20,
+    26,
+    27,
+    35,
+    46,
+    63,
+    70,
+    83,
+    86
+  ]
+}

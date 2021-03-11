@@ -1,0 +1,196 @@
+{
+  "pixelmonName": "Leafeon",
+  "pokemon": "Leafeon",
+  "stats": {
+    "HP": 65,
+    "Attack": 110,
+    "Defence": 130,
+    "Speed": 95,
+    "SpecialAttack": 60,
+    "SpecialDefence": 65
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 45,
+  "spawnLevelRange": 5,
+  "baseExp": 184,
+  "baseFriendship": 35,
+  "types": [
+    "Grass"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Eevee"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.55,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.55,
+      "z": -0.3
+    }
+  },
+  "weight": 25.5,
+  "evolutions": [],
+  "abilities": [
+    "LeafGuard",
+    null,
+    "Chlorophyll"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 36,
+  "levelUpMoves": {
+    "0": [
+      "Razor Leaf"
+    ],
+    "1": [
+      "Razor Leaf",
+      "Covet",
+      "Swift",
+      "Bite",
+      "Copycat",
+      "Baton Pass",
+      "Take Down",
+      "Charm",
+      "Double-Edge",
+      "Helping Hand",
+      "Tackle",
+      "Growl",
+      "Tail Whip"
+    ],
+    "5": [
+      "Sand Attack"
+    ],
+    "10": [
+      "Quick Attack"
+    ],
+    "15": [
+      "Baby-Doll Eyes"
+    ],
+    "20": [
+      "Leech Seed"
+    ],
+    "25": [
+      "Magical Leaf"
+    ],
+    "30": [
+      "Synthesis"
+    ],
+    "35": [
+      "Sunny Day"
+    ],
+    "40": [
+      "Giga Drain"
+    ],
+    "45": [
+      "Swords Dance"
+    ],
+    "50": [
+      "Leaf Blade"
+    ],
+    "55": [
+      "Last Resort"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Knock Off",
+    "Last Resort",
+    "Seed Bomb",
+    "Synthesis",
+    "Worry Seed",
+    "Baton Pass",
+    "Bite",
+    "Charm",
+    "Flail",
+    "Growth",
+    "Sing",
+    "Tickle",
+    "Wish",
+    "Yawn",
+    "Focus Energy",
+    "Tackle",
+    "Knock Off",
+    "Celebrate",
+    "Laser Focus",
+    "Leaf Blade",
+    "Swords Dance",
+    "Sunny Day",
+    "Synthesis"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    2,
+    8,
+    9,
+    10,
+    11,
+    12,
+    15,
+    21,
+    24,
+    25,
+    28,
+    29,
+    31,
+    33,
+    34,
+    39,
+    40,
+    41,
+    46,
+    47,
+    50,
+    76,
+    79
+  ],
+  "trMoves": [
+    0,
+    1,
+    13,
+    20,
+    26,
+    27,
+    29,
+    31,
+    33,
+    42,
+    50,
+    59,
+    60,
+    65,
+    71,
+    77,
+    82,
+    85
+  ]
+}

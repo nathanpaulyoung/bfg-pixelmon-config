@@ -1,0 +1,158 @@
+{
+  "pixelmonName": "Mimikyu",
+  "pokemon": "Mimikyu",
+  "stats": {
+    "HP": 55,
+    "Attack": 90,
+    "Defence": 80,
+    "Speed": 96,
+    "SpecialAttack": 50,
+    "SpecialDefence": 105
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 30,
+  "baseExp": 167,
+  "baseFriendship": 70,
+  "types": [
+    "Ghost",
+    "Fairy"
+  ],
+  "height": 0.2,
+  "width": 0.2,
+  "length": 0.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "weight": 0.7,
+  "evolutions": [],
+  "abilities": [
+    "Disguise",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "1": [
+      "Wood Hammer",
+      "Splash",
+      "Astonish",
+      "Scratch",
+      "Copycat"
+    ],
+    "6": [
+      "Shadow Sneak"
+    ],
+    "12": [
+      "Double Team"
+    ],
+    "18": [
+      "Baby-Doll Eyes"
+    ],
+    "24": [
+      "Mimic"
+    ],
+    "30": [
+      "Hone Claws"
+    ],
+    "36": [
+      "Slash"
+    ],
+    "42": [
+      "Shadow Claw"
+    ],
+    "48": [
+      "Charm"
+    ],
+    "54": [
+      "Play Rough"
+    ],
+    "60": [
+      "Pain Split"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Last Resort",
+    "Snore",
+    "Pain Split",
+    "Giga Drain",
+    "Drain Punch",
+    "Spite",
+    "After You",
+    "Trick",
+    "Magic Room",
+    "Snatch",
+    "Telekinesis"
+  ],
+  "eggMoves": [
+    "Grudge",
+    "Destiny Bond",
+    "Curse"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    14,
+    16,
+    17,
+    19,
+    21,
+    23,
+    24,
+    25,
+    28,
+    29,
+    31,
+    37,
+    38,
+    39,
+    57,
+    59,
+    63,
+    65,
+    70,
+    72,
+    76,
+    77,
+    86,
+    87
+  ],
+  "trMoves": [
+    0,
+    8,
+    9,
+    11,
+    18,
+    20,
+    26,
+    27,
+    33,
+    37,
+    38,
+    48,
+    58,
+    60,
+    85,
+    90,
+    92
+  ]
+}

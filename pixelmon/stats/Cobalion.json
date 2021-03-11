@@ -1,0 +1,164 @@
+{
+  "pixelmonName": "Cobalion",
+  "pokemon": "Cobalion",
+  "stats": {
+    "HP": 91,
+    "Attack": 90,
+    "Defence": 129,
+    "Speed": 108,
+    "SpecialAttack": 90,
+    "SpecialDefence": 72
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 261,
+  "baseFriendship": 35,
+  "types": [
+    "Steel",
+    "Fighting"
+  ],
+  "height": 2.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.3,
+      "z": -0.2
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.3,
+      "z": -0.2
+    }
+  },
+  "weight": 250.0,
+  "evolutions": [],
+  "abilities": [
+    "Justified",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "1": [
+      "Quick Attack",
+      "Leer",
+      "Helping Hand",
+      "Work Up"
+    ],
+    "7": [
+      "Metal Claw"
+    ],
+    "14": [
+      "Quick Guard"
+    ],
+    "21": [
+      "Double Kick"
+    ],
+    "28": [
+      "Retaliate"
+    ],
+    "35": [
+      "Metal Burst"
+    ],
+    "42": [
+      "Take Down"
+    ],
+    "49": [
+      "Sacred Sword"
+    ],
+    "56": [
+      "Swords Dance"
+    ],
+    "63": [
+      "Iron Head"
+    ],
+    "70": [
+      "Close Combat"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Block",
+    "Bounce",
+    "Helping Hand",
+    "Iron Defense",
+    "Iron Head",
+    "Magnet Rise",
+    "Superpower",
+    "Zen Headbutt",
+    "Leer",
+    "Laser Focus"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": [],
+  "tmMoves8": [
+    8,
+    9,
+    14,
+    18,
+    19,
+    21,
+    24,
+    25,
+    26,
+    32,
+    39,
+    40,
+    41,
+    42,
+    43,
+    52,
+    76,
+    79,
+    80,
+    94,
+    95,
+    96
+  ],
+  "trMoves": [
+    0,
+    20,
+    21,
+    26,
+    27,
+    28,
+    37,
+    39,
+    46,
+    49,
+    53,
+    57,
+    60,
+    64,
+    69,
+    70,
+    74,
+    75,
+    76,
+    85
+  ]
+}

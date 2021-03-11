@@ -1,0 +1,256 @@
+{
+  "pixelmonName": "Ponyta",
+  "pokemon": "Ponyta",
+  "form": 0,
+  "stats": {
+    "HP": 50,
+    "Attack": 85,
+    "Defence": 55,
+    "Speed": 90,
+    "SpecialAttack": 65,
+    "SpecialDefence": 65
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 30,
+  "baseExp": 152,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.25
+    }
+  },
+  "weight": 30.0,
+  "evolutions": [
+    {
+      "level": 40,
+      "to": {
+        "name": "Rapidash"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Smart Strike"
+      ]
+    }
+  ],
+  "abilities": [
+    "RunAway",
+    "FlashFire",
+    "FlameBody"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Growl"
+    ],
+    "5": [
+      "Tail Whip"
+    ],
+    "10": [
+      "Ember"
+    ],
+    "15": [
+      "Flame Charge"
+    ],
+    "20": [
+      "Agility"
+    ],
+    "25": [
+      "Flame Wheel"
+    ],
+    "30": [
+      "Stomp"
+    ],
+    "35": [
+      "Fire Spin"
+    ],
+    "41": [
+      "Take Down"
+    ],
+    "45": [
+      "Inferno"
+    ],
+    "50": [
+      "Fire Blast"
+    ],
+    "55": [
+      "Flare Blitz"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Thrash",
+    "Double Kick",
+    "Hypnosis",
+    "Double-Edge",
+    "Horn Drill",
+    "Morning Sun"
+  ],
+  "tmMoves8": [
+    11,
+    12,
+    13,
+    21,
+    24,
+    25,
+    29,
+    31,
+    34,
+    38,
+    39,
+    40,
+    52,
+    76,
+    92
+  ],
+  "trMoves": [
+    1,
+    2,
+    7,
+    12,
+    15,
+    20,
+    26,
+    27,
+    31,
+    36,
+    43,
+    55,
+    83,
+    86,
+    90,
+    94
+  ],
+  "forms": {
+    "2": {
+      "types": [
+        "Psychic"
+      ],
+      "weight": 24.0,
+      "evolutions": [
+        {
+          "level": 40,
+          "to": {
+            "name": "Rapidash",
+            "form": 2
+          },
+          "conditions": [],
+          "evoType": "leveling",
+          "moves": [
+            "Psycho Cut"
+          ]
+        }
+      ],
+      "abilities": [
+        "RunAway",
+        "PastelVeil",
+        "Anticipation"
+      ],
+      "levelUpMoves": {
+        "1": [
+          "Tackle",
+          "Growl"
+        ],
+        "5": [
+          "Tail Whip"
+        ],
+        "10": [
+          "Confusion"
+        ],
+        "15": [
+          "Fairy Wind"
+        ],
+        "20": [
+          "Agility"
+        ],
+        "25": [
+          "Psybeam"
+        ],
+        "30": [
+          "Stomp"
+        ],
+        "35": [
+          "Heal Pulse"
+        ],
+        "41": [
+          "Take Down"
+        ],
+        "45": [
+          "Dazzling Gleam"
+        ],
+        "50": [
+          "Psychic"
+        ],
+        "55": [
+          "Healing Wish"
+        ]
+      },
+      "tutorMoves": [
+        "Expanding Force"
+      ],
+      "tmMoves8": [
+        21,
+        24,
+        25,
+        29,
+        31,
+        39,
+        40,
+        44,
+        52,
+        76,
+        92
+      ],
+      "trMoves": [
+        1,
+        7,
+        11,
+        12,
+        20,
+        26,
+        27,
+        31,
+        34,
+        49,
+        69,
+        82,
+        83,
+        86,
+        90,
+        92,
+        94
+      ]
+    }
+  },
+  "tmMoves": []
+}

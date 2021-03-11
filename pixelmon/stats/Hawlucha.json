@@ -1,0 +1,189 @@
+{
+  "pixelmonName": "Hawlucha",
+  "pokemon": "Hawlucha",
+  "stats": {
+    "HP": 78,
+    "Attack": 92,
+    "Defence": 75,
+    "Speed": 118,
+    "SpecialAttack": 74,
+    "SpecialDefence": 63
+  },
+  "catchRate": 100,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 16,
+  "baseExp": 175,
+  "baseFriendship": 0,
+  "types": [
+    "Fighting",
+    "Flying"
+  ],
+  "height": 0.8,
+  "width": 0.8,
+  "length": 0.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 21.5,
+  "evolutions": [],
+  "abilities": [
+    "Limber",
+    "Unburden",
+    "MoldBreaker"
+  ],
+  "eggGroups": [
+    "Humanlike",
+    "Flying"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Tackle",
+      "Hone Claws"
+    ],
+    "4": [
+      "Wing Attack"
+    ],
+    "8": [
+      "Detect"
+    ],
+    "12": [
+      "Aerial Ace"
+    ],
+    "16": [
+      "Encore"
+    ],
+    "20": [
+      "Feather Dance"
+    ],
+    "24": [
+      "Submission"
+    ],
+    "28": [
+      "Bounce"
+    ],
+    "32": [
+      "Taunt"
+    ],
+    "36": [
+      "Roost"
+    ],
+    "40": [
+      "Swords Dance"
+    ],
+    "44": [
+      "Flying Press"
+    ],
+    "48": [
+      "High Jump Kick"
+    ],
+    "52": [
+      "Endeavor"
+    ],
+    "56": [
+      "Sky Attack"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bounce",
+    "Dual Chop",
+    "Endeavor",
+    "Helping Hand",
+    "Iron Head",
+    "Last Resort",
+    "Low Kick",
+    "Superpower",
+    "Tailwind",
+    "Zen Headbutt",
+    "Laser Focus",
+    "Defog",
+    "Ally Switch",
+    "Throat Chop"
+  ],
+  "eggMoves": [
+    "Entrainment",
+    "Quick Guard",
+    "Feint",
+    "Defog",
+    "Mean Look",
+    "Cross Chop"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    0,
+    1,
+    3,
+    5,
+    6,
+    9,
+    15,
+    21,
+    22,
+    24,
+    25,
+    30,
+    31,
+    33,
+    34,
+    39,
+    40,
+    41,
+    42,
+    43,
+    48,
+    52,
+    56,
+    57,
+    58,
+    59,
+    63,
+    75,
+    76,
+    78,
+    79,
+    94
+  ],
+  "trMoves": [
+    0,
+    7,
+    12,
+    20,
+    21,
+    26,
+    27,
+    29,
+    30,
+    37,
+    39,
+    48,
+    53,
+    57,
+    60,
+    64,
+    66,
+    69,
+    74,
+    75,
+    77,
+    83,
+    85,
+    95,
+    99
+  ]
+}

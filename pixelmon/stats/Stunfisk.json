@@ -1,0 +1,368 @@
+{
+  "pixelmonName": "Stunfisk",
+  "pokemon": "Stunfisk",
+  "stats": {
+    "HP": 109,
+    "Attack": 66,
+    "Defence": 84,
+    "Speed": 32,
+    "SpecialAttack": 81,
+    "SpecialDefence": 99
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 34,
+  "spawnLevelRange": 14,
+  "baseExp": 165,
+  "baseFriendship": 70,
+  "types": [
+    "Ground",
+    "Electric"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 11.0,
+  "evolutions": [],
+  "abilities": [
+    "Static",
+    "Limber",
+    "SandVeil"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Mud-Slap",
+      "Tackle",
+      "Water Gun",
+      "Thunder Shock"
+    ],
+    "5": [
+      "Endure"
+    ],
+    "10": [
+      "Mud Shot"
+    ],
+    "15": [
+      "Revenge"
+    ],
+    "20": [
+      "Charge"
+    ],
+    "25": [
+      "Sucker Punch"
+    ],
+    "30": [
+      "Electric Terrain"
+    ],
+    "35": [
+      "Bounce"
+    ],
+    "40": [
+      "Muddy Water"
+    ],
+    "45": [
+      "Discharge"
+    ],
+    "50": [
+      "Flail"
+    ],
+    "55": [
+      "Fissure"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bounce",
+    "Earth Power",
+    "Electroweb",
+    "Endeavor",
+    "Foul Play",
+    "Magnet Rise",
+    "Pain Split",
+    "Spite",
+    "Uproar",
+    "Flail",
+    "Mud Sport",
+    "Yawn",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [
+    "Yawn",
+    "Astonish",
+    "Curse",
+    "Spite",
+    "Spark",
+    "Pain Split",
+    "Reflect Type"
+  ],
+  "forms": {
+    "2": {
+      "stats": {
+        "HP": 109,
+        "Attack": 81,
+        "Defence": 99,
+        "SpecialAttack": 66,
+        "SpecialDefence": 84,
+        "Speed": 32
+      },
+      "types": [
+        "Ground",
+        "Steel"
+      ],
+      "weight": 20.5,
+      "abilities": [
+        "Mimicry",
+        null,
+        null
+      ],
+      "levelUpMoves": {
+        "1": [
+          "Metal Claw",
+          "Mud-Slap",
+          "Tackle",
+          "Water Gun"
+        ],
+        "5": [
+          "Endure"
+        ],
+        "10": [
+          "Mud Shot"
+        ],
+        "15": [
+          "Revenge"
+        ],
+        "20": [
+          "Metal Sound"
+        ],
+        "25": [
+          "Sucker Punch"
+        ],
+        "30": [
+          "Iron Defense"
+        ],
+        "35": [
+          "Bounce"
+        ],
+        "40": [
+          "Muddy Water"
+        ],
+        "45": [
+          "Snap Trap"
+        ],
+        "50": [
+          "Flail"
+        ],
+        "55": [
+          "Fissure"
+        ]
+      },
+      "tmMoves": [
+        "Thunder Wave",
+        "Dig",
+        "Screech",
+        "Rest",
+        "Rock Slide",
+        "Snore",
+        "Protect",
+        "Attract",
+        "Sandstorm",
+        "Rain Dance",
+        "Facade",
+        "Revenge",
+        "Rock Tomb",
+        "Bounce",
+        "Mud Shot",
+        "Payback",
+        "Ice Fang",
+        "Round",
+        "Bulldoze",
+        "Stomping Tantrum"
+      ],
+      "tutorMoves": [
+        "Aqua Tail",
+        "Bounce",
+        "Earth Power",
+        "Electroweb",
+        "Endeavor",
+        "Foul Play",
+        "Magnet Rise",
+        "Pain Split",
+        "Spite",
+        "Uproar",
+        "Flail",
+        "Mud Sport",
+        "Yawn",
+        "Stomping Tantrum"
+      ],
+      "eggMoves": [
+        "Astonish",
+        "Bind",
+        "Counter",
+        "Curse",
+        "Pain Split",
+        "Reflect Type",
+        "Spite",
+        "Yawn"
+      ],
+      "form": 2
+    },
+    "1": {
+      "levelUpMoves": {
+        "1": [
+          "Mud-Slap",
+          "Tackle",
+          "Water Gun",
+          "Metal Claw"
+        ],
+        "5": [
+          "Endure"
+        ],
+        "10": [
+          "Mud Shot"
+        ],
+        "15": [
+          "Revenge"
+        ],
+        "20": [
+          "Metal Sound"
+        ],
+        "25": [
+          "Sucker Punch"
+        ],
+        "30": [
+          "Iron Defense"
+        ],
+        "35": [
+          "Bounce"
+        ],
+        "40": [
+          "Muddy Water"
+        ],
+        "45": [
+          "Snap Trap"
+        ],
+        "50": [
+          "Flail"
+        ],
+        "55": [
+          "Fissure"
+        ]
+      },
+      "eggMoves": [
+        "Bind",
+        "Yawn",
+        "Astonish",
+        "Curse",
+        "Spite",
+        "Counter",
+        "Pain Split",
+        "Reflect Type"
+      ],
+      "tmMoves8": [
+        14,
+        15,
+        16,
+        21,
+        22,
+        24,
+        25,
+        31,
+        32,
+        33,
+        39,
+        42,
+        48,
+        52,
+        53,
+        57,
+        67,
+        76,
+        81,
+        98
+      ],
+      "trMoves": [
+        4,
+        10,
+        20,
+        22,
+        26,
+        27,
+        32,
+        35,
+        45,
+        46,
+        67,
+        70,
+        75,
+        76,
+        78,
+        81,
+        84
+      ]
+    }
+  },
+  "form": 0,
+  "tmMoves8": [
+    14,
+    15,
+    21,
+    22,
+    24,
+    25,
+    31,
+    32,
+    33,
+    39,
+    42,
+    48,
+    52,
+    53,
+    57,
+    76,
+    81,
+    82,
+    90,
+    93,
+    98
+  ],
+  "trMoves": [
+    4,
+    8,
+    9,
+    10,
+    20,
+    22,
+    26,
+    27,
+    35,
+    45,
+    67,
+    75,
+    76,
+    78,
+    81,
+    84
+  ]
+}

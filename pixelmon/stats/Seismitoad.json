@@ -1,0 +1,188 @@
+{
+  "pixelmonName": "Seismitoad",
+  "pokemon": "Seismitoad",
+  "stats": {
+    "HP": 105,
+    "Attack": 95,
+    "Defence": 75,
+    "Speed": 74,
+    "SpecialAttack": 85,
+    "SpecialDefence": 75
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 37,
+  "spawnLevelRange": 12,
+  "baseExp": 225,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Ground"
+  ],
+  "height": 1.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Palpitoad",
+    "Tympole"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.2
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.2
+    }
+  },
+  "weight": 62.0,
+  "evolutions": [],
+  "abilities": [
+    "SwiftSwim",
+    "PoisonTouch",
+    "WaterAbsorb"
+  ],
+  "eggGroups": [
+    "Water1"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Drain Punch"
+    ],
+    "1": [
+      "Drain Punch",
+      "Gastro Acid",
+      "Echoed Voice",
+      "Growl",
+      "Acid",
+      "Supersonic"
+    ],
+    "12": [
+      "Mud Shot"
+    ],
+    "16": [
+      "Round"
+    ],
+    "20": [
+      "Bubble Beam"
+    ],
+    "24": [
+      "Flail"
+    ],
+    "30": [
+      "Uproar"
+    ],
+    "39": [
+      "Aqua Ring"
+    ],
+    "46": [
+      "Hyper Voice"
+    ],
+    "54": [
+      "Muddy Water"
+    ],
+    "62": [
+      "Rain Dance"
+    ],
+    "70": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bounce",
+    "Earth Power",
+    "Endeavor",
+    "Gastro Acid",
+    "Hyper Voice",
+    "Knock Off",
+    "Low Kick",
+    "Uproar",
+    "After You",
+    "Aqua Ring",
+    "Bubble",
+    "Flail",
+    "Hydro Pump",
+    "Mist",
+    "Mud Sport",
+    "Refresh",
+    "After You",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    0,
+    1,
+    4,
+    8,
+    9,
+    15,
+    16,
+    21,
+    22,
+    24,
+    25,
+    27,
+    31,
+    33,
+    35,
+    39,
+    43,
+    45,
+    46,
+    48,
+    52,
+    53,
+    57,
+    59,
+    63,
+    74,
+    76,
+    81,
+    98
+  ],
+  "trMoves": [
+    3,
+    4,
+    7,
+    10,
+    20,
+    22,
+    26,
+    27,
+    35,
+    42,
+    45,
+    57,
+    64,
+    67,
+    72,
+    76,
+    77,
+    78,
+    84,
+    91,
+    98
+  ]
+}

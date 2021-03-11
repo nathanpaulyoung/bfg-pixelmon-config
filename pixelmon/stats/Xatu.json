@@ -1,0 +1,195 @@
+{
+  "pixelmonName": "Xatu",
+  "pokemon": "Xatu",
+  "stats": {
+    "HP": 65,
+    "Attack": 75,
+    "Defence": 70,
+    "Speed": 95,
+    "SpecialAttack": 95,
+    "SpecialDefence": 70
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 35,
+  "baseExp": 171,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic",
+    "Flying"
+  ],
+  "height": 1.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Natu"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 10,
+    "flyHeightMax": 20,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "SpecialAttack": 1,
+    "Speed": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.25,
+      "z": -0.32
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.4,
+      "z": -0.1
+    }
+  },
+  "weight": 15.0,
+  "evolutions": [],
+  "abilities": [
+    "Synchronize",
+    "EarlyBird",
+    "MagicBounce"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Air Slash"
+    ],
+    "1": [
+      "Air Slash",
+      "Tailwind",
+      "Peck",
+      "Leer",
+      "Stored Power",
+      "Teleport"
+    ],
+    "15": [
+      "Confuse Ray"
+    ],
+    "20": [
+      "Night Shade"
+    ],
+    "28": [
+      "Psycho Shift"
+    ],
+    "34": [
+      "Power Swap",
+      "Guard Swap"
+    ],
+    "41": [
+      "Psychic"
+    ],
+    "48": [
+      "Wish"
+    ],
+    "55": [
+      "Future Sight"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Air Cutter",
+    "Foul Play",
+    "Heat Wave",
+    "Magic Coat",
+    "Magic Room",
+    "Ominous Wind",
+    "Pain Split",
+    "Signal Beam",
+    "Sucker Punch",
+    "Tailwind",
+    "Trick",
+    "Twister",
+    "Zen Headbutt",
+    "Baton Pass",
+    "Feint Attack",
+    "Feather Dance",
+    "Haze",
+    "Night Shade",
+    "Refresh",
+    "Wish",
+    "Peck",
+    "Leer",
+    "Laser Focus",
+    "Defog",
+    "Ally Switch",
+    "Telekinesis"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    6,
+    8,
+    9,
+    11,
+    14,
+    17,
+    18,
+    21,
+    23,
+    24,
+    25,
+    28,
+    30,
+    31,
+    33,
+    34,
+    39,
+    40,
+    44,
+    56,
+    60,
+    61,
+    70,
+    72,
+    76,
+    95
+  ],
+  "trMoves": [
+    11,
+    20,
+    25,
+    26,
+    27,
+    29,
+    33,
+    34,
+    36,
+    38,
+    40,
+    44,
+    49,
+    69,
+    77,
+    81,
+    82,
+    83,
+    92
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "pixelmonName": "Infernape",
+  "pokemon": "Infernape",
+  "stats": {
+    "HP": 76,
+    "Attack": 104,
+    "Defence": 71,
+    "Speed": 108,
+    "SpecialAttack": 104,
+    "SpecialDefence": 71
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 36,
+  "spawnLevelRange": 14,
+  "baseExp": 209,
+  "baseFriendship": 70,
+  "types": [
+    "Fire",
+    "Fighting"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 2.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Monferno",
+    "Chimchar"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 0,
+    "passive": 50,
+    "aggressive": 50
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "SpecialAttack": 1,
+    "Speed": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.8,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.4,
+      "z": 0.0
+    }
+  },
+  "weight": 55.0,
+  "evolutions": [],
+  "abilities": [
+    "Blaze",
+    null,
+    "IronFist"
+  ],
+  "eggGroups": [
+    "Field",
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Flare Blitz",
+      "Scratch",
+      "Leer",
+      "Ember",
+      "Taunt",
+      "Mach Punch",
+      "Close Combat"
+    ],
+    "7": [
+      "Ember"
+    ],
+    "9": [
+      "Taunt"
+    ],
+    "16": [
+      "Fury Swipes"
+    ],
+    "19": [
+      "Flame Wheel"
+    ],
+    "26": [
+      "Feint"
+    ],
+    "29": [
+      "Punishment"
+    ],
+    "42": [
+      "Fire Spin"
+    ],
+    "52": [
+      "Acrobatics"
+    ],
+    "58": [
+      "Calm Mind"
+    ],
+    "68": [
+      "Flare Blitz"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Roar",
+    "Flamethrower",
+    "Hyper Beam",
+    "Solar Beam",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Fire Blast",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Torment",
+    "Will-O-Wisp",
+    "Facade",
+    "Taunt",
+    "Brick Break",
+    "Overheat",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Bulk Up",
+    "Calm Mind",
+    "U-Turn",
+    "Fling",
+    "Poison Jab",
+    "Focus Blast",
+    "Giga Impact",
+    "Shadow Claw",
+    "Stone Edge",
+    "Grass Knot",
+    "Flame Charge",
+    "Low Sweep",
+    "Round",
+    "Acrobatics",
+    "Bulldoze",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Blast Burn",
+    "Covet",
+    "Dual Chop",
+    "Endeavor",
+    "Fire Pledge",
+    "Fire Punch",
+    "Focus Punch",
+    "Gunk Shot",
+    "Heat Wave",
+    "Helping Hand",
+    "Iron Tail",
+    "Laser Focus",
+    "Low Kick",
+    "Role Play",
+    "Snore",
+    "Stealth Rock",
+    "Thunder Punch"
+  ],
+  "eggMoves": [
+    "Assist",
+    "Blaze Kick",
+    "Counter",
+    "Double Kick",
+    "Encore",
+    "Fake Out",
+    "Fire Punch",
+    "Focus Energy",
+    "Focus Punch",
+    "Heat Wave",
+    "Helping Hand",
+    "Power-Up Punch",
+    "Quick Guard",
+    "Submission",
+    "Thunder Punch"
+  ],
+  "forms": {},
+  "form": 0
+}

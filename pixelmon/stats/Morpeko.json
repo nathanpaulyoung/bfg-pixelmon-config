@@ -1,0 +1,157 @@
+{
+  "pixelmonName": "Morpeko",
+  "pokemon": "Morpeko",
+  "form": 0,
+  "stats": {
+    "HP": 58,
+    "Attack": 95,
+    "Defence": 58,
+    "SpecialAttack": 70,
+    "SpecialDefence": 58,
+    "Speed": 97
+  },
+  "catchRate": 180,
+  "malePercent": 50,
+  "spawnLevel": 37,
+  "spawnLevelRange": 13,
+  "baseExp": 153,
+  "baseFriendship": 50,
+  "types": [
+    "Electric",
+    "Dark"
+  ],
+  "height": 1.6,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 3.0,
+  "abilities": [
+    "HungerSwitch",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Field",
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Thunder Shock",
+      "Tail Whip"
+    ],
+    "5": [
+      "Leer"
+    ],
+    "10": [
+      "Power Trip"
+    ],
+    "15": [
+      "Quick Attack"
+    ],
+    "20": [
+      "Flatter"
+    ],
+    "25": [
+      "Bite"
+    ],
+    "30": [
+      "Spark"
+    ],
+    "35": [
+      "Torment"
+    ],
+    "40": [
+      "Agility"
+    ],
+    "45": [
+      "Bullet Seed"
+    ],
+    "50": [
+      "Crunch"
+    ],
+    "55": [
+      "Aura Wheel"
+    ],
+    "60": [
+      "Thrash"
+    ]
+  },
+  "tutorMoves": [
+    "Lash Out",
+    "Rising Voltage"
+  ],
+  "eggMoves": [
+    "Charge",
+    "Fake Out",
+    "Parting Shot",
+    "Quash",
+    "Rapid Spin",
+    "Super Fang",
+    "Swagger",
+    "Tickle"
+  ],
+  "tmMoves8": [
+    5,
+    14,
+    21,
+    23,
+    24,
+    25,
+    26,
+    31,
+    39,
+    40,
+    42,
+    43,
+    47,
+    50,
+    57,
+    58,
+    59,
+    66,
+    67,
+    68,
+    76,
+    80,
+    82,
+    85,
+    90,
+    98
+  ],
+  "trMoves": [
+    8,
+    9,
+    12,
+    20,
+    24,
+    26,
+    27,
+    32,
+    35,
+    37,
+    58,
+    59,
+    68,
+    80,
+    81,
+    86,
+    97
+  ],
+  "evolutions": []
+}

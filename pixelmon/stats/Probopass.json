@@ -1,0 +1,189 @@
+{
+  "pixelmonName": "Probopass",
+  "pokemon": "Probopass",
+  "stats": {
+    "HP": 60,
+    "Attack": 55,
+    "Defence": 145,
+    "Speed": 40,
+    "SpecialAttack": 75,
+    "SpecialDefence": 150
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 15,
+  "baseExp": 198,
+  "baseFriendship": 70,
+  "types": [
+    "Rock",
+    "Steel"
+  ],
+  "height": 1.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Nosepass"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1,
+    "SpecialDefence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.35,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.35,
+      "z": -0.6
+    }
+  },
+  "weight": 340.0,
+  "evolutions": [],
+  "abilities": [
+    "Sturdy",
+    "MagnetPull",
+    "SandForce"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Magnetic Flux",
+      "Magnet Rise",
+      "Gravity",
+      "Wide Guard",
+      "Tackle",
+      "Iron Defense",
+      "Block",
+      "Magnet Bomb",
+      "Tri Attack"
+    ],
+    "4": [
+      "Iron Defense"
+    ],
+    "7": [
+      "Block"
+    ],
+    "10": [
+      "Magnet Bomb"
+    ],
+    "13": [
+      "Thunder Wave"
+    ],
+    "16": [
+      "Rest"
+    ],
+    "19": [
+      "Spark"
+    ],
+    "22": [
+      "Rock Slide"
+    ],
+    "25": [
+      "Power Gem"
+    ],
+    "28": [
+      "Rock Blast"
+    ],
+    "31": [
+      "Discharge"
+    ],
+    "34": [
+      "Sandstorm"
+    ],
+    "37": [
+      "Earth Power"
+    ],
+    "40": [
+      "Stone Edge"
+    ],
+    "43": [
+      "Lock-On",
+      "Zap Cannon"
+    ]
+  },
+  "tmMoves": [
+    "Hyper Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Explosion",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Torment",
+    "Facade",
+    "Taunt",
+    "Rock Tomb",
+    "Rock Polish",
+    "Giga Impact",
+    "Flash Cannon",
+    "Stone Edge",
+    "Smack Down",
+    "Round",
+    "Volt Switch",
+    "Bulldoze",
+    "Confide",
+    "Dazzling Gleam"
+  ],
+  "tutorMoves": [
+    "Ally Switch",
+    "Block",
+    "Earth Power",
+    "Fire Punch",
+    "Gravity",
+    "Ice Punch",
+    "Iron Defense",
+    "Iron Head",
+    "Magic Coat",
+    "Magnet Rise",
+    "Pain Split",
+    "Shock Wave",
+    "Snore",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Telekinesis",
+    "Thunder Punch"
+  ],
+  "eggMoves": [
+    "Block",
+    "Double-Edge",
+    "Endure",
+    "Magnitude",
+    "Rollout",
+    "Stealth Rock",
+    "Wide Guard"
+  ],
+  "forms": {},
+  "form": 0
+}

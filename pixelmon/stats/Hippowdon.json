@@ -1,0 +1,202 @@
+{
+  "pixelmonName": "Hippowdon",
+  "pokemon": "Hippowdon",
+  "stats": {
+    "HP": 108,
+    "Attack": 112,
+    "Defence": 118,
+    "Speed": 47,
+    "SpecialAttack": 68,
+    "SpecialDefence": 72
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 11,
+  "baseExp": 198,
+  "baseFriendship": 70,
+  "types": [
+    "Ground"
+  ],
+  "height": 2.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Hippopotas"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.7,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.7,
+      "z": -0.6
+    }
+  },
+  "weight": 300.0,
+  "evolutions": [],
+  "abilities": [
+    "SandStream",
+    null,
+    "SandForce"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "1": [
+      "Ice Fang",
+      "Fire Fang",
+      "Thunder Fang",
+      "Tackle",
+      "Sand Attack",
+      "Bite",
+      "Yawn"
+    ],
+    "12": [
+      "Sand Tomb"
+    ],
+    "16": [
+      "Dig"
+    ],
+    "20": [
+      "Crunch"
+    ],
+    "24": [
+      "Sandstorm"
+    ],
+    "28": [
+      "Take Down"
+    ],
+    "32": [
+      "Roar"
+    ],
+    "38": [
+      "Rest"
+    ],
+    "44": [
+      "Earthquake"
+    ],
+    "50": [
+      "Double-Edge"
+    ],
+    "56": [
+      "Fissure"
+    ],
+    "62": [
+      "Slack Off"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Hyper Beam",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Facade",
+    "Rock Tomb",
+    "Giga Impact",
+    "Stone Edge",
+    "Round",
+    "Bulldoze",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Earth Power",
+    "Iron Head",
+    "Iron Tail",
+    "Snore",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Superpower",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Body Slam",
+    "Curse",
+    "Revenge",
+    "Sand Tomb",
+    "Slack Off",
+    "Sleep Talk",
+    "Spit Up",
+    "Stockpile",
+    "Swallow",
+    "Whirlwind"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    15,
+    21,
+    22,
+    24,
+    25,
+    31,
+    32,
+    34,
+    39,
+    42,
+    46,
+    48,
+    49,
+    53,
+    66,
+    67,
+    68,
+    76,
+    81,
+    98
+  ],
+  "trMoves": [
+    1,
+    10,
+    17,
+    20,
+    26,
+    27,
+    31,
+    32,
+    39,
+    45,
+    67,
+    74,
+    75,
+    76,
+    79,
+    94,
+    99
+  ]
+}

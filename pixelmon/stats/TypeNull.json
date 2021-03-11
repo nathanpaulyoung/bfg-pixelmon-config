@@ -1,0 +1,146 @@
+{
+  "pixelmonName": "TypeNull",
+  "pokemon": "TypeNull",
+  "stats": {
+    "HP": 95,
+    "Attack": 95,
+    "Defence": 95,
+    "Speed": 59,
+    "SpecialAttack": 95,
+    "SpecialDefence": 95
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 50,
+  "spawnLevelRange": 0,
+  "baseExp": 107,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.4,
+  "width": 1.5,
+  "length": 1.5,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "HP": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.95,
+      "z": -0.11
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.95,
+      "z": -0.11
+    }
+  },
+  "weight": 120.5,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Silvally"
+      },
+      "conditions": [
+        {
+          "friendship": 220,
+          "evoConditionType": "friendship"
+        }
+      ],
+      "evoType": "leveling",
+      "moves": [
+        "Multi-Attack"
+      ]
+    }
+  ],
+  "abilities": [
+    "BattleArmour",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Tackle"
+    ],
+    "5": [
+      "Rage"
+    ],
+    "10": [
+      "Pursuit"
+    ],
+    "15": [
+      "Imprison"
+    ],
+    "20": [
+      "Aerial Ace"
+    ],
+    "25": [
+      "Crush Claw"
+    ],
+    "30": [
+      "Scary Face"
+    ],
+    "35": [
+      "X-Scissor"
+    ],
+    "40": [
+      "Take Down"
+    ],
+    "45": [
+      "Metal Sound"
+    ],
+    "50": [
+      "Iron Head"
+    ],
+    "55": [
+      "Double Hit"
+    ],
+    "60": [
+      "Air Slash"
+    ],
+    "65": [
+      "Punishment"
+    ],
+    "70": [
+      "Razor Wind"
+    ],
+    "75": [
+      "Tri Attack"
+    ],
+    "80": [
+      "Double-Edge"
+    ],
+    "85": [
+      "Heal Block"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Signal Beam",
+    "Iron Head",
+    "Magic Coat",
+    "Iron Defense",
+    "Last Resort",
+    "Icy Wind",
+    "Snore"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": []
+}

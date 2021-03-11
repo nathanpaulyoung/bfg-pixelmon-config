@@ -1,0 +1,167 @@
+{
+  "pixelmonName": "Joltik",
+  "pokemon": "Joltik",
+  "stats": {
+    "HP": 50,
+    "Attack": 47,
+    "Defence": 50,
+    "Speed": 65,
+    "SpecialAttack": 57,
+    "SpecialDefence": 50
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 25,
+  "baseExp": 64,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Electric"
+  ],
+  "height": 0.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 0,
+    "passive": 50,
+    "aggressive": 50
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 0.6,
+  "evolutions": [
+    {
+      "level": 36,
+      "to": {
+        "name": "Galvantula"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Sticky Web"
+      ]
+    }
+  ],
+  "abilities": [
+    "CompoundEyes",
+    "Unnerve",
+    "Swarm"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Absorb",
+      "Fury Cutter"
+    ],
+    "4": [
+      "Electroweb"
+    ],
+    "8": [
+      "Bug Bite"
+    ],
+    "12": [
+      "String Shot"
+    ],
+    "16": [
+      "Thunder Wave"
+    ],
+    "20": [
+      "Electro Ball"
+    ],
+    "24": [
+      "Agility"
+    ],
+    "28": [
+      "Sucker Punch"
+    ],
+    "32": [
+      "Slash"
+    ],
+    "37": [
+      "Discharge"
+    ],
+    "40": [
+      "Screech"
+    ],
+    "44": [
+      "Gastro Acid"
+    ],
+    "48": [
+      "Bug Buzz"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bounce",
+    "Bug Bite",
+    "Electroweb",
+    "Gastro Acid",
+    "Magnet Rise",
+    "Signal Beam",
+    "String Shot",
+    "Sucker Punch",
+    "Agility",
+    "Feint Attack",
+    "Pursuit",
+    "Slash",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Poison Sting",
+    "Lunge",
+    "Struggle Bug",
+    "Double Team",
+    "Infestation"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    7,
+    14,
+    16,
+    17,
+    21,
+    23,
+    24,
+    25,
+    28,
+    31,
+    33,
+    39,
+    40,
+    52,
+    62,
+    73,
+    76,
+    80,
+    82
+  ],
+  "trMoves": [
+    8,
+    12,
+    18,
+    20,
+    26,
+    27,
+    57,
+    60,
+    61,
+    65,
+    80,
+    86
+  ]
+}

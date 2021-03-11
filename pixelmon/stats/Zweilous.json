@@ -1,0 +1,183 @@
+{
+  "pixelmonName": "Zweilous",
+  "pokemon": "Zweilous",
+  "stats": {
+    "HP": 72,
+    "Attack": 85,
+    "Defence": 70,
+    "Speed": 58,
+    "SpecialAttack": 65,
+    "SpecialDefence": 70
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 51,
+  "spawnLevelRange": 12,
+  "baseExp": 147,
+  "baseFriendship": 35,
+  "types": [
+    "Dark",
+    "Dragon"
+  ],
+  "height": 1.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Deino"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.1,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.1,
+      "z": -0.6
+    }
+  },
+  "weight": 50.0,
+  "evolutions": [
+    {
+      "level": 64,
+      "to": {
+        "name": "Hydreigon"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Hustle",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "1": [
+      "Tackle",
+      "Double Hit",
+      "Focus Energy",
+      "Dragon Breath",
+      "Bite"
+    ],
+    "12": [
+      "Roar"
+    ],
+    "16": [
+      "Assurance"
+    ],
+    "20": [
+      "Headbutt"
+    ],
+    "24": [
+      "Work Up"
+    ],
+    "28": [
+      "Slam"
+    ],
+    "32": [
+      "Crunch"
+    ],
+    "36": [
+      "Scary Face"
+    ],
+    "40": [
+      "Dragon Pulse"
+    ],
+    "44": [
+      "Body Slam"
+    ],
+    "48": [
+      "Hyper Voice"
+    ],
+    "54": [
+      "Dragon Rush"
+    ],
+    "60": [
+      "Nasty Plot"
+    ],
+    "66": [
+      "Outrage"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Draco Meteor",
+    "Earth Power",
+    "Hyper Voice",
+    "Outrage",
+    "Spite",
+    "Superpower",
+    "Uproar",
+    "Zen Headbutt",
+    "Bite",
+    "Scary Face",
+    "Focus Energy",
+    "Tackle",
+    "Screech",
+    "Tackle"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    14,
+    16,
+    21,
+    23,
+    24,
+    25,
+    26,
+    31,
+    33,
+    34,
+    37,
+    39,
+    41,
+    58,
+    66,
+    67,
+    68,
+    76
+  ],
+  "trMoves": [
+    1,
+    13,
+    20,
+    24,
+    26,
+    27,
+    32,
+    35,
+    37,
+    39,
+    42,
+    58,
+    62,
+    67,
+    68,
+    69,
+    85
+  ]
+}

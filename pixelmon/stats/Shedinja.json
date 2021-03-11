@@ -1,0 +1,144 @@
+{
+  "pixelmonName": "Shedinja",
+  "pokemon": "Shedinja",
+  "stats": {
+    "HP": 1,
+    "Attack": 90,
+    "Defence": 45,
+    "Speed": 40,
+    "SpecialAttack": 30,
+    "SpecialDefence": 30
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 20,
+  "spawnLevelRange": 20,
+  "baseExp": 95,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Ghost"
+  ],
+  "height": 1.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Nincada"
+  ],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "hoverHeight": 1.0,
+  "weight": 1.2,
+  "evolutions": [],
+  "abilities": [
+    "WonderGuard",
+    null,
+    "WonderGuard"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "1": [
+      "Shadow Claw",
+      "Grudge",
+      "Mud-Slap",
+      "Metal Claw",
+      "Dig",
+      "Scratch",
+      "Sand Attack",
+      "Harden",
+      "False Swipe"
+    ],
+    "15": [
+      "Confuse Ray"
+    ],
+    "23": [
+      "Absorb"
+    ],
+    "29": [
+      "Shadow Sneak"
+    ],
+    "36": [
+      "Fury Swipes"
+    ],
+    "43": [
+      "Mind Reader"
+    ],
+    "50": [
+      "Shadow Ball"
+    ],
+    "57": [
+      "Spite"
+    ],
+    "64": [
+      "Phantom Force"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bug Bite",
+    "Spite",
+    "String Shot",
+    "Sucker Punch",
+    "Trick",
+    "Feint Attack",
+    "Gust",
+    "Mind Reader",
+    "Harden",
+    "Screech",
+    "Agility",
+    "Baton Pass",
+    "Ally Switch",
+    "Telekinesis"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    11,
+    15,
+    21,
+    23,
+    24,
+    25,
+    28,
+    32,
+    34,
+    38,
+    39,
+    65,
+    76,
+    77,
+    86,
+    94
+  ],
+  "trMoves": [
+    12,
+    18,
+    20,
+    26,
+    27,
+    33,
+    38,
+    60,
+    61,
+    83
+  ]
+}

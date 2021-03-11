@@ -1,0 +1,156 @@
+{
+  "pixelmonName": "Musharna",
+  "pokemon": "Musharna",
+  "stats": {
+    "HP": 116,
+    "Attack": 55,
+    "Defence": 85,
+    "Speed": 29,
+    "SpecialAttack": 107,
+    "SpecialDefence": 95
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 13,
+  "baseExp": 170,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Munna"
+  ],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.5,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -2.7,
+      "z": 0.3
+    }
+  },
+  "weight": 60.5,
+  "evolutions": [],
+  "abilities": [
+    "Forewarn",
+    "Synchronize",
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 11,
+  "levelUpMoves": {
+    "1": [
+      "Psychic Terrain",
+      "Imprison",
+      "Moonlight",
+      "Magic Coat",
+      "Zen Headbutt",
+      "Calm Mind",
+      "Yawn",
+      "Psychic",
+      "Moonblast",
+      "Dream Eater",
+      "Future Sight",
+      "Wonder Room",
+      "Stored Power",
+      "Defense Curl",
+      "Hypnosis",
+      "Psybeam"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "After You",
+    "Gravity",
+    "Heal Bell",
+    "Helping Hand",
+    "Magic Coat",
+    "Pain Split",
+    "Signal Beam",
+    "Trick",
+    "Wonder Room",
+    "Worry Seed",
+    "Zen Headbutt",
+    "Barrier",
+    "Baton Pass",
+    "Hypnosis",
+    "Sonic Boom",
+    "Yawn",
+    "Yawn",
+    "Moonlight",
+    "Imprison",
+    "Ally Switch",
+    "Telekinesis"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    14,
+    17,
+    18,
+    19,
+    21,
+    22,
+    24,
+    25,
+    31,
+    33,
+    39,
+    40,
+    41,
+    44,
+    48,
+    60,
+    61,
+    70,
+    71,
+    76,
+    91
+  ],
+  "trMoves": [
+    11,
+    17,
+    20,
+    25,
+    26,
+    27,
+    33,
+    34,
+    38,
+    40,
+    49,
+    52,
+    65,
+    69,
+    82,
+    83,
+    92
+  ]
+}

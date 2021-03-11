@@ -1,0 +1,180 @@
+{
+  "pixelmonName": "Talonflame",
+  "pokemon": "Talonflame",
+  "stats": {
+    "HP": 78,
+    "Attack": 81,
+    "Defence": 71,
+    "Speed": 126,
+    "SpecialAttack": 74,
+    "SpecialDefence": 69
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 36,
+  "spawnLevelRange": 13,
+  "baseExp": 175,
+  "baseFriendship": 0,
+  "types": [
+    "Fire",
+    "Flying"
+  ],
+  "height": 2.4,
+  "width": 1.2,
+  "length": 1.2,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Fletchinder",
+    "Fletchling"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 20,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 6,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "Speed": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.4
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.95,
+      "z": -0.15
+    }
+  },
+  "hoverHeight": 1.0,
+  "weight": 24.5,
+  "evolutions": [],
+  "abilities": [
+    "FlameBody",
+    null,
+    "GaleWings"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Brave Bird",
+      "Flare Blitz",
+      "Tackle",
+      "Growl",
+      "Ember",
+      "Quick Attack",
+      "Peck"
+    ],
+    "6": [
+      "Quick Attack"
+    ],
+    "10": [
+      "Peck"
+    ],
+    "13": [
+      "Agility"
+    ],
+    "16": [
+      "Flail"
+    ],
+    "25": [
+      "Roost"
+    ],
+    "27": [
+      "Razor Wind"
+    ],
+    "31": [
+      "Natural Gift"
+    ],
+    "39": [
+      "Flame Charge"
+    ],
+    "44": [
+      "Acrobatics"
+    ],
+    "49": [
+      "Me First"
+    ],
+    "55": [
+      "Tailwind"
+    ],
+    "60": [
+      "Steel Wing"
+    ],
+    "64": [
+      "Brave Bird"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Fly",
+    "Flamethrower",
+    "Hyper Beam",
+    "Solar Beam",
+    "Toxic",
+    "Double Team",
+    "Fire Blast",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Steel Wing",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Will-O-Wisp",
+    "Facade",
+    "Taunt",
+    "Overheat",
+    "Aerial Ace",
+    "Bulk Up",
+    "Roost",
+    "U-Turn",
+    "Giga Impact",
+    "Flame Charge",
+    "Round",
+    "Acrobatics",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Defog",
+    "Heat Wave",
+    "Snatch",
+    "Snore",
+    "Tailwind"
+  ],
+  "eggMoves": [
+    "Quick Guard",
+    "Snatch",
+    "Tailwind"
+  ],
+  "forms": {},
+  "form": 0
+}

@@ -1,0 +1,190 @@
+{
+  "pixelmonName": "Koffing",
+  "pokemon": "Koffing",
+  "form": 0,
+  "stats": {
+    "HP": 40,
+    "Attack": 65,
+    "Defence": 95,
+    "Speed": 35,
+    "SpecialAttack": 60,
+    "SpecialDefence": 45
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 20,
+  "baseExp": 114,
+  "baseFriendship": 70,
+  "types": [
+    "Poison"
+  ],
+  "height": 1.6,
+  "width": 0.9,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "hoverHeight": 1.0,
+  "weight": 1.0,
+  "evolutions": [
+    {
+      "level": 35,
+      "to": {
+        "name": "Weezing",
+        "form": 2
+      },
+      "conditions": [
+        {
+          "type": "Burn",
+          "evoConditionType": "status"
+        }
+      ],
+      "evoType": "leveling",
+      "moves": [
+        "Double Hit"
+      ]
+    },
+    {
+      "level": 35,
+      "to": {
+        "name": "Weezing"
+      },
+      "conditions": [
+        {
+          "condition": {
+            "type": "Burn",
+            "evoConditionType": "status"
+          },
+          "evoConditionType": "invert"
+        }
+      ],
+      "evoType": "leveling",
+      "moves": [
+        "Double Hit"
+      ]
+    }
+  ],
+  "abilities": [
+    "Levitate",
+    "NeutralizingGas",
+    "Stench"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Poison Gas",
+      "Tackle"
+    ],
+    "4": [
+      "Smog"
+    ],
+    "8": [
+      "Smokescreen"
+    ],
+    "12": [
+      "Clear Smog"
+    ],
+    "16": [
+      "Assurance"
+    ],
+    "20": [
+      "Sludge"
+    ],
+    "24": [
+      "Haze"
+    ],
+    "28": [
+      "Self-Destruct"
+    ],
+    "32": [
+      "Sludge Bomb"
+    ],
+    "36": [
+      "Toxic"
+    ],
+    "40": [
+      "Belch"
+    ],
+    "44": [
+      "Explosion"
+    ],
+    "48": [
+      "Memento"
+    ],
+    "52": [
+      "Destiny Bond"
+    ]
+  },
+  "tutorMoves": [
+    "Pain Split",
+    "Spite",
+    "Uproar",
+    "Haze",
+    "Tackle",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Psybeam",
+    "Pain Split",
+    "Grudge",
+    "Spite",
+    "Curse",
+    "Stockpile",
+    "Swallow",
+    "Spit Up"
+  ],
+  "tmMoves8": [
+    16,
+    20,
+    21,
+    23,
+    24,
+    25,
+    31,
+    33,
+    34,
+    38,
+    39,
+    57,
+    58,
+    74,
+    76
+  ],
+  "trMoves": [
+    2,
+    8,
+    9,
+    15,
+    20,
+    22,
+    26,
+    27,
+    33,
+    35,
+    37,
+    52,
+    54,
+    58,
+    78,
+    91
+  ],
+  "forms": {},
+  "tmMoves": []
+}

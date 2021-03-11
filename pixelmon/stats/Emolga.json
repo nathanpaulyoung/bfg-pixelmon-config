@@ -1,0 +1,147 @@
+{
+  "pixelmonName": "Emolga",
+  "pokemon": "Emolga",
+  "stats": {
+    "HP": 55,
+    "Attack": 75,
+    "Defence": 60,
+    "Speed": 103,
+    "SpecialAttack": 75,
+    "SpecialDefence": 60
+  },
+  "catchRate": 200,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 20,
+  "baseExp": 150,
+  "baseFriendship": 70,
+  "types": [
+    "Electric",
+    "Flying"
+  ],
+  "height": 0.4,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.7,
+      "z": -1.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.95,
+      "z": -0.35
+    }
+  },
+  "weight": 5.0,
+  "evolutions": [],
+  "abilities": [
+    "Static",
+    null,
+    "MotorDrive"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Thunder Shock"
+    ],
+    "4": [
+      "Quick Attack"
+    ],
+    "7": [
+      "Tail Whip"
+    ],
+    "10": [
+      "Charge"
+    ],
+    "13": [
+      "Spark"
+    ],
+    "15": [
+      "Nuzzle"
+    ],
+    "16": [
+      "Pursuit"
+    ],
+    "19": [
+      "Double Team"
+    ],
+    "22": [
+      "Shock Wave"
+    ],
+    "26": [
+      "Electro Ball"
+    ],
+    "30": [
+      "Acrobatics"
+    ],
+    "34": [
+      "Light Screen"
+    ],
+    "38": [
+      "Encore"
+    ],
+    "42": [
+      "Volt Switch"
+    ],
+    "46": [
+      "Agility"
+    ],
+    "50": [
+      "Discharge"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Helping Hand",
+    "Knock Off",
+    "Last Resort",
+    "Signal Beam",
+    "Tailwind",
+    "Agility",
+    "Air Slash",
+    "Baton Pass",
+    "Charm",
+    "Encore",
+    "Pursuit",
+    "Tickle",
+    "Electroweb",
+    "Defog"
+  ],
+  "eggMoves": [
+    "Air Slash",
+    "Astonish",
+    "Baton Pass",
+    "Charm",
+    "Covet",
+    "Iron Tail",
+    "Roost",
+    "Shock Wave",
+    "Tickle",
+    "Ion Deluge",
+    "Speed Swap"
+  ],
+  "forms": {},
+  "form": 0
+}

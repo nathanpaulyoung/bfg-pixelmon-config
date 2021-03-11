@@ -1,0 +1,166 @@
+{
+  "pixelmonName": "Grotle",
+  "pokemon": "Grotle",
+  "stats": {
+    "HP": 75,
+    "Attack": 89,
+    "Defence": 85,
+    "Speed": 36,
+    "SpecialAttack": 55,
+    "SpecialDefence": 65
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 20,
+  "spawnLevelRange": 5,
+  "baseExp": 141,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 1.1,
+  "width": 1.1,
+  "length": 1.1,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Turtwig"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "Defence": 1
+  },
+  "weight": 97.0,
+  "evolutions": [
+    {
+      "level": 32,
+      "to": {
+        "name": "Torterra"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Earthquake"
+      ]
+    }
+  ],
+  "abilities": [
+    "Overgrow",
+    null,
+    "ShellArmour"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Withdraw",
+      "Absorb"
+    ],
+    "5": [
+      "Withdraw"
+    ],
+    "9": [
+      "Absorb"
+    ],
+    "13": [
+      "Razor Leaf"
+    ],
+    "17": [
+      "Curse"
+    ],
+    "22": [
+      "Bite"
+    ],
+    "27": [
+      "Mega Drain"
+    ],
+    "32": [
+      "Leech Seed"
+    ],
+    "37": [
+      "Synthesis"
+    ],
+    "42": [
+      "Crunch"
+    ],
+    "47": [
+      "Giga Drain"
+    ],
+    "52": [
+      "Leaf Storm"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Solar Beam",
+    "Toxic",
+    "Double Team",
+    "Light Screen",
+    "Reflect",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Sunny Day",
+    "Facade",
+    "Nature Power",
+    "Energy Ball",
+    "Grass Knot",
+    "Round",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Earth Power",
+    "Giga Drain",
+    "Grass Pledge",
+    "Iron Tail",
+    "Seed Bomb",
+    "Snore",
+    "Stealth Rock",
+    "Superpower",
+    "Synthesis",
+    "Worry Seed"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Body Slam",
+    "Double-Edge",
+    "Earth Power",
+    "Grassy Terrain",
+    "Growth",
+    "Heavy Slam",
+    "Sand Tomb",
+    "Seed Bomb",
+    "Spit Up",
+    "Stockpile",
+    "Superpower",
+    "Swallow",
+    "Thrash",
+    "Tickle",
+    "Wide Guard",
+    "Worry Seed"
+  ],
+  "forms": {},
+  "form": 0
+}

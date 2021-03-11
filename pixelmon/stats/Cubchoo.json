@@ -1,0 +1,167 @@
+{
+  "pixelmonName": "Cubchoo",
+  "pokemon": "Cubchoo",
+  "stats": {
+    "HP": 55,
+    "Attack": 70,
+    "Defence": 40,
+    "Speed": 40,
+    "SpecialAttack": 60,
+    "SpecialDefence": 40
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 15,
+  "baseExp": 61,
+  "baseFriendship": 70,
+  "types": [
+    "Ice"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 8.5,
+  "evolutions": [
+    {
+      "level": 37,
+      "to": {
+        "name": "Beartic"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Icicle Crash"
+      ]
+    }
+  ],
+  "abilities": [
+    "SnowCloak",
+    "SlushRush",
+    "Rattled"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Powder Snow",
+      "Growl"
+    ],
+    "3": [
+      "Endure"
+    ],
+    "6": [
+      "Fury Swipes"
+    ],
+    "9": [
+      "Icy Wind"
+    ],
+    "12": [
+      "Play Nice"
+    ],
+    "15": [
+      "Brine"
+    ],
+    "18": [
+      "Frost Breath"
+    ],
+    "21": [
+      "Slash"
+    ],
+    "24": [
+      "Flail"
+    ],
+    "27": [
+      "Charm"
+    ],
+    "30": [
+      "Hail"
+    ],
+    "33": [
+      "Thrash"
+    ],
+    "36": [
+      "Rest"
+    ],
+    "39": [
+      "Blizzard"
+    ],
+    "42": [
+      "Sheer Cold"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Low Kick",
+    "Superpower",
+    "Charm",
+    "Encore",
+    "Flail",
+    "Sheer Cold",
+    "Thrash",
+    "Yawn",
+    "Slash"
+  ],
+  "eggMoves": [
+    "Yawn",
+    "Night Slash",
+    "Focus Punch"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    0,
+    1,
+    4,
+    15,
+    21,
+    24,
+    25,
+    27,
+    29,
+    31,
+    33,
+    35,
+    39,
+    48,
+    55,
+    58,
+    59,
+    64,
+    65,
+    67,
+    76
+  ],
+  "trMoves": [
+    4,
+    5,
+    6,
+    7,
+    20,
+    26,
+    27,
+    30,
+    39,
+    77,
+    90
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "pixelmonName": "Vibrava",
+  "pokemon": "Vibrava",
+  "stats": {
+    "HP": 50,
+    "Attack": 70,
+    "Defence": 50,
+    "Speed": 70,
+    "SpecialAttack": 50,
+    "SpecialDefence": 50
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 10,
+  "baseExp": 126,
+  "baseFriendship": 70,
+  "types": [
+    "Ground",
+    "Dragon"
+  ],
+  "height": 1.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Trapinch"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "Speed": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -2.55,
+      "z": -0.57
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.2,
+      "z": -0.57
+    }
+  },
+  "hoverHeight": 1.0,
+  "weight": 15.3,
+  "evolutions": [
+    {
+      "level": 45,
+      "to": {
+        "name": "Flygon"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Dragon Claw"
+      ]
+    }
+  ],
+  "abilities": [
+    "Levitate",
+    "Levitate",
+    "Levitate"
+  ],
+  "eggGroups": [
+    "Bug",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Dragon Breath"
+    ],
+    "1": [
+      "Dragon Breath",
+      "Laser Focus",
+      "Bulldoze",
+      "Dig",
+      "Crunch",
+      "Superpower",
+      "Fissure",
+      "Sand Attack",
+      "Astonish",
+      "Supersonic",
+      "Bite"
+    ],
+    "12": [
+      "Mud-Slap"
+    ],
+    "16": [
+      "Sand Tomb"
+    ],
+    "20": [
+      "Dragon Tail"
+    ],
+    "24": [
+      "Screech"
+    ],
+    "28": [
+      "Bug Buzz"
+    ],
+    "32": [
+      "Sandstorm"
+    ],
+    "38": [
+      "Earth Power"
+    ],
+    "44": [
+      "Earthquake"
+    ],
+    "50": [
+      "Uproar"
+    ],
+    "56": [
+      "Dragon Rush"
+    ],
+    "62": [
+      "Boomburst"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Air Cutter",
+    "Bug Bite",
+    "Draco Meteor",
+    "Earth Power",
+    "Heat Wave",
+    "Ominous Wind",
+    "Outrage",
+    "Signal Beam",
+    "Superpower",
+    "Tailwind",
+    "Twister",
+    "Bite",
+    "Feint Attack",
+    "Flail",
+    "Gust",
+    "Sonic Boom",
+    "Focus Energy",
+    "Screech",
+    "Uproar",
+    "Defog",
+    "Throat Chop"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    6,
+    8,
+    11,
+    15,
+    16,
+    21,
+    22,
+    24,
+    25,
+    28,
+    30,
+    31,
+    32,
+    34,
+    39,
+    40,
+    48,
+    49,
+    53,
+    56,
+    76,
+    81,
+    95
+  ],
+  "trMoves": [
+    1,
+    10,
+    13,
+    20,
+    24,
+    26,
+    27,
+    32,
+    35,
+    36,
+    39,
+    61,
+    62,
+    67,
+    95
+  ]
+}

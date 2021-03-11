@@ -1,0 +1,182 @@
+{
+  "pixelmonName": "Ariados",
+  "pokemon": "Ariados",
+  "stats": {
+    "HP": 70,
+    "Attack": 90,
+    "Defence": 70,
+    "Speed": 40,
+    "SpecialAttack": 60,
+    "SpecialDefence": 70
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 28,
+  "baseExp": 134,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Spinarak"
+  ],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 5,
+    "passive": 35,
+    "aggressive": 60
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.15,
+      "z": -0.5
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.15,
+      "z": -0.5
+    }
+  },
+  "weight": 33.5,
+  "evolutions": [],
+  "abilities": [
+    "Swarm",
+    "Insomnia",
+    "Sniper"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Venom Drench",
+      "Fell Stinger",
+      "Bug Bite",
+      "Poison Sting",
+      "String Shot",
+      "Absorb",
+      "Constrict",
+      "Swords Dance",
+      "Focus Energy"
+    ],
+    "5": [
+      "Absorb"
+    ],
+    "8": [
+      "Infestation"
+    ],
+    "12": [
+      "Scary Face"
+    ],
+    "15": [
+      "Night Shade"
+    ],
+    "19": [
+      "Shadow Sneak"
+    ],
+    "23": [
+      "Fury Swipes"
+    ],
+    "28": [
+      "Sucker Punch"
+    ],
+    "32": [
+      "Spider Web"
+    ],
+    "37": [
+      "Agility"
+    ],
+    "41": [
+      "Pin Missile"
+    ],
+    "46": [
+      "Psychic"
+    ],
+    "50": [
+      "Poison Jab"
+    ],
+    "55": [
+      "Cross Poison"
+    ],
+    "58": [
+      "Sticky Web"
+    ],
+    "63": [
+      "Toxic Thread"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Hyper Beam",
+    "Solar Beam",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Leech Life",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Sludge Bomb",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Facade",
+    "Poison Jab",
+    "X-Scissor",
+    "Giga Impact",
+    "Venoshock",
+    "Round",
+    "Confide",
+    "Infestation",
+    "Smart Strike"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Bug Bite",
+    "Electroweb",
+    "Foul Play",
+    "Giga Drain",
+    "Signal Beam",
+    "Snore",
+    "Stomping Tantrum",
+    "Throat Chop"
+  ],
+  "eggMoves": [
+    "Baton Pass",
+    "Disable",
+    "Electroweb",
+    "Lunge",
+    "Megahorn",
+    "Night Slash",
+    "Psybeam",
+    "Pursuit",
+    "Rage Powder",
+    "Signal Beam",
+    "Sonic Boom",
+    "Toxic Spikes",
+    "Twineedle"
+  ],
+  "forms": {},
+  "form": 0
+}

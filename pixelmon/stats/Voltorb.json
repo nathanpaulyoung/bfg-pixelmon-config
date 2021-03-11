@@ -1,0 +1,150 @@
+{
+  "pixelmonName": "Voltorb",
+  "pokemon": "Voltorb",
+  "stats": {
+    "HP": 40,
+    "Attack": 30,
+    "Defence": 50,
+    "Speed": 100,
+    "SpecialAttack": 55,
+    "SpecialDefence": 55
+  },
+  "catchRate": 190,
+  "malePercent": -1,
+  "spawnLevel": 10,
+  "spawnLevelRange": 20,
+  "baseExp": 103,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 0.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 10.4,
+  "evolutions": [
+    {
+      "level": 30,
+      "to": {
+        "name": "Electrode"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Soundproof",
+    "Static",
+    "Aftermath"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Charge",
+      "Tackle"
+    ],
+    "4": [
+      "Sonic Boom"
+    ],
+    "6": [
+      "Eerie Impulse"
+    ],
+    "9": [
+      "Spark"
+    ],
+    "11": [
+      "Rollout"
+    ],
+    "13": [
+      "Screech"
+    ],
+    "16": [
+      "Charge Beam"
+    ],
+    "20": [
+      "Swift"
+    ],
+    "22": [
+      "Electro Ball"
+    ],
+    "26": [
+      "Self-Destruct"
+    ],
+    "29": [
+      "Light Screen"
+    ],
+    "34": [
+      "Magnet Rise"
+    ],
+    "37": [
+      "Discharge"
+    ],
+    "41": [
+      "Explosion"
+    ],
+    "46": [
+      "Gyro Ball"
+    ],
+    "48": [
+      "Mirror Coat"
+    ]
+  },
+  "tmMoves": [
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Toxic",
+    "Double Team",
+    "Light Screen",
+    "Explosion",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Torment",
+    "Facade",
+    "Taunt",
+    "Gyro Ball",
+    "Charge Beam",
+    "Round",
+    "Volt Switch",
+    "Wild Charge",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Foul Play",
+    "Magic Coat",
+    "Magnet Rise",
+    "Shock Wave",
+    "Signal Beam",
+    "Snore"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": []
+}

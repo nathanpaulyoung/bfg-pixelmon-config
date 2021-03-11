@@ -1,0 +1,140 @@
+{
+  "pixelmonName": "Falinks",
+  "pokemon": "Falinks",
+  "form": 0,
+  "stats": {
+    "HP": 65,
+    "Attack": 100,
+    "Defence": 100,
+    "SpecialAttack": 70,
+    "SpecialDefence": 60,
+    "Speed": 75
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 4,
+  "spawnLevelRange": 40,
+  "baseExp": 165,
+  "baseFriendship": 50,
+  "types": [
+    "Fighting"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2,
+    "SpecialDefence": 1
+  },
+
+  "weight": 62.0,
+  "evolutions": [],
+  "abilities": [
+    "BattleArmour",
+    null,
+    "Defiant"
+  ],
+  "eggGroups": [
+    "Fairy",
+    "Mineral"
+  ],
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Protect"
+    ],
+    "5": [
+      "Rock Smash"
+    ],
+    "10": [
+      "Focus Energy"
+    ],
+    "15": [
+      "Headbutt"
+    ],
+    "20": [
+      "Bulk Up"
+    ],
+    "25": [
+      "Endure"
+    ],
+    "30": [
+      "Reversal"
+    ],
+    "35": [
+      "First Impression"
+    ],
+    "40": [
+      "No Retreat"
+    ],
+    "45": [
+      "Iron Defense"
+    ],
+    "50": [
+      "Close Combat"
+    ],
+    "55": [
+      "Megahorn"
+    ],
+    "60": [
+      "Counter"
+    ]
+  },
+  "tutorMoves": [
+    "Coaching"
+  ],
+  "eggMoves": [],
+  "tmMoves8": [
+    8,
+    9,
+    16,
+    21,
+    22,
+    24,
+    25,
+    37,
+    39,
+    41,
+    42,
+    43,
+    48,
+    57,
+    58,
+    76,
+    79,
+    94,
+    96
+  ],
+  "trMoves": [
+    0,
+    12,
+    13,
+    20,
+    21,
+    26,
+    27,
+    28,
+    39,
+    46,
+    48,
+    53,
+    57,
+    64,
+    69,
+    74,
+    95
+  ]
+}

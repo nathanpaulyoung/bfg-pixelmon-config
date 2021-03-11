@@ -1,0 +1,168 @@
+{
+  "pixelmonName": "Minior",
+  "pokemon": "Minior",
+  "stats": {
+    "HP": 60,
+    "Attack": 100,
+    "Defence": 60,
+    "Speed": 120,
+    "SpecialAttack": 100,
+    "SpecialDefence": 60
+  },
+  "catchRate": 30,
+  "malePercent": -1,
+  "spawnLevel": 20,
+  "spawnLevelRange": 30,
+  "baseExp": 154,
+  "baseFriendship": 70,
+  "types": [
+    "Rock",
+    "Flying"
+  ],
+  "height": 2.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 1,
+    "SpecialAttack": 1
+  },
+  "hoverHeight": 1.0,
+  "weight": 0.3,
+  "evolutions": [],
+  "abilities": [
+    "ShieldsDown",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Tackle"
+    ],
+    "3": [
+      "Defense Curl"
+    ],
+    "8": [
+      "Rollout"
+    ],
+    "10": [
+      "Confuse Ray"
+    ],
+    "15": [
+      "Swift"
+    ],
+    "17": [
+      "Ancient Power"
+    ],
+    "22": [
+      "Self-Destruct"
+    ],
+    "24": [
+      "Stealth Rock"
+    ],
+    "29": [
+      "Take Down"
+    ],
+    "31": [
+      "Autotomize"
+    ],
+    "36": [
+      "Cosmic Power"
+    ],
+    "38": [
+      "Power Gem"
+    ],
+    "43": [
+      "Double-Edge"
+    ],
+    "45": [
+      "Shell Smash"
+    ],
+    "50": [
+      "Explosion"
+    ]
+  },
+  "tmMoves": [
+    "Hyper Beam",
+    "Solar Beam",
+    "Earthquake",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Light Screen",
+    "Reflect",
+    "Explosion",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Psych Up",
+    "Facade",
+    "Rock Tomb",
+    "Calm Mind",
+    "Gyro Ball",
+    "U-Turn",
+    "Rock Polish",
+    "Giga Impact",
+    "Stone Edge",
+    "Charge Beam",
+    "Round",
+    "Acrobatics",
+    "Bulldoze",
+    "Confide",
+    "Dazzling Gleam"
+  ],
+  "tutorMoves": [
+    "Endeavor",
+    "Gravity",
+    "Iron Head",
+    "Last Resort",
+    "Magnet Rise",
+    "Snore",
+    "Stealth Rock",
+    "Telekinesis",
+    "Zen Headbutt"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 60,
+        "Attack": 60,
+        "Defence": 100,
+        "Speed": 60,
+        "SpecialAttack": 60,
+        "SpecialDefence": 100
+      },
+      "evYields": {
+        "Defence": 1,
+        "SpecialDefence": 1
+      },
+      "weight": 40.0,
+      "form": 1
+    }
+  },
+  "form": 0,
+  "eggMoves": []
+}

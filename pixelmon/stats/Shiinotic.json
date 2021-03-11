@@ -1,0 +1,138 @@
+{
+  "pixelmonName": "Shiinotic",
+  "pokemon": "Shiinotic",
+  "stats": {
+    "HP": 60,
+    "Attack": 45,
+    "Defence": 80,
+    "Speed": 30,
+    "SpecialAttack": 90,
+    "SpecialDefence": 100
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 1,
+  "spawnLevelRange": 99,
+  "baseExp": 142,
+  "baseFriendship": 0,
+  "types": [
+    "Grass",
+    "Fairy"
+  ],
+  "height": 1.0,
+  "width": 1.3,
+  "length": 1.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Morelull"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "weight": 11.5,
+  "evolutions": [],
+  "abilities": [
+    "Illuminate",
+    "EffectSpore",
+    "RainDish"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "1": [
+      "Absorb",
+      "Astonish",
+      "Confuse Ray",
+      "Ingrain"
+    ],
+    "12": [
+      "Mega Drain"
+    ],
+    "16": [
+      "Sleep Powder"
+    ],
+    "20": [
+      "Moonlight"
+    ],
+    "27": [
+      "Strength Sap"
+    ],
+    "32": [
+      "Giga Drain"
+    ],
+    "38": [
+      "Dazzling Gleam"
+    ],
+    "44": [
+      "Spore"
+    ],
+    "50": [
+      "Moonblast"
+    ],
+    "56": [
+      "Dream Eater"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Signal Beam",
+    "Seed Bomb",
+    "Magic Coat",
+    "Snore",
+    "Synthesis",
+    "Giga Drain",
+    "Worry Seed",
+    "After You",
+    "Magic Room",
+    "Wonder Room",
+    "Recycle"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": -1,
+  "tmMoves8": [
+    8,
+    9,
+    11,
+    14,
+    17,
+    19,
+    21,
+    24,
+    25,
+    28,
+    31,
+    33,
+    34,
+    39,
+    46,
+    63,
+    71,
+    72,
+    76,
+    87
+  ],
+  "trMoves": [
+    17,
+    20,
+    22,
+    26,
+    27,
+    59,
+    65,
+    77,
+    92,
+    96
+  ]
+}

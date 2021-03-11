@@ -1,0 +1,158 @@
+{
+  "pixelmonName": "Aegislash",
+  "pokemon": "Aegislash",
+  "stats": {
+    "HP": 60,
+    "Attack": 50,
+    "Defence": 150,
+    "Speed": 60,
+    "SpecialAttack": 50,
+    "SpecialDefence": 150
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 50,
+  "spawnLevelRange": 12,
+  "baseExp": 234,
+  "baseFriendship": 0,
+  "types": [
+    "Steel",
+    "Ghost"
+  ],
+  "height": 1.7,
+  "width": 1.7,
+  "length": 1.7,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Doublade",
+    "Honedge"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2,
+    "SpecialDefence": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.5,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.5,
+      "z": -0.3
+    }
+  },
+  "weight": 53.0,
+  "evolutions": [],
+  "abilities": [
+    "StanceChange",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "King\u0027s Shield"
+    ],
+    "1": [
+      "King\u0027s Shield",
+      "Head Smash",
+      "Aerial Ace",
+      "Metal Sound",
+      "Slash",
+      "Night Slash",
+      "Retaliate",
+      "Iron Defense",
+      "Iron Head",
+      "Power Trick",
+      "Swords Dance",
+      "Sacred Sword",
+      "Tackle",
+      "Fury Cutter",
+      "Shadow Sneak",
+      "Autotomize"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "After You",
+    "Block",
+    "Iron Defense",
+    "Iron Head",
+    "Magnet Rise",
+    "Spite",
+    "Tackle",
+    "Metal Sound",
+    "Laser Focus"
+  ],
+  "eggMoves": [],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 60,
+        "Attack": 150,
+        "Defence": 50,
+        "Speed": 60,
+        "SpecialAttack": 150,
+        "SpecialDefence": 50
+      },
+      "evYields": {
+        "Attack": 2,
+        "SpecialAttack": 1
+      },
+      "form": 1
+    }
+  },
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    12,
+    16,
+    18,
+    21,
+    22,
+    24,
+    25,
+    31,
+    33,
+    34,
+    39,
+    43,
+    65,
+    69,
+    76,
+    79,
+    94,
+    95,
+    97
+  ],
+  "trMoves": [
+    0,
+    20,
+    21,
+    26,
+    27,
+    33,
+    46,
+    52,
+    53,
+    70,
+    74
+  ]
+}

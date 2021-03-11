@@ -1,0 +1,186 @@
+{
+  "pixelmonName": "Beartic",
+  "pokemon": "Beartic",
+  "stats": {
+    "HP": 95,
+    "Attack": 130,
+    "Defence": 80,
+    "Speed": 50,
+    "SpecialAttack": 70,
+    "SpecialDefence": 80
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 38,
+  "spawnLevelRange": 12,
+  "baseExp": 170,
+  "baseFriendship": 70,
+  "types": [
+    "Ice"
+  ],
+  "height": 1.8,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Cubchoo"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.4,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.4,
+      "z": -0.3
+    }
+  },
+  "weight": 260.0,
+  "evolutions": [],
+  "abilities": [
+    "SnowCloak",
+    "SlushRush",
+    "SwiftSwim"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Icicle Crash"
+    ],
+    "1": [
+      "Icicle Crash",
+      "Aqua Jet",
+      "Charm",
+      "Powder Snow",
+      "Growl",
+      "Endure",
+      "Fury Swipes"
+    ],
+    "9": [
+      "Icy Wind"
+    ],
+    "12": [
+      "Play Nice"
+    ],
+    "15": [
+      "Brine"
+    ],
+    "18": [
+      "Frost Breath"
+    ],
+    "21": [
+      "Slash"
+    ],
+    "24": [
+      "Flail"
+    ],
+    "27": [
+      "Swagger"
+    ],
+    "30": [
+      "Hail"
+    ],
+    "33": [
+      "Thrash"
+    ],
+    "36": [
+      "Rest"
+    ],
+    "41": [
+      "Blizzard"
+    ],
+    "46": [
+      "Sheer Cold"
+    ],
+    "51": [
+      "Superpower"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Focus Punch",
+    "Ice Punch",
+    "Icy Wind",
+    "Low Kick",
+    "Snore",
+    "Superpower",
+    "Throat Chop",
+    "Water Pulse"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    0,
+    1,
+    4,
+    8,
+    9,
+    15,
+    21,
+    22,
+    24,
+    25,
+    26,
+    27,
+    29,
+    31,
+    33,
+    35,
+    39,
+    43,
+    45,
+    48,
+    51,
+    55,
+    58,
+    59,
+    64,
+    65,
+    67,
+    76,
+    81
+  ],
+  "trMoves": [
+    0,
+    4,
+    5,
+    6,
+    7,
+    20,
+    26,
+    27,
+    30,
+    37,
+    39,
+    48,
+    64,
+    75,
+    77,
+    79,
+    90,
+    95,
+    98,
+    99
+  ]
+}

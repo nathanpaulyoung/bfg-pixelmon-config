@@ -1,0 +1,81 @@
+{
+  "pixelmonName": "Blipbug",
+  "pokemon": "Blipbug",
+  "stats": {
+    "HP": 25,
+    "Attack": 20,
+    "Defence": 20,
+    "SpecialAttack": 25,
+    "SpecialDefence": 45,
+    "Speed": 45
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 4,
+  "spawnLevelRange": 6,
+  "baseExp": 36,
+  "baseFriendship": 50,
+  "types": [
+    "Bug"
+  ],
+  "height": 0.4,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 8.0,
+  "evolutions": [
+    {
+      "level": 10,
+      "to": {
+        "name": "Dottler"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Reflect",
+        "Light Screen",
+        "Confusion"
+      ]
+    }
+  ],
+  "abilities": [
+    "Swarm",
+    "CompoundEyes",
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "1": [
+      "Struggle Bug"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Infestation",
+    "Supersonic",
+    "Sticky Web",
+    "Recover"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [],
+  "trMoves": []
+}

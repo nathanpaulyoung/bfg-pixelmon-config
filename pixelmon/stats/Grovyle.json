@@ -1,0 +1,181 @@
+{
+  "pixelmonName": "Grovyle",
+  "pokemon": "Grovyle",
+  "stats": {
+    "HP": 50,
+    "Attack": 65,
+    "Defence": 45,
+    "Speed": 95,
+    "SpecialAttack": 85,
+    "SpecialDefence": 65
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 17,
+  "spawnLevelRange": 6,
+  "baseExp": 141,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.9,
+  "width": 1.0,
+  "length": 2.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Treecko"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 21.6,
+  "evolutions": [
+    {
+      "level": 36,
+      "to": {
+        "name": "Sceptile"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Dual Chop"
+      ]
+    }
+  ],
+  "abilities": [
+    "Overgrow",
+    null,
+    "Unburden"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Pound",
+      "Leer",
+      "Absorb",
+      "Quick Attack",
+      "Fury Cutter"
+    ],
+    "5": [
+      "Absorb"
+    ],
+    "9": [
+      "Quick Attack"
+    ],
+    "13": [
+      "Mega Drain"
+    ],
+    "18": [
+      "Pursuit"
+    ],
+    "23": [
+      "Leaf Blade"
+    ],
+    "28": [
+      "Agility"
+    ],
+    "33": [
+      "Slam"
+    ],
+    "38": [
+      "Detect"
+    ],
+    "43": [
+      "X-Scissor"
+    ],
+    "48": [
+      "False Swipe"
+    ],
+    "53": [
+      "Quick Guard"
+    ],
+    "58": [
+      "Leaf Storm"
+    ],
+    "63": [
+      "Screech"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Solar Beam",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "False Swipe",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Sunny Day",
+    "Facade",
+    "Nature Power",
+    "Brick Break",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Fling",
+    "X-Scissor",
+    "Energy Ball",
+    "Grass Knot",
+    "Low Sweep",
+    "Round",
+    "Acrobatics",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Drain Punch",
+    "Endeavor",
+    "Focus Punch",
+    "Giga Drain",
+    "Grass Pledge",
+    "Iron Tail",
+    "Low Kick",
+    "Seed Bomb",
+    "Snore",
+    "Synthesis",
+    "Thunder Punch",
+    "Worry Seed"
+  ],
+  "eggMoves": [
+    "Bullet Seed",
+    "Crunch",
+    "Crush Claw",
+    "Double Kick",
+    "Dragon Breath",
+    "Endeavor",
+    "Grass Whistle",
+    "Grassy Terrain",
+    "Leaf Storm",
+    "Leech Seed",
+    "Magical Leaf",
+    "Mud Sport",
+    "Natural Gift",
+    "Razor Wind",
+    "Synthesis",
+    "Worry Seed"
+  ],
+  "forms": {},
+  "form": 0
+}

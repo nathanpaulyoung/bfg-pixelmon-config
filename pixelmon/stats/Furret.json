@@ -1,0 +1,175 @@
+{
+  "pixelmonName": "Furret",
+  "pokemon": "Furret",
+  "stats": {
+    "HP": 85,
+    "Attack": 76,
+    "Defence": 64,
+    "Speed": 90,
+    "SpecialAttack": 45,
+    "SpecialDefence": 55
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 35,
+  "baseExp": 116,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.8,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Sentret"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 32.5,
+  "evolutions": [],
+  "abilities": [
+    "RunAway",
+    "KeenEye",
+    "Frisk"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Foresight",
+      "Defense Curl",
+      "Quick Attack",
+      "Coil",
+      "Agility"
+    ],
+    "4": [
+      "Defense Curl"
+    ],
+    "7": [
+      "Quick Attack"
+    ],
+    "13": [
+      "Fury Swipes"
+    ],
+    "17": [
+      "Helping Hand"
+    ],
+    "21": [
+      "Follow Me"
+    ],
+    "28": [
+      "Slam"
+    ],
+    "32": [
+      "Rest"
+    ],
+    "36": [
+      "Sucker Punch"
+    ],
+    "42": [
+      "Amnesia"
+    ],
+    "46": [
+      "Baton Pass"
+    ],
+    "50": [
+      "Me First"
+    ],
+    "56": [
+      "Hyper Voice"
+    ]
+  },
+  "tmMoves": [
+    "Flamethrower",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Shadow Ball",
+    "Facade",
+    "Brick Break",
+    "U-Turn",
+    "Fling",
+    "Focus Blast",
+    "Giga Impact",
+    "Shadow Claw",
+    "Grass Knot",
+    "Charge Beam",
+    "Round",
+    "Echoed Voice",
+    "Work Up",
+    "Confide",
+    "Brutal Swing"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Covet",
+    "Fire Punch",
+    "Focus Punch",
+    "Helping Hand",
+    "Hyper Voice",
+    "Ice Punch",
+    "Iron Tail",
+    "Knock Off",
+    "Last Resort",
+    "Shock Wave",
+    "Snore",
+    "Super Fang",
+    "Thunder Punch",
+    "Trick",
+    "Uproar",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Assist",
+    "Baby-Doll Eyes",
+    "Captivate",
+    "Charm",
+    "Covet",
+    "Double-Edge",
+    "Focus Energy",
+    "Iron Tail",
+    "Last Resort",
+    "Natural Gift",
+    "Pursuit",
+    "Reversal",
+    "Slash",
+    "Trick"
+  ],
+  "forms": {},
+  "form": 0
+}

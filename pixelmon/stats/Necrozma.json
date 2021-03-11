@@ -1,0 +1,302 @@
+{
+  "pixelmonName": "Necrozma",
+  "pokemon": "Necrozma",
+  "stats": {
+    "HP": 97,
+    "Attack": 107,
+    "Defence": 101,
+    "Speed": 79,
+    "SpecialAttack": 127,
+    "SpecialDefence": 89
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 70,
+  "baseExp": 120,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 5.5,
+  "width": 2.4,
+  "length": 2.4,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 1,
+    "SpecialAttack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.2
+    }
+  },
+  "weight": 230.0,
+  "evolutions": [],
+  "abilities": [
+    "PrismArmor",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "1": [
+      "Moonlight",
+      "Morning Sun",
+      "Charge Beam",
+      "Gravity",
+      "Metal Claw",
+      "Confusion"
+    ],
+    "8": [
+      "Stealth Rock"
+    ],
+    "16": [
+      "Slash"
+    ],
+    "24": [
+      "Night Slash"
+    ],
+    "32": [
+      "Psycho Cut"
+    ],
+    "40": [
+      "Stored Power"
+    ],
+    "48": [
+      "Rock Blast"
+    ],
+    "56": [
+      "Iron Defense"
+    ],
+    "64": [
+      "Power Gem"
+    ],
+    "72": [
+      "Photon Geyser"
+    ],
+    "80": [
+      "Autotomize"
+    ],
+    "88": [
+      "Prismatic Laser"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Signal Beam",
+    "Iron Head",
+    "Earth Power",
+    "Gravity",
+    "Magnet Rise",
+    "Iron Defense",
+    "Dragon Pulse",
+    "Hyper Voice",
+    "Snore",
+    "Knock Off",
+    "Heat Wave",
+    "Shock Wave",
+    "Outrage",
+    "Recycle",
+    "Stealth Rock",
+    "Telekinesis",
+    "Ally Switch"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 97,
+        "Attack": 157,
+        "Defence": 127,
+        "Speed": 77,
+        "SpecialAttack": 113,
+        "SpecialDefence": 109
+      },
+      "types": [
+        "Psychic",
+        "Steel"
+      ],
+      "height": 3.8,
+      "width": 3.8,
+      "length": 3.8,
+      "evYields": {
+        "Attack": 3
+      },
+      "weight": 460.0,
+      "form": 1
+    },
+    "2": {
+      "stats": {
+        "HP": 97,
+        "Attack": 113,
+        "Defence": 109,
+        "Speed": 77,
+        "SpecialAttack": 157,
+        "SpecialDefence": 127
+      },
+      "types": [
+        "Psychic",
+        "Ghost"
+      ],
+      "height": 4.2,
+      "width": 4.2,
+      "length": 4.2,
+      "evYields": {
+        "SpecialAttack": 3
+      },
+      "weight": 350.0,
+      "form": 2,
+      "levelUpMoves": {
+        "1": [
+          "Moonlight",
+          "Morning Sun",
+          "Charge Beam",
+          "Gravity",
+          "Metal Claw",
+          "Confusion"
+        ],
+        "8": [
+          "Stealth Rock"
+        ],
+        "16": [
+          "Slash"
+        ],
+        "24": [
+          "Night Slash"
+        ],
+        "32": [
+          "Psycho Cut"
+        ],
+        "40": [
+          "Stored Power"
+        ],
+        "48": [
+          "Rock Blast"
+        ],
+        "56": [
+          "Iron Defense"
+        ],
+        "64": [
+          "Power Gem"
+        ],
+        "72": [
+          "Photon Geyser"
+        ],
+        "60": [
+          "Autotomize"
+        ],
+        "66": [
+          "Prismatic Laser"
+        ]
+      }
+    },
+    "3": {
+      "stats": {
+        "HP": 97,
+        "Attack": 167,
+        "Defence": 97,
+        "Speed": 129,
+        "SpecialAttack": 167,
+        "SpecialDefence": 97
+      },
+      "types": [
+        "Psychic",
+        "Dragon"
+      ],
+      "height": 7.5,
+      "width": 7.5,
+      "length": 7.5,
+      "evYields": {
+        "Attack": 1,
+        "SpecialAttack": 1,
+        "Speed": 1
+      },
+      "abilities": [
+        "Neuroforce",
+        null,
+        null
+      ],
+      "form": 3
+    }
+  },
+  "form": 0,
+  "eggMoves": [],
+  "tmMoves8": [
+    8,
+    9,
+    11,
+    14,
+    17,
+    18,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    39,
+    43,
+    44,
+    48,
+    54,
+    59,
+    65,
+    69,
+    70,
+    76,
+    81,
+    96,
+    97,
+    99
+  ],
+  "trMoves": [
+    0,
+    10,
+    11,
+    20,
+    24,
+    25,
+    26,
+    27,
+    34,
+    36,
+    42,
+    44,
+    46,
+    49,
+    51,
+    52,
+    58,
+    60,
+    62,
+    63,
+    67,
+    70,
+    74,
+    75,
+    76,
+    82,
+    83,
+    97
+  ]
+}

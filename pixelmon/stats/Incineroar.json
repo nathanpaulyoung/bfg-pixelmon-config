@@ -1,0 +1,200 @@
+{
+  "pixelmonName": "Incineroar",
+  "pokemon": "Incineroar",
+  "stats": {
+    "HP": 95,
+    "Attack": 115,
+    "Defence": 90,
+    "Speed": 60,
+    "SpecialAttack": 80,
+    "SpecialDefence": 90
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 36,
+  "spawnLevelRange": 30,
+  "baseExp": 239,
+  "baseFriendship": 70,
+  "types": [
+    "Fire",
+    "Dark"
+  ],
+  "height": 1.8,
+  "width": 1.8,
+  "length": 1.8,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Torracat",
+    "Litten"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.2
+    }
+  },
+  "weight": 83.0,
+  "evolutions": [],
+  "abilities": [
+    "Blaze",
+    null,
+    "Intimidate"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Darkest Lariat"
+    ],
+    "1": [
+      "Darkest Lariat",
+      "Cross Chop",
+      "Throat Chop",
+      "Bulk Up",
+      "Scratch",
+      "Growl",
+      "Ember",
+      "Lick"
+    ],
+    "9": [
+      "Roar"
+    ],
+    "12": [
+      "Fury Swipes"
+    ],
+    "15": [
+      "Bite"
+    ],
+    "20": [
+      "Double Kick"
+    ],
+    "25": [
+      "Fire Fang"
+    ],
+    "30": [
+      "Scary Face"
+    ],
+    "32": [
+      "Swagger"
+    ],
+    "44": [
+      "Flamethrower"
+    ],
+    "51": [
+      "Thrash"
+    ],
+    "58": [
+      "Flare Blitz"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Blast Burn",
+    "Fire Pledge",
+    "Covet",
+    "Dual Chop",
+    "Iron Head",
+    "Low Kick",
+    "Thunder Punch",
+    "Fire Punch",
+    "Superpower",
+    "Bind",
+    "Snore",
+    "Knock Off",
+    "Heat Wave",
+    "Drain Punch",
+    "Focus Punch",
+    "Endeavor",
+    "Outrage",
+    "Snatch",
+    "Stomping Tantrum",
+    "Throat Chop"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": -1,
+  "tmMoves8": [
+    0,
+    1,
+    2,
+    3,
+    5,
+    8,
+    9,
+    13,
+    21,
+    24,
+    25,
+    26,
+    31,
+    34,
+    38,
+    39,
+    42,
+    43,
+    56,
+    58,
+    59,
+    63,
+    65,
+    68,
+    75,
+    76,
+    78,
+    81,
+    85,
+    97,
+    98
+  ],
+  "trMoves": [
+    0,
+    1,
+    2,
+    7,
+    10,
+    15,
+    18,
+    20,
+    21,
+    24,
+    26,
+    27,
+    32,
+    36,
+    37,
+    39,
+    41,
+    43,
+    48,
+    53,
+    55,
+    58,
+    64,
+    68,
+    74,
+    85,
+    88,
+    93,
+    95
+  ]
+}

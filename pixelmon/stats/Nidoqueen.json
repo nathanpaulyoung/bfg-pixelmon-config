@@ -1,0 +1,175 @@
+{
+  "pixelmonName": "Nidoqueen",
+  "pokemon": "Nidoqueen",
+  "stats": {
+    "HP": 90,
+    "Attack": 92,
+    "Defence": 87,
+    "Speed": 76,
+    "SpecialAttack": 75,
+    "SpecialDefence": 85
+  },
+  "catchRate": 45,
+  "malePercent": 0,
+  "spawnLevel": 30,
+  "spawnLevelRange": 20,
+  "baseExp": 194,
+  "baseFriendship": 70,
+  "types": [
+    "Poison",
+    "Ground"
+  ],
+  "height": 1.3,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Nidorina",
+    "Nidoranfemale"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.1,
+      "z": -0.1
+    }
+  },
+  "weight": 60.0,
+  "evolutions": [],
+  "abilities": [
+    "PoisonPoint",
+    "Rivalry",
+    "SheerForce"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Superpower",
+      "Scratch",
+      "Tail Whip",
+      "Double Kick",
+      "Poison Sting"
+    ],
+    "23": [
+      "Chip Away"
+    ],
+    "35": [
+      "Body Slam"
+    ],
+    "43": [
+      "Earth Power"
+    ],
+    "58": [
+      "Superpower"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Flamethrower",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Fire Blast",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Shadow Ball",
+    "Torment",
+    "Facade",
+    "Taunt",
+    "Brick Break",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Fling",
+    "Poison Jab",
+    "Focus Blast",
+    "Giga Impact",
+    "Shadow Claw",
+    "Stone Edge",
+    "Venoshock",
+    "Smack Down",
+    "Sludge Wave",
+    "Round",
+    "Echoed Voice",
+    "Quash",
+    "Bulldoze",
+    "Dragon Tail",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Dragon Pulse",
+    "Drill Run",
+    "Earth Power",
+    "Fire Punch",
+    "Focus Punch",
+    "Helping Hand",
+    "Ice Punch",
+    "Icy Wind",
+    "Iron Tail",
+    "Outrage",
+    "Shock Wave",
+    "Snore",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Super Fang",
+    "Superpower",
+    "Throat Chop",
+    "Thunder Punch",
+    "Uproar",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Beat Up",
+    "Charm",
+    "Chip Away",
+    "Counter",
+    "Disable",
+    "Endure",
+    "Focus Energy",
+    "Iron Tail",
+    "Poison Tail",
+    "Pursuit",
+    "Skull Bash",
+    "Supersonic",
+    "Take Down",
+    "Venom Drench"
+  ],
+  "forms": {},
+  "form": 0
+}

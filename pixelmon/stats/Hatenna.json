@@ -1,0 +1,138 @@
+{
+  "pixelmonName": "Hatenna",
+  "pokemon": "Hatenna",
+  "form": 0,
+  "stats": {
+    "HP": 42,
+    "Attack": 30,
+    "Defence": 45,
+    "SpecialAttack": 56,
+    "SpecialDefence": 53,
+    "Speed": 39
+  },
+  "catchRate": 235,
+  "malePercent": 0,
+  "spawnLevel": 22,
+  "spawnLevelRange": 8,
+  "baseExp": 53,
+  "baseFriendship": 50,
+  "types": [
+    "Psychic"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 3.4,
+  "evolutions": [
+    {
+      "level": 32,
+      "to": {
+        "name": "Hattrem"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Brutal Swing"
+      ]
+    }
+  ],
+  "abilities": [
+    "Healer",
+    "Anticipation",
+    "MagicBounce"
+  ],
+  "eggGroups": [
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Confusion",
+      "Play Nice"
+    ],
+    "5": [
+      "Life Dew"
+    ],
+    "10": [
+      "Disarming Voice"
+    ],
+    "15": [
+      "Aromatherapy"
+    ],
+    "20": [
+      "Psybeam"
+    ],
+    "25": [
+      "Heal Pulse"
+    ],
+    "30": [
+      "Dazzling Gleam"
+    ],
+    "35": [
+      "Calm Mind"
+    ],
+    "40": [
+      "Psychic"
+    ],
+    "45": [
+      "Healing Wish"
+    ]
+  },
+  "tutorMoves": [
+    "Expanding Force"
+  ],
+  "eggMoves": [
+    "After You",
+    "Aromatic Mist",
+    "Nuzzle",
+    "Quash"
+  ],
+  "tmMoves8": [
+    10,
+    14,
+    17,
+    19,
+    21,
+    24,
+    25,
+    28,
+    29,
+    31,
+    39,
+    41,
+    44,
+    76,
+    87,
+    92
+  ],
+  "trMoves": [
+    11,
+    20,
+    25,
+    26,
+    27,
+    29,
+    40,
+    49,
+    58,
+    82,
+    90,
+    92
+  ]
+}

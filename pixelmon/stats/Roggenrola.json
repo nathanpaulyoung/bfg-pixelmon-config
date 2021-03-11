@@ -1,0 +1,145 @@
+{
+  "pixelmonName": "Roggenrola",
+  "pokemon": "Roggenrola",
+  "stats": {
+    "HP": 55,
+    "Attack": 75,
+    "Defence": 85,
+    "Speed": 15,
+    "SpecialAttack": 25,
+    "SpecialDefence": 25
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 3,
+  "spawnLevelRange": 12,
+  "baseExp": 56,
+  "baseFriendship": 70,
+  "types": [
+    "Rock"
+  ],
+  "height": 0.4,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 18.0,
+  "evolutions": [
+    {
+      "level": 25,
+      "to": {
+        "name": "Boldore"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Sturdy",
+    "WeakArmor",
+    "SandForce"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "1": [
+      "Sand Attack",
+      "Tackle"
+    ],
+    "4": [
+      "Harden"
+    ],
+    "8": [
+      "Stealth Rock"
+    ],
+    "12": [
+      "Mud-Slap"
+    ],
+    "16": [
+      "Smack Down"
+    ],
+    "20": [
+      "Iron Defense"
+    ],
+    "24": [
+      "Headbutt"
+    ],
+    "28": [
+      "Rock Slide"
+    ],
+    "32": [
+      "Rock Blast"
+    ],
+    "36": [
+      "Sandstorm"
+    ],
+    "40": [
+      "Stone Edge"
+    ],
+    "44": [
+      "Explosion"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Block",
+    "Earth Power",
+    "Gravity",
+    "Iron Defense",
+    "Harden",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Curse",
+    "Autotomize",
+    "Take Down",
+    "Gravity",
+    "Wide Guard"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    21,
+    22,
+    24,
+    25,
+    31,
+    32,
+    39,
+    48,
+    49,
+    54,
+    76,
+    81
+  ],
+  "trMoves": [
+    10,
+    20,
+    26,
+    27,
+    46,
+    67,
+    70,
+    75,
+    76,
+    79,
+    99
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "pixelmonName": "Thwackey",
+  "pokemon": "Thwackey",
+  "stats": {
+    "HP": 70,
+    "Attack": 85,
+    "Defence": 70,
+    "SpecialAttack": 55,
+    "SpecialDefence": 60,
+    "Speed": 80
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 16,
+  "spawnLevelRange": 20,
+  "baseExp": 147,
+  "baseFriendship": 50,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.7,
+  "width": 0.6,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Grookey"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "weight": 14.0,
+  "evolutions": [
+    {
+      "level": 35,
+      "to": {
+        "name": "Rillaboom"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Drum Beating"
+      ]
+    }
+  ],
+  "abilities": [
+    "Overgrow",
+    null,
+    "GrassySurge"
+  ],
+  "eggGroups": [
+    "Field",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Double Hit"
+    ],
+    "1": [
+      "Double Hit",
+      "Scratch",
+      "Growl",
+      "Branch Poke",
+      "Taunt"
+    ],
+    "12": [
+      "Razor Leaf"
+    ],
+    "19": [
+      "Screech"
+    ],
+    "24": [
+      "Knock Off"
+    ],
+    "30": [
+      "Slam"
+    ],
+    "36": [
+      "Uproar"
+    ],
+    "42": [
+      "Wood Hammer"
+    ],
+    "48": [
+      "Endeavor"
+    ]
+  },
+  "tutorMoves": [
+    "Grass Pledge",
+    "Grassy Glide"
+  ],
+  "eggMoves": [
+    "Fake Out",
+    "Growth",
+    "Hammer Arm",
+    "Leech Seed",
+    "Nature Power",
+    "Strength",
+    "Worry Seed"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    0,
+    1,
+    10,
+    11,
+    12,
+    16,
+    21,
+    24,
+    25,
+    28,
+    31,
+    34,
+    39,
+    40,
+    56,
+    58,
+    59,
+    63,
+    76,
+    78,
+    94
+  ],
+  "trMoves": [
+    0,
+    7,
+    13,
+    20,
+    26,
+    27,
+    35,
+    37,
+    65,
+    77,
+    85
+  ]
+}

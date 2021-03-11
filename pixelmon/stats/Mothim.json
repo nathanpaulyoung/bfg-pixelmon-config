@@ -1,0 +1,162 @@
+{
+  "pixelmonName": "Mothim",
+  "pokemon": "Mothim",
+  "stats": {
+    "HP": 70,
+    "Attack": 94,
+    "Defence": 50,
+    "Speed": 66,
+    "SpecialAttack": 94,
+    "SpecialDefence": 50
+  },
+  "catchRate": 45,
+  "malePercent": 100,
+  "spawnLevel": 20,
+  "spawnLevelRange": 30,
+  "baseExp": 148,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "height": 0.9,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Burmy"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 5,
+    "flyHeightMax": 15,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "SpecialAttack": 1
+  },
+  "hoverHeight": 1.0,
+  "weight": 23.3,
+  "evolutions": [],
+  "abilities": [
+    "Swarm",
+    null,
+    "TintedLens"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Protect",
+      "Bug Bite",
+      "Quiver Dance"
+    ],
+    "10": [
+      "Protect"
+    ],
+    "15": [
+      "Bug Bite"
+    ],
+    "20": [
+      "Hidden Power"
+    ],
+    "23": [
+      "Confusion"
+    ],
+    "26": [
+      "Gust"
+    ],
+    "29": [
+      "Poison Powder"
+    ],
+    "32": [
+      "Psybeam"
+    ],
+    "35": [
+      "Camouflage"
+    ],
+    "38": [
+      "Silver Wind"
+    ],
+    "41": [
+      "Air Slash"
+    ],
+    "44": [
+      "Psychic"
+    ],
+    "47": [
+      "Lunge"
+    ],
+    "50": [
+      "Bug Buzz"
+    ]
+  },
+  "tmMoves": [
+    "Hyper Beam",
+    "Solar Beam",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Dream Eater",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Shadow Ball",
+    "Facade",
+    "Aerial Ace",
+    "Roost",
+    "U-Turn",
+    "Energy Ball",
+    "Giga Impact",
+    "Venoshock",
+    "Round",
+    "Acrobatics",
+    "Confide",
+    "Infestation"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Defog",
+    "Electroweb",
+    "Giga Drain",
+    "Signal Beam",
+    "Skill Swap",
+    "Snore",
+    "Tailwind"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": []
+}

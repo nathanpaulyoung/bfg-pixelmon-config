@@ -1,0 +1,106 @@
+{
+  "pixelmonName": "Starmie",
+  "pokemon": "Starmie",
+  "stats": {
+    "HP": 60,
+    "Attack": 75,
+    "Defence": 85,
+    "Speed": 115,
+    "SpecialAttack": 100,
+    "SpecialDefence": 85
+  },
+  "catchRate": 60,
+  "malePercent": -1,
+  "spawnLevel": 30,
+  "spawnLevelRange": 20,
+  "baseExp": 207,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Psychic"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Staryu"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 5,
+    "depthRangeEnd": 100,
+    "swimSpeed": 1.0,
+    "decayRate": 0.9,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.5
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.5
+    }
+  },
+  "weight": 80.0,
+  "evolutions": [],
+  "abilities": [
+    "Illuminate",
+    "NaturalCure",
+    "Analytic"
+  ],
+  "eggGroups": [
+    "Water3"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Hydro Pump",
+      "Water Gun",
+      "Rapid Spin",
+      "Recover",
+      "Swift",
+      "Spotlight"
+    ],
+    "40": [
+      "Confuse Ray"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Gravity",
+    "Magic Coat",
+    "Pain Split",
+    "Signal Beam",
+    "Trick",
+    "Twister",
+    "Wonder Room",
+    "Hydro Pump",
+    "Rapid Spin",
+    "Refresh",
+    "Harden",
+    "Tackle",
+    "Ally Switch",
+    "Telekinesis"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": []
+}

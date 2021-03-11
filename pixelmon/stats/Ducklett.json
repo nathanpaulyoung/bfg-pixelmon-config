@@ -1,0 +1,157 @@
+{
+  "pixelmonName": "Ducklett",
+  "pokemon": "Ducklett",
+  "stats": {
+    "HP": 62,
+    "Attack": 44,
+    "Defence": 50,
+    "Speed": 55,
+    "SpecialAttack": 44,
+    "SpecialDefence": 50
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 14,
+  "baseExp": 61,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Flying"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 5.5,
+  "evolutions": [
+    {
+      "level": 35,
+      "to": {
+        "name": "Swanna"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "KeenEye",
+    "BigPecks",
+    "Hydration"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Flying"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Water Gun"
+    ],
+    "3": [
+      "Water Sport"
+    ],
+    "6": [
+      "Defog"
+    ],
+    "9": [
+      "Wing Attack"
+    ],
+    "13": [
+      "Water Pulse"
+    ],
+    "15": [
+      "Aerial Ace"
+    ],
+    "19": [
+      "Bubble Beam"
+    ],
+    "21": [
+      "Feather Dance"
+    ],
+    "24": [
+      "Aqua Ring"
+    ],
+    "27": [
+      "Air Slash"
+    ],
+    "30": [
+      "Roost"
+    ],
+    "34": [
+      "Rain Dance"
+    ],
+    "37": [
+      "Tailwind"
+    ],
+    "41": [
+      "Brave Bird"
+    ],
+    "46": [
+      "Hurricane"
+    ]
+  },
+  "tmMoves": [
+    "Fly",
+    "Surf",
+    "Ice Beam",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Steel Wing",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Hail",
+    "Facade",
+    "Aerial Ace",
+    "Roost",
+    "Round",
+    "Scald",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Defog",
+    "Endeavor",
+    "Icy Wind",
+    "Liquidation",
+    "Snore",
+    "Tailwind",
+    "Uproar",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Air Cutter",
+    "Aqua Jet",
+    "Brine",
+    "Gust",
+    "Lucky Chant",
+    "Me First",
+    "Mirror Move",
+    "Mud Sport",
+    "Steel Wing"
+  ],
+  "forms": {},
+  "form": 0
+}

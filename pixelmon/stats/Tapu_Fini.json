@@ -1,0 +1,167 @@
+{
+  "pixelmonName": "TapuFini",
+  "pokemon": "Tapu_Fini",
+  "stats": {
+    "HP": 70,
+    "Attack": 75,
+    "Defence": 115,
+    "Speed": 85,
+    "SpecialAttack": 95,
+    "SpecialDefence": 130
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 50,
+  "spawnLevelRange": 0,
+  "baseExp": 114,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Fairy"
+  ],
+  "height": 1.8,
+  "width": 1.8,
+  "length": 1.8,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 1,
+    "swimSpeed": 2.0,
+    "decayRate": 0.99,
+    "refreshRate": 100
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "SpecialDefence": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.2,
+      "z": -0.15
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.2,
+      "z": -0.15
+    }
+  },
+  "weight": 21.2,
+  "evolutions": [],
+  "abilities": [
+    "MistySurge",
+    null,
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Misty Terrain",
+      "Moonblast",
+      "Heal Pulse",
+      "Mean Look",
+      "Haze",
+      "Mist",
+      "Withdraw",
+      "Water Gun"
+    ],
+    "8": [
+      "Water Pulse"
+    ],
+    "14": [
+      "Whirlpool"
+    ],
+    "20": [
+      "Soak"
+    ],
+    "26": [
+      "Refresh"
+    ],
+    "32": [
+      "Brine"
+    ],
+    "38": [
+      "Defog"
+    ],
+    "43": [
+      "Natures Madness"
+    ],
+    "48": [
+      "Muddy Water"
+    ],
+    "53": [
+      "Aqua Ring"
+    ],
+    "58": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Toxic",
+    "Double Team",
+    "Light Screen",
+    "Reflect",
+    "Waterfall",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Psych Up",
+    "Shadow Ball",
+    "Torment",
+    "Facade",
+    "Nature Power",
+    "Taunt",
+    "Calm Mind",
+    "Fling",
+    "Giga Impact",
+    "Grass Knot",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Confide",
+    "Dazzling Gleam",
+    "Smart Strike"
+  ],
+  "tutorMoves": [
+    "Defog",
+    "Gravity",
+    "Ice Punch",
+    "Icy Wind",
+    "Iron Defense",
+    "Knock Off",
+    "Magic Coat",
+    "Magic Room",
+    "Snore",
+    "Telekinesis",
+    "Trick",
+    "Water Pulse",
+    "Wonder Room"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": []
+}

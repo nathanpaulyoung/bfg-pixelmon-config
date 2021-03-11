@@ -1,0 +1,180 @@
+{
+  "pixelmonName": "Sentret",
+  "pokemon": "Sentret",
+  "form": 0,
+  "stats": {
+    "HP": 35,
+    "Attack": 46,
+    "Defence": 34,
+    "Speed": 20,
+    "SpecialAttack": 35,
+    "SpecialDefence": 45
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 9,
+  "baseExp": 57,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.8,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 6.0,
+  "evolutions": [
+    {
+      "level": 15,
+      "to": {
+        "name": "Furret"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Agility"
+      ]
+    }
+  ],
+  "abilities": [
+    "RunAway",
+    "KeenEye",
+    "Frisk"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Foresight"
+    ],
+    "4": [
+      "Defense Curl"
+    ],
+    "7": [
+      "Quick Attack"
+    ],
+    "13": [
+      "Fury Swipes"
+    ],
+    "16": [
+      "Helping Hand"
+    ],
+    "19": [
+      "Follow Me"
+    ],
+    "25": [
+      "Slam"
+    ],
+    "28": [
+      "Rest"
+    ],
+    "31": [
+      "Sucker Punch"
+    ],
+    "36": [
+      "Amnesia"
+    ],
+    "39": [
+      "Baton Pass"
+    ],
+    "42": [
+      "Me First"
+    ],
+    "47": [
+      "Hyper Voice"
+    ]
+  },
+  "tmMoves": [
+    "Flamethrower",
+    "Surf",
+    "Ice Beam",
+    "Solar Beam",
+    "Thunderbolt",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Shadow Ball",
+    "Facade",
+    "Brick Break",
+    "U-Turn",
+    "Fling",
+    "Shadow Claw",
+    "Grass Knot",
+    "Charge Beam",
+    "Round",
+    "Echoed Voice",
+    "Work Up",
+    "Confide",
+    "Brutal Swing"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Covet",
+    "Fire Punch",
+    "Focus Punch",
+    "Helping Hand",
+    "Hyper Voice",
+    "Ice Punch",
+    "Iron Tail",
+    "Knock Off",
+    "Last Resort",
+    "Shock Wave",
+    "Snore",
+    "Super Fang",
+    "Thunder Punch",
+    "Trick",
+    "Uproar",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Assist",
+    "Baby-Doll Eyes",
+    "Captivate",
+    "Charm",
+    "Covet",
+    "Double-Edge",
+    "Focus Energy",
+    "Iron Tail",
+    "Last Resort",
+    "Natural Gift",
+    "Pursuit",
+    "Reversal",
+    "Slash",
+    "Trick"
+  ],
+  "forms": {
+    "101": {
+      "pixelmonName": "PixeldipSentret"
+    }
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "pixelmonName": "Sandshrew",
+  "pokemon": "Sandshrew",
+  "stats": {
+    "HP": 50,
+    "Attack": 75,
+    "Defence": 85,
+    "Speed": 40,
+    "SpecialAttack": 20,
+    "SpecialDefence": 30
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 12,
+  "spawnLevelRange": 10,
+  "baseExp": 93,
+  "baseFriendship": 70,
+  "types": [
+    "Ground"
+  ],
+  "height": 0.6,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 12.0,
+  "evolutions": [
+    {
+      "level": 22,
+      "to": {
+        "name": "Sandslash",
+        "form": 0
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Crush Claw"
+      ]
+    }
+  ],
+  "abilities": [
+    "SandVeil",
+    null,
+    "SandRush"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Defense Curl"
+    ],
+    "3": [
+      "Sand Attack"
+    ],
+    "5": [
+      "Poison Sting"
+    ],
+    "7": [
+      "Rollout"
+    ],
+    "9": [
+      "Rapid Spin"
+    ],
+    "11": [
+      "Fury Cutter"
+    ],
+    "14": [
+      "Magnitude"
+    ],
+    "17": [
+      "Swift"
+    ],
+    "20": [
+      "Fury Swipes"
+    ],
+    "23": [
+      "Sand Tomb"
+    ],
+    "26": [
+      "Slash"
+    ],
+    "30": [
+      "Dig"
+    ],
+    "34": [
+      "Gyro Ball"
+    ],
+    "38": [
+      "Swords Dance"
+    ],
+    "42": [
+      "Sandstorm"
+    ],
+    "46": [
+      "Earthquake"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Earth Power",
+    "Knock Off",
+    "Super Fang",
+    "Crush Claw",
+    "Flail",
+    "Rapid Spin",
+    "Slash",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [
+    "Chip Away",
+    "Counter",
+    "Crush Claw",
+    "Endure",
+    "Flail",
+    "Metal Claw",
+    "Mud Shot",
+    "Night Slash",
+    "Rapid Spin",
+    "Rock Climb",
+    "Rototiller",
+    "Hone Claws"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 50,
+        "Attack": 75,
+        "Defence": 90,
+        "Speed": 40,
+        "SpecialAttack": 10,
+        "SpecialDefence": 35
+      },
+      "types": [
+        "Ice",
+        "Steel"
+      ],
+      "weight": 3.8,
+      "evolutions": [
+        {
+          "item": {
+            "itemID": "pixelmon:ice_stone"
+          },
+          "to": {
+            "name": "Sandslash",
+            "form": 1
+          },
+          "conditions": [],
+          "evoType": "interact",
+          "moves": [
+            "Icicle Spear"
+          ]
+        }
+      ],
+      "abilities": [
+        "SnowCloak",
+        null,
+        "SlushRush"
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Scratch",
+          "Defense Curl"
+        ],
+        "3": [
+          "Bide"
+        ],
+        "5": [
+          "Powder Snow"
+        ],
+        "7": [
+          "Ice Ball"
+        ],
+        "9": [
+          "Rapid Spin"
+        ],
+        "11": [
+          "Fury Cutter"
+        ],
+        "14": [
+          "Metal Claw"
+        ],
+        "17": [
+          "Swift"
+        ],
+        "20": [
+          "Fury Swipes"
+        ],
+        "23": [
+          "Iron Defense"
+        ],
+        "26": [
+          "Slash"
+        ],
+        "30": [
+          "Iron Head"
+        ],
+        "34": [
+          "Gyro Ball"
+        ],
+        "38": [
+          "Swords Dance"
+        ],
+        "42": [
+          "Hail"
+        ],
+        "46": [
+          "Blizzard"
+        ]
+      },
+      "tmMoves": [
+        "Work Up",
+        "Toxic",
+        "Hail",
+        "Hidden Power",
+        "Sunny Day",
+        "Blizzard",
+        "Protect",
+        "Safeguard",
+        "Frustration",
+        "Earthquake",
+        "Return",
+        "Leech Life",
+        "Brick Break",
+        "Double Team",
+        "Aerial Ace",
+        "Facade",
+        "Rest",
+        "Attract",
+        "Thief",
+        "Round",
+        "Fling",
+        "Shadow Claw",
+        "Aurora Veil",
+        "Gyro Ball",
+        "Swords Dance",
+        "Bulldoze",
+        "Frost Breath",
+        "Rock Slide",
+        "X-Scissor",
+        "Poison Jab",
+        "Swagger",
+        "Sleep Talk",
+        "Substitute",
+        "Confide"
+      ],
+      "tutorMoves": [
+        "Covet",
+        "Super Fang",
+        "Iron Tail",
+        "Snore",
+        "Knock Off",
+        "Focus Punch",
+        "Stealth Rock",
+        "Iron Head",
+        "Ice Punch",
+        "Iron Defense",
+        "Icy Wind",
+        "Aqua Tail",
+        "Throat Chop"
+      ],
+      "eggMoves": [
+        "Flail",
+        "Counter",
+        "Metal Claw",
+        "Crush Claw",
+        "Night Slash",
+        "Mud Shot",
+        "Endure",
+        "Chip Away",
+        "Hone Claws",
+        "Icicle Spear",
+        "Icicle Crash",
+        "Curse",
+        "Amnesia"
+      ],
+      "form": 1
+    }
+  },
+  "form": 0
+}

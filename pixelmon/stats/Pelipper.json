@@ -1,0 +1,185 @@
+{
+  "pixelmonName": "Pelipper",
+  "pokemon": "Pelipper",
+  "stats": {
+    "HP": 60,
+    "Attack": 50,
+    "Defence": 100,
+    "Speed": 65,
+    "SpecialAttack": 95,
+    "SpecialDefence": 70
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 30,
+  "baseExp": 164,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Flying"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Wingull"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 10,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.1,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.6
+    }
+  },
+  "weight": 28.0,
+  "evolutions": [],
+  "abilities": [
+    "KeenEye",
+    "Drizzle",
+    "RainDish"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Flying"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Protect",
+      "Soak",
+      "Quick Attack",
+      "Agility",
+      "Air Slash",
+      "Growl",
+      "Water Gun",
+      "Tailwind",
+      "Supersonic"
+    ],
+    "15": [
+      "Wing Attack"
+    ],
+    "20": [
+      "Water Pulse"
+    ],
+    "28": [
+      "Stockpile",
+      "Swallow",
+      "Spit Up"
+    ],
+    "34": [
+      "Fling"
+    ],
+    "41": [
+      "Mist"
+    ],
+    "48": [
+      "Roost"
+    ],
+    "55": [
+      "Hurricane"
+    ],
+    "62": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Air Cutter",
+    "Gunk Shot",
+    "Knock Off",
+    "Ominous Wind",
+    "Seed Bomb",
+    "Tailwind",
+    "Twister",
+    "Uproar",
+    "Agility",
+    "Aqua Ring",
+    "Air Slash",
+    "Gust",
+    "Hurricane",
+    "Hydro Pump",
+    "Mist",
+    "Pursuit",
+    "Water Sport",
+    "Quick Attack",
+    "Liquidation",
+    "Defog"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    6,
+    8,
+    9,
+    21,
+    23,
+    24,
+    25,
+    27,
+    30,
+    31,
+    33,
+    35,
+    36,
+    39,
+    40,
+    46,
+    55,
+    56,
+    57,
+    59,
+    76,
+    95
+  ],
+  "trMoves": [
+    3,
+    4,
+    5,
+    6,
+    12,
+    20,
+    26,
+    27,
+    35,
+    59,
+    66,
+    73,
+    84,
+    89,
+    98
+  ]
+}

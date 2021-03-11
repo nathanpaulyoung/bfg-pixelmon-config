@@ -1,0 +1,176 @@
+{
+  "pixelmonName": "Swellow",
+  "pokemon": "Swellow",
+  "stats": {
+    "HP": 60,
+    "Attack": 85,
+    "Defence": 60,
+    "Speed": 125,
+    "SpecialAttack": 75,
+    "SpecialDefence": 50
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 10,
+  "baseExp": 162,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 0.7,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Taillow"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 5,
+    "flyHeightMax": 25,
+    "flySpeedModifier": 1.4,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.5,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.5,
+      "z": -0.6
+    }
+  },
+  "weight": 19.8,
+  "evolutions": [],
+  "abilities": [
+    "Guts",
+    null,
+    "Scrappy"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Brave Bird",
+      "Air Slash",
+      "Pluck",
+      "Peck",
+      "Growl",
+      "Focus Energy",
+      "Quick Attack"
+    ],
+    "5": [
+      "Focus Energy"
+    ],
+    "9": [
+      "Quick Attack"
+    ],
+    "13": [
+      "Wing Attack"
+    ],
+    "17": [
+      "Double Team"
+    ],
+    "21": [
+      "Aerial Ace"
+    ],
+    "27": [
+      "Quick Guard"
+    ],
+    "33": [
+      "Agility"
+    ],
+    "39": [
+      "Air Slash"
+    ],
+    "45": [
+      "Endeavor"
+    ],
+    "51": [
+      "Brave Bird"
+    ],
+    "57": [
+      "Reversal"
+    ]
+  },
+  "tmMoves": [
+    "Fly",
+    "Hyper Beam",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Steel Wing",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Aerial Ace",
+    "Roost",
+    "U-Turn",
+    "Giga Impact",
+    "Round",
+    "Echoed Voice",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Defog",
+    "Endeavor",
+    "Heat Wave",
+    "Laser Focus",
+    "Sky Attack",
+    "Snore",
+    "Tailwind"
+  ],
+  "eggMoves": [
+    "Boomburst",
+    "Brave Bird",
+    "Defog",
+    "Hurricane",
+    "Mirror Move",
+    "Pursuit",
+    "Rage",
+    "Refresh",
+    "Roost",
+    "Sky Attack",
+    "Steel Wing",
+    "Supersonic",
+    "Whirlwind"
+  ],
+  "forms": {},
+  "form": 0
+}

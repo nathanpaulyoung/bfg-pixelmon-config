@@ -1,0 +1,187 @@
+{
+  "pixelmonName": "Drowzee",
+  "pokemon": "Drowzee",
+  "stats": {
+    "HP": 60,
+    "Attack": 48,
+    "Defence": 45,
+    "Speed": 42,
+    "SpecialAttack": 43,
+    "SpecialDefence": 90
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 11,
+  "baseExp": 102,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 0.8,
+  "width": 0.8,
+  "length": 0.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 32.4,
+  "evolutions": [
+    {
+      "level": 26,
+      "to": {
+        "name": "Hypno"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Insomnia",
+    "Forewarn",
+    "InnerFocus"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Pound",
+      "Hypnosis"
+    ],
+    "5": [
+      "Disable"
+    ],
+    "9": [
+      "Confusion"
+    ],
+    "13": [
+      "Headbutt"
+    ],
+    "17": [
+      "Poison Gas"
+    ],
+    "21": [
+      "Meditate"
+    ],
+    "25": [
+      "Psybeam"
+    ],
+    "29": [
+      "Wake-Up Slap"
+    ],
+    "33": [
+      "Psych Up"
+    ],
+    "37": [
+      "Synchronoise"
+    ],
+    "41": [
+      "Zen Headbutt"
+    ],
+    "45": [
+      "Swagger"
+    ],
+    "49": [
+      "Psychic"
+    ],
+    "53": [
+      "Nasty Plot"
+    ],
+    "57": [
+      "Psyshock"
+    ],
+    "61": [
+      "Future Sight"
+    ]
+  },
+  "tmMoves": [
+    "Thunder Wave",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Light Screen",
+    "Reflect",
+    "Dream Eater",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Shadow Ball",
+    "Torment",
+    "Facade",
+    "Taunt",
+    "Brick Break",
+    "Calm Mind",
+    "Fling",
+    "Trick Room",
+    "Grass Knot",
+    "Psyshock",
+    "Low Sweep",
+    "Round",
+    "Confide",
+    "Dazzling Gleam"
+  ],
+  "tutorMoves": [
+    "Ally Switch",
+    "Drain Punch",
+    "Fire Punch",
+    "Focus Punch",
+    "Foul Play",
+    "Ice Punch",
+    "Low Kick",
+    "Magic Coat",
+    "Magic Room",
+    "Recycle",
+    "Role Play",
+    "Signal Beam",
+    "Skill Swap",
+    "Snatch",
+    "Snore",
+    "Telekinesis",
+    "Thunder Punch",
+    "Trick",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Assist",
+    "Barrier",
+    "Fire Punch",
+    "Flatter",
+    "Guard Swap",
+    "Ice Punch",
+    "Nasty Plot",
+    "Power Split",
+    "Psychic Terrain",
+    "Psycho Cut",
+    "Role Play",
+    "Secret Power",
+    "Skill Swap",
+    "Thunder Punch"
+  ],
+  "forms": {},
+  "form": 0
+}

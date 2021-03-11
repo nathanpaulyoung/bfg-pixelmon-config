@@ -1,0 +1,150 @@
+{
+  "pixelmonName": "Spiritomb",
+  "pokemon": "Spiritomb",
+  "stats": {
+    "HP": 50,
+    "Attack": 92,
+    "Defence": 108,
+    "Speed": 35,
+    "SpecialAttack": 92,
+    "SpecialDefence": 108
+  },
+  "catchRate": 100,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 15,
+  "baseExp": 168,
+  "baseFriendship": 70,
+  "types": [
+    "Ghost",
+    "Dark"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1,
+    "SpecialDefence": 1
+  },
+  "weight": 108.0,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    "Infiltrator"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "0": [
+      "Curse",
+      "Pursuit",
+      "Confuse Ray",
+      "Spite",
+      "Shadow Sneak"
+    ],
+    "7": [
+      "Feint Attack"
+    ],
+    "13": [
+      "Hypnosis"
+    ],
+    "19": [
+      "Dream Eater"
+    ],
+    "25": [
+      "Ominous Wind"
+    ],
+    "31": [
+      "Sucker Punch"
+    ],
+    "37": [
+      "Nasty Plot"
+    ],
+    "43": [
+      "Memento"
+    ],
+    "49": [
+      "Dark Pulse"
+    ]
+  },
+  "tmMoves": [
+    "Hyper Beam",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Dream Eater",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Shadow Ball",
+    "Torment",
+    "Will-O-Wisp",
+    "Facade",
+    "Taunt",
+    "Rock Tomb",
+    "Calm Mind",
+    "Embargo",
+    "Dark Pulse",
+    "Giga Impact",
+    "Round",
+    "Quash",
+    "Snarl",
+    "Confide",
+    "Infestation"
+  ],
+  "tutorMoves": [
+    "Ally Switch",
+    "Foul Play",
+    "Icy Wind",
+    "Pain Split",
+    "Shock Wave",
+    "Snatch",
+    "Snore",
+    "Spite",
+    "Telekinesis",
+    "Trick",
+    "Uproar",
+    "Water Pulse",
+    "Wonder Room"
+  ],
+  "eggMoves": [
+    "Captivate",
+    "Destiny Bond",
+    "Disable",
+    "Foul Play",
+    "Grudge",
+    "Imprison",
+    "Nightmare",
+    "Pain Split",
+    "Shadow Sneak",
+    "Smokescreen"
+  ],
+  "forms": {},
+  "form": 0
+}

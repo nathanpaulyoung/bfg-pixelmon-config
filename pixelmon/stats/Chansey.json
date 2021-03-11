@@ -1,0 +1,168 @@
+{
+  "pixelmonName": "Chansey",
+  "pokemon": "Chansey",
+  "stats": {
+    "HP": 250,
+    "Attack": 5,
+    "Defence": 5,
+    "Speed": 50,
+    "SpecialAttack": 35,
+    "SpecialDefence": 105
+  },
+  "catchRate": 30,
+  "malePercent": 0,
+  "spawnLevel": 15,
+  "spawnLevelRange": 35,
+  "baseExp": 395,
+  "baseFriendship": 140,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Happiny"
+  ],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.2,
+      "z": -0.1
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.2,
+      "z": -0.1
+    }
+  },
+  "weight": 34.6,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Blissey"
+      },
+      "conditions": [
+        {
+          "friendship": 220,
+          "evoConditionType": "friendship"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "NaturalCure",
+    "SereneGrace",
+    "Healer"
+  ],
+  "eggGroups": [
+    "Fairy"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Double-Edge",
+      "Defense Curl",
+      "Pound",
+      "Growl"
+    ],
+    "5": [
+      "Tail Whip"
+    ],
+    "9": [
+      "Refresh"
+    ],
+    "12": [
+      "Double Slap"
+    ],
+    "16": [
+      "Soft-Boiled"
+    ],
+    "20": [
+      "Bestow"
+    ],
+    "23": [
+      "Minimize"
+    ],
+    "27": [
+      "Take Down"
+    ],
+    "31": [
+      "Sing"
+    ],
+    "35": [
+      "Fling"
+    ],
+    "39": [
+      "Heal Pulse"
+    ],
+    "44": [
+      "Egg Bomb"
+    ],
+    "50": [
+      "Light Screen"
+    ],
+    "57": [
+      "Healing Wish"
+    ],
+    "65": [
+      "Double-Edge"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Endeavor",
+    "Gravity",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Last Resort",
+    "Uproar",
+    "Zen Headbutt",
+    "Aromatherapy",
+    "Charm",
+    "Double Slap",
+    "Heal Pulse",
+    "Refresh",
+    "Sing",
+    "Sweet Kiss",
+    "Wish",
+    "Laser Focus",
+    "Ally Switch",
+    "Telekinesis",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [
+    "Aromatherapy",
+    "Counter",
+    "Endure",
+    "Gravity",
+    "Heal Bell",
+    "Helping Hand",
+    "Last Resort",
+    "Metronome",
+    "Mud Bomb",
+    "Natural Gift",
+    "Present",
+    "Seismic Toss"
+  ],
+  "forms": {},
+  "form": 0
+}

@@ -1,0 +1,171 @@
+{
+  "pixelmonName": "Bidoof",
+  "pokemon": "Bidoof",
+  "stats": {
+    "HP": 59,
+    "Attack": 45,
+    "Defence": 40,
+    "Speed": 31,
+    "SpecialAttack": 35,
+    "SpecialDefence": 40
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 5,
+  "baseExp": 58,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 20.0,
+  "evolutions": [
+    {
+      "level": 15,
+      "to": {
+        "name": "Bibarel"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Water Gun"
+      ]
+    }
+  ],
+  "abilities": [
+    "Simple",
+    "Unaware",
+    "Moody"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Growl"
+    ],
+    "5": [
+      "Defense Curl"
+    ],
+    "9": [
+      "Rollout"
+    ],
+    "13": [
+      "Headbutt"
+    ],
+    "17": [
+      "Hyper Fang"
+    ],
+    "21": [
+      "Yawn"
+    ],
+    "25": [
+      "Crunch"
+    ],
+    "29": [
+      "Take Down"
+    ],
+    "33": [
+      "Super Fang"
+    ],
+    "37": [
+      "Swords Dance"
+    ],
+    "41": [
+      "Amnesia"
+    ],
+    "45": [
+      "Superpower"
+    ],
+    "49": [
+      "Curse"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Ice Beam",
+    "Blizzard",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Shadow Ball",
+    "Facade",
+    "Taunt",
+    "Grass Knot",
+    "Charge Beam",
+    "Round",
+    "Echoed Voice",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Covet",
+    "Icy Wind",
+    "Iron Tail",
+    "Last Resort",
+    "Shock Wave",
+    "Snore",
+    "Stealth Rock",
+    "Super Fang",
+    "Superpower"
+  ],
+  "eggMoves": [
+    "Aqua Tail",
+    "Defense Curl",
+    "Double-Edge",
+    "Endure",
+    "Fury Swipes",
+    "Mud Sport",
+    "Odor Sleuth",
+    "Quick Attack",
+    "Rock Climb",
+    "Rollout",
+    "Skull Bash",
+    "Sleep Talk",
+    "Water Sport"
+  ],
+  "forms": {
+    "1": {
+      "evolutions": [],
+      "form": 1
+    }
+  },
+  "form": 0
+}

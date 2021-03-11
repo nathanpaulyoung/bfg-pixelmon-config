@@ -1,0 +1,180 @@
+{
+  "pixelmonName": "Shuppet",
+  "pokemon": "Shuppet",
+  "stats": {
+    "HP": 44,
+    "Attack": 75,
+    "Defence": 35,
+    "Speed": 45,
+    "SpecialAttack": 63,
+    "SpecialDefence": 33
+  },
+  "catchRate": 225,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 16,
+  "baseExp": 97,
+  "baseFriendship": 35,
+  "types": [
+    "Ghost"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "hoverHeight": 1.0,
+  "weight": 2.3,
+  "evolutions": [
+    {
+      "level": 37,
+      "to": {
+        "name": "Banette"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Insomnia",
+    "Frisk",
+    "CursedBody"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Knock Off"
+    ],
+    "4": [
+      "Screech"
+    ],
+    "7": [
+      "Night Shade"
+    ],
+    "10": [
+      "Spite"
+    ],
+    "13": [
+      "Shadow Sneak"
+    ],
+    "16": [
+      "Will-O-Wisp"
+    ],
+    "19": [
+      "Feint Attack"
+    ],
+    "22": [
+      "Hex"
+    ],
+    "26": [
+      "Curse"
+    ],
+    "30": [
+      "Shadow Ball"
+    ],
+    "34": [
+      "Embargo"
+    ],
+    "38": [
+      "Sucker Punch"
+    ],
+    "42": [
+      "Snatch"
+    ],
+    "46": [
+      "Grudge"
+    ],
+    "50": [
+      "Trick"
+    ],
+    "54": [
+      "Phantom Force"
+    ]
+  },
+  "tmMoves": [
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Dream Eater",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Shadow Ball",
+    "Torment",
+    "Will-O-Wisp",
+    "Facade",
+    "Taunt",
+    "Calm Mind",
+    "Payback",
+    "Embargo",
+    "Dark Pulse",
+    "Trick Room",
+    "Charge Beam",
+    "Round",
+    "Confide",
+    "Dazzling Gleam"
+  ],
+  "tutorMoves": [
+    "Ally Switch",
+    "Foul Play",
+    "Gunk Shot",
+    "Icy Wind",
+    "Knock Off",
+    "Magic Coat",
+    "Magic Room",
+    "Pain Split",
+    "Role Play",
+    "Shock Wave",
+    "Skill Swap",
+    "Snatch",
+    "Snore",
+    "Spite",
+    "Telekinesis",
+    "Trick"
+  ],
+  "eggMoves": [
+    "Astonish",
+    "Confuse Ray",
+    "Destiny Bond",
+    "Disable",
+    "Foresight",
+    "Gunk Shot",
+    "Imprison",
+    "Ominous Wind",
+    "Phantom Force",
+    "Pursuit",
+    "Shadow Sneak"
+  ],
+  "forms": {},
+  "form": 0
+}

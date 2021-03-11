@@ -1,0 +1,172 @@
+{
+  "pixelmonName": "Mightyena",
+  "pokemon": "Mightyena",
+  "stats": {
+    "HP": 70,
+    "Attack": 90,
+    "Defence": 70,
+    "Speed": 70,
+    "SpecialAttack": 60,
+    "SpecialDefence": 60
+  },
+  "catchRate": 127,
+  "malePercent": 50,
+  "spawnLevel": 18,
+  "spawnLevelRange": 47,
+  "baseExp": 128,
+  "baseFriendship": 70,
+  "types": [
+    "Dark"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Poochyena"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 37.0,
+  "evolutions": [],
+  "abilities": [
+    "Intimidate",
+    "QuickFeet",
+    "Moxie"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Crunch",
+      "Snarl",
+      "Fire Fang",
+      "Thunder Fang",
+      "Ice Fang",
+      "Crunch",
+      "Thief",
+      "Tackle",
+      "Howl",
+      "Sand Attack",
+      "Bite"
+    ],
+    "4": [
+      "Howl"
+    ],
+    "7": [
+      "Sand Attack"
+    ],
+    "10": [
+      "Bite"
+    ],
+    "13": [
+      "Odor Sleuth"
+    ],
+    "16": [
+      "Roar"
+    ],
+    "20": [
+      "Swagger"
+    ],
+    "24": [
+      "Assurance"
+    ],
+    "28": [
+      "Scary Face"
+    ],
+    "32": [
+      "Embargo"
+    ],
+    "36": [
+      "Taunt"
+    ],
+    "40": [
+      "Crunch"
+    ],
+    "44": [
+      "Yawn"
+    ],
+    "48": [
+      "Take Down"
+    ],
+    "52": [
+      "Sucker Punch"
+    ],
+    "56": [
+      "Play Rough"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Hyper Beam",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Shadow Ball",
+    "Torment",
+    "Facade",
+    "Taunt",
+    "Payback",
+    "Embargo",
+    "Dark Pulse",
+    "Giga Impact",
+    "Round",
+    "Snarl",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Foul Play",
+    "Hyper Voice",
+    "Iron Tail",
+    "Laser Focus",
+    "Snatch",
+    "Snore",
+    "Spite",
+    "Super Fang",
+    "Throat Chop",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Astonish",
+    "Covet",
+    "Fire Fang",
+    "Ice Fang",
+    "Leer",
+    "Me First",
+    "Play Rough",
+    "Poison Fang",
+    "Sleep Talk",
+    "Snatch",
+    "Sucker Punch",
+    "Thunder Fang",
+    "Yawn"
+  ],
+  "forms": {},
+  "form": 0
+}

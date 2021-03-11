@@ -1,0 +1,208 @@
+{
+  "pixelmonName": "Camerupt",
+  "pokemon": "Camerupt",
+  "stats": {
+    "HP": 70,
+    "Attack": 100,
+    "Defence": 70,
+    "Speed": 40,
+    "SpecialAttack": 105,
+    "SpecialDefence": 75
+  },
+  "catchRate": 150,
+  "malePercent": 50,
+  "spawnLevel": 33,
+  "spawnLevelRange": 17,
+  "baseExp": 175,
+  "baseFriendship": 70,
+  "types": [
+    "Fire",
+    "Ground"
+  ],
+  "height": 1.5,
+  "width": 1.0,
+  "length": 2.5,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Numel"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "SpecialAttack": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.95,
+      "z": -0.083
+    }
+  },
+  "weight": 220.0,
+  "evolutions": [],
+  "abilities": [
+    "MagmaArmor",
+    "SolidRock",
+    "AngerPoint"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Fissure",
+      "Eruption",
+      "Growl",
+      "Tackle",
+      "Ember",
+      "Focus Energy",
+      "Rock Slide"
+    ],
+    "8": [
+      "Focus Energy",
+      "Ember"
+    ],
+    "12": [
+      "Magnitude"
+    ],
+    "15": [
+      "Flame Burst"
+    ],
+    "19": [
+      "Amnesia"
+    ],
+    "22": [
+      "Lava Plume"
+    ],
+    "26": [
+      "Earth Power"
+    ],
+    "29": [
+      "Curse"
+    ],
+    "31": [
+      "Take Down"
+    ],
+    "39": [
+      "Yawn"
+    ],
+    "46": [
+      "Earthquake"
+    ],
+    "52": [
+      "Eruption"
+    ],
+    "59": [
+      "Fissure"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Flamethrower",
+    "Hyper Beam",
+    "Solar Beam",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Fire Blast",
+    "Explosion",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Will-O-Wisp",
+    "Facade",
+    "Nature Power",
+    "Overheat",
+    "Rock Tomb",
+    "Rock Polish",
+    "Giga Impact",
+    "Flash Cannon",
+    "Stone Edge",
+    "Flame Charge",
+    "Round",
+    "Echoed Voice",
+    "Bulldoze",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Earth Power",
+    "Heat Wave",
+    "Iron Head",
+    "Snore",
+    "Stealth Rock",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [
+    "Ancient Power",
+    "Body Slam",
+    "Defense Curl",
+    "Endure",
+    "Growth",
+    "Heat Wave",
+    "Heavy Slam",
+    "Howl",
+    "Iron Head",
+    "Mud Bomb",
+    "Rollout",
+    "Scary Face",
+    "Spit Up",
+    "Stockpile",
+    "Stomp",
+    "Swallow",
+    "Yawn"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 70,
+        "Attack": 120,
+        "Defence": 100,
+        "Speed": 20,
+        "SpecialAttack": 145,
+        "SpecialDefence": 105
+      },
+      "height": 2.0,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": 0.95,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": 0.95,
+          "z": -0.6
+        }
+      },
+      "weight": 320.5,
+      "abilities": [
+        "SheerForce",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": 0
+}

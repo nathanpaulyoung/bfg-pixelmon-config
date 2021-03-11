@@ -1,0 +1,102 @@
+{
+  "pixelmonName": "Applin",
+  "pokemon": "Applin",
+  "stats": {
+    "HP": 40,
+    "Attack": 40,
+    "Defence": 80,
+    "SpecialAttack": 40,
+    "SpecialDefence": 40,
+    "Speed": 20
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 16,
+  "spawnLevelRange": 6,
+  "baseExp": 52,
+  "baseFriendship": 50,
+  "types": [
+    "Grass",
+    "Dragon"
+  ],
+  "height": 0.2,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 0.5,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:tart_apple"
+      },
+      "to": {
+        "name": "Flapple"
+      },
+      "conditions": [],
+      "evoType": "interact",
+      "moves": [
+        "Wing Attack"
+      ]
+    },
+    {
+      "item": {
+        "itemID": "pixelmon:sweet_apple"
+      },
+      "to": {
+        "name": "Appletun"
+      },
+      "conditions": [],
+      "evoType": "interact",
+      "moves": [
+        "Headbutt"
+      ]
+    }
+  ],
+  "abilities": [
+    "Ripen",
+    "Gluttony",
+    "Bulletproof"
+  ],
+  "eggGroups": [
+    "Grass",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Withdraw",
+      "Astonish"
+    ]
+  },
+  "tutorMoves": [
+    "Draco Meteor",
+    "Grassy Glide"
+  ],
+  "eggMoves": [
+    "Defense Curl",
+    "Recycle",
+    "Rollout",
+    "Sucker Punch"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    31
+  ],
+  "trMoves": []
+}

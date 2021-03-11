@@ -1,0 +1,164 @@
+{
+  "pixelmonName": "Naganadel",
+  "pokemon": "Naganadel",
+  "stats": {
+    "HP": 73,
+    "Attack": 73,
+    "Defence": 73,
+    "Speed": 121,
+    "SpecialAttack": 127,
+    "SpecialDefence": 73
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 243,
+  "baseFriendship": 70,
+  "types": [
+    "Poison",
+    "Dragon"
+  ],
+  "height": 6.5,
+  "width": 3.6,
+  "length": 3.6,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Poipole"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.4,
+      "z": 0.0
+    },
+    "moving": {
+      "x": -0.1,
+      "y": -3.2,
+      "z": 0.1
+    }
+  },
+  "weight": 150.0,
+  "evolutions": [],
+  "abilities": [
+    "BeastBoost",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Dragon Pulse",
+      "Peck",
+      "Growl",
+      "Helping Hand",
+      "Acid",
+      "Air Cutter"
+    ],
+    "7": [
+      "Fury Attack"
+    ],
+    "13": [
+      "Venoshock"
+    ],
+    "19": [
+      "Charm"
+    ],
+    "23": [
+      "Venom Drench"
+    ],
+    "31": [
+      "Nasty Plot"
+    ],
+    "37": [
+      "Poison Jab"
+    ],
+    "41": [
+      "Toxic"
+    ],
+    "47": [
+      "Fell Stinger"
+    ],
+    "53": [
+      "Air Slash"
+    ],
+    "61": [
+      "Dragon Pulse"
+    ]
+  },
+  "tmMoves": [
+    "Fly",
+    "Flamethrower",
+    "Hyper Beam",
+    "Thunderbolt",
+    "Toxic",
+    "Double Team",
+    "Fire Blast",
+    "Leech Life",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Sludge Bomb",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Facade",
+    "Aerial Ace",
+    "Dragon Claw",
+    "U-Turn",
+    "Poison Jab",
+    "Dark Pulse",
+    "X-Scissor",
+    "Shadow Claw",
+    "Venoshock",
+    "Sludge Wave",
+    "Round",
+    "Echoed Voice",
+    "Sky Drop",
+    "Acrobatics",
+    "Dragon Tail",
+    "Snarl",
+    "Confide",
+    "Smart Strike"
+  ],
+  "tutorMoves": [
+    "Ally Switch",
+    "Draco Meteor",
+    "Dragon Pulse",
+    "Gastro Acid",
+    "Gunk Shot",
+    "Heat Wave",
+    "Helping Hand",
+    "Iron Tail",
+    "Laser Focus",
+    "Outrage",
+    "Shock Wave",
+    "Signal Beam",
+    "Sky Attack",
+    "Snatch",
+    "Snore",
+    "Tailwind",
+    "Throat Chop",
+    "Uproar"
+  ],
+  "forms": {},
+  "form": -1,
+  "eggMoves": []
+}

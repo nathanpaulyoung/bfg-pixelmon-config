@@ -1,0 +1,162 @@
+{
+  "pixelmonName": "Poliwhirl",
+  "pokemon": "Poliwhirl",
+  "stats": {
+    "HP": 65,
+    "Attack": 65,
+    "Defence": 65,
+    "Speed": 90,
+    "SpecialAttack": 50,
+    "SpecialDefence": 50
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 25,
+  "baseExp": 131,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.0,
+  "width": 0.7,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Poliwag"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 20.0,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:water_stone"
+      },
+      "to": {
+        "name": "Poliwrath"
+      },
+      "conditions": [],
+      "evoType": "interact",
+      "moves": [
+        "Submission"
+      ]
+    },
+    {
+      "to": {
+        "name": "Politoed"
+      },
+      "conditions": [
+        {
+          "item": {
+            "itemID": "pixelmon:kings_rock"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "trade"
+    }
+  ],
+  "abilities": [
+    "WaterAbsorb",
+    "Damp",
+    "SwiftSwim"
+  ],
+  "eggGroups": [
+    "Water1"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Water Sport",
+      "Water Gun",
+      "Hypnosis"
+    ],
+    "5": [
+      "Water Gun"
+    ],
+    "8": [
+      "Hypnosis"
+    ],
+    "11": [
+      "Bubble"
+    ],
+    "15": [
+      "Double Slap"
+    ],
+    "18": [
+      "Rain Dance"
+    ],
+    "21": [
+      "Body Slam"
+    ],
+    "27": [
+      "Bubble Beam"
+    ],
+    "32": [
+      "Mud Shot"
+    ],
+    "37": [
+      "Belly Drum"
+    ],
+    "43": [
+      "Wake-Up Slap"
+    ],
+    "48": [
+      "Hydro Pump"
+    ],
+    "53": [
+      "Mud Bomb"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Endeavor",
+    "Helping Hand",
+    "Amnesia",
+    "Belly Drum",
+    "Bubble",
+    "Double Slap",
+    "Encore",
+    "Growth",
+    "Haze",
+    "Hydro Pump",
+    "Hypnosis",
+    "Lovely Kiss",
+    "Mind Reader",
+    "Mist",
+    "Refresh",
+    "Splash",
+    "Sweet Kiss",
+    "Water Sport"
+  ],
+  "eggMoves": [
+    "Encore",
+    "Endeavor",
+    "Endure",
+    "Haze",
+    "Ice Ball",
+    "Mind Reader",
+    "Mist",
+    "Mud Shot",
+    "Refresh",
+    "Splash",
+    "Water Pulse",
+    "Water Sport",
+    "Bubble Beam"
+  ],
+  "forms": {},
+  "form": 0
+}

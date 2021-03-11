@@ -1,0 +1,155 @@
+{
+  "pixelmonName": "Dunsparce",
+  "pokemon": "Dunsparce",
+  "stats": {
+    "HP": 100,
+    "Attack": 70,
+    "Defence": 70,
+    "Speed": 45,
+    "SpecialAttack": 65,
+    "SpecialDefence": 65
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 25,
+  "baseExp": 125,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 14.0,
+  "evolutions": [],
+  "abilities": [
+    "SereneGrace",
+    "RunAway",
+    "Rattled"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Rage",
+      "Defense Curl"
+    ],
+    "3": [
+      "Rollout"
+    ],
+    "6": [
+      "Spite"
+    ],
+    "8": [
+      "Pursuit"
+    ],
+    "11": [
+      "Screech"
+    ],
+    "13": [
+      "Mud-Slap"
+    ],
+    "16": [
+      "Yawn"
+    ],
+    "18": [
+      "Ancient Power"
+    ],
+    "21": [
+      "Body Slam"
+    ],
+    "23": [
+      "Drill Run"
+    ],
+    "26": [
+      "Roost"
+    ],
+    "28": [
+      "Take Down"
+    ],
+    "31": [
+      "Coil"
+    ],
+    "33": [
+      "Dig"
+    ],
+    "36": [
+      "Glare"
+    ],
+    "38": [
+      "Double-Edge"
+    ],
+    "41": [
+      "Endeavor"
+    ],
+    "43": [
+      "Air Slash"
+    ],
+    "46": [
+      "Dragon Rush"
+    ],
+    "48": [
+      "Endure"
+    ],
+    "51": [
+      "Flail"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Ancient Power",
+    "Aqua Tail",
+    "Bind",
+    "Drill Run",
+    "Endeavor",
+    "Last Resort",
+    "Magic Coat",
+    "Pain Split",
+    "Spite",
+    "Zen Headbutt",
+    "Agility",
+    "Bite",
+    "Flail",
+    "Fury Attack",
+    "Pursuit",
+    "Yawn",
+    "Screech",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Astonish",
+    "Bide",
+    "Bite",
+    "Curse",
+    "Headbutt",
+    "Hex",
+    "Magic Coat",
+    "Secret Power",
+    "Sleep Talk",
+    "Snore",
+    "Trump Card",
+    "Ancient Power"
+  ],
+  "forms": {},
+  "form": 0
+}

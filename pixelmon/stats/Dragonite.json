@@ -1,0 +1,234 @@
+{
+  "pixelmonName": "Dragonite",
+  "pokemon": "Dragonite",
+  "form": 0,
+  "stats": {
+    "HP": 91,
+    "Attack": 134,
+    "Defence": 95,
+    "Speed": 80,
+    "SpecialAttack": 100,
+    "SpecialDefence": 100
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 55,
+  "spawnLevelRange": 15,
+  "baseExp": 218,
+  "baseFriendship": 35,
+  "types": [
+    "Dragon",
+    "Flying"
+  ],
+  "height": 2.2,
+  "width": 1.0,
+  "length": 1.8,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Dragonair",
+    "Dratini"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 20,
+    "flySpeedModifier": 0.8,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "mountedFlying": {
+    "upperAngleLimit": 39,
+    "lowerAngleLimit": -44,
+    "maxFlySpeed": 1.8,
+    "decelerationRate": 0.1,
+    "hoverDecelerationRate": 0.09,
+    "accelerationRate": 0.07,
+    "strafeAccelerationRate": 0.9,
+    "strafeRollConversion": 30,
+    "turnRate": 0.8,
+    "pitchRate": 0.8
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.88,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.55,
+      "z": 0.6
+    }
+  },
+  "weight": 210.0,
+  "evolutions": [],
+  "abilities": [
+    "InnerFocus",
+    null,
+    "Multiscale"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Wing Attack",
+      "Hurricane",
+      "Fire Punch",
+      "Thunder Punch",
+      "Roost",
+      "Wrap",
+      "Leer",
+      "Thunder Wave",
+      "Twister"
+    ],
+    "5": [
+      "Thunder Wave"
+    ],
+    "11": [
+      "Twister"
+    ],
+    "15": [
+      "Dragon Rage"
+    ],
+    "21": [
+      "Slam"
+    ],
+    "25": [
+      "Agility"
+    ],
+    "33": [
+      "Dragon Tail"
+    ],
+    "39": [
+      "Aqua Tail"
+    ],
+    "47": [
+      "Dragon Rush"
+    ],
+    "53": [
+      "Safeguard"
+    ],
+    "61": [
+      "Dragon Dance"
+    ],
+    "67": [
+      "Outrage"
+    ],
+    "75": [
+      "Hyper Beam"
+    ],
+    "81": [
+      "Hurricane"
+    ]
+  },
+  "tmMoves": [
+    "Fly",
+    "Roar",
+    "Flamethrower",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Light Screen",
+    "Fire Blast",
+    "Waterfall",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Steel Wing",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Hail",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Dragon Claw",
+    "Roost",
+    "Fling",
+    "Focus Blast",
+    "Giga Impact",
+    "Stone Edge",
+    "Round",
+    "Sky Drop",
+    "Bulldoze",
+    "Dragon Tail",
+    "Confide",
+    "Brutal Swing"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bind",
+    "Defog",
+    "Draco Meteor",
+    "Dragon Pulse",
+    "Fire Punch",
+    "Focus Punch",
+    "Heat Wave",
+    "Ice Punch",
+    "Icy Wind",
+    "Iron Head",
+    "Iron Tail",
+    "Outrage",
+    "Shock Wave",
+    "Snore",
+    "Superpower",
+    "Tailwind",
+    "Thunder Punch",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Aqua Jet",
+    "Dragon Breath",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Dragon Rush",
+    "Extreme Speed",
+    "Haze",
+    "Iron Tail",
+    "Mist",
+    "Supersonic",
+    "Water Pulse"
+  ],
+  "forms": {
+    "111": {
+      "pixelmonName": "DragoniteBajanCanadian"
+    }
+  }
+}

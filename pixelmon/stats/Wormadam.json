@@ -1,0 +1,397 @@
+{
+  "pixelmonName": "Wormadam",
+  "pokemon": "Wormadam",
+  "stats": {
+    "HP": 60,
+    "Attack": 59,
+    "Defence": 85,
+    "Speed": 36,
+    "SpecialAttack": 79,
+    "SpecialDefence": 105
+  },
+  "catchRate": 45,
+  "malePercent": 0,
+  "spawnLevel": 20,
+  "spawnLevelRange": 30,
+  "baseExp": 148,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Grass"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Burmy"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "hoverHeight": 1.0,
+  "weight": 6.5,
+  "evolutions": [],
+  "abilities": [
+    "Anticipation",
+    null,
+    "Overcoat"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Sucker Punch",
+      "Tackle",
+      "Protect",
+      "Bug Bite",
+      "Quiver Dance"
+    ],
+    "10": [
+      "Protect"
+    ],
+    "15": [
+      "Bug Bite"
+    ],
+    "20": [
+      "Hidden Power"
+    ],
+    "23": [
+      "Confusion"
+    ],
+    "26": [
+      "Razor Leaf"
+    ],
+    "29": [
+      "Growth"
+    ],
+    "32": [
+      "Psybeam"
+    ],
+    "35": [
+      "Captivate"
+    ],
+    "38": [
+      "Flail"
+    ],
+    "41": [
+      "Attract"
+    ],
+    "44": [
+      "Psychic"
+    ],
+    "47": [
+      "Leaf Storm"
+    ],
+    "50": [
+      "Bug Buzz"
+    ]
+  },
+  "tmMoves": [
+    "Hyper Beam",
+    "Solar Beam",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Dream Eater",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Shadow Ball",
+    "Facade",
+    "Energy Ball",
+    "Giga Impact",
+    "Grass Knot",
+    "Venoshock",
+    "Round",
+    "Confide",
+    "Infestation"
+  ],
+  "tutorMoves": [
+    "Ally Switch",
+    "Bug Bite",
+    "Electroweb",
+    "Endeavor",
+    "Giga Drain",
+    "Seed Bomb",
+    "Signal Beam",
+    "Skill Swap",
+    "Snore",
+    "Synthesis",
+    "Telekinesis",
+    "Uproar",
+    "Worry Seed"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 60,
+        "Attack": 79,
+        "Defence": 105,
+        "Speed": 36,
+        "SpecialAttack": 59,
+        "SpecialDefence": 85
+      },
+      "types": [
+        "Bug",
+        "Ground"
+      ],
+      "evYields": {
+        "Defence": 2
+      },
+      "levelUpMoves": {
+        "0": [
+          "Sucker Punch",
+          "Tackle",
+          "Protect",
+          "Bug Bite"
+        ],
+        "10": [
+          "Protect"
+        ],
+        "15": [
+          "Bug Bite"
+        ],
+        "20": [
+          "Hidden Power"
+        ],
+        "23": [
+          "Confusion"
+        ],
+        "26": [
+          "Rock Blast"
+        ],
+        "29": [
+          "Harden"
+        ],
+        "32": [
+          "Psybeam"
+        ],
+        "35": [
+          "Captivate"
+        ],
+        "38": [
+          "Flail"
+        ],
+        "41": [
+          "Attract"
+        ],
+        "44": [
+          "Psychic"
+        ],
+        "47": [
+          "Fissure"
+        ],
+        "50": [
+          "Bug Buzz"
+        ]
+      },
+      "tmMoves": [
+        "Toxic",
+        "Venoshock",
+        "Hidden Power",
+        "Sunny Day",
+        "Hyper Beam",
+        "Protect",
+        "Rain Dance",
+        "Safeguard",
+        "Frustration",
+        "Return",
+        "Psychic",
+        "Shadow Ball",
+        "Double Team",
+        "Facade",
+        "Rest",
+        "Attract",
+        "Thief",
+        "Round",
+        "Giga Impact",
+        "Flash",
+        "Struggle Bug",
+        "Psych Up",
+        "Dream Eater",
+        "Swagger",
+        "Substitute",
+        "Snore",
+        "Endure",
+        "Sleep Talk",
+        "Skill Swap",
+        "Captivate",
+        "Natural Gift",
+        "Secret Power",
+        "Earthquake",
+        "Dig",
+        "Sandstorm",
+        "Rock Tomb",
+        "Bulldoze",
+        "Stealth Rock",
+        "Mud-Slap",
+        "Confide",
+        "Infestation",
+        "Fissure"
+      ],
+      "tutorMoves": [
+        "Ally Switch",
+        "Bug Bite",
+        "Earth Power",
+        "Electroweb",
+        "Endeavor",
+        "Signal Beam",
+        "Skill Swap",
+        "Snore",
+        "Stealth Rock",
+        "Telekinesis",
+        "Uproar"
+      ],
+      "form": 1
+    },
+    "2": {
+      "stats": {
+        "HP": 60,
+        "Attack": 69,
+        "Defence": 95,
+        "Speed": 36,
+        "SpecialAttack": 69,
+        "SpecialDefence": 95
+      },
+      "types": [
+        "Bug",
+        "Steel"
+      ],
+      "evYields": {
+        "Defence": 1,
+        "SpecialDefence": 1
+      },
+      "levelUpMoves": {
+        "0": [
+          "Sucker Punch",
+          "Tackle",
+          "Protect",
+          "Bug Bite",
+          "Metal Burst"
+        ],
+        "10": [
+          "Protect"
+        ],
+        "15": [
+          "Bug Bite"
+        ],
+        "20": [
+          "Hidden Power"
+        ],
+        "23": [
+          "Confusion"
+        ],
+        "26": [
+          "Mirror Shot"
+        ],
+        "29": [
+          "Metal Sound"
+        ],
+        "32": [
+          "Psybeam"
+        ],
+        "35": [
+          "Captivate"
+        ],
+        "38": [
+          "Flail"
+        ],
+        "41": [
+          "Attract"
+        ],
+        "44": [
+          "Psychic"
+        ],
+        "47": [
+          "Iron Head"
+        ],
+        "50": [
+          "Bug Buzz"
+        ]
+      },
+      "tmMoves": [
+        "Toxic",
+        "Venoshock",
+        "Hidden Power",
+        "Sunny Day",
+        "Hyper Beam",
+        "Protect",
+        "Rain Dance",
+        "Safeguard",
+        "Frustration",
+        "Return",
+        "Psychic",
+        "Shadow Ball",
+        "Double Team",
+        "Facade",
+        "Rest",
+        "Attract",
+        "Thief",
+        "Round",
+        "Giga Impact",
+        "Flash",
+        "Struggle Bug",
+        "Psych Up",
+        "Dream Eater",
+        "Swagger",
+        "Substitute",
+        "Snore",
+        "Endure",
+        "Sleep Talk",
+        "Skill Swap",
+        "Captivate",
+        "Natural Gift",
+        "Secret Power",
+        "Gyro Ball",
+        "Flash Cannon",
+        "Stealth Rock",
+        "Confide",
+        "Infestation"
+      ],
+      "tutorMoves": [
+        "Ally Switch",
+        "Bug Bite",
+        "Electroweb",
+        "Endeavor",
+        "Gunk Shot",
+        "Iron Defense",
+        "Iron Head",
+        "Magnet Rise",
+        "Signal Beam",
+        "Skill Swap",
+        "Snore",
+        "Stealth Rock",
+        "Telekinesis",
+        "Uproar"
+      ],
+      "form": 2
+    }
+  },
+  "form": 0,
+  "eggMoves": []
+}

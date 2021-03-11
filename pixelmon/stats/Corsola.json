@@ -1,0 +1,278 @@
+{
+  "pixelmonName": "Corsola",
+  "pokemon": "Corsola",
+  "form": 0,
+  "stats": {
+    "HP": 65,
+    "Attack": 55,
+    "Defence": 95,
+    "Speed": 35,
+    "SpecialAttack": 65,
+    "SpecialDefence": 95
+  },
+  "catchRate": 60,
+  "malePercent": 25,
+  "spawnLevel": 5,
+  "spawnLevelRange": 45,
+  "baseExp": 113,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Rock"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 15,
+    "depthRangeEnd": 40,
+    "swimSpeed": 0.5,
+    "decayRate": 0.99,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Defence": 1,
+    "SpecialDefence": 1
+  },
+  "weight": 5.0,
+  "evolutions": [],
+  "abilities": [
+    "Hustle",
+    "NaturalCure",
+    "Regenerator"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Water3"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Tackle",
+      "Harden"
+    ],
+    "5": [
+      "Water Gun"
+    ],
+    "10": [
+      "Aqua Ring"
+    ],
+    "15": [
+      "Endure"
+    ],
+    "20": [
+      "Ancient Power"
+    ],
+    "25": [
+      "Bubble Beam"
+    ],
+    "30": [
+      "Flail"
+    ],
+    "35": [
+      "Life Dew"
+    ],
+    "40": [
+      "Power Gem"
+    ],
+    "45": [
+      "Earth Power"
+    ],
+    "50": [
+      "Recover"
+    ],
+    "55": [
+      "Mirror Coat"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Meteor Beam"
+  ],
+  "eggMoves": [
+    "Mist",
+    "Confuse Ray",
+    "Nature Power",
+    "Curse",
+    "Water Pulse",
+    "Head Smash"
+  ],
+  "tmMoves8": [
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    27,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    39,
+    48,
+    51,
+    54,
+    55,
+    76,
+    81,
+    98
+  ],
+  "trMoves": [
+    1,
+    3,
+    4,
+    5,
+    6,
+    10,
+    11,
+    17,
+    20,
+    26,
+    27,
+    33,
+    46,
+    49,
+    63,
+    67,
+    75,
+    76,
+    84,
+    95,
+    98
+  ],
+  "forms": {
+    "2": {
+      "form": 1,
+      "stats": {
+        "HP": 38,
+        "Attack": 55,
+        "Defence": 85,
+        "SpecialAttack": 30,
+        "SpecialDefence": 65,
+        "Speed": 30
+      },
+      "spawnLevel": 29,
+      "spawnLevelRange": 6,
+      "types": [
+        "Ghost"
+      ],
+      "weight": 0.5,
+      "evolutions": [
+        {
+          "level": 38,
+          "to": {
+            "name": "Cursola"
+          },
+          "conditions": [],
+          "evoType": "leveling"
+        }
+      ],
+      "abilities": [
+        "Weak Armor",
+        null,
+        "Cursed Body"
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Harden",
+          "Tackle"
+        ],
+        "5": [
+          "Astonish"
+        ],
+        "10": [
+          "Disable"
+        ],
+        "15": [
+          "Spite"
+        ],
+        "20": [
+          "Ancient Power"
+        ],
+        "25": [
+          "Hex"
+        ],
+        "30": [
+          "Curse"
+        ],
+        "35": [
+          "Strength Sap"
+        ],
+        "40": [
+          "Power Gem"
+        ],
+        "45": [
+          "Night Shade"
+        ],
+        "50": [
+          "Grudge"
+        ],
+        "55": [
+          "Mirror Coat"
+        ]
+      },
+      "tutorMoves": [
+        "Meteor Beam"
+      ],
+      "eggMoves": [
+        "Confuse Ray",
+        "Destiny Bond",
+        "Haze",
+        "Head Smash",
+        "Nature Power",
+        "Water Pulse"
+      ],
+      "tmMoves8": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        24,
+        25,
+        27,
+        28,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        38,
+        39,
+        48,
+        51,
+        54,
+        55,
+        76,
+        77,
+        81,
+        98
+      ]
+    }
+  }
+}

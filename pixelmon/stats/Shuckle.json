@@ -1,0 +1,163 @@
+{
+  "pixelmonName": "Shuckle",
+  "pokemon": "Shuckle",
+  "stats": {
+    "HP": 20,
+    "Attack": 10,
+    "Defence": 230,
+    "Speed": 5,
+    "SpecialAttack": 10,
+    "SpecialDefence": 230
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 40,
+  "baseExp": 80,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Rock"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Defence": 1,
+    "SpecialDefence": 1
+  },
+  "weight": 20.5,
+  "evolutions": [],
+  "abilities": [
+    "Sturdy",
+    "Gluttony",
+    "Contrary"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Withdraw",
+      "Wrap"
+    ],
+    "5": [
+      "Rollout"
+    ],
+    "10": [
+      "Struggle Bug"
+    ],
+    "15": [
+      "Rock Throw"
+    ],
+    "20": [
+      "Safeguard"
+    ],
+    "25": [
+      "Rest"
+    ],
+    "30": [
+      "Bug Bite"
+    ],
+    "35": [
+      "Power Split",
+      "Guard Split"
+    ],
+    "40": [
+      "Rock Slide"
+    ],
+    "45": [
+      "Gastro Acid"
+    ],
+    "50": [
+      "Sticky Web"
+    ],
+    "55": [
+      "Power Trick"
+    ],
+    "60": [
+      "Stone Edge"
+    ],
+    "65": [
+      "Shell Smash"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "After You",
+    "Ancient Power",
+    "Bind",
+    "Bug Bite",
+    "Earth Power",
+    "Gastro Acid",
+    "Helping Hand",
+    "Knock Off",
+    "String Shot",
+    "Encore",
+    "Rock Throw"
+  ],
+  "eggMoves": [
+    "Sweet Scent",
+    "Knock Off",
+    "Acupressure",
+    "Acid",
+    "Final Gambit",
+    "Defense Curl",
+    "Infestation",
+    "Toxic",
+    "Covet"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    15,
+    19,
+    21,
+    22,
+    24,
+    25,
+    31,
+    32,
+    34,
+    39,
+    41,
+    48,
+    49,
+    53,
+    54,
+    74,
+    76,
+    81
+  ],
+  "trMoves": [
+    1,
+    10,
+    20,
+    21,
+    22,
+    26,
+    27,
+    30,
+    46,
+    52,
+    67,
+    75,
+    76,
+    78
+  ]
+}

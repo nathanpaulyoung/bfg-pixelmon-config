@@ -1,0 +1,183 @@
+{
+  "pixelmonName": "Larvitar",
+  "pokemon": "Larvitar",
+  "stats": {
+    "HP": 50,
+    "Attack": 64,
+    "Defence": 50,
+    "Speed": 41,
+    "SpecialAttack": 45,
+    "SpecialDefence": 50
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 24,
+  "baseExp": 67,
+  "baseFriendship": 35,
+  "types": [
+    "Rock",
+    "Ground"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 72.0,
+  "evolutions": [
+    {
+      "level": 30,
+      "to": {
+        "name": "Pupitar"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Guts",
+    null,
+    "SandVeil"
+  ],
+  "eggGroups": [
+    "Monster"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "1": [
+      "Tackle",
+      "Leer"
+    ],
+    "3": [
+      "Rock Throw"
+    ],
+    "6": [
+      "Payback"
+    ],
+    "9": [
+      "Bite"
+    ],
+    "12": [
+      "Scary Face"
+    ],
+    "15": [
+      "Rock Slide"
+    ],
+    "18": [
+      "Stomping Tantrum"
+    ],
+    "21": [
+      "Screech"
+    ],
+    "24": [
+      "Dark Pulse"
+    ],
+    "27": [
+      "Crunch"
+    ],
+    "31": [
+      "Earthquake"
+    ],
+    "33": [
+      "Stone Edge"
+    ],
+    "36": [
+      "Thrash"
+    ],
+    "39": [
+      "Sandstorm"
+    ],
+    "42": [
+      "Hyper Beam"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Ancient Power",
+    "Earth Power",
+    "Iron Defense",
+    "Iron Head",
+    "Outrage",
+    "Spite",
+    "Superpower",
+    "Uproar",
+    "Bite",
+    "Pursuit",
+    "Scary Face",
+    "Thrash",
+    "Stomp",
+    "Focus Energy",
+    "Leer",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Stomp",
+    "Ancient Power",
+    "Curse"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    15,
+    16,
+    21,
+    22,
+    24,
+    25,
+    26,
+    31,
+    32,
+    33,
+    34,
+    39,
+    43,
+    48,
+    49,
+    57,
+    58,
+    76,
+    79,
+    81,
+    85,
+    98
+  ],
+  "trMoves": [
+    1,
+    10,
+    13,
+    20,
+    24,
+    26,
+    27,
+    31,
+    32,
+    35,
+    37,
+    39,
+    45,
+    46,
+    51,
+    58,
+    67,
+    74,
+    75,
+    76
+  ]
+}

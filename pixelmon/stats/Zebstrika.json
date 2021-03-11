@@ -1,0 +1,167 @@
+{
+  "pixelmonName": "Zebstrika",
+  "pokemon": "Zebstrika",
+  "stats": {
+    "HP": 75,
+    "Attack": 100,
+    "Defence": 63,
+    "Speed": 116,
+    "SpecialAttack": 80,
+    "SpecialDefence": 63
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 28,
+  "spawnLevelRange": 11,
+  "baseExp": 174,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 1.6,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Blitzle"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.5,
+      "z": -0.1
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.3
+    }
+  },
+  "weight": 79.5,
+  "evolutions": [],
+  "abilities": [
+    "LightningRod",
+    "MotorDrive",
+    "SapSipper"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Ion Deluge",
+      "Quick Attack",
+      "Tail Whip",
+      "Charge",
+      "Thunder Wave"
+    ],
+    "4": [
+      "Tail Whip"
+    ],
+    "8": [
+      "Charge"
+    ],
+    "11": [
+      "Shock Wave"
+    ],
+    "15": [
+      "Thunder Wave"
+    ],
+    "18": [
+      "Flame Charge"
+    ],
+    "22": [
+      "Pursuit"
+    ],
+    "25": [
+      "Spark"
+    ],
+    "31": [
+      "Stomp"
+    ],
+    "36": [
+      "Discharge"
+    ],
+    "42": [
+      "Agility"
+    ],
+    "47": [
+      "Wild Charge"
+    ],
+    "53": [
+      "Thrash"
+    ],
+    "58": [
+      "Ion Deluge"
+    ]
+  },
+  "tmMoves": [
+    "Hyper Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Toxic",
+    "Double Team",
+    "Light Screen",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Facade",
+    "Overheat",
+    "Giga Impact",
+    "Charge Beam",
+    "Flame Charge",
+    "Round",
+    "Volt Switch",
+    "Wild Charge",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Ally Switch",
+    "Bounce",
+    "Laser Focus",
+    "Low Kick",
+    "Magnet Rise",
+    "Shock Wave",
+    "Signal Beam",
+    "Snatch",
+    "Snore"
+  ],
+  "eggMoves": [
+    "Double-Edge",
+    "Double Kick",
+    "Endure",
+    "Feint",
+    "Me First",
+    "Rage",
+    "Sand Attack",
+    "Screech",
+    "Shock Wave",
+    "Snatch",
+    "Take Down"
+  ],
+  "forms": {},
+  "form": 0
+}

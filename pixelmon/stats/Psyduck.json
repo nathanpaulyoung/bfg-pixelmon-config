@@ -1,0 +1,149 @@
+{
+  "pixelmonName": "Psyduck",
+  "pokemon": "Psyduck",
+  "stats": {
+    "HP": 50,
+    "Attack": 52,
+    "Defence": 48,
+    "Speed": 55,
+    "SpecialAttack": 65,
+    "SpecialDefence": 50
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 28,
+  "baseExp": 80,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.8,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 19.6,
+  "evolutions": [
+    {
+      "level": 33,
+      "to": {
+        "name": "Golduck"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Damp",
+    "CloudNine",
+    "SwiftSwim"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Water Sport",
+      "Scratch"
+    ],
+    "4": [
+      "Tail Whip"
+    ],
+    "7": [
+      "Water Gun"
+    ],
+    "10": [
+      "Confusion"
+    ],
+    "13": [
+      "Fury Swipes"
+    ],
+    "16": [
+      "Water Pulse"
+    ],
+    "19": [
+      "Disable"
+    ],
+    "22": [
+      "Screech"
+    ],
+    "25": [
+      "Zen Headbutt"
+    ],
+    "28": [
+      "Aqua Tail"
+    ],
+    "31": [
+      "Soak"
+    ],
+    "34": [
+      "Psych Up"
+    ],
+    "37": [
+      "Amnesia"
+    ],
+    "40": [
+      "Hydro Pump"
+    ],
+    "43": [
+      "Wonder Room"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Role Play",
+    "Signal Beam",
+    "Wonder Room",
+    "Worry Seed",
+    "Zen Headbutt",
+    "Amnesia",
+    "Encore",
+    "Foresight",
+    "Hydro Pump",
+    "Hypnosis",
+    "Mud Sport",
+    "Petal Dance",
+    "Refresh",
+    "Water Sport",
+    "Yawn",
+    "Screech",
+    "Telekinesis"
+  ],
+  "eggMoves": [
+    "Clear Smog",
+    "Confuse Ray",
+    "Cross Chop",
+    "Encore",
+    "Foresight",
+    "Future Sight",
+    "Hypnosis",
+    "Mud Bomb",
+    "Psybeam",
+    "Refresh",
+    "Secret Power",
+    "Simple Beam",
+    "Sleep Talk",
+    "Synchronoise",
+    "Yawn"
+  ],
+  "forms": {},
+  "form": 0
+}

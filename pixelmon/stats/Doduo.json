@@ -1,0 +1,157 @@
+{
+  "pixelmonName": "Doduo",
+  "pokemon": "Doduo",
+  "stats": {
+    "HP": 35,
+    "Attack": 85,
+    "Defence": 45,
+    "Speed": 75,
+    "SpecialAttack": 35,
+    "SpecialDefence": 35
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 16,
+  "baseExp": 96,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 1.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 39.2,
+  "evolutions": [
+    {
+      "level": 31,
+      "to": {
+        "name": "Dodrio"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Tri Attack"
+      ]
+    }
+  ],
+  "abilities": [
+    "RunAway",
+    "EarlyBird",
+    "TangledFeet"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Peck",
+      "Growl"
+    ],
+    "5": [
+      "Quick Attack"
+    ],
+    "8": [
+      "Rage"
+    ],
+    "12": [
+      "Fury Attack"
+    ],
+    "15": [
+      "Pursuit"
+    ],
+    "19": [
+      "Pluck"
+    ],
+    "22": [
+      "Double Hit"
+    ],
+    "26": [
+      "Agility"
+    ],
+    "29": [
+      "Uproar"
+    ],
+    "33": [
+      "Acupressure"
+    ],
+    "36": [
+      "Swords Dance"
+    ],
+    "40": [
+      "Jump Kick"
+    ],
+    "43": [
+      "Drill Peck"
+    ],
+    "47": [
+      "Endeavor"
+    ],
+    "50": [
+      "Thrash"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Fly",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Steel Wing",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Facade",
+    "Aerial Ace",
+    "Roost",
+    "Round",
+    "Echoed Voice",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Endeavor",
+    "Knock Off",
+    "Snore",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Assurance",
+    "Brave Bird",
+    "Endeavor",
+    "Feint Attack",
+    "Flail",
+    "Haze",
+    "Mirror Move",
+    "Natural Gift",
+    "Quick Attack",
+    "Supersonic"
+  ],
+  "forms": {},
+  "form": 0
+}

@@ -1,0 +1,189 @@
+{
+  "pixelmonName": "Zeraora",
+  "pokemon": "Zeraora",
+  "stats": {
+    "HP": 88,
+    "Attack": 112,
+    "Defence": 75,
+    "Speed": 143,
+    "SpecialAttack": 102,
+    "SpecialDefence": 80
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 50,
+  "spawnLevelRange": 0,
+  "baseExp": 270,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 1.5,
+  "width": 1.5,
+  "length": 1.5,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Speed": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.1,
+      "z": 0.125
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.75,
+      "z": 0.625
+    }
+  },
+  "weight": 44.5,
+  "evolutions": [],
+  "abilities": [
+    "VoltAbsorb",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "1": [
+      "Power-Up Punch",
+      "Fake Out",
+      "Scratch",
+      "Quick Attack",
+      "Snarl",
+      "Spark"
+    ],
+    "8": [
+      "Fury Swipes"
+    ],
+    "16": [
+      "Quick Guard"
+    ],
+    "24": [
+      "Slash"
+    ],
+    "32": [
+      "Volt Switch"
+    ],
+    "40": [
+      "Charge"
+    ],
+    "48": [
+      "Thunder Punch"
+    ],
+    "56": [
+      "Hone Claws"
+    ],
+    "64": [
+      "Discharge"
+    ],
+    "72": [
+      "Wild Charge"
+    ],
+    "80": [
+      "Agility"
+    ],
+    "88": [
+      "Plasma Fists"
+    ],
+    "96": [
+      "Close Combat"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Dual Chop",
+    "Bounce",
+    "Low Kick",
+    "Thunder Punch",
+    "Fire Punch",
+    "Superpower",
+    "Electroweb",
+    "Iron Tail",
+    "Snore",
+    "Knock Off",
+    "Drain Punch",
+    "Focus Punch",
+    "Shock Wave",
+    "Endeavor",
+    "Outrage",
+    "Snatch",
+    "Throat Chop",
+    "Laser Focus"
+  ],
+  "forms": {},
+  "form": -1,
+  "eggMoves": [],
+  "tmMoves8": [
+    0,
+    1,
+    2,
+    3,
+    5,
+    8,
+    9,
+    14,
+    21,
+    24,
+    25,
+    26,
+    39,
+    40,
+    41,
+    42,
+    43,
+    52,
+    58,
+    59,
+    63,
+    75,
+    76,
+    78,
+    80,
+    82,
+    85,
+    90,
+    94,
+    97
+  ],
+  "trMoves": [
+    7,
+    8,
+    9,
+    12,
+    20,
+    21,
+    24,
+    26,
+    27,
+    31,
+    37,
+    39,
+    41,
+    48,
+    49,
+    53,
+    56,
+    64,
+    77,
+    80,
+    85,
+    86,
+    90,
+    95
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "pixelmonName": "Venomoth",
+  "pokemon": "Venomoth",
+  "stats": {
+    "HP": 70,
+    "Attack": 65,
+    "Defence": 60,
+    "Speed": 90,
+    "SpecialAttack": 90,
+    "SpecialDefence": 75
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 31,
+  "spawnLevelRange": 19,
+  "baseExp": 138,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "height": 1.5,
+  "width": 0.9,
+  "length": 0.3,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Venonat"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 5,
+    "flyHeightMax": 15,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "mountedFlying": {
+    "upperAngleLimit": 20,
+    "lowerAngleLimit": -20,
+    "maxFlySpeed": 1.2,
+    "decelerationRate": 0.7,
+    "hoverDecelerationRate": 0.1,
+    "accelerationRate": 0.2,
+    "strafeAccelerationRate": 0.9,
+    "strafeRollConversion": 0,
+    "turnRate": 0.5,
+    "pitchRate": 2,
+    "stayshorizontalflying": true
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "SpecialAttack": 1,
+    "Speed": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.95,
+      "z": -0.25
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.95,
+      "z": -0.25
+    }
+  },
+  "hoverHeight": 1.0,
+  "weight": 12.5,
+  "evolutions": [],
+  "abilities": [
+    "ShieldDust",
+    "TintedLens",
+    "WonderSkin"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Quiver Dance",
+      "Bug Buzz",
+      "Silver Wind",
+      "Tackle",
+      "Disable",
+      "Foresight",
+      "Supersonic",
+      "Gust"
+    ],
+    "5": [
+      "Supersonic"
+    ],
+    "11": [
+      "Confusion"
+    ],
+    "13": [
+      "Poison Powder"
+    ],
+    "17": [
+      "Psybeam"
+    ],
+    "23": [
+      "Stun Spore"
+    ],
+    "25": [
+      "Signal Beam"
+    ],
+    "29": [
+      "Sleep Powder"
+    ],
+    "37": [
+      "Leech Life"
+    ],
+    "41": [
+      "Zen Headbutt"
+    ],
+    "47": [
+      "Poison Fang"
+    ],
+    "55": [
+      "Psychic"
+    ],
+    "59": [
+      "Bug Buzz"
+    ],
+    "63": [
+      "Quiver Dance"
+    ]
+  },
+  "tmMoves": [
+    "Hyper Beam",
+    "Solar Beam",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Leech Life",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Sludge Bomb",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Facade",
+    "Aerial Ace",
+    "Roost",
+    "U-Turn",
+    "Energy Ball",
+    "Giga Impact",
+    "Venoshock",
+    "Round",
+    "Acrobatics",
+    "Confide",
+    "Infestation"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Defog",
+    "Giga Drain",
+    "Signal Beam",
+    "Skill Swap",
+    "Snore",
+    "Tailwind",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Baton Pass",
+    "Bug Bite",
+    "Giga Drain",
+    "Morning Sun",
+    "Rage Powder",
+    "Screech",
+    "Secret Power",
+    "Signal Beam",
+    "Skill Swap",
+    "Toxic Spikes"
+  ],
+  "forms": {},
+  "form": 0
+}

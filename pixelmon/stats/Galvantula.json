@@ -1,0 +1,168 @@
+{
+  "pixelmonName": "Galvantula",
+  "pokemon": "Galvantula",
+  "stats": {
+    "HP": 70,
+    "Attack": 77,
+    "Defence": 60,
+    "Speed": 108,
+    "SpecialAttack": 97,
+    "SpecialDefence": 60
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 36,
+  "spawnLevelRange": 14,
+  "baseExp": 165,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Electric"
+  ],
+  "height": 0.8,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Joltik"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 0,
+    "passive": 50,
+    "aggressive": 50
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.55
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.55
+    }
+  },
+  "weight": 14.3,
+  "evolutions": [],
+  "abilities": [
+    "CompoundEyes",
+    "Unnerve",
+    "Swarm"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Sticky Web"
+    ],
+    "1": [
+      "Sticky Web",
+      "Absorb",
+      "Fury Cutter",
+      "Electroweb",
+      "Bug Bite"
+    ],
+    "12": [
+      "String Shot"
+    ],
+    "16": [
+      "Thunder Wave"
+    ],
+    "20": [
+      "Electro Ball"
+    ],
+    "24": [
+      "Agility"
+    ],
+    "28": [
+      "Sucker Punch"
+    ],
+    "32": [
+      "Slash"
+    ],
+    "39": [
+      "Discharge"
+    ],
+    "44": [
+      "Screech"
+    ],
+    "50": [
+      "Gastro Acid"
+    ],
+    "56": [
+      "Bug Buzz"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bounce",
+    "Bug Bite",
+    "Electroweb",
+    "Gastro Acid",
+    "Magnet Rise",
+    "Signal Beam",
+    "String Shot",
+    "Sucker Punch",
+    "Agility",
+    "Feint Attack",
+    "Pursuit",
+    "Slash",
+    "Screech",
+    "Throat Chop"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    7,
+    8,
+    9,
+    14,
+    16,
+    17,
+    21,
+    23,
+    24,
+    25,
+    28,
+    31,
+    33,
+    39,
+    40,
+    52,
+    62,
+    73,
+    76,
+    80,
+    82
+  ],
+  "trMoves": [
+    8,
+    9,
+    12,
+    18,
+    20,
+    26,
+    27,
+    57,
+    60,
+    61,
+    65,
+    80,
+    86,
+    95
+  ]
+}

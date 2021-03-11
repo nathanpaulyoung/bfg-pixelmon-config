@@ -1,0 +1,188 @@
+{
+  "pixelmonName": "Glaceon",
+  "pokemon": "Glaceon",
+  "stats": {
+    "HP": 65,
+    "Attack": 60,
+    "Defence": 110,
+    "Speed": 65,
+    "SpecialAttack": 130,
+    "SpecialDefence": 95
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 45,
+  "spawnLevelRange": 5,
+  "baseExp": 184,
+  "baseFriendship": 35,
+  "types": [
+    "Ice"
+  ],
+  "height": 0.8,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Eevee"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.45,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.45,
+      "z": -0.3
+    }
+  },
+  "weight": 25.9,
+  "evolutions": [],
+  "abilities": [
+    "SnowCloak",
+    null,
+    "IceBody"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 36,
+  "levelUpMoves": {
+    "0": [
+      "Icy Wind"
+    ],
+    "1": [
+      "Icy Wind",
+      "Covet",
+      "Swift",
+      "Copycat",
+      "Baton Pass",
+      "Take Down",
+      "Charm",
+      "Double-Edge",
+      "Helping Hand",
+      "Tackle",
+      "Growl",
+      "Tail Whip"
+    ],
+    "5": [
+      "Sand Attack"
+    ],
+    "10": [
+      "Quick Attack"
+    ],
+    "15": [
+      "Baby-Doll Eyes"
+    ],
+    "20": [
+      "Ice Shard"
+    ],
+    "25": [
+      "Bite"
+    ],
+    "30": [
+      "Ice Fang"
+    ],
+    "35": [
+      "Hail"
+    ],
+    "40": [
+      "Freeze-Dry"
+    ],
+    "45": [
+      "Mirror Coat"
+    ],
+    "50": [
+      "Blizzard"
+    ],
+    "55": [
+      "Last Resort"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Covet",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Last Resort",
+    "Signal Beam",
+    "Barrier",
+    "Baton Pass",
+    "Bite",
+    "Charm",
+    "Flail",
+    "Growth",
+    "Sing",
+    "Tickle",
+    "Wish",
+    "Yawn",
+    "Focus Energy",
+    "Tackle",
+    "Celebrate",
+    "Laser Focus",
+    "Blizzard",
+    "Shadow Ball",
+    "Hail",
+    "Aurora Veil"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    2,
+    8,
+    9,
+    15,
+    21,
+    24,
+    25,
+    27,
+    29,
+    31,
+    33,
+    34,
+    35,
+    39,
+    40,
+    41,
+    46,
+    47,
+    51,
+    64,
+    67,
+    76,
+    79
+  ],
+  "trMoves": [
+    1,
+    5,
+    6,
+    13,
+    20,
+    26,
+    27,
+    29,
+    31,
+    33,
+    42,
+    82,
+    85
+  ]
+}

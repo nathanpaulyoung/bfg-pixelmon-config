@@ -1,0 +1,137 @@
+{
+  "pixelmonName": "Skwovet",
+  "pokemon": "Skwovet",
+  "stats": {
+    "HP": 70,
+    "Attack": 55,
+    "Defence": 55,
+    "SpecialAttack": 35,
+    "SpecialDefence": 35,
+    "Speed": 25
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 14,
+  "spawnLevelRange": 10,
+  "baseExp": 55,
+  "baseFriendship": 50,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.3,
+  "width": 0.65,
+  "length": 0.65,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 2.5,
+  "evolutions": [
+    {
+      "level": 24,
+      "to": {
+        "name": "Greedent"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Covet"
+      ]
+    }
+  ],
+  "abilities": [
+    "CheekPouch",
+    null,
+    "Gluttony"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Tackle",
+      "Tail Whip"
+    ],
+    "5": [
+      "Bite"
+    ],
+    "10": [
+      "Stuff Cheeks"
+    ],
+    "15": [
+      "Stockpile",
+      "Swallow",
+      "Spit Up"
+    ],
+    "20": [
+      "Body Slam"
+    ],
+    "25": [
+      "Rest"
+    ],
+    "30": [
+      "Counter"
+    ],
+    "35": [
+      "Bullet Seed"
+    ],
+    "40": [
+      "Super Fang"
+    ],
+    "45": [
+      "Belch"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Belly Drum",
+    "Defense Curl",
+    "Last Resort",
+    "Rollout"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    15,
+    21,
+    23,
+    24,
+    25,
+    31,
+    39,
+    50,
+    53,
+    57,
+    58,
+    59,
+    76,
+    84,
+    97
+  ],
+  "trMoves": [
+    1,
+    17,
+    20,
+    26,
+    27,
+    31,
+    32,
+    35,
+    42,
+    52,
+    59
+  ]
+}

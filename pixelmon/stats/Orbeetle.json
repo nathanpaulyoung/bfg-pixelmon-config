@@ -1,0 +1,170 @@
+{
+  "pixelmonName": "Orbeetle",
+  "pokemon": "Orbeetle",
+  "stats": {
+    "HP": 60,
+    "Attack": 45,
+    "Defence": 110,
+    "SpecialAttack": 80,
+    "SpecialDefence": 120,
+    "Speed": 90
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 14,
+  "baseExp": 253,
+  "baseFriendship": 50,
+  "types": [
+    "Bug",
+    "Psychic"
+  ],
+  "height": 0.4,
+  "width": 0.65,
+  "length": 0.65,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Dottler",
+    "Blipbug"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.3,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.3,
+      "z": -0.3
+    }
+  },
+  "weight": 40.8,
+  "evolutions": [],
+  "abilities": [
+    "Swarm",
+    "Frisk",
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "1": [
+      "Reflect",
+      "Light Screen",
+      "Confusion",
+      "Struggle Bug"
+    ],
+    "4": [
+      "Confuse Ray"
+    ],
+    "8": [
+      "Magic Coat"
+    ],
+    "12": [
+      "Agility"
+    ],
+    "16": [
+      "Psybeam"
+    ],
+    "20": [
+      "Hypnosis"
+    ],
+    "24": [
+      "Ally Switch"
+    ],
+    "28": [
+      "Bug Buzz"
+    ],
+    "32": [
+      "Mirror Coat"
+    ],
+    "36": [
+      "Psychic"
+    ],
+    "40": [
+      "After You"
+    ],
+    "44": [
+      "Calm Mind"
+    ],
+    "48": [
+      "Psychic Terrain"
+    ]
+  },
+  "tutorMoves": [
+    "Expanding Force"
+  ],
+  "eggMoves": [
+    "Infestation",
+    "Recover",
+    "Sticky Web",
+    "Supersonic"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    11,
+    17,
+    18,
+    19,
+    21,
+    24,
+    25,
+    28,
+    31,
+    39,
+    41,
+    44,
+    56,
+    57,
+    60,
+    61,
+    69,
+    70,
+    71,
+    72,
+    76,
+    91
+  ],
+  "trMoves": [
+    11,
+    12,
+    18,
+    20,
+    25,
+    26,
+    27,
+    29,
+    33,
+    34,
+    38,
+    40,
+    46,
+    49,
+    61,
+    65,
+    69,
+    82,
+    83,
+    99
+  ]
+}

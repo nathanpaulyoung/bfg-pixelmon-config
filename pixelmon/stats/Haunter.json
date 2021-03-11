@@ -1,0 +1,189 @@
+{
+  "pixelmonName": "Haunter",
+  "pokemon": "Haunter",
+  "stats": {
+    "HP": 45,
+    "Attack": 50,
+    "Defence": 45,
+    "Speed": 95,
+    "SpecialAttack": 115,
+    "SpecialDefence": 55
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 25,
+  "baseExp": 126,
+  "baseFriendship": 70,
+  "types": [
+    "Ghost",
+    "Poison"
+  ],
+  "height": 1.6,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Gastly"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.7,
+      "z": -0.7
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.7,
+      "z": -0.7
+    }
+  },
+  "hoverHeight": 1.0,
+  "weight": 0.1,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Gengar"
+      },
+      "conditions": [],
+      "evoType": "trade",
+      "moves": [
+        "Shadow Punch"
+      ]
+    }
+  ],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Shadow Punch"
+    ],
+    "1": [
+      "Shadow Punch",
+      "Lick",
+      "Confuse Ray",
+      "Hypnosis",
+      "Mean Look"
+    ],
+    "12": [
+      "Payback"
+    ],
+    "16": [
+      "Spite"
+    ],
+    "20": [
+      "Curse"
+    ],
+    "24": [
+      "Hex"
+    ],
+    "30": [
+      "Night Shade"
+    ],
+    "36": [
+      "Sucker Punch"
+    ],
+    "42": [
+      "Dark Pulse"
+    ],
+    "48": [
+      "Shadow Ball"
+    ],
+    "54": [
+      "Destiny Bond"
+    ],
+    "60": [
+      "Dream Eater"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Foul Play",
+    "Knock Off",
+    "Ominous Wind",
+    "Pain Split",
+    "Spite",
+    "Sucker Punch",
+    "Trick",
+    "Uproar",
+    "Wonder Room",
+    "Haze",
+    "Hypnosis",
+    "Night Shade",
+    "Scary Face",
+    "Ally Switch",
+    "Telekinesis"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    3,
+    4,
+    5,
+    20,
+    21,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    31,
+    33,
+    34,
+    38,
+    39,
+    57,
+    59,
+    65,
+    70,
+    71,
+    74,
+    76,
+    77
+  ],
+  "trMoves": [
+    8,
+    11,
+    20,
+    22,
+    26,
+    27,
+    30,
+    33,
+    35,
+    37,
+    38,
+    40,
+    57,
+    58,
+    65,
+    78,
+    81,
+    83,
+    92
+  ]
+}

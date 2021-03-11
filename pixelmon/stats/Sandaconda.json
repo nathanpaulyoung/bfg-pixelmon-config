@@ -1,0 +1,150 @@
+{
+  "pixelmonName": "Sandaconda",
+  "pokemon": "Sandaconda",
+  "stats": {
+    "HP": 72,
+    "Attack": 107,
+    "Defence": 125,
+    "SpecialAttack": 65,
+    "SpecialDefence": 70,
+    "Speed": 71
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 36,
+  "spawnLevelRange": 14,
+  "baseExp": 179,
+  "baseFriendship": 50,
+  "types": [
+    "Ground"
+  ],
+  "height": 1.2,
+  "width": 1.5,
+  "length": 5.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Silicobra"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -3.4,
+      "z": 0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -3.4,
+      "z": 0.6
+    }
+  },
+  "weight": 65.5,
+  "evolutions": [],
+  "abilities": [
+    "SandSpit",
+    "ShedSkin",
+    "SandVeil"
+  ],
+  "eggGroups": [
+    "Field",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Skull Bash",
+      "Wrap",
+      "Sand Attack",
+      "Minimize",
+      "Brutal Swing"
+    ],
+    "15": [
+      "Bulldoze"
+    ],
+    "20": [
+      "Headbutt"
+    ],
+    "25": [
+      "Glare"
+    ],
+    "30": [
+      "Dig"
+    ],
+    "35": [
+      "Sandstorm"
+    ],
+    "42": [
+      "Slam"
+    ],
+    "49": [
+      "Coil"
+    ],
+    "51": [
+      "Sand Tomb"
+    ]
+  },
+  "tutorMoves": [
+    "Scorching Sands",
+    "Skitter Smack"
+  ],
+  "eggMoves": [
+    "Belch",
+    "Dragon Rush",
+    "Last Resort",
+    "Mud-Slap",
+    "Poison Tail"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    15,
+    16,
+    21,
+    22,
+    24,
+    25,
+    31,
+    32,
+    39,
+    48,
+    49,
+    53,
+    54,
+    68,
+    76,
+    81,
+    97
+  ],
+  "trMoves": [
+    10,
+    20,
+    24,
+    26,
+    27,
+    46,
+    67,
+    69,
+    74,
+    75,
+    76,
+    87,
+    89,
+    94,
+    99
+  ]
+}

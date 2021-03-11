@@ -1,0 +1,128 @@
+{
+  "pixelmonName": "Clawitzer",
+  "pokemon": "Clawitzer",
+  "stats": {
+    "HP": 71,
+    "Attack": 73,
+    "Defence": 88,
+    "Speed": 59,
+    "SpecialAttack": 120,
+    "SpecialDefence": 89
+  },
+  "catchRate": 55,
+  "malePercent": 50,
+  "spawnLevel": 38,
+  "spawnLevelRange": 12,
+  "baseExp": 100,
+  "baseFriendship": 0,
+  "types": [
+    "Water"
+  ],
+  "height": 1.3,
+  "width": 1.3,
+  "length": 1.3,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Clauncher"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": -1.0,
+      "y": -0.33,
+      "z": -0.35
+    },
+    "moving": {
+      "x": -1.0,
+      "y": -0.33,
+      "z": -0.35
+    }
+  },
+  "weight": 35.3,
+  "evolutions": [],
+  "abilities": [
+    "MegaLauncher",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Water1",
+    "Water3"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Heal Pulse",
+      "Dark Pulse",
+      "Dragon Pulse",
+      "Splash",
+      "Water Gun",
+      "Water Sport",
+      "Vise Grip",
+      "Aura Sphere"
+    ],
+    "7": [
+      "Water Sport"
+    ],
+    "9": [
+      "Vise Grip"
+    ],
+    "12": [
+      "Bubble"
+    ],
+    "16": [
+      "Flail"
+    ],
+    "20": [
+      "Bubble Beam"
+    ],
+    "25": [
+      "Swords Dance"
+    ],
+    "30": [
+      "Crabhammer"
+    ],
+    "34": [
+      "Water Pulse"
+    ],
+    "42": [
+      "Smack Down"
+    ],
+    "49": [
+      "Aqua Jet"
+    ],
+    "57": [
+      "Muddy Water"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bounce",
+    "Helping Hand",
+    "Laser Focus",
+    "Liquidation"
+  ],
+  "eggMoves": [
+    "Aqua Jet",
+    "Crabhammer",
+    "Endure",
+    "Entrainment",
+    "Helping Hand"
+  ],
+  "forms": {},
+  "form": 0
+}

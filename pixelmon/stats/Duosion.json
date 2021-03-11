@@ -1,0 +1,173 @@
+{
+  "pixelmonName": "Duosion",
+  "pokemon": "Duosion",
+  "stats": {
+    "HP": 65,
+    "Attack": 40,
+    "Defence": 50,
+    "Speed": 30,
+    "SpecialAttack": 125,
+    "SpecialDefence": 60
+  },
+  "catchRate": 100,
+  "malePercent": 50,
+  "spawnLevel": 32,
+  "spawnLevelRange": 8,
+  "baseExp": 130,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 1.8,
+  "width": 0.6,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Solosis"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "hoverHeight": 1.0,
+  "weight": 8.0,
+  "evolutions": [
+    {
+      "level": 41,
+      "to": {
+        "name": "Reuniclus"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Dizzy Punch"
+      ]
+    }
+  ],
+  "abilities": [
+    "Overcoat",
+    "MagicGuard",
+    "Regenerator"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Protect",
+      "Confusion",
+      "Recover",
+      "Endeavor"
+    ],
+    "12": [
+      "Psybeam"
+    ],
+    "16": [
+      "Charm"
+    ],
+    "20": [
+      "Psyshock"
+    ],
+    "24": [
+      "Light Screen",
+      "Reflect"
+    ],
+    "28": [
+      "Ally Switch"
+    ],
+    "35": [
+      "Pain Split"
+    ],
+    "40": [
+      "Psychic"
+    ],
+    "46": [
+      "Skill Swap"
+    ],
+    "52": [
+      "Future Sight"
+    ],
+    "58": [
+      "Wonder Room"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "After You",
+    "Endeavor",
+    "Gravity",
+    "Magic Coat",
+    "Pain Split",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Helping Hand",
+    "Charm",
+    "Night Shade",
+    "Gravity",
+    "Helping Hand",
+    "Iron Defense",
+    "Ally Switch",
+    "Telekinesis"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    14,
+    17,
+    18,
+    19,
+    21,
+    22,
+    24,
+    25,
+    29,
+    31,
+    33,
+    39,
+    41,
+    44,
+    48,
+    60,
+    61,
+    70,
+    71,
+    76,
+    91
+  ],
+  "trMoves": [
+    9,
+    11,
+    20,
+    25,
+    26,
+    27,
+    30,
+    33,
+    34,
+    38,
+    40,
+    46,
+    49,
+    52,
+    65,
+    69,
+    70,
+    82,
+    83
+  ]
+}

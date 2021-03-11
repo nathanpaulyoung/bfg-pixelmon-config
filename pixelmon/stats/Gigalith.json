@@ -1,0 +1,157 @@
+{
+  "pixelmonName": "Gigalith",
+  "pokemon": "Gigalith",
+  "stats": {
+    "HP": 85,
+    "Attack": 135,
+    "Defence": 130,
+    "Speed": 25,
+    "SpecialAttack": 60,
+    "SpecialDefence": 80
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 40,
+  "spawnLevelRange": 10,
+  "baseExp": 227,
+  "baseFriendship": 70,
+  "types": [
+    "Rock"
+  ],
+  "height": 1.7,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Boldore",
+    "Roggenrola"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.4
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.4
+    }
+  },
+  "weight": 260.0,
+  "evolutions": [],
+  "abilities": [
+    "Sturdy",
+    "SandStream",
+    "SandForce"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "1": [
+      "Power Gem",
+      "Sand Attack",
+      "Tackle",
+      "Harden",
+      "Stealth Rock"
+    ],
+    "12": [
+      "Mud-Slap"
+    ],
+    "16": [
+      "Smack Down"
+    ],
+    "20": [
+      "Iron Defense"
+    ],
+    "24": [
+      "Headbutt"
+    ],
+    "30": [
+      "Rock Slide"
+    ],
+    "36": [
+      "Rock Blast"
+    ],
+    "42": [
+      "Sandstorm"
+    ],
+    "48": [
+      "Stone Edge"
+    ],
+    "54": [
+      "Explosion"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Block",
+    "Earth Power",
+    "Gravity",
+    "Iron Defense",
+    "Iron Head",
+    "Superpower",
+    "Harden",
+    "Tackle",
+    "Laser Focus",
+    "Throat Chop",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    11,
+    20,
+    21,
+    22,
+    24,
+    25,
+    31,
+    32,
+    39,
+    46,
+    48,
+    49,
+    54,
+    76,
+    81,
+    98
+  ],
+  "trMoves": [
+    10,
+    20,
+    26,
+    27,
+    39,
+    46,
+    63,
+    67,
+    70,
+    74,
+    75,
+    76,
+    79,
+    95,
+    99
+  ]
+}

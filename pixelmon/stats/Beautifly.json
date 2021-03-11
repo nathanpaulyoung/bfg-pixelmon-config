@@ -1,0 +1,152 @@
+{
+  "pixelmonName": "Beautifly",
+  "pokemon": "Beautifly",
+  "stats": {
+    "HP": 60,
+    "Attack": 70,
+    "Defence": 50,
+    "Speed": 65,
+    "SpecialAttack": 100,
+    "SpecialDefence": 50
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 20,
+  "baseExp": 173,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Silcoon",
+    "Wurmple"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 5,
+    "flyHeightMax": 15,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "weight": 28.4,
+  "evolutions": [],
+  "abilities": [
+    "Swarm",
+    null,
+    "Rivalry"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Gust"
+    ],
+    "12": [
+      "Absorb"
+    ],
+    "15": [
+      "Stun Spore"
+    ],
+    "17": [
+      "Morning Sun"
+    ],
+    "20": [
+      "Air Cutter"
+    ],
+    "22": [
+      "Mega Drain"
+    ],
+    "25": [
+      "Silver Wind"
+    ],
+    "27": [
+      "Attract"
+    ],
+    "30": [
+      "Whirlwind"
+    ],
+    "32": [
+      "Giga Drain"
+    ],
+    "35": [
+      "Bug Buzz"
+    ],
+    "37": [
+      "Rage"
+    ],
+    "40": [
+      "Quiver Dance"
+    ]
+  },
+  "tmMoves": [
+    "Hyper Beam",
+    "Solar Beam",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Sunny Day",
+    "Shadow Ball",
+    "Facade",
+    "Aerial Ace",
+    "Roost",
+    "U-Turn",
+    "Energy Ball",
+    "Giga Impact",
+    "Venoshock",
+    "Round",
+    "Acrobatics",
+    "Confide",
+    "Infestation"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Defog",
+    "Electroweb",
+    "Giga Drain",
+    "Laser Focus",
+    "Signal Beam",
+    "Snore",
+    "Tailwind"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": []
+}

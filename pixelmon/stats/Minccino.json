@@ -1,0 +1,170 @@
+{
+  "pixelmonName": "Minccino",
+  "pokemon": "Minccino",
+  "stats": {
+    "HP": 55,
+    "Attack": 50,
+    "Defence": 40,
+    "Speed": 75,
+    "SpecialAttack": 40,
+    "SpecialDefence": 40
+  },
+  "catchRate": 255,
+  "malePercent": 25,
+  "spawnLevel": 15,
+  "spawnLevelRange": 9,
+  "baseExp": 60,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.4,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 5.8,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:shiny_stone"
+      },
+      "to": {
+        "name": "Cinccino"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "CuteCharm",
+    "Technician",
+    "SkillLink"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "1": [
+      "Pound",
+      "Baby-Doll Eyes"
+    ],
+    "4": [
+      "Helping Hand"
+    ],
+    "8": [
+      "Echoed Voice"
+    ],
+    "12": [
+      "Sing"
+    ],
+    "16": [
+      "Charm"
+    ],
+    "20": [
+      "Swift"
+    ],
+    "24": [
+      "Encore"
+    ],
+    "28": [
+      "After You"
+    ],
+    "32": [
+      "Tail Slap"
+    ],
+    "36": [
+      "Tickle"
+    ],
+    "40": [
+      "Slam"
+    ],
+    "44": [
+      "Hyper Voice"
+    ],
+    "48": [
+      "Last Resort"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "After You",
+    "Aqua Tail",
+    "Covet",
+    "Gunk Shot",
+    "Helping Hand",
+    "Hyper Voice",
+    "Knock Off",
+    "Last Resort",
+    "Seed Bomb",
+    "Uproar",
+    "Charm",
+    "Double Slap",
+    "Encore",
+    "Flail",
+    "Sing",
+    "Tickle"
+  ],
+  "eggMoves": [
+    "Tail Whip",
+    "Aqua Tail",
+    "Knock Off",
+    "Flail"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    14,
+    15,
+    19,
+    21,
+    23,
+    24,
+    25,
+    29,
+    31,
+    33,
+    34,
+    39,
+    40,
+    41,
+    47,
+    56,
+    59,
+    76,
+    79,
+    84
+  ],
+  "trMoves": [
+    8,
+    20,
+    26,
+    27,
+    30,
+    31,
+    35,
+    42,
+    49,
+    59,
+    73,
+    77,
+    85,
+    90,
+    92
+  ]
+}

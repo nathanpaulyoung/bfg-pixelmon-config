@@ -1,0 +1,156 @@
+{
+  "pixelmonName": "TapuLele",
+  "pokemon": "Tapu_Lele",
+  "stats": {
+    "HP": 70,
+    "Attack": 85,
+    "Defence": 75,
+    "Speed": 95,
+    "SpecialAttack": 130,
+    "SpecialDefence": 115
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 50,
+  "spawnLevelRange": 0,
+  "baseExp": 114,
+  "baseFriendship": 0,
+  "types": [
+    "Psychic",
+    "Fairy"
+  ],
+  "height": 1.8,
+  "width": 1.8,
+  "length": 1.8,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.45
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.45
+    }
+  },
+  "weight": 18.6,
+  "evolutions": [],
+  "abilities": [
+    "PsychicSurge",
+    null,
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Psychic Terrain",
+      "Aromatic Mist",
+      "Aromatherapy",
+      "Mean Look",
+      "Draining Kiss",
+      "Astonish",
+      "Withdraw",
+      "Confusion"
+    ],
+    "8": [
+      "Psywave"
+    ],
+    "14": [
+      "Psybeam"
+    ],
+    "20": [
+      "Sweet Scent"
+    ],
+    "26": [
+      "Skill Swap"
+    ],
+    "32": [
+      "Psyshock"
+    ],
+    "38": [
+      "Tickle"
+    ],
+    "43": [
+      "Natures Madness"
+    ],
+    "48": [
+      "Extrasensory"
+    ],
+    "53": [
+      "Flatter"
+    ],
+    "58": [
+      "Moonblast"
+    ]
+  },
+  "tmMoves": [
+    "Hyper Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Light Screen",
+    "Reflect",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Sunny Day",
+    "Psych Up",
+    "Shadow Ball",
+    "Torment",
+    "Facade",
+    "Nature Power",
+    "Taunt",
+    "Calm Mind",
+    "Fling",
+    "Focus Blast",
+    "Energy Ball",
+    "Giga Impact",
+    "Grass Knot",
+    "Charge Beam",
+    "Psyshock",
+    "Round",
+    "Echoed Voice",
+    "Confide",
+    "Dazzling Gleam"
+  ],
+  "tutorMoves": [
+    "Ally Switch",
+    "Gravity",
+    "Iron Defense",
+    "Magic Coat",
+    "Magic Room",
+    "Skill Swap",
+    "Snore",
+    "Telekinesis",
+    "Wonder Room"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": []
+}

@@ -1,0 +1,147 @@
+{
+  "pixelmonName": "Klang",
+  "pokemon": "Klang",
+  "stats": {
+    "HP": 60,
+    "Attack": 80,
+    "Defence": 95,
+    "Speed": 50,
+    "SpecialAttack": 70,
+    "SpecialDefence": 85
+  },
+  "catchRate": 60,
+  "malePercent": -1,
+  "spawnLevel": 38,
+  "spawnLevelRange": 10,
+  "baseExp": 154,
+  "baseFriendship": 70,
+  "types": [
+    "Steel"
+  ],
+  "height": 0.6,
+  "width": 0.6,
+  "length": 0.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Klink"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "hoverHeight": 1.0,
+  "weight": 51.0,
+  "evolutions": [
+    {
+      "level": 49,
+      "to": {
+        "name": "Klinklang"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Magnetic Flux"
+      ]
+    }
+  ],
+  "abilities": [
+    "Plus",
+    "Minus",
+    "ClearBody"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Thunder Shock",
+      "Vise Grip",
+      "Bind",
+      "Charge"
+    ],
+    "12": [
+      "Charge Beam"
+    ],
+    "16": [
+      "Metal Sound"
+    ],
+    "20": [
+      "Autotomize"
+    ],
+    "24": [
+      "Discharge"
+    ],
+    "28": [
+      "Screech"
+    ],
+    "32": [
+      "Gear Grind"
+    ],
+    "36": [
+      "Lock-On"
+    ],
+    "42": [
+      "Shift Gear"
+    ],
+    "48": [
+      "Zap Cannon"
+    ],
+    "54": [
+      "Hyper Beam"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bind",
+    "Gravity",
+    "Iron Defense",
+    "Magic Coat",
+    "Magnet Rise",
+    "Signal Beam",
+    "Uproar",
+    "Metal Sound",
+    "Screech",
+    "Ally Switch",
+    "Telekinesis"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": [],
+  "tmMoves8": [
+    8,
+    14,
+    16,
+    21,
+    24,
+    25,
+    32,
+    39,
+    58,
+    76,
+    80
+  ],
+  "trMoves": [
+    8,
+    20,
+    26,
+    27,
+    35,
+    46,
+    63,
+    70,
+    83,
+    86
+  ]
+}

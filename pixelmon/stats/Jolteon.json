@@ -1,0 +1,192 @@
+{
+  "pixelmonName": "Jolteon",
+  "pokemon": "Jolteon",
+  "stats": {
+    "HP": 65,
+    "Attack": 65,
+    "Defence": 60,
+    "Speed": 130,
+    "SpecialAttack": 110,
+    "SpecialDefence": 95
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 35,
+  "spawnLevelRange": 15,
+  "baseExp": 184,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 0.8,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Eevee"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.45,
+      "z": -0.15
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.45,
+      "z": -0.15
+    }
+  },
+  "weight": 24.5,
+  "evolutions": [],
+  "abilities": [
+    "VoltAbsorb",
+    null,
+    "QuickFeet"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 36,
+  "levelUpMoves": {
+    "0": [
+      "Thunder Shock"
+    ],
+    "1": [
+      "Thunder Shock",
+      "Covet",
+      "Swift",
+      "Bite",
+      "Copycat",
+      "Baton Pass",
+      "Take Down",
+      "Charm",
+      "Double-Edge",
+      "Helping Hand",
+      "Tackle",
+      "Growl",
+      "Tail Whip"
+    ],
+    "5": [
+      "Sand Attack"
+    ],
+    "10": [
+      "Quick Attack"
+    ],
+    "15": [
+      "Baby-Doll Eyes"
+    ],
+    "20": [
+      "Thunder Wave"
+    ],
+    "25": [
+      "Double Kick"
+    ],
+    "30": [
+      "Thunder Fang"
+    ],
+    "35": [
+      "Pin Missile"
+    ],
+    "40": [
+      "Discharge"
+    ],
+    "45": [
+      "Agility"
+    ],
+    "50": [
+      "Thunder"
+    ],
+    "55": [
+      "Last Resort"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Last Resort",
+    "Magnet Rise",
+    "Signal Beam",
+    "Agility",
+    "Baton Pass",
+    "Bite",
+    "Charm",
+    "Flail",
+    "Growth",
+    "Sing",
+    "Tickle",
+    "Wish",
+    "Yawn",
+    "Focus Energy",
+    "Tackle",
+    "Celebrate",
+    "Thunderbolt",
+    "Shadow Ball",
+    "Light Screen",
+    "Volt Switch",
+    "Laser Focus"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    2,
+    7,
+    8,
+    9,
+    14,
+    15,
+    17,
+    21,
+    24,
+    25,
+    29,
+    31,
+    33,
+    34,
+    39,
+    40,
+    41,
+    46,
+    47,
+    66,
+    76,
+    79,
+    80
+  ],
+  "trMoves": [
+    1,
+    8,
+    9,
+    12,
+    13,
+    20,
+    26,
+    27,
+    29,
+    31,
+    33,
+    42,
+    80,
+    82,
+    85,
+    86
+  ]
+}

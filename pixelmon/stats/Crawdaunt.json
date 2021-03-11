@@ -1,0 +1,181 @@
+{
+  "pixelmonName": "Crawdaunt",
+  "pokemon": "Crawdaunt",
+  "stats": {
+    "HP": 63,
+    "Attack": 120,
+    "Defence": 85,
+    "Speed": 55,
+    "SpecialAttack": 90,
+    "SpecialDefence": 55
+  },
+  "catchRate": 155,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 25,
+  "baseExp": 161,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Dark"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Corphish"
+  ],
+  "experienceGroup": "Fluctuating",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.43
+    }
+  },
+  "weight": 32.8,
+  "evolutions": [],
+  "abilities": [
+    "HyperCutter",
+    "ShellArmour",
+    "Adaptability"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Water3"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Swift"
+    ],
+    "1": [
+      "Swift",
+      "Water Gun",
+      "Harden",
+      "Leer",
+      "Taunt"
+    ],
+    "12": [
+      "Bubble Beam"
+    ],
+    "16": [
+      "Knock Off"
+    ],
+    "20": [
+      "Double Hit"
+    ],
+    "24": [
+      "Protect"
+    ],
+    "28": [
+      "Night Slash"
+    ],
+    "34": [
+      "Razor Shell"
+    ],
+    "40": [
+      "Swords Dance"
+    ],
+    "46": [
+      "Crunch"
+    ],
+    "52": [
+      "Crabhammer"
+    ],
+    "58": [
+      "Endeavor"
+    ],
+    "64": [
+      "Guillotine"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Ancient Power",
+    "Endeavor",
+    "Iron Defense",
+    "Knock Off",
+    "Spite",
+    "Superpower",
+    "Bubble",
+    "Mud Sport",
+    "Water Sport",
+    "Harden",
+    "Leer",
+    "Liquidation"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    15,
+    21,
+    22,
+    24,
+    25,
+    27,
+    31,
+    33,
+    35,
+    36,
+    39,
+    40,
+    42,
+    43,
+    45,
+    48,
+    53,
+    57,
+    59,
+    64,
+    76,
+    79,
+    83,
+    85,
+    94
+  ],
+  "trMoves": [
+    0,
+    1,
+    3,
+    4,
+    5,
+    6,
+    16,
+    20,
+    22,
+    26,
+    27,
+    32,
+    37,
+    39,
+    45,
+    46,
+    51,
+    53,
+    58,
+    60,
+    68,
+    78,
+    84,
+    98
+  ]
+}

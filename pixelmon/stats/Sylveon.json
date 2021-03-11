@@ -1,0 +1,185 @@
+{
+  "pixelmonName": "Sylveon",
+  "pokemon": "Sylveon",
+  "stats": {
+    "HP": 95,
+    "Attack": 65,
+    "Defence": 65,
+    "Speed": 60,
+    "SpecialAttack": 110,
+    "SpecialDefence": 130
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 32,
+  "spawnLevelRange": 12,
+  "baseExp": 184,
+  "baseFriendship": 0,
+  "types": [
+    "Fairy"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Eevee"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.8,
+      "z": -0.25
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.8,
+      "z": -0.25
+    }
+  },
+  "weight": 23.5,
+  "evolutions": [],
+  "abilities": [
+    "CuteCharm",
+    null,
+    "Pixilate"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 36,
+  "levelUpMoves": {
+    "0": [
+      "Disarming Voice"
+    ],
+    "1": [
+      "Disarming Voice",
+      "Covet",
+      "Bite",
+      "Copycat",
+      "Baton Pass",
+      "Take Down",
+      "Charm",
+      "Double-Edge",
+      "Helping Hand",
+      "Tackle",
+      "Growl",
+      "Tail Whip"
+    ],
+    "5": [
+      "Sand Attack"
+    ],
+    "10": [
+      "Quick Attack"
+    ],
+    "15": [
+      "Baby-Doll Eyes"
+    ],
+    "20": [
+      "Swift"
+    ],
+    "25": [
+      "Light Screen"
+    ],
+    "30": [
+      "Draining Kiss"
+    ],
+    "35": [
+      "Misty Terrain"
+    ],
+    "40": [
+      "Skill Swap"
+    ],
+    "45": [
+      "Psych Up"
+    ],
+    "50": [
+      "Moonblast"
+    ],
+    "55": [
+      "Last Resort"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Last Resort",
+    "Magic Coat",
+    "Bite",
+    "Refresh",
+    "Charm",
+    "Baton Pass",
+    "Celebrate",
+    "Laser Focus",
+    "Telekinesis",
+    "Hyper Beam",
+    "Draining Kiss",
+    "Psyshock",
+    "Calm Mind"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    2,
+    8,
+    9,
+    10,
+    15,
+    17,
+    18,
+    19,
+    21,
+    24,
+    25,
+    29,
+    31,
+    33,
+    34,
+    39,
+    40,
+    41,
+    46,
+    47,
+    76,
+    79,
+    87,
+    89,
+    92
+  ],
+  "trMoves": [
+    1,
+    13,
+    20,
+    25,
+    26,
+    27,
+    29,
+    31,
+    33,
+    40,
+    42,
+    49,
+    82,
+    85,
+    90,
+    92
+  ]
+}

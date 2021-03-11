@@ -1,0 +1,187 @@
+{
+  "pixelmonName": "Gligar",
+  "pokemon": "Gligar",
+  "stats": {
+    "HP": 65,
+    "Attack": 75,
+    "Defence": 105,
+    "Speed": 85,
+    "SpecialAttack": 35,
+    "SpecialDefence": 65
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 24,
+  "baseExp": 108,
+  "baseFriendship": 70,
+  "types": [
+    "Ground",
+    "Flying"
+  ],
+  "height": 0.7,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 0,
+    "passive": 50,
+    "aggressive": 50
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 64.8,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Gliscor"
+      },
+      "conditions": [
+        {
+          "item": {
+            "itemID": "pixelmon:razor_fang"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "HyperCutter",
+    "SandVeil",
+    "Immunity"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Poison Sting"
+    ],
+    "4": [
+      "Sand Attack"
+    ],
+    "7": [
+      "Harden"
+    ],
+    "10": [
+      "Knock Off"
+    ],
+    "13": [
+      "Quick Attack"
+    ],
+    "16": [
+      "Fury Cutter"
+    ],
+    "19": [
+      "Feint Attack"
+    ],
+    "22": [
+      "Acrobatics"
+    ],
+    "27": [
+      "Slash"
+    ],
+    "30": [
+      "U-Turn"
+    ],
+    "35": [
+      "Screech"
+    ],
+    "40": [
+      "X-Scissor"
+    ],
+    "45": [
+      "Sky Uppercut"
+    ],
+    "50": [
+      "Swords Dance"
+    ],
+    "55": [
+      "Guillotine"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Sludge Bomb",
+    "Sandstorm",
+    "False Swipe",
+    "Swagger",
+    "Steel Wing",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Torment",
+    "Facade",
+    "Taunt",
+    "Brick Break",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Roost",
+    "U-Turn",
+    "Payback",
+    "Fling",
+    "Rock Polish",
+    "Poison Jab",
+    "Dark Pulse",
+    "X-Scissor",
+    "Stone Edge",
+    "Venoshock",
+    "Round",
+    "Acrobatics",
+    "Bulldoze",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bug Bite",
+    "Defog",
+    "Earth Power",
+    "Iron Tail",
+    "Knock Off",
+    "Snore",
+    "Stealth Rock",
+    "Tailwind",
+    "Throat Chop"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Baton Pass",
+    "Counter",
+    "Cross Poison",
+    "Double-Edge",
+    "Feint",
+    "Metal Claw",
+    "Night Slash",
+    "Poison Tail",
+    "Power Trick",
+    "Razor Wind",
+    "Rock Climb",
+    "Sand Tomb",
+    "Wing Attack"
+  ],
+  "forms": {},
+  "form": 0
+}

@@ -1,0 +1,190 @@
+{
+  "pixelmonName": "Mankey",
+  "pokemon": "Mankey",
+  "stats": {
+    "HP": 40,
+    "Attack": 80,
+    "Defence": 35,
+    "Speed": 70,
+    "SpecialAttack": 35,
+    "SpecialDefence": 45
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 18,
+  "baseExp": 74,
+  "baseFriendship": 70,
+  "types": [
+    "Fighting"
+  ],
+  "height": 0.5,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 28.0,
+  "evolutions": [
+    {
+      "level": 28,
+      "to": {
+        "name": "Primeape"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Rage"
+      ]
+    }
+  ],
+  "abilities": [
+    "VitalSpirit",
+    "AngerPoint",
+    "Defiant"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Covet",
+      "Scratch",
+      "Low Kick",
+      "Leer",
+      "Focus Energy"
+    ],
+    "5": [
+      "Fury Swipes"
+    ],
+    "8": [
+      "Karate Chop"
+    ],
+    "12": [
+      "Pursuit"
+    ],
+    "15": [
+      "Seismic Toss"
+    ],
+    "19": [
+      "Swagger"
+    ],
+    "22": [
+      "Cross Chop"
+    ],
+    "26": [
+      "Assurance"
+    ],
+    "29": [
+      "Punishment"
+    ],
+    "33": [
+      "Thrash"
+    ],
+    "36": [
+      "Close Combat"
+    ],
+    "40": [
+      "Screech"
+    ],
+    "43": [
+      "Stomping Tantrum"
+    ],
+    "47": [
+      "Outrage"
+    ],
+    "50": [
+      "Final Gambit"
+    ]
+  },
+  "tmMoves": [
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Taunt",
+    "Brick Break",
+    "Overheat",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Bulk Up",
+    "U-Turn",
+    "Payback",
+    "Fling",
+    "Poison Jab",
+    "Focus Blast",
+    "Smack Down",
+    "Low Sweep",
+    "Round",
+    "Acrobatics",
+    "Bulldoze",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Dual Chop",
+    "Endeavor",
+    "Fire Punch",
+    "Focus Punch",
+    "Gunk Shot",
+    "Helping Hand",
+    "Ice Punch",
+    "Iron Tail",
+    "Low Kick",
+    "Outrage",
+    "Role Play",
+    "Seed Bomb",
+    "Snore",
+    "Spite",
+    "Stomping Tantrum",
+    "Thunder Punch",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Beat Up",
+    "Close Combat",
+    "Counter",
+    "Encore",
+    "Focus Punch",
+    "Foresight",
+    "Meditate",
+    "Night Slash",
+    "Power Trip",
+    "Revenge",
+    "Reversal",
+    "Sleep Talk",
+    "Smelling Salts"
+  ],
+  "forms": {},
+  "form": 0
+}

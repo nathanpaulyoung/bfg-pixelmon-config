@@ -1,0 +1,258 @@
+{
+  "pixelmonName": "Hoopa",
+  "pokemon": "Hoopa",
+  "stats": {
+    "HP": 80,
+    "Attack": 110,
+    "Defence": 60,
+    "Speed": 70,
+    "SpecialAttack": 150,
+    "SpecialDefence": 130
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 40,
+  "spawnLevelRange": 20,
+  "baseExp": 270,
+  "baseFriendship": 0,
+  "types": [
+    "Psychic",
+    "Ghost"
+  ],
+  "height": 1.0,
+  "width": 1.5,
+  "length": 1.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "weight": 9.0,
+  "evolutions": [],
+  "abilities": [
+    "Magician",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Hyperspace Hole",
+      "Trick",
+      "Destiny Bond",
+      "Ally Switch",
+      "Confusion"
+    ],
+    "6": [
+      "Astonish"
+    ],
+    "10": [
+      "Magic Coat"
+    ],
+    "15": [
+      "Light Screen"
+    ],
+    "19": [
+      "Psybeam"
+    ],
+    "25": [
+      "Skill Swap"
+    ],
+    "29": [
+      "Power Split",
+      "Guard Split"
+    ],
+    "35": [
+      "Phantom Force"
+    ],
+    "46": [
+      "Zen Headbutt"
+    ],
+    "50": [
+      "Wonder Room",
+      "Trick Room"
+    ],
+    "55": [
+      "Shadow Ball"
+    ],
+    "68": [
+      "Nasty Plot"
+    ],
+    "75": [
+      "Psychic"
+    ],
+    "85": [
+      "Hyperspace Hole"
+    ]
+  },
+  "tmMoves": [
+    "Hyper Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Light Screen",
+    "Reflect",
+    "Dream Eater",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Shadow Ball",
+    "Torment",
+    "Facade",
+    "Taunt",
+    "Brick Break",
+    "Calm Mind",
+    "Embargo",
+    "Fling",
+    "Dark Pulse",
+    "Focus Blast",
+    "Energy Ball",
+    "Giga Impact",
+    "Trick Room",
+    "Grass Knot",
+    "Charge Beam",
+    "Psyshock",
+    "Round",
+    "Quash",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Ally Switch",
+    "Block",
+    "Covet",
+    "Drain Punch",
+    "Dual Chop",
+    "Fire Punch",
+    "Focus Punch",
+    "Foul Play",
+    "Gravity",
+    "Gunk Shot",
+    "Ice Punch",
+    "Knock Off",
+    "Laser Focus",
+    "Last Resort",
+    "Magic Coat",
+    "Magic Room",
+    "Recycle",
+    "Role Play",
+    "Shock Wave",
+    "Signal Beam",
+    "Skill Swap",
+    "Snatch",
+    "Snore",
+    "Telekinesis",
+    "Throat Chop",
+    "Thunder Punch",
+    "Trick",
+    "Uproar",
+    "Wonder Room",
+    "Zen Headbutt"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 80,
+        "Attack": 160,
+        "Defence": 60,
+        "Speed": 80,
+        "SpecialAttack": 170,
+        "SpecialDefence": 130
+      },
+      "types": [
+        "Psychic",
+        "Dark"
+      ],
+      "height": 3.0,
+      "width": 3.0,
+      "length": 3.0,
+      "isRideable": true,
+      "canFly": true,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": 2.7,
+          "z": 0.2
+        },
+        "moving": {
+          "x": 0.0,
+          "y": 2.2,
+          "z": 0.25
+        }
+      },
+      "weight": 490.0,
+      "levelUpMoves": {
+        "0": [
+          "Hyperspace Fury",
+          "Trick",
+          "Destiny Bond",
+          "Ally Switch",
+          "Confusion"
+        ],
+        "6": [
+          "Astonish"
+        ],
+        "10": [
+          "Magic Coat"
+        ],
+        "15": [
+          "Light Screen"
+        ],
+        "19": [
+          "Psybeam"
+        ],
+        "25": [
+          "Skill Swap"
+        ],
+        "29": [
+          "Power Split",
+          "Guard Split"
+        ],
+        "46": [
+          "Knock Off"
+        ],
+        "50": [
+          "Wonder Room",
+          "Trick Room"
+        ],
+        "55": [
+          "Dark Pulse"
+        ],
+        "75": [
+          "Psychic"
+        ],
+        "85": [
+          "Hyperspace Fury"
+        ]
+      },
+      "form": 1
+    }
+  },
+  "form": 0,
+  "eggMoves": []
+}

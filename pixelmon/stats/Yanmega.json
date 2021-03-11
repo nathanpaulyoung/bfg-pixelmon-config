@@ -1,0 +1,187 @@
+{
+  "pixelmonName": "Yanmega",
+  "pokemon": "Yanmega",
+  "stats": {
+    "HP": 86,
+    "Attack": 76,
+    "Defence": 86,
+    "Speed": 95,
+    "SpecialAttack": 116,
+    "SpecialDefence": 56
+  },
+  "catchRate": 30,
+  "malePercent": 50,
+  "spawnLevel": 34,
+  "spawnLevelRange": 11,
+  "baseExp": 198,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "height": 0.5,
+  "width": 1.7,
+  "length": 1.9,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Yanma"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 5,
+    "flyHeightMax": 20,
+    "flySpeedModifier": 1.4,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.6
+    }
+  },
+  "hoverHeight": 1.0,
+  "weight": 51.5,
+  "evolutions": [],
+  "abilities": [
+    "SpeedBoost",
+    "TintedLens",
+    "Frisk"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Bug Buzz",
+      "Air Slash",
+      "Night Slash",
+      "Bug Bite",
+      "Tackle",
+      "Foresight",
+      "Quick Attack",
+      "Double Team"
+    ],
+    "6": [
+      "Quick Attack"
+    ],
+    "11": [
+      "Double Team"
+    ],
+    "14": [
+      "Sonic Boom"
+    ],
+    "17": [
+      "Detect"
+    ],
+    "22": [
+      "Supersonic"
+    ],
+    "27": [
+      "Uproar"
+    ],
+    "30": [
+      "Pursuit"
+    ],
+    "33": [
+      "Ancient Power"
+    ],
+    "38": [
+      "Feint"
+    ],
+    "43": [
+      "Slash"
+    ],
+    "46": [
+      "Screech"
+    ],
+    "49": [
+      "U-Turn"
+    ],
+    "54": [
+      "Air Slash"
+    ],
+    "57": [
+      "Bug Buzz"
+    ]
+  },
+  "tmMoves": [
+    "Hyper Beam",
+    "Solar Beam",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Dream Eater",
+    "Leech Life",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Steel Wing",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Psych Up",
+    "Shadow Ball",
+    "Facade",
+    "Aerial Ace",
+    "Roost",
+    "U-Turn",
+    "Giga Impact",
+    "Round",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Defog",
+    "Giga Drain",
+    "Laser Focus",
+    "Signal Beam",
+    "Snore",
+    "Tailwind",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Double-Edge",
+    "Feint",
+    "Feint Attack",
+    "Leech Life",
+    "Pursuit",
+    "Reversal",
+    "Secret Power",
+    "Signal Beam",
+    "Silver Wind",
+    "Whirlwind"
+  ],
+  "forms": {},
+  "form": 0
+}

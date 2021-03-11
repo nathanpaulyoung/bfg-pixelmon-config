@@ -1,0 +1,147 @@
+{
+  "pixelmonName": "Volcarona",
+  "pokemon": "Volcarona",
+  "stats": {
+    "HP": 85,
+    "Attack": 60,
+    "Defence": 65,
+    "Speed": 100,
+    "SpecialAttack": 135,
+    "SpecialDefence": 105
+  },
+  "catchRate": 15,
+  "malePercent": 50,
+  "spawnLevel": 59,
+  "spawnLevelRange": 6,
+  "baseExp": 248,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Fire"
+  ],
+  "height": 1.6,
+  "width": 1.6,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Larvesta"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.4,
+      "z": -0.5
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.4,
+      "z": -0.5
+    }
+  },
+  "hoverHeight": 1.0,
+  "weight": 46.0,
+  "evolutions": [],
+  "abilities": [
+    "FlameBody",
+    null,
+    "Swarm"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Quiver Dance",
+      "Fiery Dance",
+      "Hurricane",
+      "Rage Powder",
+      "Heat Wave",
+      "Flare Blitz",
+      "Thrash",
+      "Amnesia",
+      "Bug Buzz",
+      "Flame Wheel",
+      "Ember",
+      "String Shot",
+      "Leech Life",
+      "Absorb",
+      "Gust"
+    ],
+    "10": [
+      "Absorb"
+    ],
+    "20": [
+      "Gust"
+    ],
+    "30": [
+      "Fire Spin"
+    ],
+    "40": [
+      "Whirlwind"
+    ],
+    "50": [
+      "Silver Wind"
+    ],
+    "60": [
+      "Heat Wave"
+    ],
+    "70": [
+      "Bug Buzz"
+    ],
+    "80": [
+      "Rage Powder"
+    ],
+    "90": [
+      "Hurricane"
+    ],
+    "100": [
+      "Fiery Dance"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bug Bite",
+    "Heat Wave",
+    "Magnet Rise",
+    "Signal Beam",
+    "String Shot",
+    "Tailwind",
+    "Zen Headbutt",
+    "Amnesia",
+    "Flare Blitz",
+    "Foresight",
+    "Gust",
+    "Hurricane",
+    "Morning Sun",
+    "Thrash",
+    "Harden",
+    "Zen Headbutt",
+    "Defog"
+  ],
+  "eggMoves": [
+    "Endure",
+    "Foresight",
+    "Harden",
+    "Magnet Rise",
+    "Morning Sun",
+    "String Shot",
+    "Zen Headbutt"
+  ],
+  "forms": {},
+  "form": 0
+}

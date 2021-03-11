@@ -1,0 +1,194 @@
+{
+  "pixelmonName": "Zapdos",
+  "pokemon": "Zapdos",
+  "form": 0,
+  "stats": {
+    "HP": 90,
+    "Attack": 90,
+    "Defence": 85,
+    "Speed": 100,
+    "SpecialAttack": 125,
+    "SpecialDefence": 90
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 216,
+  "baseFriendship": 35,
+  "types": [
+    "Electric",
+    "Flying"
+  ],
+  "height": 1.6,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 30,
+    "flyHeightMax": 50,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 400,
+    "flyRefreshRateSpeed": 400,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "mountedFlying": {
+    "upperAngleLimit": 40,
+    "lowerAngleLimit": -40,
+    "maxFlySpeed": 2.3,
+    "decelerationRate": 0.17,
+    "hoverDecelerationRate": 0.09,
+    "accelerationRate": 0.1,
+    "strafeAccelerationRate": 0.9,
+    "strafeRollConversion": 30,
+    "turnRate": 1.1,
+    "pitchRate": 1
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.6
+    }
+  },
+  "weight": 52.6,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    "Static"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "0": [
+      "Peck",
+      "Thunder Shock"
+    ],
+    "8": [
+      "Thunder Wave"
+    ],
+    "15": [
+      "Detect"
+    ],
+    "22": [
+      "Pluck"
+    ],
+    "29": [
+      "Ancient Power"
+    ],
+    "36": [
+      "Charge"
+    ],
+    "43": [
+      "Agility"
+    ],
+    "50": [
+      "Discharge"
+    ],
+    "57": [
+      "Rain Dance"
+    ],
+    "64": [
+      "Light Screen"
+    ],
+    "71": [
+      "Drill Peck"
+    ],
+    "78": [
+      "Thunder"
+    ],
+    "85": [
+      "Roost"
+    ],
+    "92": [
+      "Magnetic Flux"
+    ],
+    "99": [
+      "Zap Cannon"
+    ]
+  },
+  "tmMoves": [
+    "Fly",
+    "Roar",
+    "Hyper Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Toxic",
+    "Double Team",
+    "Light Screen",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Steel Wing",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Aerial Ace",
+    "Roost",
+    "U-Turn",
+    "Giga Impact",
+    "Charge Beam",
+    "Round",
+    "Sky Drop",
+    "Volt Switch",
+    "Wild Charge",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Defog",
+    "Heat Wave",
+    "Laser Focus",
+    "Shock Wave",
+    "Signal Beam",
+    "Sky Attack",
+    "Snore",
+    "Tailwind"
+  ],
+  "forms": {
+    "2": {
+      "types": [
+        "Fighting",
+        "Flying"
+      ],
+      "isRideable": false,
+      "canFly": false,
+      "canSurf": false,
+      "weight": 58.2,
+      "abilities": [
+        "Defiant",
+        null,
+        null
+      ]
+    }
+  },
+  "eggMoves": []
+}

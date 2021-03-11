@@ -1,0 +1,236 @@
+{
+  "pixelmonName": "Weavile",
+  "pokemon": "Weavile",
+  "stats": {
+    "HP": 70,
+    "Attack": 120,
+    "Defence": 65,
+    "Speed": 125,
+    "SpecialAttack": 45,
+    "SpecialDefence": 85
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 25,
+  "baseExp": 199,
+  "baseFriendship": 35,
+  "types": [
+    "Dark",
+    "Ice"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Sneasel"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "Speed": 1
+  },
+  "weight": 34.0,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    "Pickpocket"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Revenge",
+      "Assurance",
+      "Quick Attack",
+      "Beat Up",
+      "Agility",
+      "Slash",
+      "Scratch",
+      "Leer",
+      "Taunt",
+      "Ice Shard"
+    ],
+    "18": [
+      "Metal Claw"
+    ],
+    "24": [
+      "Icy Wind"
+    ],
+    "30": [
+      "Fury Swipes"
+    ],
+    "36": [
+      "Hone Claws"
+    ],
+    "42": [
+      "Fling"
+    ],
+    "48": [
+      "Nasty Plot"
+    ],
+    "54": [
+      "Screech"
+    ],
+    "60": [
+      "Night Slash"
+    ],
+    "66": [
+      "Dark Pulse"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Toxic",
+    "Double Team",
+    "Reflect",
+    "Dream Eater",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "False Swipe",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Shadow Ball",
+    "Hail",
+    "Torment",
+    "Facade",
+    "Taunt",
+    "Brick Break",
+    "Aerial Ace",
+    "Calm Mind",
+    "Payback",
+    "Embargo",
+    "Fling",
+    "Poison Jab",
+    "Dark Pulse",
+    "X-Scissor",
+    "Focus Blast",
+    "Giga Impact",
+    "Shadow Claw",
+    "Low Sweep",
+    "Round",
+    "Snarl",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Focus Punch",
+    "Foul Play",
+    "Ice Punch",
+    "Icy Wind",
+    "Iron Tail",
+    "Knock Off",
+    "Laser Focus",
+    "Low Kick",
+    "Snatch",
+    "Snore",
+    "Spite",
+    "Throat Chop"
+  ],
+  "eggMoves": [
+    "Assist",
+    "Avalanche",
+    "Bite",
+    "Counter",
+    "Crush Claw",
+    "Double Hit",
+    "Fake Out",
+    "Feint",
+    "Foresight",
+    "Ice Punch",
+    "Ice Shard",
+    "Icicle Crash",
+    "Punishment",
+    "Pursuit",
+    "Spite",
+    "Throat Chop"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    0,
+    1,
+    4,
+    8,
+    9,
+    15,
+    16,
+    18,
+    21,
+    23,
+    24,
+    25,
+    27,
+    31,
+    33,
+    34,
+    35,
+    36,
+    37,
+    39,
+    40,
+    42,
+    43,
+    47,
+    51,
+    57,
+    58,
+    59,
+    64,
+    65,
+    69,
+    75,
+    76,
+    79,
+    85,
+    94
+  ],
+  "trMoves": [
+    0,
+    4,
+    5,
+    6,
+    7,
+    12,
+    20,
+    26,
+    27,
+    31,
+    33,
+    37,
+    49,
+    57,
+    58,
+    60,
+    64,
+    68,
+    81,
+    95
+  ]
+}

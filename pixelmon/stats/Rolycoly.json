@@ -1,0 +1,132 @@
+{
+  "pixelmonName": "Rolycoly",
+  "pokemon": "Rolycoly",
+  "stats": {
+    "HP": 30,
+    "Attack": 40,
+    "Defence": 50,
+    "SpecialAttack": 40,
+    "SpecialDefence": 50,
+    "Speed": 30
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 12,
+  "spawnLevelRange": 6,
+  "baseExp": 48,
+  "baseFriendship": 50,
+  "types": [
+    "Rock"
+  ],
+  "height": 0.3,
+  "width": 0.6,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 12.0,
+  "evolutions": [
+    {
+      "level": 18,
+      "to": {
+        "name": "Carkol"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Flame Charge"
+      ]
+    }
+  ],
+  "abilities": [
+    "SteamEngine",
+    "Heatproof",
+    "FlashFire"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "1": [
+      "Tackle",
+      "Smokescreen"
+    ],
+    "5": [
+      "Rapid Spin"
+    ],
+    "10": [
+      "Smack Down"
+    ],
+    "15": [
+      "Rock Polish"
+    ],
+    "20": [
+      "Ancient Power"
+    ],
+    "25": [
+      "Incinerate"
+    ],
+    "30": [
+      "Stealth Rock"
+    ],
+    "35": [
+      "Heat Crash"
+    ],
+    "40": [
+      "Rock Blast"
+    ]
+  },
+  "tutorMoves": [
+    "Meteor Beam"
+  ],
+  "eggMoves": [
+    "Block",
+    "Explosion",
+    "Mud-Slap"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    15,
+    18,
+    20,
+    21,
+    22,
+    24,
+    25,
+    31,
+    32,
+    38,
+    39,
+    48,
+    49,
+    54,
+    76
+  ],
+  "trMoves": [
+    20,
+    23,
+    26,
+    27,
+    46,
+    52,
+    74,
+    75,
+    76,
+    88
+  ]
+}

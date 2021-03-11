@@ -1,0 +1,162 @@
+{
+  "pixelmonName": "Mareanie",
+  "pokemon": "Mareanie",
+  "stats": {
+    "HP": 50,
+    "Attack": 53,
+    "Defence": 62,
+    "Speed": 45,
+    "SpecialAttack": 43,
+    "SpecialDefence": 52
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 25,
+  "baseExp": 61,
+  "baseFriendship": 70,
+  "types": [
+    "Poison",
+    "Water"
+  ],
+  "height": 0.4,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 8.0,
+  "evolutions": [
+    {
+      "level": 38,
+      "to": {
+        "name": "Toxapex"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Baneful Bunker"
+      ]
+    }
+  ],
+  "abilities": [
+    "Merciless",
+    "Limber",
+    "Regenerator"
+  ],
+  "eggGroups": [
+    "Water1"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "1": [
+      "Poison Sting",
+      "Peck"
+    ],
+    "5": [
+      "Wide Guard"
+    ],
+    "10": [
+      "Bite"
+    ],
+    "15": [
+      "Venoshock"
+    ],
+    "20": [
+      "Recover"
+    ],
+    "25": [
+      "Pin Missile"
+    ],
+    "30": [
+      "Toxic Spikes"
+    ],
+    "35": [
+      "Liquidation"
+    ],
+    "40": [
+      "Venom Drench"
+    ],
+    "45": [
+      "Poison Jab"
+    ],
+    "50": [
+      "Toxic"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Gunk Shot",
+    "Magic Coat",
+    "Iron Defense",
+    "Icy Wind",
+    "Snore",
+    "Knock Off",
+    "Pain Split",
+    "Water Pulse",
+    "Gastro Acid",
+    "Spite",
+    "After You",
+    "Snatch",
+    "Liquidation"
+  ],
+  "eggMoves": [
+    "Stockpile",
+    "Swallow",
+    "Spit Up",
+    "Haze",
+    "Infestation"
+  ],
+  "forms": {},
+  "form": -1,
+  "tmMoves8": [
+    7,
+    19,
+    21,
+    24,
+    25,
+    27,
+    31,
+    33,
+    35,
+    39,
+    53,
+    55,
+    57,
+    74,
+    76
+  ],
+  "trMoves": [
+    3,
+    4,
+    5,
+    6,
+    20,
+    22,
+    26,
+    27,
+    45,
+    46,
+    54,
+    57,
+    73,
+    78,
+    84,
+    91,
+    98
+  ]
+}

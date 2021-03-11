@@ -1,0 +1,158 @@
+{
+  "pixelmonName": "Karrablast",
+  "pokemon": "Karrablast",
+  "stats": {
+    "HP": 50,
+    "Attack": 75,
+    "Defence": 45,
+    "Speed": 60,
+    "SpecialAttack": 40,
+    "SpecialDefence": 45
+  },
+  "catchRate": 200,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 9,
+  "baseExp": 63,
+  "baseFriendship": 70,
+  "types": [
+    "Bug"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 5.9,
+  "evolutions": [
+    {
+      "with": "Shelmet",
+      "to": {
+        "name": "Escavalier"
+      },
+      "conditions": [],
+      "evoType": "trade"
+    }
+  ],
+  "abilities": [
+    "Swarm",
+    "ShedSkin",
+    "NoGuard"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "1": [
+      "Peck",
+      "Leer"
+    ],
+    "4": [
+      "Fury Cutter"
+    ],
+    "8": [
+      "Endure"
+    ],
+    "12": [
+      "False Swipe"
+    ],
+    "16": [
+      "Acid Spray"
+    ],
+    "20": [
+      "Headbutt"
+    ],
+    "24": [
+      "Flail"
+    ],
+    "28": [
+      "Scary Face"
+    ],
+    "32": [
+      "X-Scissor"
+    ],
+    "36": [
+      "Swords Dance"
+    ],
+    "40": [
+      "Take Down"
+    ],
+    "44": [
+      "Bug Buzz"
+    ],
+    "48": [
+      "Double-Edge"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bug Bite",
+    "Iron Defense",
+    "Knock Off",
+    "Signal Beam",
+    "Drill Run",
+    "Feint Attack",
+    "Flail",
+    "Fury Attack",
+    "Pursuit",
+    "Scary Face",
+    "Peck",
+    "Horn Attack",
+    "Slash",
+    "Leer",
+    "Screech",
+    "Drill Run",
+    "Signal Beam"
+  ],
+  "eggMoves": [
+    "Counter",
+    "Bug Bite",
+    "Knock Off",
+    "Slash",
+    "Night Slash"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    16,
+    21,
+    24,
+    25,
+    26,
+    28,
+    31,
+    33,
+    39,
+    76,
+    94
+  ],
+  "trMoves": [
+    0,
+    20,
+    26,
+    27,
+    28,
+    30,
+    46,
+    57,
+    60,
+    61,
+    65,
+    87
+  ]
+}

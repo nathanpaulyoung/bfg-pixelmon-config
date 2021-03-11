@@ -1,0 +1,168 @@
+{
+  "pixelmonName": "Bayleef",
+  "pokemon": "Bayleef",
+  "stats": {
+    "HP": 60,
+    "Attack": 62,
+    "Defence": 80,
+    "Speed": 60,
+    "SpecialAttack": 63,
+    "SpecialDefence": 80
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 16,
+  "spawnLevelRange": 16,
+  "baseExp": 141,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Chikorita"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1,
+    "SpecialDefence": 1
+  },
+  "weight": 15.8,
+  "evolutions": [
+    {
+      "level": 32,
+      "to": {
+        "name": "Meganium"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Petal Dance"
+      ]
+    }
+  ],
+  "abilities": [
+    "Overgrow",
+    null,
+    "LeafGuard"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Growl",
+      "Razor Leaf",
+      "Poison Powder"
+    ],
+    "6": [
+      "Razor Leaf"
+    ],
+    "9": [
+      "Poison Powder"
+    ],
+    "12": [
+      "Synthesis"
+    ],
+    "18": [
+      "Reflect"
+    ],
+    "22": [
+      "Magical Leaf"
+    ],
+    "26": [
+      "Natural Gift"
+    ],
+    "32": [
+      "Sweet Scent"
+    ],
+    "36": [
+      "Light Screen"
+    ],
+    "40": [
+      "Body Slam"
+    ],
+    "46": [
+      "Safeguard"
+    ],
+    "50": [
+      "Aromatherapy"
+    ],
+    "54": [
+      "Solar Beam"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Solar Beam",
+    "Toxic",
+    "Double Team",
+    "Light Screen",
+    "Reflect",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Sunny Day",
+    "Facade",
+    "Nature Power",
+    "Energy Ball",
+    "Grass Knot",
+    "Round",
+    "Echoed Voice",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Giga Drain",
+    "Grass Pledge",
+    "Iron Tail",
+    "Laser Focus",
+    "Magic Coat",
+    "Seed Bomb",
+    "Snore",
+    "Synthesis",
+    "Worry Seed"
+  ],
+  "eggMoves": [
+    "Ancient Power",
+    "Aromatherapy",
+    "Body Slam",
+    "Counter",
+    "Flail",
+    "Grass Whistle",
+    "Grassy Terrain",
+    "Heal Pulse",
+    "Ingrain",
+    "Leaf Storm",
+    "Leech Seed",
+    "Nature Power",
+    "Refresh",
+    "Vine Whip",
+    "Wring Out"
+  ],
+  "forms": {},
+  "form": 0
+}

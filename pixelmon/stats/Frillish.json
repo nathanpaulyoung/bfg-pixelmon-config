@@ -1,0 +1,175 @@
+{
+  "pixelmonName": "Frillish",
+  "pokemon": "Frillish",
+  "stats": {
+    "HP": 55,
+    "Attack": 40,
+    "Defence": 50,
+    "Speed": 40,
+    "SpecialAttack": 65,
+    "SpecialDefence": 85
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 17,
+  "baseExp": 67,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Ghost"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 3,
+    "depthRangeEnd": 7,
+    "swimSpeed": 0.5,
+    "decayRate": 0.95,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 33.0,
+  "evolutions": [
+    {
+      "level": 40,
+      "to": {
+        "name": "Jellicent"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "WaterAbsorb",
+    "CursedBody",
+    "Damp"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Absorb",
+      "Water Gun"
+    ],
+    "4": [
+      "Poison Sting"
+    ],
+    "8": [
+      "Night Shade"
+    ],
+    "12": [
+      "Water Pulse"
+    ],
+    "16": [
+      "Rain Dance"
+    ],
+    "20": [
+      "Hex"
+    ],
+    "24": [
+      "Brine"
+    ],
+    "28": [
+      "Recover"
+    ],
+    "32": [
+      "Shadow Ball"
+    ],
+    "36": [
+      "Whirlpool"
+    ],
+    "41": [
+      "Hydro Pump"
+    ],
+    "44": [
+      "Destiny Bond"
+    ],
+    "48": [
+      "Water Spout"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bind",
+    "Magic Coat",
+    "Ominous Wind",
+    "Pain Split",
+    "Spite",
+    "Trick",
+    "Absorb",
+    "Bubble",
+    "Hydro Pump",
+    "Mist",
+    "Night Shade",
+    "Water Sport"
+  ],
+  "eggMoves": [
+    "Acid Armor",
+    "Confuse Ray",
+    "Pain Split",
+    "Mist",
+    "Bubble Beam",
+    "Strength Sap"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    19,
+    21,
+    24,
+    25,
+    27,
+    28,
+    31,
+    33,
+    35,
+    36,
+    38,
+    39,
+    44,
+    45,
+    55,
+    70,
+    76,
+    77
+  ],
+  "trMoves": [
+    3,
+    4,
+    5,
+    6,
+    11,
+    16,
+    20,
+    22,
+    26,
+    27,
+    33,
+    37,
+    38,
+    58,
+    65,
+    78,
+    84,
+    92
+  ]
+}

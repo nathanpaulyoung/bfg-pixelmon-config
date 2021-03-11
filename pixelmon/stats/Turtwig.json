@@ -1,0 +1,158 @@
+{
+  "pixelmonName": "Turtwig",
+  "pokemon": "Turtwig",
+  "stats": {
+    "HP": 55,
+    "Attack": 68,
+    "Defence": 64,
+    "Speed": 31,
+    "SpecialAttack": 45,
+    "SpecialDefence": 55
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 10,
+  "spawnLevelRange": 3,
+  "baseExp": 64,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.4,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 10.2,
+  "evolutions": [
+    {
+      "level": 18,
+      "to": {
+        "name": "Grotle"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Overgrow",
+    null,
+    "ShellArmour"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle"
+    ],
+    "5": [
+      "Withdraw"
+    ],
+    "9": [
+      "Absorb"
+    ],
+    "13": [
+      "Razor Leaf"
+    ],
+    "17": [
+      "Curse"
+    ],
+    "21": [
+      "Bite"
+    ],
+    "25": [
+      "Mega Drain"
+    ],
+    "29": [
+      "Leech Seed"
+    ],
+    "33": [
+      "Synthesis"
+    ],
+    "37": [
+      "Crunch"
+    ],
+    "41": [
+      "Giga Drain"
+    ],
+    "45": [
+      "Leaf Storm"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Solar Beam",
+    "Toxic",
+    "Double Team",
+    "Light Screen",
+    "Reflect",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Sunny Day",
+    "Facade",
+    "Nature Power",
+    "Energy Ball",
+    "Grass Knot",
+    "Round",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Earth Power",
+    "Giga Drain",
+    "Grass Pledge",
+    "Iron Tail",
+    "Seed Bomb",
+    "Snore",
+    "Stealth Rock",
+    "Superpower",
+    "Synthesis",
+    "Worry Seed"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Body Slam",
+    "Double-Edge",
+    "Earth Power",
+    "Grassy Terrain",
+    "Growth",
+    "Heavy Slam",
+    "Sand Tomb",
+    "Seed Bomb",
+    "Spit Up",
+    "Stockpile",
+    "Superpower",
+    "Swallow",
+    "Thrash",
+    "Tickle",
+    "Wide Guard",
+    "Worry Seed"
+  ],
+  "forms": {},
+  "form": 0
+}

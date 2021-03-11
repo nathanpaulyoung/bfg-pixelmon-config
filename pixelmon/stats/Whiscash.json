@@ -1,0 +1,172 @@
+{
+  "pixelmonName": "Whiscash",
+  "pokemon": "Whiscash",
+  "stats": {
+    "HP": 110,
+    "Attack": 78,
+    "Defence": 73,
+    "Speed": 60,
+    "SpecialAttack": 76,
+    "SpecialDefence": 71
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 15,
+  "baseExp": 158,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Ground"
+  ],
+  "height": 0.9,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Barboach"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 1,
+    "depthRangeEnd": 15,
+    "swimSpeed": 0.8,
+    "decayRate": 0.99,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.85,
+      "z": -0.64
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.85,
+      "z": -0.64
+    }
+  },
+  "weight": 23.6,
+  "evolutions": [],
+  "abilities": [
+    "Oblivious",
+    "Anticipation",
+    "Hydration"
+  ],
+  "eggGroups": [
+    "Water2"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Thrash"
+    ],
+    "1": [
+      "Thrash",
+      "Belch",
+      "Zen Headbutt",
+      "Tickle",
+      "Mud-Slap",
+      "Water Gun",
+      "Rest",
+      "Snore"
+    ],
+    "12": [
+      "Water Pulse"
+    ],
+    "18": [
+      "Amnesia"
+    ],
+    "24": [
+      "Aqua Tail"
+    ],
+    "33": [
+      "Muddy Water"
+    ],
+    "40": [
+      "Earthquake"
+    ],
+    "48": [
+      "Future Sight"
+    ],
+    "56": [
+      "Fissure"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bounce",
+    "Earth Power",
+    "Zen Headbutt",
+    "Amnesia",
+    "Flail",
+    "Hydro Pump",
+    "Mud Sport",
+    "Thrash",
+    "Tickle",
+    "Water Sport",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    21,
+    22,
+    24,
+    25,
+    27,
+    31,
+    32,
+    33,
+    35,
+    36,
+    39,
+    45,
+    46,
+    48,
+    49,
+    52,
+    53,
+    76,
+    81,
+    98
+  ],
+  "trMoves": [
+    3,
+    4,
+    5,
+    6,
+    10,
+    16,
+    17,
+    20,
+    26,
+    27,
+    34,
+    35,
+    45,
+    51,
+    67,
+    69,
+    75,
+    84,
+    98
+  ]
+}

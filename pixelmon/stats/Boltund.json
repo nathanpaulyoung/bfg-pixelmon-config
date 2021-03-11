@@ -1,0 +1,148 @@
+{
+  "pixelmonName": "Boltund",
+  "pokemon": "Boltund",
+  "stats": {
+    "HP": 69,
+    "Attack": 90,
+    "Defence": 60,
+    "SpecialAttack": 90,
+    "SpecialDefence": 60,
+    "Speed": 121
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 20,
+  "baseExp": 172,
+  "baseFriendship": 50,
+  "types": [
+    "Electric"
+  ],
+  "height": 1.0,
+  "width": 0.8,
+  "length": 0.8,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Yamper"
+  ],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.85,
+      "z": -0.1
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.85,
+      "z": -0.1
+    }
+  },
+  "weight": 34.0,
+  "evolutions": [],
+  "abilities": [
+    "StrongJaw",
+    null,
+    "Competitive"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Electrify",
+      "Tackle",
+      "Tail Whip",
+      "Nuzzle",
+      "Bite"
+    ],
+    "15": [
+      "Roar"
+    ],
+    "20": [
+      "Spark"
+    ],
+    "28": [
+      "Charm"
+    ],
+    "34": [
+      "Crunch"
+    ],
+    "41": [
+      "Charge"
+    ],
+    "48": [
+      "Wild Charge"
+    ],
+    "55": [
+      "Play Rough"
+    ],
+    "62": [
+      "Electric Terrain"
+    ]
+  },
+  "tutorMoves": [
+    "Rising Voltage"
+  ],
+  "eggMoves": [
+    "Double-Edge",
+    "Sand Attack",
+    "Flame Charge",
+    "Discharge",
+    "Howl"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    14,
+    15,
+    21,
+    24,
+    25,
+    29,
+    31,
+    39,
+    40,
+    41,
+    66,
+    68,
+    76,
+    80,
+    85,
+    90,
+    93
+  ],
+  "trMoves": [
+    8,
+    9,
+    12,
+    13,
+    20,
+    26,
+    27,
+    32,
+    35,
+    42,
+    48,
+    80,
+    86,
+    90,
+    97
+  ]
+}

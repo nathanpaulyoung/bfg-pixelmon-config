@@ -1,0 +1,116 @@
+{
+  "pixelmonName": "Magearna",
+  "pokemon": "Magearna",
+  "stats": {
+    "HP": 80,
+    "Attack": 95,
+    "Defence": 115,
+    "Speed": 65,
+    "SpecialAttack": 130,
+    "SpecialDefence": 115
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 50,
+  "spawnLevelRange": 0,
+  "baseExp": 120,
+  "baseFriendship": 70,
+  "types": [
+    "Steel",
+    "Fairy"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "weight": 80.5,
+  "evolutions": [],
+  "abilities": [
+    "SoulHeart",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Crafty Shield",
+      "Gear Up",
+      "Shift Gear",
+      "Iron Head",
+      "Helping Hand",
+      "Sonic Boom",
+      "Defense Curl",
+      "Psybeam"
+    ],
+    "9": [
+      "Lucky Chant"
+    ],
+    "17": [
+      "Aurora Beam"
+    ],
+    "25": [
+      "Mirror Shot"
+    ],
+    "33": [
+      "Mind Reader"
+    ],
+    "41": [
+      "Flash Cannon"
+    ],
+    "49": [
+      "Fleur Cannon"
+    ],
+    "57": [
+      "Iron Defense"
+    ],
+    "65": [
+      "Pain Split"
+    ],
+    "73": [
+      "Synchronoise"
+    ],
+    "81": [
+      "Aura Sphere"
+    ],
+    "89": [
+      "Heart Swap"
+    ],
+    "97": [
+      "Trump Card"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Signal Beam",
+    "Iron Head",
+    "Magnet Rise",
+    "Iron Defense",
+    "Last Resort",
+    "Zen Headbutt",
+    "Snore",
+    "Heal Bell",
+    "Pain Split",
+    "Shock Wave",
+    "After You",
+    "Helping Hand"
+  ],
+  "forms": {},
+  "form": -1,
+  "eggMoves": []
+}

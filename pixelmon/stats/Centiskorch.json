@@ -1,0 +1,148 @@
+{
+  "pixelmonName": "Centiskorch",
+  "pokemon": "Centiskorch",
+  "form": 0,
+  "stats": {
+    "HP": 100,
+    "Attack": 115,
+    "Defence": 65,
+    "SpecialAttack": 90,
+    "SpecialDefence": 90,
+    "Speed": 65
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 28,
+  "spawnLevelRange": 16,
+  "baseExp": 184,
+  "baseFriendship": 50,
+  "types": [
+    "Fire",
+    "Bug"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Sizzlipede"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.3,
+      "z": -0.2
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.3,
+      "z": -0.2
+    }
+  },
+  "weight": 120.0,
+  "evolutions": [],
+  "abilities": [
+    "FlashFire",
+    "WhiteSmoke",
+    "FlameBody"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "levelUpMoves": {
+    "0": [
+      "Inferno",
+      "Ember",
+      "Smokescreen",
+      "Wrap",
+      "Bite"
+    ],
+    "15": [
+      "Flame Wheel"
+    ],
+    "20": [
+      "Bug Bite"
+    ],
+    "25": [
+      "Coil"
+    ],
+    "32": [
+      "Slam"
+    ],
+    "39": [
+      "Fire Spin"
+    ],
+    "46": [
+      "Crunch"
+    ],
+    "53": [
+      "Fire Lash"
+    ],
+    "60": [
+      "Lunge"
+    ],
+    "67": [
+      "Burn Up"
+    ]
+  },
+  "tutorMoves": [
+    "Scorching Sands",
+    "Skitter Smack"
+  ],
+  "eggMoves": [
+    "Defense Curl",
+    "Knock Off",
+    "Rollout",
+    "Struggle Bug"
+  ],
+  "tmMoves8": [
+    8,
+    9,
+    11,
+    13,
+    21,
+    24,
+    25,
+    31,
+    34,
+    38,
+    39,
+    66,
+    68,
+    74,
+    76,
+    92,
+    97
+  ],
+  "trMoves": [
+    2,
+    15,
+    18,
+    20,
+    26,
+    27,
+    32,
+    36,
+    43,
+    55,
+    60,
+    61,
+    72,
+    84,
+    88
+  ]
+}

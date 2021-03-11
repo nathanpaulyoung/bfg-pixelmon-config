@@ -1,0 +1,172 @@
+{
+  "pixelmonName": "Bulbasaur",
+  "pokemon": "Bulbasaur",
+  "stats": {
+    "HP": 45,
+    "Attack": 49,
+    "Defence": 49,
+    "Speed": 45,
+    "SpecialAttack": 65,
+    "SpecialDefence": 65
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 10,
+  "spawnLevelRange": 6,
+  "baseExp": 64,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "height": 0.7,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 6.9,
+  "evolutions": [
+    {
+      "level": 16,
+      "to": {
+        "name": "Ivysaur"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Overgrow",
+    null,
+    "Chlorophyll"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Tackle",
+      "Growl"
+    ],
+    "3": [
+      "Vine Whip"
+    ],
+    "6": [
+      "Growth"
+    ],
+    "9": [
+      "Leech Seed"
+    ],
+    "12": [
+      "Razor Leaf"
+    ],
+    "15": [
+      "Poison Powder",
+      "Sleep Powder"
+    ],
+    "18": [
+      "Seed Bomb"
+    ],
+    "21": [
+      "Take Down"
+    ],
+    "24": [
+      "Sweet Scent"
+    ],
+    "27": [
+      "Synthesis"
+    ],
+    "30": [
+      "Worry Seed"
+    ],
+    "33": [
+      "Double-Edge"
+    ],
+    "36": [
+      "Solar Beam"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Ancient Power",
+    "Bind",
+    "Block",
+    "Frenzy Plant",
+    "Grass Pledge",
+    "Knock Off",
+    "Seed Bomb",
+    "String Shot",
+    "Synthesis",
+    "Worry Seed",
+    "Amnesia",
+    "Charm",
+    "Growth",
+    "Leech Seed",
+    "Petal Dance",
+    "Weather Ball",
+    "Tackle",
+    "Celebrate"
+  ],
+  "eggMoves": [
+    "Skull Bash",
+    "Petal Dance",
+    "Curse",
+    "Ingrain",
+    "Nature Power",
+    "Toxic"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    10,
+    11,
+    17,
+    19,
+    21,
+    24,
+    25,
+    28,
+    29,
+    31,
+    34,
+    39,
+    41,
+    46,
+    50,
+    74,
+    76,
+    88,
+    94
+  ],
+  "trMoves": [
+    0,
+    1,
+    17,
+    20,
+    22,
+    26,
+    27,
+    59,
+    65,
+    71,
+    72,
+    77,
+    85
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "pixelmonName": "Morgrem",
+  "pokemon": "Morgrem",
+  "form": 0,
+  "stats": {
+    "HP": 65,
+    "Attack": 60,
+    "Defence": 45,
+    "SpecialAttack": 75,
+    "SpecialDefence": 55,
+    "Speed": 70
+  },
+  "catchRate": 120,
+  "malePercent": 100,
+  "spawnLevel": 34,
+  "spawnLevelRange": 4,
+  "baseExp": 130,
+  "baseFriendship": 50,
+  "types": [
+    "Dark",
+    "Fairy"
+  ],
+  "height": 1.0,
+  "width": 0.8,
+  "length": 0.9,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Impidimp"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 12.5,
+  "evolutions": [
+    {
+      "level": 42,
+      "to": {
+        "name": "Grimmsnarl"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Spirit Break"
+      ]
+    }
+  ],
+  "abilities": [
+    "Prankster",
+    "Frisk",
+    "Pickpocket"
+  ],
+  "eggGroups": [
+    "Fairy",
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "False Surrender",
+      "Fake Out",
+      "Confide",
+      "Bite",
+      "Flatter"
+    ],
+    "12": [
+      "Fake Tears"
+    ],
+    "16": [
+      "Assurance"
+    ],
+    "20": [
+      "Swagger"
+    ],
+    "24": [
+      "Sucker Punch"
+    ],
+    "28": [
+      "Torment"
+    ],
+    "35": [
+      "Dark Pulse"
+    ],
+    "40": [
+      "Nasty Plot"
+    ],
+    "46": [
+      "Play Rough"
+    ],
+    "52": [
+      "Foul Play"
+    ]
+  },
+  "tutorMoves": [
+    "Burning Jealousy",
+    "Lash out"
+  ],
+  "eggMoves": [],
+  "tmMoves8": [
+    0,
+    1,
+    14,
+    17,
+    18,
+    21,
+    23,
+    24,
+    25,
+    31,
+    39,
+    42,
+    47,
+    58,
+    63,
+    65,
+    76,
+    79,
+    87
+  ],
+  "trMoves": [
+    7,
+    14,
+    18,
+    20,
+    26,
+    27,
+    35,
+    37,
+    38,
+    58,
+    68,
+    81,
+    90,
+    92,
+    95
+  ]
+}

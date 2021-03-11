@@ -1,0 +1,135 @@
+{
+  "pixelmonName": "Goomy",
+  "pokemon": "Goomy",
+  "stats": {
+    "HP": 45,
+    "Attack": 50,
+    "Defence": 35,
+    "Speed": 40,
+    "SpecialAttack": 55,
+    "SpecialDefence": 75
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 17,
+  "baseExp": 60,
+  "baseFriendship": 0,
+  "types": [
+    "Dragon"
+  ],
+  "height": 0.3,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 2.8,
+  "evolutions": [
+    {
+      "level": 40,
+      "to": {
+        "name": "Sliggoo"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SapSipper",
+    "Hydration",
+    "Gooey"
+  ],
+  "eggGroups": [
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "1": [
+      "Absorb",
+      "Tackle"
+    ],
+    "5": [
+      "Water Gun"
+    ],
+    "10": [
+      "Dragon Breath"
+    ],
+    "15": [
+      "Protect"
+    ],
+    "20": [
+      "Flail"
+    ],
+    "25": [
+      "Water Pulse"
+    ],
+    "30": [
+      "Rain Dance"
+    ],
+    "35": [
+      "Dragon Pulse"
+    ],
+    "41": [
+      "Curse"
+    ],
+    "45": [
+      "Body Slam"
+    ],
+    "50": [
+      "Muddy Water"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Draco Meteor",
+    "Outrage",
+    "Body Slam",
+    "Dragon Pulse",
+    "Counter"
+  ],
+  "eggMoves": [
+    "Counter",
+    "Life Dew"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    21,
+    22,
+    24,
+    25,
+    31,
+    33,
+    34,
+    39,
+    53,
+    76
+  ],
+  "trMoves": [
+    1,
+    8,
+    20,
+    22,
+    24,
+    26,
+    27,
+    31,
+    45,
+    62,
+    78
+  ]
+}

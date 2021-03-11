@@ -1,0 +1,172 @@
+{
+  "pixelmonName": "Keldeo",
+  "pokemon": "Keldeo",
+  "stats": {
+    "HP": 91,
+    "Attack": 72,
+    "Defence": 90,
+    "Speed": 108,
+    "SpecialAttack": 129,
+    "SpecialDefence": 90
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 261,
+  "baseFriendship": 35,
+  "types": [
+    "Water",
+    "Fighting"
+  ],
+  "height": 1.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.25,
+      "z": -0.4
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.25,
+      "z": -0.4
+    }
+  },
+  "weight": 48.5,
+  "evolutions": [],
+  "abilities": [
+    "Justified",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "1": [
+      "Secret Sword",
+      "Aqua Jet",
+      "Leer",
+      "Helping Hand",
+      "Work Up"
+    ],
+    "7": [
+      "Bubble Beam"
+    ],
+    "14": [
+      "Quick Guard"
+    ],
+    "21": [
+      "Double Kick"
+    ],
+    "28": [
+      "Retaliate"
+    ],
+    "35": [
+      "Aqua Tail"
+    ],
+    "42": [
+      "Take Down"
+    ],
+    "49": [
+      "Sacred Sword"
+    ],
+    "56": [
+      "Swords Dance"
+    ],
+    "63": [
+      "Hydro Pump"
+    ],
+    "70": [
+      "Close Combat"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bounce",
+    "Covet",
+    "Endeavor",
+    "Helping Hand",
+    "Last Resort",
+    "Superpower",
+    "Hydro Pump",
+    "Leer",
+    "Secret Sword",
+    "Liquidation"
+  ],
+  "forms": {
+    "1": {
+      "form": 1
+    }
+  },
+  "form": 0,
+  "eggMoves": [],
+  "tmMoves8": [
+    8,
+    9,
+    18,
+    19,
+    21,
+    24,
+    25,
+    27,
+    33,
+    34,
+    35,
+    39,
+    40,
+    41,
+    42,
+    43,
+    52,
+    76,
+    79,
+    94,
+    95,
+    96
+  ],
+  "trMoves": [
+    0,
+    3,
+    4,
+    7,
+    20,
+    21,
+    26,
+    27,
+    28,
+    37,
+    39,
+    45,
+    49,
+    53,
+    56,
+    57,
+    60,
+    64,
+    75,
+    84,
+    85,
+    98
+  ]
+}

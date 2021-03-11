@@ -1,0 +1,191 @@
+{
+  "pixelmonName": "Granbull",
+  "pokemon": "Granbull",
+  "stats": {
+    "HP": 90,
+    "Attack": 120,
+    "Defence": 75,
+    "Speed": 45,
+    "SpecialAttack": 60,
+    "SpecialDefence": 60
+  },
+  "catchRate": 75,
+  "malePercent": 25,
+  "spawnLevel": 23,
+  "spawnLevelRange": 37,
+  "baseExp": 178,
+  "baseFriendship": 70,
+  "types": [
+    "Fairy"
+  ],
+  "height": 1.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Snubbull"
+  ],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.25,
+      "z": -0.25
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.25,
+      "z": -0.25
+    }
+  },
+  "weight": 48.7,
+  "evolutions": [],
+  "abilities": [
+    "Intimidate",
+    "QuickFeet",
+    "Rattled"
+  ],
+  "eggGroups": [
+    "Field",
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Outrage",
+      "Ice Fang",
+      "Fire Fang",
+      "Thunder Fang",
+      "Tackle",
+      "Scary Face",
+      "Tail Whip",
+      "Charm"
+    ],
+    "7": [
+      "Bite"
+    ],
+    "13": [
+      "Lick"
+    ],
+    "19": [
+      "Headbutt"
+    ],
+    "27": [
+      "Roar"
+    ],
+    "35": [
+      "Rage"
+    ],
+    "43": [
+      "Play Rough"
+    ],
+    "51": [
+      "Payback"
+    ],
+    "59": [
+      "Crunch"
+    ],
+    "67": [
+      "Outrage"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Flamethrower",
+    "Hyper Beam",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Reflect",
+    "Fire Blast",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Sludge Bomb",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Shadow Ball",
+    "Torment",
+    "Facade",
+    "Taunt",
+    "Brick Break",
+    "Overheat",
+    "Rock Tomb",
+    "Bulk Up",
+    "Payback",
+    "Fling",
+    "Focus Blast",
+    "Giga Impact",
+    "Stone Edge",
+    "Round",
+    "Bulldoze",
+    "Work Up",
+    "Wild Charge",
+    "Snarl",
+    "Confide",
+    "Dazzling Gleam"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Fire Punch",
+    "Focus Punch",
+    "Heal Bell",
+    "Hyper Voice",
+    "Ice Punch",
+    "Iron Tail",
+    "Last Resort",
+    "Low Kick",
+    "Outrage",
+    "Shock Wave",
+    "Snore",
+    "Stomping Tantrum",
+    "Super Fang",
+    "Superpower",
+    "Thunder Punch",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Close Combat",
+    "Crunch",
+    "Double-Edge",
+    "Fake Tears",
+    "Feint Attack",
+    "Fire Fang",
+    "Focus Punch",
+    "Heal Bell",
+    "Ice Fang",
+    "Metronome",
+    "Mimic",
+    "Present",
+    "Smelling Salts",
+    "Snore",
+    "Thunder Fang"
+  ],
+  "forms": {},
+  "form": 0
+}

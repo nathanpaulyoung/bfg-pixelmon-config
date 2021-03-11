@@ -1,0 +1,137 @@
+{
+  "pixelmonName": "Bellossom",
+  "pokemon": "Bellossom",
+  "stats": {
+    "HP": 75,
+    "Attack": 80,
+    "Defence": 95,
+    "Speed": 50,
+    "SpecialAttack": 90,
+    "SpecialDefence": 100
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 15,
+  "baseExp": 184,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Gloom",
+    "Oddish"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 3
+  },
+  "weight": 5.8,
+  "evolutions": [],
+  "abilities": [
+    "Chlorophyll",
+    null,
+    "Healer"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Petal Blizzard"
+    ],
+    "1": [
+      "Petal Blizzard",
+      "Quiver Dance",
+      "Mega Drain",
+      "Poison Powder",
+      "Stun Spore",
+      "Sleep Powder",
+      "Giga Drain",
+      "Toxic",
+      "Moonblast",
+      "Grassy Terrain",
+      "Moonlight",
+      "Petal Dance",
+      "Absorb",
+      "Growth",
+      "Acid",
+      "Sweet Scent"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "After You",
+    "Gastro Acid",
+    "Seed Bomb",
+    "Synthesis",
+    "Uproar",
+    "Worry Seed",
+    "Absorb",
+    "Charm",
+    "Flail",
+    "Leech Seed",
+    "Moonlight",
+    "Petal Dance",
+    "Teeter Dance",
+    "Tickle",
+    "Moonblast",
+    "Laser Focus"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    10,
+    11,
+    19,
+    21,
+    24,
+    25,
+    28,
+    29,
+    31,
+    34,
+    39,
+    41,
+    50,
+    59,
+    63,
+    74,
+    76,
+    88
+  ],
+  "trMoves": [
+    0,
+    20,
+    22,
+    26,
+    27,
+    29,
+    35,
+    50,
+    59,
+    65,
+    71,
+    77,
+    90,
+    92
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "pixelmonName": "Cramorant",
+  "pokemon": "Cramorant",
+  "stats": {
+    "HP": 70,
+    "Attack": 85,
+    "Defence": 55,
+    "SpecialAttack": 85,
+    "SpecialDefence": 95,
+    "Speed": 85
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 27,
+  "spawnLevelRange": 18,
+  "baseExp": 166,
+  "baseFriendship": 50,
+  "types": [
+    "Flying",
+    "Water"
+  ],
+  "height": 0.8,
+  "width": 0.8,
+  "length": 0.8,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.80,
+      "z": -0.08
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.08
+    }
+  },
+  "weight": 18.0,
+  "evolutions": [],
+  "abilities": [
+    "GulpMissile",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Water1",
+    "Flying"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Belch",
+      "Peck",
+      "Stockpile",
+      "Swallow",
+      "Spit Up"
+    ],
+    "7": [
+      "Water Gun"
+    ],
+    "14": [
+      "Fury Attack"
+    ],
+    "21": [
+      "Pluck"
+    ],
+    "28": [
+      "Dive"
+    ],
+    "35": [
+      "Drill Peck"
+    ],
+    "42": [
+      "Amnesia"
+    ],
+    "49": [
+      "Thrash"
+    ],
+    "56": [
+      "Hydro Pump"
+    ]
+  },
+  "tutorMoves": [
+    "Dual Wingbeat"
+  ],
+  "eggMoves": [
+    "Aerial Ace",
+    "Aqua Ring",
+    "Defog",
+    "Feather Dance",
+    "Roost"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    6,
+    8,
+    9,
+    21,
+    23,
+    24,
+    25,
+    27,
+    30,
+    31,
+    33,
+    36,
+    39,
+    45,
+    46,
+    58,
+    76,
+    95
+  ],
+  "trMoves": [
+    3,
+    4,
+    5,
+    6,
+    12,
+    17,
+    20,
+    21,
+    26,
+    27,
+    35,
+    39,
+    66,
+    84,
+    89,
+    95,
+    98
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "pixelmonName": "Pidove",
+  "pokemon": "Pidove",
+  "stats": {
+    "HP": 50,
+    "Attack": 55,
+    "Defence": 50,
+    "Speed": 43,
+    "SpecialAttack": 36,
+    "SpecialDefence": 30
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 6,
+  "spawnLevelRange": 12,
+  "baseExp": 53,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 0.3,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 10,
+    "flySpeedModifier": 0.6,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 2.1,
+  "evolutions": [
+    {
+      "level": 21,
+      "to": {
+        "name": "Tranquill"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "BigPecks",
+    "SuperLuck",
+    "Rivalry"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "1": [
+      "Gust",
+      "Growl"
+    ],
+    "4": [
+      "Leer"
+    ],
+    "8": [
+      "Quick Attack"
+    ],
+    "12": [
+      "Taunt"
+    ],
+    "16": [
+      "Air Cutter"
+    ],
+    "20": [
+      "Swagger"
+    ],
+    "24": [
+      "Feather Dance"
+    ],
+    "28": [
+      "Detect"
+    ],
+    "32": [
+      "Air Slash"
+    ],
+    "36": [
+      "Roost"
+    ],
+    "40": [
+      "Tailwind"
+    ],
+    "44": [
+      "Sky Attack"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Air Cutter",
+    "Heat Wave",
+    "Tailwind",
+    "Uproar",
+    "Air Slash",
+    "Feather Dance",
+    "Gust",
+    "Hypnosis",
+    "Morning Sun",
+    "Wish",
+    "Leer",
+    "Defog"
+  ],
+  "eggMoves": [
+    "Hypnosis",
+    "Wish",
+    "Morning Sun",
+    "Night Slash",
+    "Defog"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    6,
+    21,
+    24,
+    25,
+    30,
+    31,
+    33,
+    34,
+    39,
+    40,
+    56,
+    76,
+    95
+  ],
+  "trMoves": [
+    12,
+    13,
+    20,
+    26,
+    27,
+    35,
+    36,
+    37,
+    85
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "pixelmonName": "Swablu",
+  "pokemon": "Swablu",
+  "stats": {
+    "HP": 45,
+    "Attack": 40,
+    "Defence": 60,
+    "Speed": 50,
+    "SpecialAttack": 40,
+    "SpecialDefence": 75
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 29,
+  "baseExp": 74,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 0.4,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 8,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 1.2,
+  "evolutions": [
+    {
+      "level": 35,
+      "to": {
+        "name": "Altaria"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Dragon Breath"
+      ]
+    }
+  ],
+  "abilities": [
+    "NaturalCure",
+    null,
+    "CloudNine"
+  ],
+  "eggGroups": [
+    "Flying",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Peck",
+      "Growl"
+    ],
+    "3": [
+      "Astonish"
+    ],
+    "5": [
+      "Sing"
+    ],
+    "7": [
+      "Fury Attack"
+    ],
+    "9": [
+      "Safeguard"
+    ],
+    "11": [
+      "Disarming Voice"
+    ],
+    "14": [
+      "Mist"
+    ],
+    "17": [
+      "Round"
+    ],
+    "20": [
+      "Natural Gift"
+    ],
+    "23": [
+      "Take Down"
+    ],
+    "26": [
+      "Refresh"
+    ],
+    "30": [
+      "Mirror Move"
+    ],
+    "34": [
+      "Cotton Guard"
+    ],
+    "38": [
+      "Dragon Pulse"
+    ],
+    "42": [
+      "Perish Song"
+    ],
+    "46": [
+      "Moonblast"
+    ]
+  },
+  "tmMoves": [
+    "Fly",
+    "Ice Beam",
+    "Solar Beam",
+    "Toxic",
+    "Double Team",
+    "Dream Eater",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Steel Wing",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Facade",
+    "Aerial Ace",
+    "Roost",
+    "Round",
+    "Echoed Voice",
+    "Confide",
+    "Dazzling Gleam"
+  ],
+  "tutorMoves": [
+    "Defog",
+    "Dragon Pulse",
+    "Heal Bell",
+    "Heat Wave",
+    "Hyper Voice",
+    "Outrage",
+    "Sky Attack",
+    "Snore",
+    "Tailwind",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Dragon Rush",
+    "Feather Dance",
+    "Haze",
+    "Hyper Voice",
+    "Play Rough",
+    "Power Swap",
+    "Pursuit",
+    "Rage",
+    "Roost",
+    "Steel Wing"
+  ],
+  "forms": {},
+  "form": 0
+}

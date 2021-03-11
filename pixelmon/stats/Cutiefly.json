@@ -1,0 +1,161 @@
+{
+  "pixelmonName": "Cutiefly",
+  "pokemon": "Cutiefly",
+  "stats": {
+    "HP": 40,
+    "Attack": 45,
+    "Defence": 40,
+    "Speed": 84,
+    "SpecialAttack": 55,
+    "SpecialDefence": 40
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 8,
+  "spawnLevelRange": 20,
+  "baseExp": 61,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Fairy"
+  ],
+  "height": 0.1,
+  "width": 0.1,
+  "length": 0.1,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 0.2,
+  "evolutions": [
+    {
+      "level": 25,
+      "to": {
+        "name": "Ribombee"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Pollen Puff"
+      ]
+    }
+  ],
+  "abilities": [
+    "HoneyGather",
+    "ShieldDust",
+    "SweetVeil"
+  ],
+  "eggGroups": [
+    "Bug",
+    "Fairy"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "1": [
+      "Absorb",
+      "Fairy Wind"
+    ],
+    "6": [
+      "Stun Spore"
+    ],
+    "12": [
+      "Sweet Scent"
+    ],
+    "18": [
+      "Draining Kiss"
+    ],
+    "24": [
+      "Struggle Bug"
+    ],
+    "30": [
+      "Aromatherapy"
+    ],
+    "36": [
+      "Switcheroo"
+    ],
+    "42": [
+      "Dazzling Gleam"
+    ],
+    "48": [
+      "Bug Buzz"
+    ],
+    "54": [
+      "Quiver Dance"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bug Bite",
+    "Covet",
+    "Signal Beam",
+    "Last Resort",
+    "Snore",
+    "Tailwind",
+    "After You",
+    "Helping Hand",
+    "Trick",
+    "Magic Room",
+    "Wonder Room",
+    "Skill Swap",
+    "Telekinesis",
+    "Ally Switch",
+    "Defog"
+  ],
+  "eggMoves": [
+    "Moonblast",
+    "Sticky Web",
+    "Aromatic Mist"
+  ],
+  "forms": {},
+  "form": -1,
+  "tmMoves8": [
+    17,
+    18,
+    19,
+    21,
+    23,
+    24,
+    25,
+    29,
+    31,
+    34,
+    39,
+    40,
+    41,
+    44,
+    47,
+    56,
+    62,
+    71,
+    72,
+    76,
+    78,
+    87
+  ],
+  "trMoves": [
+    11,
+    18,
+    20,
+    26,
+    27,
+    29,
+    38,
+    40,
+    49,
+    61,
+    65,
+    83,
+    90,
+    92
+  ]
+}

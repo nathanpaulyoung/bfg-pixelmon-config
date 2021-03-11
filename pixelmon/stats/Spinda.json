@@ -1,0 +1,170 @@
+{
+  "pixelmonName": "Spinda",
+  "pokemon": "Spinda",
+  "stats": {
+    "HP": 60,
+    "Attack": 60,
+    "Defence": 60,
+    "Speed": 60,
+    "SpecialAttack": 60,
+    "SpecialDefence": 60
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 15,
+  "baseExp": 126,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 5.0,
+  "evolutions": [],
+  "abilities": [
+    "OwnTempo",
+    "TangledFeet",
+    "Contrary"
+  ],
+  "eggGroups": [
+    "Field",
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle"
+    ],
+    "5": [
+      "Copycat"
+    ],
+    "10": [
+      "Feint Attack"
+    ],
+    "14": [
+      "Psybeam"
+    ],
+    "19": [
+      "Hypnosis"
+    ],
+    "23": [
+      "Dizzy Punch"
+    ],
+    "28": [
+      "Sucker Punch"
+    ],
+    "32": [
+      "Teeter Dance"
+    ],
+    "37": [
+      "Uproar"
+    ],
+    "41": [
+      "Psych Up"
+    ],
+    "46": [
+      "Double-Edge"
+    ],
+    "50": [
+      "Flail"
+    ],
+    "55": [
+      "Thrash"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Dream Eater",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Shadow Ball",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Calm Mind",
+    "Fling",
+    "Trick Room",
+    "Round",
+    "Work Up",
+    "Wild Charge",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Drain Punch",
+    "Fire Punch",
+    "Focus Punch",
+    "Helping Hand",
+    "Hyper Voice",
+    "Ice Punch",
+    "Icy Wind",
+    "Last Resort",
+    "Low Kick",
+    "Recycle",
+    "Role Play",
+    "Shock Wave",
+    "Skill Swap",
+    "Snatch",
+    "Snore",
+    "Stomping Tantrum",
+    "Thunder Punch",
+    "Trick",
+    "Uproar",
+    "Water Pulse",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Assist",
+    "Baton Pass",
+    "Disable",
+    "Encore",
+    "Fake Out",
+    "Fake Tears",
+    "Guard Split",
+    "Icy Wind",
+    "Psycho Cut",
+    "Psycho Shift",
+    "Rapid Spin",
+    "Role Play",
+    "Smelling Salts",
+    "Spotlight",
+    "Trick",
+    "Water Pulse",
+    "Wish"
+  ],
+  "forms": {},
+  "form": 0
+}

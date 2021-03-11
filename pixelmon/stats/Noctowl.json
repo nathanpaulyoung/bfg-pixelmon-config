@@ -1,0 +1,187 @@
+{
+  "pixelmonName": "Noctowl",
+  "pokemon": "Noctowl",
+  "stats": {
+    "HP": 100,
+    "Attack": 50,
+    "Defence": 50,
+    "Speed": 70,
+    "SpecialAttack": 86,
+    "SpecialDefence": 96
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 35,
+  "baseExp": 162,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 1.6,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Hoothoot"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 10,
+    "flyHeightMax": 20,
+    "flySpeedModifier": 0.6,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 10,
+    "flightTimeMax": 30,
+    "flapRate": 2,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.1,
+      "z": -0.5
+    },
+    "moving": {
+      "x": -0.15,
+      "y": -1.65,
+      "z": -0.4
+    }
+  },
+  "weight": 40.8,
+  "evolutions": [],
+  "abilities": [
+    "Insomnia",
+    "KeenEye",
+    "TintedLens"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "1": [
+      "Sky Attack",
+      "Peck",
+      "Growl",
+      "Tackle",
+      "Echoed Voice"
+    ],
+    "9": [
+      "Confusion"
+    ],
+    "12": [
+      "Reflect"
+    ],
+    "15": [
+      "Psycho Shift"
+    ],
+    "18": [
+      "Air Slash"
+    ],
+    "23": [
+      "Extrasensory"
+    ],
+    "28": [
+      "Take Down"
+    ],
+    "33": [
+      "Uproar"
+    ],
+    "38": [
+      "Roost"
+    ],
+    "43": [
+      "Moonblast"
+    ],
+    "48": [
+      "Hypnosis"
+    ],
+    "53": [
+      "Dream Eater"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Air Cutter",
+    "Heat Wave",
+    "Hyper Voice",
+    "Magic Coat",
+    "Ominous Wind",
+    "Tailwind",
+    "Twister",
+    "Uproar",
+    "Zen Headbutt",
+    "Agility",
+    "Air Slash",
+    "Extrasensory",
+    "Feint Attack",
+    "Feather Dance",
+    "Foresight",
+    "Hypnosis",
+    "Night Shade",
+    "Peck",
+    "Tackle",
+    "Snore",
+    "Defog",
+    "Laser Focus"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    6,
+    8,
+    9,
+    16,
+    18,
+    21,
+    23,
+    24,
+    25,
+    30,
+    31,
+    33,
+    34,
+    39,
+    40,
+    44,
+    76,
+    95
+  ],
+  "trMoves": [
+    11,
+    12,
+    17,
+    20,
+    26,
+    27,
+    33,
+    34,
+    35,
+    36,
+    42,
+    49,
+    68,
+    69,
+    82,
+    85,
+    89
+  ]
+}

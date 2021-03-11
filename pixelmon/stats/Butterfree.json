@@ -1,0 +1,185 @@
+{
+  "pixelmonName": "Butterfree",
+  "pokemon": "Butterfree",
+  "stats": {
+    "HP": 60,
+    "Attack": 45,
+    "Defence": 50,
+    "Speed": 70,
+    "SpecialAttack": 90,
+    "SpecialDefence": 80
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 40,
+  "baseExp": 173,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "height": 0.7,
+  "width": 0.6,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Metapod",
+    "Caterpie"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 5,
+    "flyHeightMax": 15,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "mountedFlying": {
+    "upperAngleLimit": 20,
+    "lowerAngleLimit": -20,
+    "maxFlySpeed": 1.2,
+    "decelerationRate": 0.7,
+    "hoverDecelerationRate": 0.1,
+    "accelerationRate": 0.2,
+    "strafeAccelerationRate": 0.9,
+    "strafeRollConversion": 0,
+    "turnRate": 0.5,
+    "pitchRate": 2,
+    "stayshorizontalflying": true
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "SpecialAttack": 2,
+    "SpecialDefence": 1
+  },
+  "weight": 32.0,
+  "evolutions": [],
+  "abilities": [
+    "CompoundEyes",
+    null,
+    "TintedLens"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 11,
+  "levelUpMoves": {
+    "0": [
+      "Gust"
+    ],
+    "1": [
+      "Gust",
+      "Harden",
+      "Tackle",
+      "String Shot",
+      "Bug Bite"
+    ],
+    "4": [
+      "Supersonic"
+    ],
+    "8": [
+      "Confusion"
+    ],
+    "12": [
+      "Poison Powder",
+      "Stun Spore",
+      "Sleep Powder"
+    ],
+    "16": [
+      "Psybeam"
+    ],
+    "20": [
+      "Whirlwind"
+    ],
+    "24": [
+      "Air Slash"
+    ],
+    "28": [
+      "Safeguard"
+    ],
+    "32": [
+      "Bug Buzz"
+    ],
+    "36": [
+      "Tailwind"
+    ],
+    "40": [
+      "Rage Powder"
+    ],
+    "44": [
+      "Quiver Dance"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Air Cutter",
+    "Bug Bite",
+    "Electroweb",
+    "Iron Defense",
+    "Ominous Wind",
+    "Signal Beam",
+    "String Shot",
+    "Tailwind",
+    "Twister",
+    "Gust",
+    "Morning Sun",
+    "Harden",
+    "Tackle",
+    "Defog"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": [],
+  "tmMoves8": [
+    8,
+    9,
+    11,
+    19,
+    21,
+    23,
+    24,
+    25,
+    28,
+    31,
+    33,
+    34,
+    39,
+    40,
+    56,
+    74,
+    76,
+    78,
+    82,
+    87,
+    95
+  ],
+  "trMoves": [
+    11,
+    20,
+    26,
+    27,
+    29,
+    33,
+    40,
+    46,
+    61,
+    65,
+    89,
+    96
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "pixelmonName": "Wishiwashi",
+  "pokemon": "Wishiwashi",
+  "stats": {
+    "HP": 45,
+    "Attack": 20,
+    "Defence": 20,
+    "SpecialAttack": 25,
+    "SpecialDefence": 25,
+    "Speed": 40
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 15,
+  "baseExp": 61,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.2,
+  "width": 0.2,
+  "length": 0.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 5,
+    "swimSpeed": 0.8,
+    "decayRate": 0.99,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 0.3,
+  "evolutions": [],
+  "abilities": [
+    "Schooling",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Water2"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "1": [
+      "Water Gun",
+      "Growl"
+    ],
+    "4": [
+      "Helping Hand"
+    ],
+    "8": [
+      "Beat Up"
+    ],
+    "12": [
+      "Brine"
+    ],
+    "16": [
+      "Tearful Look"
+    ],
+    "20": [
+      "Dive"
+    ],
+    "24": [
+      "Soak"
+    ],
+    "28": [
+      "Uproar"
+    ],
+    "32": [
+      "Aqua Tail"
+    ],
+    "36": [
+      "Aqua Ring"
+    ],
+    "40": [
+      "Endeavor"
+    ],
+    "44": [
+      "Hydro Pump"
+    ],
+    "48": [
+      "Double-Edge"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Aqua Tail",
+    "Iron Tail",
+    "Snore",
+    "Water Pulse",
+    "Helping Hand",
+    "Endeavor"
+  ],
+  "eggMoves": [
+    "Mist",
+    "Water Pulse",
+    "Take Down"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 45,
+        "Attack": 140,
+        "Defence": 130,
+        "SpecialAttack": 140,
+        "SpecialDefence": 135,
+        "Speed": 30
+      },
+      "height": 4.8,
+      "width": 3.0,
+      "length": 3.0,
+      "weight": 78.6,
+      "form": 1
+    }
+  },
+  "form": 0,
+  "tmMoves8": [
+    21,
+    24,
+    25,
+    31,
+    33,
+    35,
+    36,
+    37,
+    39,
+    41,
+    45,
+    53,
+    55,
+    56,
+    76,
+    81
+  ],
+  "trMoves": [
+    3,
+    4,
+    5,
+    10,
+    16,
+    20,
+    26,
+    27,
+    31,
+    35,
+    45,
+    84,
+    98
+  ]
+}

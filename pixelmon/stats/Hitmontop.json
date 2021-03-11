@@ -1,0 +1,169 @@
+{
+  "pixelmonName": "Hitmontop",
+  "pokemon": "Hitmontop",
+  "stats": {
+    "HP": 50,
+    "Attack": 95,
+    "Defence": 95,
+    "Speed": 70,
+    "SpecialAttack": 35,
+    "SpecialDefence": 110
+  },
+  "catchRate": 45,
+  "malePercent": 100,
+  "spawnLevel": 20,
+  "spawnLevelRange": 20,
+  "baseExp": 138,
+  "baseFriendship": 70,
+  "types": [
+    "Fighting"
+  ],
+  "height": 1.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Tyrogue"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "weight": 48.0,
+  "evolutions": [],
+  "abilities": [
+    "Intimidate",
+    "Technician",
+    "Steadfast"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Triple Kick"
+    ],
+    "1": [
+      "Triple Kick",
+      "Feint",
+      "Rapid Spin",
+      "Tackle",
+      "Helping Hand",
+      "Fake Out",
+      "Focus Energy"
+    ],
+    "4": [
+      "Quick Attack"
+    ],
+    "8": [
+      "Gyro Ball"
+    ],
+    "12": [
+      "Detect"
+    ],
+    "16": [
+      "Revenge"
+    ],
+    "21": [
+      "Wide Guard",
+      "Quick Guard"
+    ],
+    "24": [
+      "Sucker Punch"
+    ],
+    "28": [
+      "Agility"
+    ],
+    "32": [
+      "Dig"
+    ],
+    "36": [
+      "Close Combat"
+    ],
+    "40": [
+      "Counter"
+    ],
+    "44": [
+      "Endeavor"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Drill Run",
+    "Endeavor",
+    "Helping Hand",
+    "Low Kick",
+    "Role Play",
+    "Sucker Punch",
+    "Twister",
+    "Uproar",
+    "Vacuum Wave",
+    "Agility",
+    "Dizzy Punch",
+    "Fake Out",
+    "Foresight",
+    "Mind Reader",
+    "Pursuit",
+    "Rapid Spin",
+    "Focus Energy",
+    "Tackle",
+    "Laser Focus"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    0,
+    1,
+    15,
+    21,
+    22,
+    23,
+    24,
+    25,
+    31,
+    32,
+    33,
+    34,
+    39,
+    40,
+    41,
+    42,
+    43,
+    75,
+    76,
+    79,
+    81,
+    97
+  ],
+  "trMoves": [
+    1,
+    7,
+    10,
+    12,
+    13,
+    20,
+    26,
+    27,
+    35,
+    48,
+    52,
+    53,
+    64,
+    75,
+    85,
+    87
+  ]
+}

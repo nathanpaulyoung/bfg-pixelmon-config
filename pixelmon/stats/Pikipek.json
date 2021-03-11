@@ -1,0 +1,162 @@
+{
+  "pixelmonName": "Pikipek",
+  "pokemon": "Pikipek",
+  "stats": {
+    "HP": 35,
+    "Attack": 75,
+    "Defence": 30,
+    "Speed": 65,
+    "SpecialAttack": 30,
+    "SpecialDefence": 30
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 2,
+  "spawnLevelRange": 14,
+  "baseExp": 53,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 0.3,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 10,
+    "flySpeedModifier": 0.6,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 1.2,
+  "evolutions": [
+    {
+      "level": 14,
+      "to": {
+        "name": "Trumbeak"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "KeenEye",
+    "SkillLink",
+    "Pickup"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Peck"
+    ],
+    "3": [
+      "Growl"
+    ],
+    "7": [
+      "Echoed Voice"
+    ],
+    "9": [
+      "Rock Smash"
+    ],
+    "13": [
+      "Supersonic"
+    ],
+    "15": [
+      "Pluck"
+    ],
+    "19": [
+      "Roost"
+    ],
+    "21": [
+      "Fury Attack"
+    ],
+    "25": [
+      "Screech"
+    ],
+    "27": [
+      "Drill Peck"
+    ],
+    "31": [
+      "Bullet Seed"
+    ],
+    "33": [
+      "Feather Dance"
+    ],
+    "37": [
+      "Hyper Voice"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Fly",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Steel Wing",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Brick Break",
+    "Aerial Ace",
+    "Roost",
+    "U-Turn",
+    "Smack Down",
+    "Flame Charge",
+    "Round",
+    "Echoed Voice",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Defog",
+    "Gunk Shot",
+    "Heat Wave",
+    "Hyper Voice",
+    "Knock Off",
+    "Sky Attack",
+    "Snore",
+    "Tailwind",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Boomburst",
+    "Brave Bird",
+    "Mirror Move",
+    "Tailwind",
+    "Uproar"
+  ],
+  "forms": {},
+  "form": -1
+}

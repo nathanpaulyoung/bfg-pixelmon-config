@@ -1,0 +1,150 @@
+{
+  "pixelmonName": "Toxapex",
+  "pokemon": "Toxapex",
+  "stats": {
+    "HP": 50,
+    "Attack": 63,
+    "Defence": 152,
+    "Speed": 35,
+    "SpecialAttack": 53,
+    "SpecialDefence": 142
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 25,
+  "baseExp": 173,
+  "baseFriendship": 70,
+  "types": [
+    "Poison",
+    "Water"
+  ],
+  "height": 0.7,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Mareanie"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 14.5,
+  "evolutions": [],
+  "abilities": [
+    "Merciless",
+    "Limber",
+    "Regenerator"
+  ],
+  "eggGroups": [
+    "Water1"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Baneful Bunker"
+    ],
+    "1": [
+      "Baneful Bunker",
+      "Poison Sting",
+      "Peck",
+      "Wide Guard",
+      "Bite"
+    ],
+    "15": [
+      "Venoshock"
+    ],
+    "20": [
+      "Recover"
+    ],
+    "25": [
+      "Pin Missile"
+    ],
+    "30": [
+      "Toxic Spikes"
+    ],
+    "35": [
+      "Liquidation"
+    ],
+    "42": [
+      "Venom Drench"
+    ],
+    "49": [
+      "Poison Jab"
+    ],
+    "56": [
+      "Toxic"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Gunk Shot",
+    "Magic Coat",
+    "Block",
+    "Iron Defense",
+    "Icy Wind",
+    "Snore",
+    "Knock Off",
+    "Pain Split",
+    "Water Pulse",
+    "Gastro Acid",
+    "Spite",
+    "After You",
+    "Snatch",
+    "Liquidation"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": -1,
+  "tmMoves8": [
+    7,
+    17,
+    19,
+    21,
+    24,
+    25,
+    27,
+    31,
+    33,
+    35,
+    39,
+    53,
+    55,
+    57,
+    73,
+    74,
+    76,
+    77
+  ],
+  "trMoves": [
+    3,
+    4,
+    5,
+    6,
+    20,
+    22,
+    26,
+    27,
+    45,
+    46,
+    54,
+    57,
+    73,
+    78,
+    84,
+    91,
+    98
+  ]
+}

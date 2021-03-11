@@ -1,0 +1,138 @@
+{
+  "pixelmonName": "Barraskewda",
+  "pokemon": "Barraskewda",
+  "stats": {
+    "HP": 61,
+    "Attack": 123,
+    "Defence": 60,
+    "SpecialAttack": 60,
+    "SpecialDefence": 50,
+    "Speed": 136
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 26,
+  "spawnLevelRange": 26,
+  "baseExp": 172,
+  "baseFriendship": 50,
+  "types": [
+    "Water"
+  ],
+  "height": 0.4,
+  "width": 1.0,
+  "length": 2.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Arrokuda"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.53,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.53,
+      "z": 0.0
+    }
+  },
+  "weight": 30.0,
+  "evolutions": [],
+  "abilities": [
+    "SwiftSwim",
+    null,
+    "PropellerTail"
+  ],
+  "eggGroups": [
+    "Water2"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Throat Chop",
+      "Peck",
+      "Aqua Jet",
+      "Fury Attack",
+      "Bite"
+    ],
+    "18": [
+      "Agility"
+    ],
+    "24": [
+      "Dive"
+    ],
+    "32": [
+      "Laser Focus"
+    ],
+    "40": [
+      "Crunch"
+    ],
+    "48": [
+      "Liquidation"
+    ],
+    "56": [
+      "Double-Edge"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Acupressure",
+    "Night Slash",
+    "Slash",
+    "Thrash"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    21,
+    24,
+    25,
+    26,
+    31,
+    33,
+    36,
+    39,
+    40,
+    43,
+    45,
+    52,
+    58,
+    67,
+    76
+  ],
+  "trMoves": [
+    3,
+    4,
+    12,
+    13,
+    16,
+    20,
+    26,
+    27,
+    32,
+    53,
+    57,
+    84,
+    87,
+    95,
+    97,
+    98
+  ]
+}

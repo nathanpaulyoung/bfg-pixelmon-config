@@ -1,0 +1,174 @@
+{
+  "pixelmonName": "Cofagrigus",
+  "pokemon": "Cofagrigus",
+  "stats": {
+    "HP": 58,
+    "Attack": 50,
+    "Defence": 145,
+    "Speed": 30,
+    "SpecialAttack": 95,
+    "SpecialDefence": 105
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 20,
+  "baseExp": 169,
+  "baseFriendship": 70,
+  "types": [
+    "Ghost"
+  ],
+  "height": 1.7,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Yamask"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 76.5,
+  "evolutions": [],
+  "abilities": [
+    "Mummy",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Mineral",
+    "Amorphous"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Shadow Claw"
+    ],
+    "1": [
+      "Shadow Claw",
+      "Scary Face",
+      "Astonish",
+      "Protect",
+      "Haze",
+      "Night Shade"
+    ],
+    "12": [
+      "Disable"
+    ],
+    "16": [
+      "Will-O-Wisp"
+    ],
+    "20": [
+      "Crafty Shield"
+    ],
+    "24": [
+      "Hex"
+    ],
+    "28": [
+      "Mean Look"
+    ],
+    "32": [
+      "Grudge"
+    ],
+    "38": [
+      "Curse"
+    ],
+    "44": [
+      "Shadow Ball"
+    ],
+    "50": [
+      "Dark Pulse"
+    ],
+    "56": [
+      "Power Split",
+      "Guard Split"
+    ],
+    "62": [
+      "Destiny Bond"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "After You",
+    "Block",
+    "Iron Defense",
+    "Knock Off",
+    "Magic Coat",
+    "Ominous Wind",
+    "Pain Split",
+    "Role Play",
+    "Spite",
+    "Trick",
+    "Wonder Room",
+    "Haze",
+    "Nasty Plot",
+    "Night Shade",
+    "Scary Face",
+    "Zen Headbutt",
+    "Ally Switch",
+    "Telekinesis",
+    "Will-O-Wisp",
+    "Shadow Ball",
+    "Power Split",
+    "Dark Pulse"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    19,
+    21,
+    23,
+    24,
+    25,
+    26,
+    31,
+    33,
+    38,
+    39,
+    42,
+    44,
+    47,
+    57,
+    60,
+    61,
+    65,
+    70,
+    71,
+    76,
+    77,
+    86
+  ],
+  "trMoves": [
+    11,
+    20,
+    26,
+    27,
+    33,
+    38,
+    40,
+    46,
+    49,
+    54,
+    58,
+    65,
+    68,
+    69,
+    77,
+    83,
+    99
+  ]
+}

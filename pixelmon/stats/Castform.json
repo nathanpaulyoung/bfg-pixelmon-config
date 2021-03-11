@@ -1,0 +1,157 @@
+{
+  "pixelmonName": "Castform",
+  "pokemon": "Castform",
+  "stats": {
+    "HP": 70,
+    "Attack": 70,
+    "Defence": 70,
+    "Speed": 70,
+    "SpecialAttack": 70,
+    "SpecialDefence": 70
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 10,
+  "baseExp": 147,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.3,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 0.8,
+  "evolutions": [],
+  "abilities": [
+    "Forecast",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Fairy",
+    "Amorphous"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Tackle"
+    ],
+    "10": [
+      "Water Gun",
+      "Ember",
+      "Powder Snow"
+    ],
+    "15": [
+      "Headbutt"
+    ],
+    "20": [
+      "Rain Dance",
+      "Sunny Day",
+      "Hail"
+    ],
+    "25": [
+      "Weather Ball"
+    ],
+    "35": [
+      "Hydro Pump",
+      "Fire Blast",
+      "Blizzard"
+    ],
+    "45": [
+      "Hurricane"
+    ]
+  },
+  "tmMoves": [
+    "Flamethrower",
+    "Ice Beam",
+    "Blizzard",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Toxic",
+    "Double Team",
+    "Fire Blast",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Shadow Ball",
+    "Hail",
+    "Facade",
+    "Energy Ball",
+    "Round",
+    "Scald",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Defog",
+    "Icy Wind",
+    "Last Resort",
+    "Shock Wave",
+    "Snore",
+    "Tailwind",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Clear Smog",
+    "Cosmic Power",
+    "Disable",
+    "Future Sight",
+    "Guard Swap",
+    "Hex",
+    "Lucky Chant",
+    "Ominous Wind",
+    "Reflect Type"
+  ],
+  "forms": {
+    "1": {
+      "types": [
+        "Ice"
+      ],
+      "form": 1
+    },
+    "2": {
+      "types": [
+        "Water"
+      ],
+      "form": 2
+    },
+    "3": {
+      "types": [
+        "Fire"
+      ],
+      "form": 3
+    }
+  },
+  "form": 0
+}

@@ -1,0 +1,152 @@
+{
+  "pixelmonName": "Sirfetchd",
+  "pokemon": "Sirfetchd",
+  "form": 0,
+  "stats": {
+    "HP": 62,
+    "Attack": 135,
+    "Defence": 95,
+    "SpecialAttack": 68,
+    "SpecialDefence": 82,
+    "Speed": 65
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 36,
+  "baseExp": 177,
+  "baseFriendship": 50,
+  "types": [
+    "Fighting"
+  ],
+  "height": 1.0,
+  "width": 0.8,
+  "length": 0.9,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Farfetchd f:2"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 117.0,
+  "evolutions": [],
+  "abilities": [
+    "Steadfast",
+    null,
+    "Scrappy"
+  ],
+  "eggGroups": [
+    "Flying",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Peck",
+      "Sand Attack",
+      "First Impression",
+      "Leer",
+      "Fury Cutter",
+      "Iron Defense"
+    ],
+    "15": [
+      "Rock Smash"
+    ],
+    "20": [
+      "Brutal Swing"
+    ],
+    "25": [
+      "Detect"
+    ],
+    "30": [
+      "Knock Off"
+    ],
+    "35": [
+      "Defog"
+    ],
+    "40": [
+      "Brick Break"
+    ],
+    "45": [
+      "Swords Dance"
+    ],
+    "50": [
+      "Slam"
+    ],
+    "55": [
+      "Leaf Blade"
+    ],
+    "60": [
+      "Final Gambit"
+    ],
+    "65": [
+      "Brave Bird"
+    ],
+    "70": [
+      "Meteor Assault"
+    ]
+  },
+  "tutorMoves": [
+    "Coaching",
+    "Dual Wingbeat",
+    "Grassy Glide"
+  ],
+  "eggMoves": [
+    "Counter",
+    "Covet",
+    "Curse",
+    "Double-Edge",
+    "Feint",
+    "Flail",
+    "Night Slash",
+    "Quick Attack",
+    "Quick Guard",
+    "Simple Beam",
+    "Sky Attack"
+  ],
+  "tmMoves8": [
+    12,
+    21,
+    24,
+    25,
+    30,
+    31,
+    34,
+    39,
+    41,
+    42,
+    43,
+    58,
+    76,
+    79,
+    97
+  ],
+  "trMoves": [
+    0,
+    1,
+    13,
+    20,
+    26,
+    27,
+    39,
+    46,
+    50,
+    53,
+    57,
+    66,
+    85,
+    95
+  ]
+}

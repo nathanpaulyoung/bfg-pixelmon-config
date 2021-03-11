@@ -1,0 +1,277 @@
+{
+  "pixelmonName": "Zigzagoon",
+  "pokemon": "Zigzagoon",
+  "form": 0,
+  "stats": {
+    "HP": 38,
+    "Attack": 30,
+    "Defence": 41,
+    "Speed": 60,
+    "SpecialAttack": 30,
+    "SpecialDefence": 41
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 2,
+  "spawnLevelRange": 14,
+  "baseExp": 60,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.4,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 17.5,
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Linoone"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Slash"
+      ]
+    }
+  ],
+  "abilities": [
+    "Pickup",
+    "Gluttony",
+    "QuickFeet"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "1": [
+      "Tackle",
+      "Growl"
+    ],
+    "3": [
+      "Sand Attack"
+    ],
+    "6": [
+      "Tail Whip"
+    ],
+    "9": [
+      "Covet"
+    ],
+    "12": [
+      "Headbutt"
+    ],
+    "15": [
+      "Baby-Doll Eyes"
+    ],
+    "18": [
+      "Pin Missile"
+    ],
+    "21": [
+      "Rest"
+    ],
+    "24": [
+      "Take Down"
+    ],
+    "27": [
+      "Fling"
+    ],
+    "30": [
+      "Flail"
+    ],
+    "33": [
+      "Belly Drum"
+    ],
+    "36": [
+      "Double-Edge"
+    ]
+  },
+  "eggMoves": [
+    "Tickle",
+    "Simple Beam",
+    "Extreme Speed"
+  ],
+  "tmMoves8": [
+    7,
+    14,
+    15,
+    21,
+    23,
+    24,
+    25,
+    27,
+    29,
+    31,
+    33,
+    34,
+    36,
+    39,
+    40,
+    41,
+    53,
+    59,
+    76,
+    79,
+    84
+  ],
+  "trMoves": [
+    1,
+    4,
+    5,
+    6,
+    8,
+    9,
+    20,
+    26,
+    27,
+    31,
+    33,
+    38,
+    42,
+    59,
+    73,
+    77,
+    85
+  ],
+  "forms": {
+    "2": {
+      "types": [
+        "Dark",
+        "Normal"
+      ],
+      "height": 0.4,
+      "width": 0.7,
+      "length": 0.9,
+      "evolutions": [
+        {
+          "level": 20,
+          "to": {
+            "name": "Linoone",
+            "form": 2
+          },
+          "conditions": [],
+          "evoType": "leveling",
+          "moves": [
+            "Night Slash"
+          ]
+        }
+      ],
+      "levelUpMoves": {
+        "1": [
+          "Tackle",
+          "Leer"
+        ],
+        "3": [
+          "Sand Attack"
+        ],
+        "6": [
+          "Lick"
+        ],
+        "9": [
+          "Snarl"
+        ],
+        "12": [
+          "Headbutt"
+        ],
+        "15": [
+          "Baby-Doll Eyes"
+        ],
+        "18": [
+          "Pin Missile"
+        ],
+        "21": [
+          "Rest"
+        ],
+        "24": [
+          "Take Down"
+        ],
+        "27": [
+          "Scary Face"
+        ],
+        "30": [
+          "Counter"
+        ],
+        "33": [
+          "Taunt"
+        ],
+        "36": [
+          "Double-Edge"
+        ]
+      },
+      "tutorMoves": [
+        "Lash Out"
+      ],
+      "eggMoves": [
+        "Parting Shot",
+        "Quick Guard",
+        "Knock Off"
+      ],
+      "tmMoves8": [
+        7,
+        14,
+        15,
+        16,
+        21,
+        23,
+        24,
+        25,
+        26,
+        27,
+        31,
+        33,
+        34,
+        36,
+        39,
+        40,
+        41,
+        47,
+        53,
+        57,
+        58,
+        59,
+        76,
+        79,
+        85
+      ],
+      "trMoves": [
+        1,
+        4,
+        5,
+        6,
+        8,
+        9,
+        20,
+        26,
+        27,
+        31,
+        33,
+        37,
+        38,
+        42,
+        59,
+        73,
+        77,
+        85
+      ]
+    }
+  },
+  "tmMoves": [],
+  "tutorMoves": []
+}

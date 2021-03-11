@@ -1,0 +1,163 @@
+{
+  "pixelmonName": "Yanma",
+  "pokemon": "Yanma",
+  "stats": {
+    "HP": 65,
+    "Attack": 65,
+    "Defence": 45,
+    "Speed": 95,
+    "SpecialAttack": 75,
+    "SpecialDefence": 45
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 20,
+  "baseExp": 147,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "height": 1.2,
+  "width": 0.8,
+  "length": 1.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "hoverHeight": 1.0,
+  "weight": 38.0,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Yanmega"
+      },
+      "conditions": [
+        {
+          "attackIndex": 320,
+          "evoConditionType": "move"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SpeedBoost",
+    "CompoundEyes",
+    "Frisk"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Foresight"
+    ],
+    "6": [
+      "Quick Attack"
+    ],
+    "11": [
+      "Double Team"
+    ],
+    "14": [
+      "Sonic Boom"
+    ],
+    "17": [
+      "Detect"
+    ],
+    "22": [
+      "Supersonic"
+    ],
+    "27": [
+      "Uproar"
+    ],
+    "30": [
+      "Pursuit"
+    ],
+    "33": [
+      "Ancient Power"
+    ],
+    "38": [
+      "Hypnosis"
+    ],
+    "43": [
+      "Wing Attack"
+    ],
+    "46": [
+      "Screech"
+    ],
+    "49": [
+      "U-Turn"
+    ],
+    "54": [
+      "Air Slash"
+    ],
+    "57": [
+      "Bug Buzz"
+    ]
+  },
+  "tmMoves": [
+    "Solar Beam",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Dream Eater",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Steel Wing",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Shadow Ball",
+    "Facade",
+    "Aerial Ace",
+    "Roost",
+    "U-Turn",
+    "Round",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Defog",
+    "Giga Drain",
+    "Signal Beam",
+    "Snore",
+    "Tailwind",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Double-Edge",
+    "Feint",
+    "Feint Attack",
+    "Leech Life",
+    "Pursuit",
+    "Reversal",
+    "Secret Power",
+    "Signal Beam",
+    "Silver Wind",
+    "Whirlwind"
+  ],
+  "forms": {},
+  "form": 0
+}

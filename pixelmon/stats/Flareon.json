@@ -1,0 +1,193 @@
+{
+  "pixelmonName": "Flareon",
+  "pokemon": "Flareon",
+  "stats": {
+    "HP": 65,
+    "Attack": 130,
+    "Defence": 60,
+    "Speed": 65,
+    "SpecialAttack": 95,
+    "SpecialDefence": 110
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 35,
+  "spawnLevelRange": 15,
+  "baseExp": 184,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.9,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Eevee"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.38,
+      "z": -0.4
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.38,
+      "z": -0.4
+    }
+  },
+  "weight": 25.0,
+  "evolutions": [],
+  "abilities": [
+    "FlashFire",
+    null,
+    "Guts"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 36,
+  "levelUpMoves": {
+    "0": [
+      "Ember"
+    ],
+    "1": [
+      "Ember",
+      "Covet",
+      "Swift",
+      "Copycat",
+      "Baton Pass",
+      "Take Down",
+      "Charm",
+      "Double-Edge",
+      "Helping Hand",
+      "Tackle",
+      "Growl",
+      "Tail Whip"
+    ],
+    "5": [
+      "Sand Attack"
+    ],
+    "10": [
+      "Quick Attack"
+    ],
+    "15": [
+      "Baby-Doll Eyes"
+    ],
+    "20": [
+      "Smog"
+    ],
+    "25": [
+      "Bite"
+    ],
+    "30": [
+      "Fire Fang"
+    ],
+    "35": [
+      "Fire Spin"
+    ],
+    "40": [
+      "Lava Plume"
+    ],
+    "45": [
+      "Scary Face"
+    ],
+    "50": [
+      "Flare Blitz"
+    ],
+    "55": [
+      "Last Resort"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Heal Bell",
+    "Heat Wave",
+    "Helping Hand",
+    "Hyper Voice",
+    "Last Resort",
+    "Superpower",
+    "Baton Pass",
+    "Bite",
+    "Charm",
+    "Flail",
+    "Flare Blitz",
+    "Growth",
+    "Scary Face",
+    "Sing",
+    "Tickle",
+    "Wish",
+    "Yawn",
+    "Focus Energy",
+    "Tackle",
+    "Leer",
+    "Celebrate",
+    "Laser Focus",
+    "Facade",
+    "Will-O-Wisp",
+    "Quick Attack"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": -1,
+  "tmMoves8": [
+    2,
+    8,
+    9,
+    13,
+    15,
+    21,
+    24,
+    25,
+    26,
+    29,
+    31,
+    33,
+    34,
+    38,
+    39,
+    40,
+    41,
+    46,
+    47,
+    68,
+    76,
+    79,
+    92
+  ],
+  "trMoves": [
+    1,
+    2,
+    13,
+    15,
+    20,
+    26,
+    27,
+    29,
+    31,
+    33,
+    36,
+    39,
+    42,
+    43,
+    55,
+    82,
+    85
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "pixelmonName": "Wigglytuff",
+  "pokemon": "Wigglytuff",
+  "stats": {
+    "HP": 140,
+    "Attack": 70,
+    "Defence": 45,
+    "Speed": 45,
+    "SpecialAttack": 85,
+    "SpecialDefence": 50
+  },
+  "catchRate": 50,
+  "malePercent": 25,
+  "spawnLevel": 30,
+  "spawnLevelRange": 20,
+  "baseExp": 191,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Fairy"
+  ],
+  "height": 1.0,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Jigglypuff",
+    "Igglybuff"
+  ],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "HP": 3
+  },
+  "weight": 12.0,
+  "evolutions": [],
+  "abilities": [
+    "CuteCharm",
+    "Competitive",
+    "Frisk"
+  ],
+  "eggGroups": [
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Double-Edge",
+      "Play Rough",
+      "Sing",
+      "Disable",
+      "Defense Curl",
+      "Double Slap"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bounce",
+    "Covet",
+    "Endeavor",
+    "Gravity",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Knock Off",
+    "Last Resort",
+    "Magic Coat",
+    "Magic Room",
+    "Pain Split",
+    "Role Play",
+    "Uproar",
+    "Charm",
+    "Dizzy Punch",
+    "Double Slap",
+    "Feint Attack",
+    "Heal Pulse",
+    "Petal Dance",
+    "Scary Face",
+    "Sing",
+    "Sweet Kiss",
+    "Tickle",
+    "Wish",
+    "Laser Focus",
+    "Ally Switch",
+    "Telekinesis"
+  ],
+  "eggMoves": [
+    "Captivate",
+    "Covet",
+    "Fake Tears",
+    "Gravity",
+    "Heal Pulse",
+    "Last Resort",
+    "Perish Song",
+    "Present",
+    "Punishment",
+    "Sleep Talk",
+    "Wish",
+    "Feint Attack",
+    "Misty Terrain"
+  ],
+  "forms": {},
+  "form": 0
+}

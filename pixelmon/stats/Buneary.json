@@ -1,0 +1,185 @@
+{
+  "pixelmonName": "Buneary",
+  "pokemon": "Buneary",
+  "stats": {
+    "HP": 55,
+    "Attack": 66,
+    "Defence": 44,
+    "Speed": 85,
+    "SpecialAttack": 44,
+    "SpecialDefence": 56
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 7,
+  "spawnLevelRange": 10,
+  "baseExp": 84,
+  "baseFriendship": 0,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.4,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 5.5,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Lopunny"
+      },
+      "conditions": [
+        {
+          "friendship": 220,
+          "evoConditionType": "friendship"
+        }
+      ],
+      "evoType": "leveling",
+      "moves": [
+        "Return"
+      ]
+    }
+  ],
+  "abilities": [
+    "RunAway",
+    "Klutz",
+    "Limber"
+  ],
+  "eggGroups": [
+    "Field",
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Frustration",
+      "Defense Curl",
+      "Splash",
+      "Pound",
+      "Foresight"
+    ],
+    "6": [
+      "Endure"
+    ],
+    "13": [
+      "Baby-Doll Eyes"
+    ],
+    "16": [
+      "Quick Attack"
+    ],
+    "23": [
+      "Jump Kick"
+    ],
+    "26": [
+      "Baton Pass"
+    ],
+    "33": [
+      "Agility"
+    ],
+    "36": [
+      "Dizzy Punch"
+    ],
+    "43": [
+      "After You"
+    ],
+    "46": [
+      "Charm"
+    ],
+    "50": [
+      "Entrainment"
+    ],
+    "56": [
+      "Bounce"
+    ],
+    "63": [
+      "Healing Wish"
+    ]
+  },
+  "tmMoves": [
+    "Ice Beam",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Shadow Ball",
+    "Facade",
+    "Fling",
+    "Grass Knot",
+    "Charge Beam",
+    "Round",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Bounce",
+    "Covet",
+    "Drain Punch",
+    "Endeavor",
+    "Fire Punch",
+    "Focus Punch",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Ice Punch",
+    "Iron Tail",
+    "Last Resort",
+    "Low Kick",
+    "Magic Coat",
+    "Shock Wave",
+    "Snore",
+    "Thunder Punch",
+    "Uproar",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Circle Throw",
+    "Copycat",
+    "Cosmic Power",
+    "Double Hit",
+    "Encore",
+    "Fake Out",
+    "Fake Tears",
+    "Fire Punch",
+    "Flail",
+    "Focus Punch",
+    "Ice Punch",
+    "Low Kick",
+    "Mud Sport",
+    "Power-Up Punch",
+    "Sky Uppercut",
+    "Sweet Kiss",
+    "Switcheroo",
+    "Teeter Dance",
+    "Thunder Punch"
+  ],
+  "forms": {},
+  "form": 0
+}

@@ -1,0 +1,235 @@
+{
+  "pixelmonName": "Absol",
+  "pokemon": "Absol",
+  "stats": {
+    "HP": 65,
+    "Attack": 130,
+    "Defence": 60,
+    "Speed": 75,
+    "SpecialAttack": 75,
+    "SpecialDefence": 60
+  },
+  "catchRate": 30,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 45,
+  "baseExp": 163,
+  "baseFriendship": 35,
+  "types": [
+    "Dark"
+  ],
+  "height": 0.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.4,
+      "z": -0.2
+    }
+  },
+  "weight": 47.0,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    "SuperLuck",
+    "Justified"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Perish Song",
+      "Future Sight",
+      "Scratch",
+      "Feint",
+      "Leer",
+      "Quick Attack"
+    ],
+    "4": [
+      "Leer"
+    ],
+    "7": [
+      "Quick Attack"
+    ],
+    "10": [
+      "Pursuit"
+    ],
+    "13": [
+      "Taunt"
+    ],
+    "16": [
+      "Bite"
+    ],
+    "19": [
+      "Double Team"
+    ],
+    "22": [
+      "Slash"
+    ],
+    "25": [
+      "Swords Dance"
+    ],
+    "29": [
+      "Night Slash"
+    ],
+    "33": [
+      "Detect"
+    ],
+    "37": [
+      "Psycho Cut"
+    ],
+    "41": [
+      "Me First"
+    ],
+    "45": [
+      "Sucker Punch"
+    ],
+    "49": [
+      "Razor Wind"
+    ],
+    "53": [
+      "Future Sight"
+    ],
+    "57": [
+      "Perish Song"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Flamethrower",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Toxic",
+    "Double Team",
+    "Fire Blast",
+    "Dream Eater",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Sandstorm",
+    "False Swipe",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Shadow Ball",
+    "Hail",
+    "Torment",
+    "Will-O-Wisp",
+    "Facade",
+    "Taunt",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Calm Mind",
+    "Payback",
+    "Dark Pulse",
+    "X-Scissor",
+    "Giga Impact",
+    "Shadow Claw",
+    "Stone Edge",
+    "Charge Beam",
+    "Round",
+    "Echoed Voice",
+    "Snarl",
+    "Confide",
+    "Brutal Swing"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Foul Play",
+    "Icy Wind",
+    "Iron Tail",
+    "Knock Off",
+    "Laser Focus",
+    "Magic Coat",
+    "Role Play",
+    "Shock Wave",
+    "Snatch",
+    "Snore",
+    "Spite",
+    "Superpower",
+    "Throat Chop",
+    "Water Pulse",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Assurance",
+    "Baton Pass",
+    "Curse",
+    "Double-Edge",
+    "Feint Attack",
+    "Hex",
+    "Magic Coat",
+    "Me First",
+    "Mean Look",
+    "Megahorn",
+    "Perish Song",
+    "Play Rough",
+    "Punishment",
+    "Sucker Punch",
+    "Zen Headbutt"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 65,
+        "Attack": 150,
+        "Defence": 60,
+        "Speed": 115,
+        "SpecialAttack": 115,
+        "SpecialDefence": 60
+      },
+      "height": 1.0,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -0.1,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -0.1,
+          "z": -0.6
+        }
+      },
+      "weight": 49.0,
+      "abilities": [
+        "MagicBounce",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": 0
+}

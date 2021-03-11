@@ -1,0 +1,176 @@
+{
+  "pixelmonName": "Munna",
+  "pokemon": "Munna",
+  "stats": {
+    "HP": 76,
+    "Attack": 25,
+    "Defence": 45,
+    "Speed": 24,
+    "SpecialAttack": 67,
+    "SpecialDefence": 55
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 6,
+  "spawnLevelRange": 11,
+  "baseExp": 58,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 23.3,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:moon_stone"
+      },
+      "to": {
+        "name": "Musharna"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "Forewarn",
+    "Synchronize",
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 11,
+  "levelUpMoves": {
+    "1": [
+      "Stored Power",
+      "Defense Curl"
+    ],
+    "4": [
+      "Hypnosis"
+    ],
+    "8": [
+      "Psybeam"
+    ],
+    "12": [
+      "Imprison"
+    ],
+    "16": [
+      "Moonlight"
+    ],
+    "20": [
+      "Magic Coat"
+    ],
+    "24": [
+      "Zen Headbutt"
+    ],
+    "28": [
+      "Calm Mind"
+    ],
+    "32": [
+      "Yawn"
+    ],
+    "36": [
+      "Psychic"
+    ],
+    "40": [
+      "Moonblast"
+    ],
+    "44": [
+      "Dream Eater"
+    ],
+    "48": [
+      "Future Sight"
+    ],
+    "52": [
+      "Wonder Room"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "After You",
+    "Gravity",
+    "Heal Bell",
+    "Helping Hand",
+    "Magic Coat",
+    "Pain Split",
+    "Signal Beam",
+    "Trick",
+    "Wonder Room",
+    "Worry Seed",
+    "Zen Headbutt",
+    "Barrier",
+    "Baton Pass",
+    "Hypnosis",
+    "Moonlight",
+    "Sonic Boom",
+    "Yawn",
+    "Ally Switch",
+    "Telekinesis"
+  ],
+  "eggMoves": [
+    "Curse",
+    "Healing Wish"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    14,
+    17,
+    18,
+    19,
+    21,
+    22,
+    24,
+    25,
+    31,
+    33,
+    39,
+    40,
+    41,
+    44,
+    48,
+    60,
+    61,
+    70,
+    71,
+    76
+  ],
+  "trMoves": [
+    11,
+    17,
+    20,
+    25,
+    26,
+    27,
+    33,
+    34,
+    38,
+    40,
+    49,
+    52,
+    65,
+    69,
+    82,
+    83,
+    92
+  ]
+}

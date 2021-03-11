@@ -1,0 +1,173 @@
+{
+  "pixelmonName": "Jellicent",
+  "pokemon": "Jellicent",
+  "stats": {
+    "HP": 100,
+    "Attack": 60,
+    "Defence": 70,
+    "Speed": 60,
+    "SpecialAttack": 85,
+    "SpecialDefence": 105
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 41,
+  "spawnLevelRange": 16,
+  "baseExp": 168,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Ghost"
+  ],
+  "height": 2.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Frillish"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 3,
+    "depthRangeEnd": 7,
+    "swimSpeed": 0.5,
+    "decayRate": 0.95,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.3,
+      "z": -0.1
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.3,
+      "z": -0.1
+    }
+  },
+  "weight": 135.0,
+  "evolutions": [],
+  "abilities": [
+    "WaterAbsorb",
+    "CursedBody",
+    "Damp"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Acid Armor",
+      "Absorb",
+      "Water Gun",
+      "Poison Sting",
+      "Night Shade"
+    ],
+    "12": [
+      "Water Pulse"
+    ],
+    "16": [
+      "Rain Dance"
+    ],
+    "20": [
+      "Hex"
+    ],
+    "24": [
+      "Brine"
+    ],
+    "28": [
+      "Recover"
+    ],
+    "32": [
+      "Shadow Ball"
+    ],
+    "36": [
+      "Whirlpool"
+    ],
+    "43": [
+      "Hydro Pump"
+    ],
+    "48": [
+      "Destiny Bond"
+    ],
+    "54": [
+      "Water Spout"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bind",
+    "Magic Coat",
+    "Ominous Wind",
+    "Pain Split",
+    "Spite",
+    "Trick",
+    "Absorb",
+    "Bubble",
+    "Hydro Pump",
+    "Mist",
+    "Night Shade",
+    "Water Sport"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    19,
+    21,
+    24,
+    25,
+    27,
+    28,
+    31,
+    33,
+    35,
+    36,
+    38,
+    39,
+    44,
+    45,
+    55,
+    70,
+    76,
+    77
+  ],
+  "trMoves": [
+    3,
+    4,
+    5,
+    6,
+    11,
+    16,
+    20,
+    22,
+    26,
+    27,
+    33,
+    37,
+    38,
+    45,
+    58,
+    65,
+    78,
+    84,
+    92
+  ]
+}

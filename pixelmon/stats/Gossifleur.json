@@ -1,0 +1,136 @@
+{
+  "pixelmonName": "Gossifleur",
+  "pokemon": "Gossifleur",
+  "stats": {
+    "HP": 40,
+    "Attack": 40,
+    "Defence": 60,
+    "SpecialAttack": 40,
+    "SpecialDefence": 60,
+    "Speed": 10
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 14,
+  "spawnLevelRange": 6,
+  "baseExp": 50,
+  "baseFriendship": 50,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.4,
+  "width": 0.8,
+  "length": 0.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 2.2,
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Eldegoss"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Cotton Spore"
+      ]
+    }
+  ],
+  "abilities": [
+    "CottonDown",
+    "Regenerator",
+    "EffectSpore"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Leafage",
+      "Sing"
+    ],
+    "4": [
+      "Rapid Spin"
+    ],
+    "8": [
+      "Sweet Scent"
+    ],
+    "12": [
+      "Razor Leaf"
+    ],
+    "16": [
+      "Round"
+    ],
+    "21": [
+      "Leaf Tornado"
+    ],
+    "24": [
+      "Synthesis"
+    ],
+    "28": [
+      "Hyper Voice"
+    ],
+    "32": [
+      "Aromatherapy"
+    ],
+    "36": [
+      "Leaf Storm"
+    ]
+  },
+  "tutorMoves": [
+    "Grassy Glide"
+  ],
+  "eggMoves": [
+    "Growth",
+    "Leech Seed",
+    "Poison Powder",
+    "Sleep Powder",
+    "Stun Spore",
+    "Worry Seed"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    10,
+    11,
+    17,
+    21,
+    24,
+    25,
+    28,
+    29,
+    31,
+    34,
+    39,
+    41,
+    50,
+    76,
+    88
+  ],
+  "trMoves": [
+    20,
+    26,
+    27,
+    42,
+    65,
+    71,
+    77,
+    96
+  ]
+}

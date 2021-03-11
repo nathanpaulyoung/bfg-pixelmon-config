@@ -1,0 +1,126 @@
+{
+  "pixelmonName": "Chewtle",
+  "pokemon": "Chewtle",
+  "stats": {
+    "HP": 50,
+    "Attack": 64,
+    "Defence": 50,
+    "SpecialAttack": 38,
+    "SpecialDefence": 38,
+    "Speed": 44
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 16,
+  "spawnLevelRange": 6,
+  "baseExp": 57,
+  "baseFriendship": 50,
+  "types": [
+    "Water"
+  ],
+  "height": 0.4,
+  "width": 0.6,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 8.5,
+  "evolutions": [
+    {
+      "level": 22,
+      "to": {
+        "name": "Drednaw"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Rock Tomb"
+      ]
+    }
+  ],
+  "abilities": [
+    "StrongJaw",
+    "ShellArmour",
+    "SwiftSwim"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Water1"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Tackle",
+      "Water Gun"
+    ],
+    "7": [
+      "Bite"
+    ],
+    "14": [
+      "Protect"
+    ],
+    "21": [
+      "Headbutt"
+    ],
+    "28": [
+      "Counter"
+    ],
+    "35": [
+      "Jaw Lock"
+    ],
+    "42": [
+      "Liquidation"
+    ],
+    "49": [
+      "Body Slam"
+    ]
+  },
+  "tutorMoves": [
+    "Skitter Smack"
+  ],
+  "eggMoves": [
+    "Skull Bash",
+    "Gastro Acid",
+    "Dragon Tail"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    21,
+    24,
+    25,
+    31,
+    33,
+    36,
+    39,
+    42,
+    45,
+    53,
+    57,
+    58,
+    67,
+    76
+  ],
+  "trMoves": [
+    1,
+    3,
+    4,
+    20,
+    26,
+    27,
+    98
+  ]
+}

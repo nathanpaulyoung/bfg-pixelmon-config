@@ -1,0 +1,165 @@
+{
+  "pixelmonName": "Finneon",
+  "pokemon": "Finneon",
+  "stats": {
+    "HP": 49,
+    "Attack": 49,
+    "Defence": 56,
+    "Speed": 66,
+    "SpecialAttack": 49,
+    "SpecialDefence": 61
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 19,
+  "spawnLevelRange": 11,
+  "baseExp": 90,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.4,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 5,
+    "swimSpeed": 0.8,
+    "decayRate": 0.99,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 7.0,
+  "evolutions": [
+    {
+      "level": 31,
+      "to": {
+        "name": "Lumineon"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SwiftSwim",
+    "StormDrain",
+    "WaterVeil"
+  ],
+  "eggGroups": [
+    "Water2"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Pound"
+    ],
+    "6": [
+      "Water Gun"
+    ],
+    "10": [
+      "Attract"
+    ],
+    "13": [
+      "Rain Dance"
+    ],
+    "17": [
+      "Gust"
+    ],
+    "22": [
+      "Water Pulse"
+    ],
+    "26": [
+      "Captivate"
+    ],
+    "29": [
+      "Safeguard"
+    ],
+    "33": [
+      "Aqua Ring"
+    ],
+    "38": [
+      "Whirlpool"
+    ],
+    "42": [
+      "U-Turn"
+    ],
+    "45": [
+      "Bounce"
+    ],
+    "49": [
+      "Silver Wind"
+    ],
+    "54": [
+      "Soak"
+    ]
+  },
+  "tmMoves": [
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Toxic",
+    "Double Team",
+    "Waterfall",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Psych Up",
+    "Hail",
+    "Facade",
+    "Nature Power",
+    "U-Turn",
+    "Payback",
+    "Round",
+    "Scald",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bounce",
+    "Defog",
+    "Icy Wind",
+    "Signal Beam",
+    "Snore",
+    "Tailwind",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Aqua Tail",
+    "Aurora Beam",
+    "Brine",
+    "Charm",
+    "Confuse Ray",
+    "Flail",
+    "Psybeam",
+    "Signal Beam",
+    "Splash",
+    "Sweet Kiss",
+    "Tickle"
+  ],
+  "forms": {},
+  "form": 0
+}

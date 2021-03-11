@@ -1,0 +1,283 @@
+{
+  "pixelmonName": "Darumaka",
+  "pokemon": "Darumaka",
+  "form": 0,
+  "stats": {
+    "HP": 70,
+    "Attack": 90,
+    "Defence": 45,
+    "Speed": 50,
+    "SpecialAttack": 15,
+    "SpecialDefence": 45
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 23,
+  "spawnLevelRange": 11,
+  "baseExp": 63,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 37.5,
+  "evolutions": [
+    {
+      "level": 35,
+      "to": {
+        "name": "Darmanitan"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Hammer Arm"
+      ]
+    }
+  ],
+  "abilities": [
+    "Hustle",
+    null,
+    "InnerFocus"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Ember",
+      "Tackle"
+    ],
+    "4": [
+      "Taunt"
+    ],
+    "8": [
+      "Bite"
+    ],
+    "12": [
+      "Incinerate"
+    ],
+    "16": [
+      "Work Up"
+    ],
+    "20": [
+      "Fire Fang"
+    ],
+    "24": [
+      "Headbutt"
+    ],
+    "28": [
+      "Fire Punch"
+    ],
+    "32": [
+      "Uproar"
+    ],
+    "36": [
+      "Belly Drum"
+    ],
+    "40": [
+      "Flare Blitz"
+    ],
+    "44": [
+      "Thrash"
+    ],
+    "48": [
+      "Superpower"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Focus Punch",
+    "Hammer Arm",
+    "Take Down",
+    "Flame Wheel",
+    "Yawn",
+    "Extrasensory"
+  ],
+  "tmMoves8": [
+    0,
+    1,
+    3,
+    11,
+    13,
+    15,
+    21,
+    22,
+    23,
+    24,
+    25,
+    31,
+    34,
+    38,
+    39,
+    43,
+    48,
+    56,
+    59,
+    68,
+    76
+  ],
+  "trMoves": [
+    2,
+    13,
+    15,
+    20,
+    26,
+    27,
+    30,
+    35,
+    36,
+    37,
+    39,
+    43,
+    52,
+    55,
+    69,
+    77,
+    85
+  ],
+  "forms": {
+    "2": {
+      "spawnLevel": 23,
+      "spawnLevelRange": 11,
+      "types": [
+        "Ice"
+      ],
+      "weight": 40.0,
+      "evolutions": [
+        {
+          "item": {
+            "itemID": "pixelmon:ice_stone"
+          },
+          "to": {
+            "name": "Darmanitan",
+            "form": 2
+          },
+          "conditions": [],
+          "evoType": "interact",
+          "moves": [
+            "Icicle Crash"
+          ]
+        }
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Powder Snow",
+          "Tackle"
+        ],
+        "4": [
+          "Taunt"
+        ],
+        "8": [
+          "Bite"
+        ],
+        "12": [
+          "Avalanche"
+        ],
+        "16": [
+          "Work Up"
+        ],
+        "20": [
+          "Ice Fang"
+        ],
+        "24": [
+          "Headbutt"
+        ],
+        "28": [
+          "Ice Punch"
+        ],
+        "32": [
+          "Uproar"
+        ],
+        "36": [
+          "Belly Drum"
+        ],
+        "40": [
+          "Blizzard"
+        ],
+        "44": [
+          "Thrash"
+        ],
+        "48": [
+          "Superpower"
+        ]
+      },
+      "eggMoves": [
+        "Focus Punch",
+        "Hammer Arm",
+        "Take Down",
+        "Flame Wheel",
+        "Yawn",
+        "Freeze-Dry",
+        "Incinerate",
+        "Power-Up Punch"
+      ],
+      "tmMoves8": [
+        0,
+        1,
+        3,
+        4,
+        11,
+        13,
+        15,
+        21,
+        22,
+        23,
+        24,
+        25,
+        31,
+        34,
+        38,
+        39,
+        43,
+        48,
+        56,
+        59,
+        64,
+        67,
+        68,
+        76
+      ],
+      "trMoves": [
+        2,
+        5,
+        6,
+        13,
+        15,
+        20,
+        26,
+        27,
+        30,
+        35,
+        36,
+        37,
+        39,
+        43,
+        52,
+        55,
+        69,
+        77,
+        85
+      ]
+    }
+  },
+  "tmMoves": []
+}

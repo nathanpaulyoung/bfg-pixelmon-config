@@ -1,0 +1,161 @@
+{
+  "pixelmonName": "Buizel",
+  "pokemon": "Buizel",
+  "stats": {
+    "HP": 55,
+    "Attack": 65,
+    "Defence": 35,
+    "Speed": 85,
+    "SpecialAttack": 60,
+    "SpecialDefence": 30
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 10,
+  "baseExp": 75,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.7,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 29.5,
+  "evolutions": [
+    {
+      "level": 26,
+      "to": {
+        "name": "Floatzel"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SwiftSwim",
+    null,
+    "WaterVeil"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Sonic Boom"
+    ],
+    "4": [
+      "Growl"
+    ],
+    "7": [
+      "Water Sport"
+    ],
+    "11": [
+      "Quick Attack"
+    ],
+    "15": [
+      "Water Gun"
+    ],
+    "18": [
+      "Pursuit"
+    ],
+    "21": [
+      "Swift"
+    ],
+    "24": [
+      "Aqua Jet"
+    ],
+    "27": [
+      "Double Hit"
+    ],
+    "31": [
+      "Whirlpool"
+    ],
+    "35": [
+      "Razor Wind"
+    ],
+    "38": [
+      "Aqua Tail"
+    ],
+    "41": [
+      "Agility"
+    ],
+    "45": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Toxic",
+    "Double Team",
+    "Waterfall",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Hail",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Bulk Up",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Focus Punch",
+    "Helping Hand",
+    "Ice Punch",
+    "Icy Wind",
+    "Iron Tail",
+    "Snore",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Aqua Ring",
+    "Aqua Tail",
+    "Baton Pass",
+    "Double Slap",
+    "Fury Cutter",
+    "Fury Swipes",
+    "Headbutt",
+    "Helping Hand",
+    "Me First",
+    "Mud-Slap",
+    "Odor Sleuth",
+    "Slash",
+    "Soak",
+    "Switcheroo",
+    "Tail Slap"
+  ],
+  "forms": {},
+  "form": 0
+}

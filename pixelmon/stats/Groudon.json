@@ -1,0 +1,197 @@
+{
+  "pixelmonName": "Groudon",
+  "pokemon": "Groudon",
+  "stats": {
+    "HP": 100,
+    "Attack": 150,
+    "Defence": 140,
+    "Speed": 90,
+    "SpecialAttack": 100,
+    "SpecialDefence": 90
+  },
+  "catchRate": 5,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 218,
+  "baseFriendship": 0,
+  "types": [
+    "Ground"
+  ],
+  "height": 4.0,
+  "width": 4.0,
+  "length": 4.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.2,
+      "z": 1.15
+    }
+  },
+  "weight": 950.0,
+  "evolutions": [],
+  "abilities": [
+    "Drought",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Ancient Power",
+      "Mud Shot"
+    ],
+    "5": [
+      "Scary Face"
+    ],
+    "15": [
+      "Earth Power"
+    ],
+    "20": [
+      "Lava Plume"
+    ],
+    "30": [
+      "Rest"
+    ],
+    "35": [
+      "Earthquake"
+    ],
+    "45": [
+      "Precipice Blades"
+    ],
+    "50": [
+      "Bulk Up"
+    ],
+    "60": [
+      "Solar Beam"
+    ],
+    "65": [
+      "Fissure"
+    ],
+    "75": [
+      "Fire Blast"
+    ],
+    "80": [
+      "Hammer Arm"
+    ],
+    "90": [
+      "Eruption"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Roar",
+    "Flamethrower",
+    "Hyper Beam",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Fire Blast",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Sunny Day",
+    "Psych Up",
+    "Facade",
+    "Brick Break",
+    "Overheat",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Dragon Claw",
+    "Bulk Up",
+    "Fling",
+    "Rock Polish",
+    "Focus Blast",
+    "Giga Impact",
+    "Shadow Claw",
+    "Stone Edge",
+    "Smack Down",
+    "Round",
+    "Bulldoze",
+    "Dragon Tail",
+    "Confide",
+    "Brutal Swing"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Dragon Pulse",
+    "Earth Power",
+    "Fire Punch",
+    "Iron Head",
+    "Iron Tail",
+    "Shock Wave",
+    "Snore",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Thunder Punch",
+    "Uproar"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 100,
+        "Attack": 180,
+        "Defence": 160,
+        "Speed": 90,
+        "SpecialAttack": 150,
+        "SpecialDefence": 90
+      },
+      "types": [
+        "Ground",
+        "Fire"
+      ],
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -0.15,
+          "z": 0.3
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -0.15,
+          "z": 0.3
+        }
+      },
+      "weight": 999.7,
+      "abilities": [
+        "DesolateLand",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": 0,
+  "eggMoves": []
+}

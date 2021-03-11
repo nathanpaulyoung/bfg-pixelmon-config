@@ -1,0 +1,209 @@
+{
+  "pixelmonName": "Metagross",
+  "pokemon": "Metagross",
+  "stats": {
+    "HP": 80,
+    "Attack": 135,
+    "Defence": 130,
+    "Speed": 70,
+    "SpecialAttack": 95,
+    "SpecialDefence": 90
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 50,
+  "spawnLevelRange": 10,
+  "baseExp": 210,
+  "baseFriendship": 35,
+  "types": [
+    "Steel",
+    "Psychic"
+  ],
+  "height": 1.6,
+  "width": 2.0,
+  "length": 2.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Metang",
+    "Beldum"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 0,
+    "passive": 50,
+    "aggressive": 50
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 10,
+    "flySpeedModifier": 0.6,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 200,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.25,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.15,
+      "z": -0.3
+    }
+  },
+  "weight": 550.0,
+  "evolutions": [],
+  "abilities": [
+    "ClearBody",
+    null,
+    "LightMetal"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Magnet Rise",
+      "Take Down",
+      "Metal Claw",
+      "Confusion",
+      "Hammer Arm"
+    ],
+    "23": [
+      "Pursuit"
+    ],
+    "26": [
+      "Bullet Punch"
+    ],
+    "29": [
+      "Miracle Eye"
+    ],
+    "32": [
+      "Zen Headbutt"
+    ],
+    "35": [
+      "Scary Face"
+    ],
+    "38": [
+      "Psychic"
+    ],
+    "41": [
+      "Agility"
+    ],
+    "44": [
+      "Meteor Mash"
+    ],
+    "52": [
+      "Iron Defense"
+    ],
+    "60": [
+      "Hyper Beam"
+    ]
+  },
+  "tmMoves": [
+    "Hyper Beam",
+    "Earthquake",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Light Screen",
+    "Reflect",
+    "Explosion",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Swagger",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Shadow Ball",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Gyro Ball",
+    "Rock Polish",
+    "Giga Impact",
+    "Flash Cannon",
+    "Grass Knot",
+    "Psyshock",
+    "Round",
+    "Bulldoze",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Ally Switch",
+    "Block",
+    "Gravity",
+    "Ice Punch",
+    "Icy Wind",
+    "Iron Defense",
+    "Iron Head",
+    "Laser Focus",
+    "Magnet Rise",
+    "Signal Beam",
+    "Snore",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Telekinesis",
+    "Thunder Punch",
+    "Trick",
+    "Zen Headbutt"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 80,
+        "Attack": 145,
+        "Defence": 150,
+        "Speed": 110,
+        "SpecialAttack": 105,
+        "SpecialDefence": 110
+      },
+      "height": 2.5,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": 0.25,
+          "z": 0.0
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -0.85,
+          "z": 0.0
+        }
+      },
+      "weight": 942.9,
+      "abilities": [
+        "ToughClaws",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": 0,
+  "eggMoves": []
+}

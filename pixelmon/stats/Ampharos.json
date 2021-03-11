@@ -1,0 +1,197 @@
+{
+  "pixelmonName": "Ampharos",
+  "pokemon": "Ampharos",
+  "stats": {
+    "HP": 90,
+    "Attack": 75,
+    "Defence": 85,
+    "Speed": 55,
+    "SpecialAttack": 115,
+    "SpecialDefence": 90
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 30,
+  "baseExp": 194,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 1.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Flaaffy",
+    "Mareep"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "weight": 61.5,
+  "evolutions": [],
+  "abilities": [
+    "Static",
+    null,
+    "Plus"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Zap Cannon",
+      "Magnetic Flux",
+      "Ion Deluge",
+      "Dragon Pulse",
+      "Fire Punch",
+      "Tackle",
+      "Growl",
+      "Thunder Wave",
+      "Thunder Shock",
+      "Thunder Punch"
+    ],
+    "4": [
+      "Thunder Wave"
+    ],
+    "8": [
+      "Thunder Shock"
+    ],
+    "11": [
+      "Cotton Spore"
+    ],
+    "16": [
+      "Charge"
+    ],
+    "20": [
+      "Take Down"
+    ],
+    "25": [
+      "Electro Ball"
+    ],
+    "29": [
+      "Confuse Ray"
+    ],
+    "35": [
+      "Power Gem"
+    ],
+    "40": [
+      "Discharge"
+    ],
+    "46": [
+      "Cotton Guard"
+    ],
+    "51": [
+      "Signal Beam"
+    ],
+    "57": [
+      "Light Screen"
+    ],
+    "62": [
+      "Thunder"
+    ],
+    "65": [
+      "Dragon Pulse"
+    ]
+  },
+  "tmMoves": [
+    "Hyper Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Toxic",
+    "Double Team",
+    "Light Screen",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Facade",
+    "Brick Break",
+    "Fling",
+    "Focus Blast",
+    "Giga Impact",
+    "Charge Beam",
+    "Round",
+    "Echoed Voice",
+    "Volt Switch",
+    "Bulldoze",
+    "Wild Charge",
+    "Confide",
+    "Brutal Swing"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Dragon Pulse",
+    "Electroweb",
+    "Fire Punch",
+    "Focus Punch",
+    "Heal Bell",
+    "Iron Tail",
+    "Laser Focus",
+    "Magnet Rise",
+    "Outrage",
+    "Shock Wave",
+    "Signal Beam",
+    "Snore",
+    "Thunder Punch"
+  ],
+  "eggMoves": [
+    "After You",
+    "Agility",
+    "Body Slam",
+    "Charge",
+    "Eerie Impulse",
+    "Electric Terrain",
+    "Flatter",
+    "Iron Tail",
+    "Odor Sleuth",
+    "Sand Attack",
+    "Screech",
+    "Take Down"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 90,
+        "Attack": 95,
+        "Defence": 105,
+        "Speed": 45,
+        "SpecialAttack": 165,
+        "SpecialDefence": 110
+      },
+      "types": [
+        "Electric",
+        "Dragon"
+      ],
+      "abilities": [
+        "MoldBreaker",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": 0
+}

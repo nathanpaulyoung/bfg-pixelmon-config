@@ -1,0 +1,166 @@
+{
+  "pixelmonName": "Pinsir",
+  "pokemon": "Pinsir",
+  "stats": {
+    "HP": 65,
+    "Attack": 125,
+    "Defence": 100,
+    "Speed": 85,
+    "SpecialAttack": 55,
+    "SpecialDefence": 70
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 40,
+  "baseExp": 175,
+  "baseFriendship": 70,
+  "types": [
+    "Bug"
+  ],
+  "height": 1.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": 0.1
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": 0.1
+    }
+  },
+  "weight": 55.0,
+  "evolutions": [],
+  "abilities": [
+    "HyperCutter",
+    "MoldBreaker",
+    "Moxie"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Vise Grip",
+      "Focus Energy"
+    ],
+    "4": [
+      "Bind"
+    ],
+    "8": [
+      "Seismic Toss"
+    ],
+    "11": [
+      "Harden"
+    ],
+    "15": [
+      "Revenge"
+    ],
+    "18": [
+      "Vital Throw"
+    ],
+    "22": [
+      "Double Hit"
+    ],
+    "26": [
+      "Brick Break"
+    ],
+    "29": [
+      "X-Scissor"
+    ],
+    "33": [
+      "Submission"
+    ],
+    "36": [
+      "Storm Throw"
+    ],
+    "40": [
+      "Swords Dance"
+    ],
+    "43": [
+      "Thrash"
+    ],
+    "47": [
+      "Superpower"
+    ],
+    "50": [
+      "Guillotine"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bind",
+    "Bug Bite",
+    "Helping Hand",
+    "Iron Defense",
+    "Knock Off",
+    "String Shot",
+    "Superpower",
+    "Feint Attack",
+    "Flail",
+    "Fury Attack",
+    "Rock Throw",
+    "Thrash",
+    "Harden",
+    "Focus Energy",
+    "Slash",
+    "Throat Chop"
+  ],
+  "eggMoves": [
+    "Bug Bite",
+    "Close Combat",
+    "Feint",
+    "Flail",
+    "Fury Attack",
+    "Me First",
+    "Quick Attack",
+    "Superpower",
+    "Feint Attack"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 65,
+        "Attack": 155,
+        "Defence": 120,
+        "Speed": 105,
+        "SpecialAttack": 65,
+        "SpecialDefence": 90
+      },
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "height": 1.7,
+      "weight": 59.0,
+      "abilities": [
+        "Aerilate",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": 0
+}

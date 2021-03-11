@@ -1,0 +1,165 @@
+{
+  "pixelmonName": "Heatmor",
+  "pokemon": "Heatmor",
+  "stats": {
+    "HP": 85,
+    "Attack": 97,
+    "Defence": 66,
+    "Speed": 65,
+    "SpecialAttack": 105,
+    "SpecialDefence": 66
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 34,
+  "spawnLevelRange": 12,
+  "baseExp": 169,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 1.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 58.0,
+  "evolutions": [],
+  "abilities": [
+    "Gluttony",
+    "FlashFire",
+    "WhiteSmoke"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Lick",
+      "Tackle"
+    ],
+    "5": [
+      "Fury Swipes"
+    ],
+    "10": [
+      "Incinerate"
+    ],
+    "15": [
+      "Bug Bite"
+    ],
+    "20": [
+      "Stockpile",
+      "Swallow",
+      "Spit Up"
+    ],
+    "25": [
+      "Slash"
+    ],
+    "30": [
+      "Bind"
+    ],
+    "35": [
+      "Fire Lash"
+    ],
+    "40": [
+      "Hone Claws"
+    ],
+    "45": [
+      "Amnesia"
+    ],
+    "50": [
+      "Fire Spin"
+    ],
+    "55": [
+      "Inferno"
+    ],
+    "60": [
+      "Flare Blitz"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bind",
+    "Bug Bite",
+    "Gastro Acid",
+    "Heat Wave",
+    "Knock Off",
+    "Low Kick",
+    "Sucker Punch",
+    "Superpower",
+    "Amnesia",
+    "Feint Attack",
+    "Pursuit",
+    "Tickle",
+    "Slash",
+    "Inferno",
+    "Throat Chop",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [
+    "Night Slash",
+    "Curse",
+    "Sucker Punch",
+    "Tickle",
+    "Belch"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    3,
+    5,
+    9,
+    11,
+    13,
+    15,
+    21,
+    23,
+    24,
+    25,
+    28,
+    31,
+    33,
+    34,
+    38,
+    39,
+    48,
+    59,
+    63,
+    65,
+    76,
+    97,
+    98
+  ],
+  "trMoves": [
+    1,
+    2,
+    7,
+    15,
+    17,
+    20,
+    26,
+    27,
+    36,
+    37,
+    39,
+    43,
+    55,
+    64,
+    95
+  ]
+}

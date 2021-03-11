@@ -1,0 +1,326 @@
+{
+  "pixelmonName": "Kyurem",
+  "pokemon": "Kyurem",
+  "stats": {
+    "HP": 125,
+    "Attack": 130,
+    "Defence": 90,
+    "Speed": 95,
+    "SpecialAttack": 130,
+    "SpecialDefence": 90
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 297,
+  "baseFriendship": 0,
+  "types": [
+    "Dragon",
+    "Ice"
+  ],
+  "height": 3.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1,
+    "Attack": 1,
+    "SpecialAttack": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.8,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.8,
+      "z": -0.6
+    }
+  },
+  "weight": 325.0,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "1": [
+      "Dragon Breath",
+      "Noble Roar",
+      "Ancient Power",
+      "Freeze-Dry"
+    ],
+    "8": [
+      "Slash"
+    ],
+    "16": [
+      "Endeavor"
+    ],
+    "24": [
+      "Dragon Pulse"
+    ],
+    "32": [
+      "Ice Beam"
+    ],
+    "40": [
+      "Hyper Voice"
+    ],
+    "48": [
+      "Scary Face"
+    ],
+    "56": [
+      "Blizzard"
+    ],
+    "64": [
+      "Imprison"
+    ],
+    "72": [
+      "Outrage"
+    ],
+    "80": [
+      "Glaciate"
+    ],
+    "88": [
+      "Sheer Cold"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Ancient Power",
+    "Draco Meteor",
+    "Earth Power",
+    "Endeavor",
+    "Hyper Voice",
+    "Iron Head",
+    "Outrage",
+    "Signal Beam",
+    "Zen Headbutt",
+    "Scary Face",
+    "Slash",
+    "Laser Focus"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 125,
+        "Attack": 170,
+        "Defence": 100,
+        "Speed": 95,
+        "SpecialAttack": 120,
+        "SpecialDefence": 90
+      },
+      "height": 3.3,
+      "canFly": true,
+      "evYields": {
+        "Attack": 3
+      },
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.3
+        },
+        "moving": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": -0.3
+        }
+      },
+      "abilities": [
+        "Teravolt",
+        null,
+        null
+      ],
+      "levelUpMoves": {
+        "1": [
+          "Dragon Breath",
+          "Noble Roar",
+          "Ancient Power",
+          "Freeze-Dry"
+        ],
+        "8": [
+          "Slash"
+        ],
+        "16": [
+          "Endeavor"
+        ],
+        "24": [
+          "Dragon Pulse"
+        ],
+        "32": [
+          "Ice Beam"
+        ],
+        "40": [
+          "Hyper Voice"
+        ],
+        "48": [
+          "Fusion Flare"
+        ],
+        "56": [
+          "Blizzard"
+        ],
+        "64": [
+          "Imprison"
+        ],
+        "72": [
+          "Outrage"
+        ],
+        "80": [
+          "Ice Burn"
+        ],
+        "88": [
+          "Sheer Cold"
+        ]
+      },
+      "form": 1
+    },
+    "2": {
+      "stats": {
+        "HP": 125,
+        "Attack": 120,
+        "Defence": 90,
+        "Speed": 95,
+        "SpecialAttack": 170,
+        "SpecialDefence": 100
+      },
+      "height": 3.6,
+      "canFly": true,
+      "evYields": {
+        "SpecialAttack": 3
+      },
+      "ridingOffsets": {
+        "standing": {
+          "x": -0.05,
+          "y": 0.1,
+          "z": 0.4
+        },
+        "moving": {
+          "x": -0.05,
+          "y": 0.1,
+          "z": 0.4
+        }
+      },
+      "abilities": [
+        "Turboblaze",
+        null,
+        null
+      ],
+      "levelUpMoves": {
+        "1": [
+          "Dragon Breath",
+          "Noble Roar",
+          "Ancient Power",
+          "Freeze-Dry"
+        ],
+        "8": [
+          "Slash"
+        ],
+        "16": [
+          "Endeavor"
+        ],
+        "24": [
+          "Dragon Pulse"
+        ],
+        "32": [
+          "Ice Beam"
+        ],
+        "40": [
+          "Hyper Voice"
+        ],
+        "48": [
+          "Fusion Bolt"
+        ],
+        "56": [
+          "Blizzard"
+        ],
+        "64": [
+          "Imprison"
+        ],
+        "72": [
+          "Outrage"
+        ],
+        "80": [
+          "Freeze Shock"
+        ],
+        "88": [
+          "Sheer Cold"
+        ]
+      },
+      "form": 2
+    }
+  },
+  "form": 0,
+  "eggMoves": [],
+  "tmMoves8": [
+    6,
+    8,
+    9,
+    17,
+    18,
+    19,
+    21,
+    22,
+    24,
+    25,
+    26,
+    27,
+    30,
+    33,
+    34,
+    35,
+    39,
+    40,
+    41,
+    44,
+    46,
+    48,
+    51,
+    57,
+    59,
+    65,
+    76,
+    97,
+    99
+  ],
+  "trMoves": [
+    5,
+    6,
+    11,
+    20,
+    24,
+    26,
+    27,
+    33,
+    42,
+    47,
+    51,
+    62,
+    64,
+    67,
+    69,
+    70,
+    74,
+    75,
+    99
+  ]
+}

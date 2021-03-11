@@ -1,0 +1,181 @@
+{
+  "pixelmonName": "Torterra",
+  "pokemon": "Torterra",
+  "stats": {
+    "HP": 95,
+    "Attack": 109,
+    "Defence": 105,
+    "Speed": 56,
+    "SpecialAttack": 75,
+    "SpecialDefence": 85
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 36,
+  "spawnLevelRange": 9,
+  "baseExp": 208,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Ground"
+  ],
+  "height": 2.2,
+  "width": 2.2,
+  "length": 2.2,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Grotle",
+    "Turtwig"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2,
+    "Defence": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.2,
+      "z": 1.1
+    }
+  },
+  "weight": 310.0,
+  "evolutions": [],
+  "abilities": [
+    "Overgrow",
+    null,
+    "ShellArmour"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Wood Hammer",
+      "Tackle",
+      "Withdraw",
+      "Absorb",
+      "Razor Leaf",
+      "Earthquake"
+    ],
+    "5": [
+      "Withdraw"
+    ],
+    "9": [
+      "Absorb"
+    ],
+    "13": [
+      "Razor Leaf"
+    ],
+    "17": [
+      "Curse"
+    ],
+    "22": [
+      "Bite"
+    ],
+    "27": [
+      "Mega Drain"
+    ],
+    "33": [
+      "Leech Seed"
+    ],
+    "39": [
+      "Synthesis"
+    ],
+    "45": [
+      "Crunch"
+    ],
+    "51": [
+      "Giga Drain"
+    ],
+    "57": [
+      "Leaf Storm"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Roar",
+    "Hyper Beam",
+    "Solar Beam",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Light Screen",
+    "Reflect",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Sunny Day",
+    "Facade",
+    "Nature Power",
+    "Rock Tomb",
+    "Rock Polish",
+    "Energy Ball",
+    "Giga Impact",
+    "Stone Edge",
+    "Grass Knot",
+    "Round",
+    "Bulldoze",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Earth Power",
+    "Frenzy Plant",
+    "Giga Drain",
+    "Grass Pledge",
+    "Iron Head",
+    "Iron Tail",
+    "Outrage",
+    "Seed Bomb",
+    "Snore",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Superpower",
+    "Synthesis",
+    "Worry Seed"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Body Slam",
+    "Double-Edge",
+    "Earth Power",
+    "Grassy Terrain",
+    "Growth",
+    "Heavy Slam",
+    "Sand Tomb",
+    "Seed Bomb",
+    "Spit Up",
+    "Stockpile",
+    "Superpower",
+    "Swallow",
+    "Thrash",
+    "Tickle",
+    "Wide Guard",
+    "Worry Seed"
+  ],
+  "forms": {},
+  "form": 0
+}

@@ -1,0 +1,134 @@
+{
+  "pixelmonName": "Sizzlipede",
+  "pokemon": "Sizzlipede",
+  "form": 0,
+  "stats": {
+    "HP": 50,
+    "Attack": 65,
+    "Defence": 45,
+    "SpecialAttack": 50,
+    "SpecialDefence": 50,
+    "Speed": 45
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 16,
+  "baseExp": 61,
+  "baseFriendship": 50,
+  "types": [
+    "Fire",
+    "Bug"
+  ],
+  "height": 0.6,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 1.0,
+  "evolutions": [
+    {
+      "level": 28,
+      "to": {
+        "name": "Centiskorch"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "FlashFire",
+    "WhiteSmoke",
+    "FlameBody"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "levelUpMoves": {
+    "0": [
+      "Ember",
+      "Smokescreen"
+    ],
+    "5": [
+      "Wrap"
+    ],
+    "10": [
+      "Bite"
+    ],
+    "15": [
+      "Flame Wheel"
+    ],
+    "20": [
+      "Bug Bite"
+    ],
+    "25": [
+      "Coil"
+    ],
+    "30": [
+      "Slam"
+    ],
+    "35": [
+      "Fire Spin"
+    ],
+    "40": [
+      "Crunch"
+    ],
+    "45": [
+      "Fire Lash"
+    ],
+    "50": [
+      "Lunge"
+    ],
+    "55": [
+      "Burn Up"
+    ]
+  },
+  "tutorMoves": [
+    "Scorching Sands",
+    "Skitter Smack"
+  ],
+  "eggMoves": [
+    "Defense Curl",
+    "Knock Off",
+    "Rollout",
+    "Struggle Bug"
+  ],
+  "tmMoves8": [
+    13,
+    21,
+    24,
+    25,
+    31,
+    34,
+    39,
+    74,
+    76,
+    97
+  ],
+  "trMoves": [
+    18,
+    20,
+    26,
+    27,
+    32,
+    36,
+    61,
+    72,
+    84,
+    88
+  ]
+}

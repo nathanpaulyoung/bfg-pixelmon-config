@@ -1,0 +1,168 @@
+{
+  "pixelmonName": "Duskull",
+  "pokemon": "Duskull",
+  "stats": {
+    "HP": 20,
+    "Attack": 40,
+    "Defence": 90,
+    "Speed": 25,
+    "SpecialAttack": 30,
+    "SpecialDefence": 90
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 8,
+  "baseExp": 97,
+  "baseFriendship": 35,
+  "types": [
+    "Ghost"
+  ],
+  "height": 0.8,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 15.0,
+  "evolutions": [
+    {
+      "level": 37,
+      "to": {
+        "name": "Dusclops"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Shadow Punch"
+      ]
+    }
+  ],
+  "abilities": [
+    "Levitate",
+    null,
+    "Frisk"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "1": [
+      "Astonish",
+      "Leer"
+    ],
+    "4": [
+      "Disable"
+    ],
+    "8": [
+      "Shadow Sneak"
+    ],
+    "12": [
+      "Confuse Ray"
+    ],
+    "16": [
+      "Night Shade"
+    ],
+    "20": [
+      "Payback"
+    ],
+    "24": [
+      "Will-O-Wisp"
+    ],
+    "28": [
+      "Mean Look"
+    ],
+    "32": [
+      "Hex"
+    ],
+    "36": [
+      "Curse"
+    ],
+    "40": [
+      "Shadow Ball"
+    ],
+    "44": [
+      "Future Sight"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Gravity",
+    "Helping Hand",
+    "Ominous Wind",
+    "Pain Split",
+    "Spite",
+    "Sucker Punch",
+    "Trick",
+    "Wonder Room",
+    "Feint Attack",
+    "Foresight",
+    "Haze",
+    "Night Shade",
+    "Pursuit",
+    "Leer",
+    "Helping Hand",
+    "Ally Switch",
+    "Telekinesis"
+  ],
+  "eggMoves": [
+    "Pain Split",
+    "Grudge",
+    "Memento",
+    "Haze"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    21,
+    23,
+    24,
+    25,
+    27,
+    31,
+    33,
+    34,
+    38,
+    39,
+    41,
+    42,
+    44,
+    57,
+    59,
+    70,
+    71,
+    76,
+    77
+  ],
+  "trMoves": [
+    1,
+    5,
+    6,
+    11,
+    20,
+    26,
+    27,
+    33,
+    34,
+    37,
+    38,
+    40,
+    49,
+    58,
+    83
+  ]
+}

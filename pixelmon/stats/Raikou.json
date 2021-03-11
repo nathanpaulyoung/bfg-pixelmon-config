@@ -1,0 +1,156 @@
+{
+  "pixelmonName": "Raikou",
+  "pokemon": "Raikou",
+  "stats": {
+    "HP": 90,
+    "Attack": 85,
+    "Defence": 75,
+    "Speed": 115,
+    "SpecialAttack": 115,
+    "SpecialDefence": 100
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 216,
+  "baseFriendship": 35,
+  "types": [
+    "Electric"
+  ],
+  "height": 1.9,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 100,
+    "passive": 0,
+    "aggressive": 0
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1,
+    "Speed": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.45,
+      "z": -0.65
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.25
+    }
+  },
+  "weight": 178.0,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    "InnerFocus"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "0": [
+      "Extrasensory",
+      "Discharge",
+      "Bite",
+      "Leer"
+    ],
+    "8": [
+      "Thunder Shock"
+    ],
+    "15": [
+      "Roar"
+    ],
+    "22": [
+      "Quick Attack"
+    ],
+    "29": [
+      "Spark"
+    ],
+    "36": [
+      "Reflect"
+    ],
+    "43": [
+      "Crunch"
+    ],
+    "50": [
+      "Thunder Fang"
+    ],
+    "57": [
+      "Discharge"
+    ],
+    "64": [
+      "Extrasensory"
+    ],
+    "71": [
+      "Rain Dance"
+    ],
+    "78": [
+      "Calm Mind"
+    ],
+    "85": [
+      "Thunder"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Hyper Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Toxic",
+    "Double Team",
+    "Light Screen",
+    "Reflect",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Shadow Ball",
+    "Facade",
+    "Calm Mind",
+    "Giga Impact",
+    "Charge Beam",
+    "Round",
+    "Quash",
+    "Volt Switch",
+    "Bulldoze",
+    "Wild Charge",
+    "Snarl",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Iron Head",
+    "Iron Tail",
+    "Laser Focus",
+    "Magnet Rise",
+    "Shock Wave",
+    "Signal Beam",
+    "Snore",
+    "Throat Chop"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": []
+}

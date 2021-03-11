@@ -1,0 +1,372 @@
+{
+  "pixelmonName": "Meowth",
+  "pokemon": "Meowth",
+  "form": 0,
+  "stats": {
+    "HP": 40,
+    "Attack": 45,
+    "Defence": 35,
+    "Speed": 90,
+    "SpecialAttack": 40,
+    "SpecialDefence": 40
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 18,
+  "baseExp": 69,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.4,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 4.2,
+  "evolutions": [
+    {
+      "level": 28,
+      "to": {
+        "name": "Persian",
+        "form": 0
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Swift"
+      ]
+    }
+  ],
+  "abilities": [
+    "Pickup",
+    "Technician",
+    "Unnerve"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Fake Out",
+      "Growl"
+    ],
+    "4": [
+      "Feint"
+    ],
+    "8": [
+      "Scratch"
+    ],
+    "12": [
+      "Pay Day"
+    ],
+    "16": [
+      "Bite"
+    ],
+    "20": [
+      "Taunt"
+    ],
+    "24": [
+      "Assurance"
+    ],
+    "29": [
+      "Fury Swipes"
+    ],
+    "32": [
+      "Screech"
+    ],
+    "36": [
+      "Slash"
+    ],
+    "40": [
+      "Nasty Plot"
+    ],
+    "44": [
+      "Play Rough"
+    ]
+  },
+  "tmMoves8": [
+    2,
+    15,
+    16,
+    21,
+    23,
+    24,
+    25,
+    27,
+    29,
+    31,
+    33,
+    34,
+    39,
+    40,
+    56,
+    57,
+    58,
+    65,
+    76,
+    79
+  ],
+  "trMoves": [
+    1,
+    8,
+    9,
+    17,
+    20,
+    26,
+    27,
+    31,
+    33,
+    35,
+    37,
+    42,
+    58,
+    59,
+    68,
+    73,
+    81,
+    85,
+    90,
+    95
+  ],
+  "tutorMoves": [
+    "Lash Out"
+  ],
+  "eggMoves": [
+    "Spite",
+    "Hypnosis",
+    "Last Resort",
+    "Flail",
+    "Tail Whip",
+    "Covet"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 40,
+        "Attack": 35,
+        "Defence": 35,
+        "Speed": 90,
+        "SpecialAttack": 50,
+        "SpecialDefence": 40
+      },
+      "types": [
+        "Dark"
+      ],
+      "evolutions": [
+        {
+          "to": {
+            "name": "Persian",
+            "form": 1
+          },
+          "conditions": [
+            {
+              "friendship": 220,
+              "evoConditionType": "friendship"
+            }
+          ],
+          "evoType": "leveling",
+          "moves": [
+            "Swift"
+          ]
+        }
+      ],
+      "abilities": [
+        "Pickup",
+        "Technician",
+        "Rattled"
+      ],
+      "levelUpMoves": {
+        "1": [
+          "Fake Out",
+          "Growl"
+        ],
+        "4": [
+          "Feint"
+        ],
+        "8": [
+          "Scratch"
+        ],
+        "12": [
+          "Pay Day"
+        ],
+        "16": [
+          "Bite"
+        ],
+        "20": [
+          "Taunt"
+        ],
+        "24": [
+          "Assurance"
+        ],
+        "29": [
+          "Fury Swipes"
+        ],
+        "32": [
+          "Screech"
+        ],
+        "36": [
+          "Night Slash"
+        ],
+        "40": [
+          "Nasty Plot"
+        ],
+        "44": [
+          "Play Rough"
+        ]
+      },
+      "eggMoves": [
+        "Spite",
+        "Hypnosis",
+        "Parting Shot",
+        "Flail",
+        "Flatter",
+        "Covet"
+      ]
+    },
+    "2": {
+      "stats": {
+        "HP": 50,
+        "Attack": 65,
+        "Defence": 55,
+        "Speed": 40,
+        "SpecialAttack": 40,
+        "SpecialDefence": 40
+      },
+      "types": [
+        "Steel"
+      ],
+      "evYields": {
+        "Attack": 1
+      },
+      "weight": 7.5,
+      "evolutions": [
+        {
+          "level": 28,
+          "to": {
+            "name": "Perrserker"
+          },
+          "conditions": [],
+          "evoType": "leveling",
+          "moves": [
+            "Iron Head"
+          ]
+        }
+      ],
+      "abilities": [
+        "Pickup",
+        "ToughClaws",
+        "Unnerve"
+      ],
+      "levelUpMoves": {
+        "1": [
+          "Fake Out",
+          "Growl"
+        ],
+        "4": [
+          "Hone Claws"
+        ],
+        "8": [
+          "Scratch"
+        ],
+        "12": [
+          "Pay Day"
+        ],
+        "16": [
+          "Metal Claw"
+        ],
+        "20": [
+          "Taunt"
+        ],
+        "24": [
+          "Swagger"
+        ],
+        "29": [
+          "Fury Swipes"
+        ],
+        "32": [
+          "Screech"
+        ],
+        "36": [
+          "Slash"
+        ],
+        "40": [
+          "Metal Sound"
+        ],
+        "44": [
+          "Thrash"
+        ]
+      },
+      "eggMoves": [
+        "Spite",
+        "Double-Edge",
+        "Curse",
+        "Flail",
+        "Night Slash",
+        "Covet"
+      ],
+      "tmMoves8": [
+        2,
+        15,
+        16,
+        21,
+        23,
+        24,
+        25,
+        31,
+        33,
+        34,
+        39,
+        56,
+        57,
+        58,
+        65,
+        76,
+        79
+      ],
+      "trMoves": [
+        0,
+        1,
+        8,
+        9,
+        17,
+        20,
+        26,
+        27,
+        31,
+        32,
+        33,
+        35,
+        37,
+        42,
+        46,
+        52,
+        58,
+        59,
+        68,
+        73,
+        74,
+        81,
+        85,
+        90,
+        95
+      ]
+    }
+  }
+}

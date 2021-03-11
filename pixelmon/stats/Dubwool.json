@@ -1,0 +1,140 @@
+{
+  "pixelmonName": "Dubwool",
+  "pokemon": "Dubwool",
+  "stats": {
+    "HP": 72,
+    "Attack": 80,
+    "Defence": 100,
+    "SpecialAttack": 60,
+    "SpecialDefence": 90,
+    "Speed": 88
+  },
+  "catchRate": 127,
+  "malePercent": 50,
+  "spawnLevel": 24,
+  "spawnLevelRange": 20,
+  "baseExp": 172,
+  "baseFriendship": 50,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.3,
+  "width": 1.2,
+  "length": 1.2,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Wooloo"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.5
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.5
+    }
+  },
+  "weight": 43.0,
+  "evolutions": [],
+  "abilities": [
+    "Fluffy",
+    "Steadfast",
+    "Bulletproof"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "1": [
+      "Tackle",
+      "Growl",
+      "Defense Curl",
+      "Copycat"
+    ],
+    "12": [
+      "Guard Split"
+    ],
+    "16": [
+      "Double Kick"
+    ],
+    "21": [
+      "Headbutt"
+    ],
+    "27": [
+      "Take Down"
+    ],
+    "32": [
+      "Guard Swap"
+    ],
+    "38": [
+      "Reversal"
+    ],
+    "44": [
+      "Cotton Guard"
+    ],
+    "50": [
+      "Double-Edge"
+    ],
+    "56": [
+      "Last Resort"
+    ]
+  },
+  "tutorMoves": [
+    "Grassy Glide"
+  ],
+  "eggMoves": [
+    "Counter",
+    "Stomp",
+    "Swagger"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    1,
+    8,
+    9,
+    14,
+    21,
+    24,
+    25,
+    31,
+    39,
+    52,
+    57,
+    61,
+    76,
+    79
+  ],
+  "trMoves": [
+    0,
+    1,
+    12,
+    20,
+    21,
+    26,
+    27,
+    29,
+    69,
+    80,
+    86,
+    99
+  ]
+}

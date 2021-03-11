@@ -1,0 +1,208 @@
+{
+  "pixelmonName": "Mawile",
+  "pokemon": "Mawile",
+  "stats": {
+    "HP": 50,
+    "Attack": 85,
+    "Defence": 85,
+    "Speed": 50,
+    "SpecialAttack": 55,
+    "SpecialDefence": 55
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 33,
+  "spawnLevelRange": 13,
+  "baseExp": 133,
+  "baseFriendship": 70,
+  "types": [
+    "Steel",
+    "Fairy"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "Defence": 1
+  },
+  "weight": 11.5,
+  "evolutions": [],
+  "abilities": [
+    "HyperCutter",
+    "Intimidate",
+    "SheerForce"
+  ],
+  "eggGroups": [
+    "Field",
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Astonish",
+      "Growl"
+    ],
+    "4": [
+      "Fairy Wind"
+    ],
+    "8": [
+      "Baton Pass"
+    ],
+    "12": [
+      "Bite"
+    ],
+    "16": [
+      "Stockpile",
+      "Swallow",
+      "Spit Up"
+    ],
+    "20": [
+      "Sucker Punch"
+    ],
+    "24": [
+      "Iron Defense"
+    ],
+    "28": [
+      "Crunch"
+    ],
+    "32": [
+      "Sweet Scent"
+    ],
+    "36": [
+      "Iron Head"
+    ],
+    "40": [
+      "Taunt"
+    ],
+    "44": [
+      "Fake Tears"
+    ],
+    "48": [
+      "Play Rough"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Ancient Power",
+    "Foul Play",
+    "Iron Defense",
+    "Iron Head",
+    "Knock Off",
+    "Last Resort",
+    "Magnet Rise",
+    "Pain Split",
+    "Sucker Punch",
+    "Super Fang",
+    "Baton Pass",
+    "Bite",
+    "Feint Attack",
+    "Sing",
+    "Tickle",
+    "Sing",
+    "Laser Focus"
+  ],
+  "eggMoves": [
+    "Ancient Power",
+    "Tickle",
+    "Slam",
+    "Seismic Toss",
+    "Power-Up Punch"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 50,
+        "Attack": 105,
+        "Defence": 125,
+        "Speed": 50,
+        "SpecialAttack": 55,
+        "SpecialDefence": 95
+      },
+      "height": 1.0,
+      "weight": 23.5,
+      "abilities": [
+        "HugePower",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": 0,
+  "tmMoves8": [
+    0,
+    1,
+    4,
+    5,
+    8,
+    9,
+    11,
+    21,
+    22,
+    24,
+    25,
+    27,
+    31,
+    32,
+    33,
+    34,
+    39,
+    41,
+    43,
+    47,
+    48,
+    57,
+    58,
+    59,
+    61,
+    66,
+    67,
+    68,
+    76,
+    87,
+    89,
+    94,
+    97
+  ],
+  "trMoves": [
+    0,
+    1,
+    2,
+    5,
+    15,
+    20,
+    22,
+    26,
+    27,
+    29,
+    32,
+    33,
+    37,
+    46,
+    58,
+    64,
+    70,
+    74,
+    75,
+    76,
+    77,
+    81,
+    90,
+    97
+  ]
+}

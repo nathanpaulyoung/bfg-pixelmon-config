@@ -1,0 +1,170 @@
+{
+  "pixelmonName": "Rockruff",
+  "pokemon": "Rockruff",
+  "stats": {
+    "HP": 45,
+    "Attack": 65,
+    "Defence": 40,
+    "Speed": 60,
+    "SpecialAttack": 30,
+    "SpecialDefence": 40
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 20,
+  "baseExp": 56,
+  "baseFriendship": 70,
+  "types": [
+    "Rock"
+  ],
+  "height": 0.3,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 9.2,
+  "evolutions": [
+    {
+      "level": 25,
+      "to": {
+        "name": "Lycanroc",
+        "form": 0
+      },
+      "conditions": [
+        {
+          "time": "DAY",
+          "evoConditionType": "time"
+        }
+      ],
+      "evoType": "leveling",
+      "moves": [
+        "Accelerock"
+      ]
+    },
+    {
+      "level": 25,
+      "to": {
+        "name": "Lycanroc",
+        "form": 1
+      },
+      "conditions": [
+        {
+          "time": "NIGHT",
+          "evoConditionType": "time"
+        }
+      ],
+      "evoType": "leveling",
+      "moves": [
+        "Counter"
+      ]
+    },
+    {
+      "level": 25,
+      "to": {
+        "name": "Lycanroc",
+        "form": 2
+      },
+      "conditions": [
+        {
+          "time": "DUSK",
+          "evoConditionType": "time"
+        }
+      ],
+      "evoType": "leveling",
+      "moves": [
+        "Thrash"
+      ]
+    }
+  ],
+  "abilities": [
+    "KeenEye",
+    "VitalSpirit",
+    "Steadfast"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Leer"
+    ],
+    "4": [
+      "Sand Attack"
+    ],
+    "7": [
+      "Bite"
+    ],
+    "12": [
+      "Howl"
+    ],
+    "15": [
+      "Rock Throw"
+    ],
+    "18": [
+      "Odor Sleuth"
+    ],
+    "23": [
+      "Rock Tomb"
+    ],
+    "26": [
+      "Roar"
+    ],
+    "29": [
+      "Stealth Rock"
+    ],
+    "34": [
+      "Rock Slide"
+    ],
+    "37": [
+      "Scary Face"
+    ],
+    "40": [
+      "Crunch"
+    ],
+    "45": [
+      "Rock Climb"
+    ],
+    "48": [
+      "Stone Edge"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Iron Head",
+    "Earth Power",
+    "Iron Defense",
+    "Last Resort",
+    "Zen Headbutt",
+    "Hyper Voice",
+    "Iron Tail",
+    "Snore",
+    "Endeavor",
+    "Stealth Rock",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [
+    "Crush Claw",
+    "Fire Fang",
+    "Thunder Fang",
+    "Sucker Punch",
+    "Thrash"
+  ],
+  "forms": {},
+  "form": 0
+}

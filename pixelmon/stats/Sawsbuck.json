@@ -1,0 +1,181 @@
+{
+  "pixelmonName": "Sawsbuck",
+  "pokemon": "Sawsbuck",
+  "stats": {
+    "HP": 80,
+    "Attack": 100,
+    "Defence": 70,
+    "Speed": 95,
+    "SpecialAttack": 60,
+    "SpecialDefence": 70
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 12,
+  "baseExp": 166,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Grass"
+  ],
+  "height": 1.9,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Deerling"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": 0.0
+    }
+  },
+  "weight": 92.5,
+  "evolutions": [],
+  "abilities": [
+    "Chlorophyll",
+    "SapSipper",
+    "SereneGrace"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Megahorn",
+      "Tackle",
+      "Camouflage",
+      "Growl",
+      "Sand Attack",
+      "Horn Leech"
+    ],
+    "4": [
+      "Growl"
+    ],
+    "7": [
+      "Sand Attack"
+    ],
+    "10": [
+      "Double Kick"
+    ],
+    "13": [
+      "Leech Seed"
+    ],
+    "16": [
+      "Feint Attack"
+    ],
+    "20": [
+      "Take Down"
+    ],
+    "24": [
+      "Jump Kick"
+    ],
+    "28": [
+      "Aromatherapy"
+    ],
+    "32": [
+      "Energy Ball"
+    ],
+    "36": [
+      "Charm"
+    ],
+    "44": [
+      "Nature Power"
+    ],
+    "52": [
+      "Double-Edge"
+    ],
+    "60": [
+      "Solar Beam"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Hyper Beam",
+    "Solar Beam",
+    "Thunder Wave",
+    "Toxic",
+    "Double Team",
+    "Light Screen",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Shadow Ball",
+    "Facade",
+    "Nature Power",
+    "Energy Ball",
+    "Giga Impact",
+    "Grass Knot",
+    "Round",
+    "Echoed Voice",
+    "Work Up",
+    "Wild Charge",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Giga Drain",
+    "Last Resort",
+    "Seed Bomb",
+    "Snore",
+    "Stomping Tantrum",
+    "Synthesis",
+    "Worry Seed"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Baton Pass",
+    "Fake Tears",
+    "Grass Whistle",
+    "Headbutt",
+    "Natural Gift",
+    "Odor Sleuth",
+    "Sleep Talk",
+    "Synthesis",
+    "Worry Seed"
+  ],
+  "forms": {
+    "1": {
+      "form": 1
+    },
+    "2": {
+      "form": 2
+    },
+    "3": {
+      "form": 3
+    }
+  },
+  "form": 0
+}

@@ -1,0 +1,175 @@
+{
+  "pixelmonName": "Espurr",
+  "pokemon": "Espurr",
+  "stats": {
+    "HP": 62,
+    "Attack": 48,
+    "Defence": 54,
+    "Speed": 68,
+    "SpecialAttack": 63,
+    "SpecialDefence": 60
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 9,
+  "baseExp": 71,
+  "baseFriendship": 0,
+  "types": [
+    "Psychic"
+  ],
+  "height": 0.3,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 3.5,
+  "evolutions": [
+    {
+      "level": 25,
+      "to": {
+        "name": "Meowstic",
+        "form": 0
+      },
+      "conditions": [
+        {
+          "genders": [
+            "Male"
+          ],
+          "evoConditionType": "gender"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "level": 25,
+      "to": {
+        "name": "Meowstic",
+        "form": 1
+      },
+      "conditions": [
+        {
+          "genders": [
+            "Female"
+          ],
+          "evoConditionType": "gender"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "KeenEye",
+    "Infiltrator",
+    "OwnTempo"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "1": [
+      "Scratch",
+      "Leer"
+    ],
+    "3": [
+      "Fake Out"
+    ],
+    "6": [
+      "Disarming Voice"
+    ],
+    "9": [
+      "Confusion"
+    ],
+    "18": [
+      "Covet"
+    ],
+    "21": [
+      "Psybeam"
+    ],
+    "30": [
+      "Light Screen",
+      "Reflect"
+    ],
+    "33": [
+      "Psyshock"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Gravity",
+    "Heal Bell",
+    "Helping Hand",
+    "Magic Coat",
+    "Magic Room",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Ally Switch",
+    "Telekinesis"
+  ],
+  "eggMoves": [
+    "Yawn",
+    "Tickle"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    2,
+    14,
+    17,
+    18,
+    19,
+    21,
+    24,
+    25,
+    31,
+    33,
+    34,
+    39,
+    40,
+    41,
+    47,
+    57,
+    70,
+    71,
+    72,
+    76
+  ],
+  "trMoves": [
+    8,
+    11,
+    20,
+    25,
+    26,
+    27,
+    31,
+    38,
+    40,
+    49,
+    58,
+    65,
+    68,
+    69,
+    83,
+    85,
+    90
+  ]
+}

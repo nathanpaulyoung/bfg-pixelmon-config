@@ -1,0 +1,161 @@
+{
+  "pixelmonName": "Swinub",
+  "pokemon": "Swinub",
+  "stats": {
+    "HP": 50,
+    "Attack": 50,
+    "Defence": 40,
+    "Speed": 50,
+    "SpecialAttack": 30,
+    "SpecialDefence": 30
+  },
+  "catchRate": 225,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 23,
+  "baseExp": 78,
+  "baseFriendship": 70,
+  "types": [
+    "Ice",
+    "Ground"
+  ],
+  "height": 0.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 6.5,
+  "evolutions": [
+    {
+      "level": 33,
+      "to": {
+        "name": "Piloswine"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Fury Attack"
+      ]
+    }
+  ],
+  "abilities": [
+    "Oblivious",
+    "SnowCloak",
+    "ThickFat"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Tackle",
+      "Mud-Slap"
+    ],
+    "5": [
+      "Powder Snow"
+    ],
+    "10": [
+      "Flail"
+    ],
+    "15": [
+      "Ice Shard"
+    ],
+    "20": [
+      "Mist"
+    ],
+    "25": [
+      "Endure"
+    ],
+    "30": [
+      "Icy Wind"
+    ],
+    "35": [
+      "Amnesia"
+    ],
+    "40": [
+      "Take Down"
+    ],
+    "45": [
+      "Earthquake"
+    ],
+    "50": [
+      "Blizzard"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Ancient Power",
+    "Earth Power",
+    "Endeavor",
+    "Superpower",
+    "Amnesia",
+    "Bite",
+    "Charm",
+    "Flail",
+    "Mist",
+    "Mud Sport",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Bite",
+    "Ancient Power",
+    "Double-Edge",
+    "Fissure",
+    "Curse",
+    "Icicle Crash",
+    "Freeze-Dry"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    15,
+    17,
+    18,
+    21,
+    22,
+    24,
+    25,
+    26,
+    27,
+    31,
+    32,
+    33,
+    35,
+    39,
+    48,
+    49,
+    51,
+    53,
+    64,
+    76,
+    81
+  ],
+  "trMoves": [
+    1,
+    5,
+    6,
+    10,
+    17,
+    20,
+    26,
+    27,
+    39,
+    67,
+    76
+  ]
+}

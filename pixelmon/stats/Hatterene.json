@@ -1,0 +1,158 @@
+{
+  "pixelmonName": "Hatterene",
+  "pokemon": "Hatterene",
+  "form": 0,
+  "stats": {
+    "HP": 57,
+    "Attack": 90,
+    "Defence": 95,
+    "SpecialAttack": 136,
+    "SpecialDefence": 103,
+    "Speed": 29
+  },
+  "catchRate": 45,
+  "malePercent": 0,
+  "spawnLevel": 55,
+  "spawnLevelRange": 3,
+  "baseExp": 255,
+  "baseFriendship": 50,
+  "types": [
+    "Psychic",
+    "Fairy"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Hattrem",
+    "Hatenna"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.3,
+      "z": -0.5
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.3,
+      "z": -0.5
+    }
+  },
+  "weight": 5.1,
+  "evolutions": [],
+  "abilities": [
+    "Healer",
+    "Anticipation",
+    "MagicBounce"
+  ],
+  "eggGroups": [
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Psycho Cut",
+      "Brutal Swing",
+      "Confusion",
+      "Play Nice",
+      "Life Dew",
+      "Disarming Voice"
+    ],
+    "15": [
+      "Aromatherapy"
+    ],
+    "20": [
+      "Psybeam"
+    ],
+    "25": [
+      "Heal Pulse"
+    ],
+    "30": [
+      "Dazzling Gleam"
+    ],
+    "37": [
+      "Calm Mind"
+    ],
+    "46": [
+      "Psychic"
+    ],
+    "55": [
+      "Healing Wish"
+    ],
+    "64": [
+      "Magic Powder"
+    ]
+  },
+  "tutorMoves": [
+    "Expanding Force",
+    "Misty Explosion"
+  ],
+  "eggMoves": [
+    "After You",
+    "Aromatic Mist",
+    "Nuzzle",
+    "Quash"
+  ],
+  "tmMoves8": [
+    8,
+    9,
+    10,
+    14,
+    17,
+    19,
+    21,
+    24,
+    25,
+    28,
+    29,
+    31,
+    39,
+    41,
+    44,
+    60,
+    61,
+    65,
+    69,
+    70,
+    71,
+    72,
+    76,
+    87,
+    92,
+    97
+  ],
+  "trMoves": [
+    0,
+    11,
+    20,
+    25,
+    26,
+    27,
+    29,
+    33,
+    34,
+    40,
+    49,
+    58,
+    72,
+    82,
+    90,
+    92
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "pixelmonName": "Haxorus",
+  "pokemon": "Haxorus",
+  "stats": {
+    "HP": 76,
+    "Attack": 147,
+    "Defence": 90,
+    "Speed": 97,
+    "SpecialAttack": 60,
+    "SpecialDefence": 70
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 49,
+  "spawnLevelRange": 8,
+  "baseExp": 243,
+  "baseFriendship": 35,
+  "types": [
+    "Dragon"
+  ],
+  "height": 1.8,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Fraxure",
+    "Axew"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.05,
+      "y": -0.6,
+      "z": -0.3
+    },
+    "moving": {
+      "x": -0.1,
+      "y": -0.5,
+      "z": -0.3
+    }
+  },
+  "weight": 105.5,
+  "evolutions": [],
+  "abilities": [
+    "Rivalry",
+    "MoldBreaker",
+    "Unnerve"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "1": [
+      "Scratch",
+      "Leer",
+      "Bite",
+      "False Swipe"
+    ],
+    "9": [
+      "Assurance"
+    ],
+    "12": [
+      "Taunt"
+    ],
+    "15": [
+      "Slash"
+    ],
+    "18": [
+      "Dragon Claw"
+    ],
+    "21": [
+      "Scary Face"
+    ],
+    "24": [
+      "Crunch"
+    ],
+    "27": [
+      "Dragon Dance"
+    ],
+    "30": [
+      "Dual Chop"
+    ],
+    "33": [
+      "Laser Focus"
+    ],
+    "36": [
+      "Dragon Pulse"
+    ],
+    "41": [
+      "Swords Dance"
+    ],
+    "46": [
+      "Outrage"
+    ],
+    "53": [
+      "Guillotine"
+    ],
+    "60": [
+      "Giga Impact"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Draco Meteor",
+    "Dual Chop",
+    "Endeavor",
+    "Low Kick",
+    "Outrage",
+    "Superpower",
+    "Reversal",
+    "Scary Face",
+    "Harden",
+    "Focus Energy",
+    "Slash",
+    "Leer",
+    "Stomping Tantrum",
+    "Laser Focus"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": -1,
+  "tmMoves8": [
+    8,
+    9,
+    15,
+    21,
+    22,
+    24,
+    25,
+    26,
+    31,
+    33,
+    34,
+    39,
+    40,
+    43,
+    48,
+    57,
+    58,
+    59,
+    65,
+    69,
+    76,
+    81,
+    85,
+    94,
+    97,
+    98,
+    99
+  ],
+  "trMoves": [
+    0,
+    4,
+    7,
+    10,
+    13,
+    20,
+    21,
+    24,
+    26,
+    27,
+    31,
+    32,
+    37,
+    39,
+    47,
+    51,
+    53,
+    57,
+    60,
+    62,
+    64,
+    77
+  ]
+}

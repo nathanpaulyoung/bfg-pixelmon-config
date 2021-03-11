@@ -1,0 +1,182 @@
+{
+  "pixelmonName": "Chespin",
+  "pokemon": "Chespin",
+  "stats": {
+    "HP": 56,
+    "Attack": 61,
+    "Defence": 65,
+    "Speed": 38,
+    "SpecialAttack": 48,
+    "SpecialDefence": 45
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 5,
+  "spawnLevelRange": 11,
+  "baseExp": 63,
+  "baseFriendship": 0,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.4,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 9.0,
+  "evolutions": [
+    {
+      "level": 16,
+      "to": {
+        "name": "Quilladin"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Needle Arm"
+      ]
+    }
+  ],
+  "abilities": [
+    "Overgrow",
+    null,
+    "Bulletproof"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Growl",
+      "Vine Whip"
+    ],
+    "5": [
+      "Vine Whip"
+    ],
+    "8": [
+      "Rollout"
+    ],
+    "11": [
+      "Bite"
+    ],
+    "15": [
+      "Leech Seed"
+    ],
+    "18": [
+      "Pin Missile"
+    ],
+    "27": [
+      "Take Down"
+    ],
+    "32": [
+      "Seed Bomb"
+    ],
+    "35": [
+      "Mud Shot"
+    ],
+    "39": [
+      "Bulk Up"
+    ],
+    "42": [
+      "Body Slam"
+    ],
+    "45": [
+      "Pain Split"
+    ],
+    "48": [
+      "Wood Hammer"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Roar",
+    "Solar Beam",
+    "Toxic",
+    "Double Team",
+    "Reflect",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sludge Bomb",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Facade",
+    "Nature Power",
+    "Taunt",
+    "Brick Break",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Bulk Up",
+    "Gyro Ball",
+    "Payback",
+    "Fling",
+    "Poison Jab",
+    "Energy Ball",
+    "Shadow Claw",
+    "Stone Edge",
+    "Grass Knot",
+    "Smack Down",
+    "Low Sweep",
+    "Round",
+    "Bulldoze",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Drain Punch",
+    "Dual Chop",
+    "Endeavor",
+    "Focus Punch",
+    "Giga Drain",
+    "Grass Pledge",
+    "Helping Hand",
+    "Iron Defense",
+    "Iron Head",
+    "Iron Tail",
+    "Low Kick",
+    "Pain Split",
+    "Seed Bomb",
+    "Snore",
+    "Stomping Tantrum",
+    "Super Fang",
+    "Superpower",
+    "Synthesis",
+    "Thunder Punch",
+    "Worry Seed",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Belly Drum",
+    "Curse",
+    "Defense Curl",
+    "Power-Up Punch",
+    "Quick Guard",
+    "Rollout",
+    "Spikes",
+    "Synthesis"
+  ],
+  "forms": {},
+  "form": 0
+}

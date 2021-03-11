@@ -1,0 +1,229 @@
+{
+  "pixelmonName": "Pikachu",
+  "pokemon": "Pikachu",
+  "stats": {
+    "HP": 35,
+    "Attack": 55,
+    "Defence": 40,
+    "Speed": 90,
+    "SpecialAttack": 50,
+    "SpecialDefence": 50
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 6,
+  "spawnLevelRange": 44,
+  "baseExp": 82,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 0.4,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Pichu"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 6.0,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:thunder_stone"
+      },
+      "to": {
+        "name": "Raichu",
+        "form": 1
+      },
+      "conditions": [
+        {
+          "evoConditionType": "partyAlolan"
+        }
+      ],
+      "evoType": "interact",
+      "moves": [
+        "Psychic"
+      ]
+    },
+    {
+      "item": {
+        "itemID": "pixelmon:thunder_stone"
+      },
+      "to": {
+        "name": "Raichu",
+        "form": 0
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "Static",
+    null,
+    "LightningRod"
+  ],
+  "eggGroups": [
+    "Field",
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Play Nice",
+      "Sweet Kiss",
+      "Nuzzle",
+      "Nasty Plot",
+      "Charm",
+      "Thunder Shock",
+      "Tail Whip",
+      "Growl",
+      "Quick Attack"
+    ],
+    "4": [
+      "Thunder Wave"
+    ],
+    "8": [
+      "Double Team"
+    ],
+    "12": [
+      "Electro Ball"
+    ],
+    "16": [
+      "Feint"
+    ],
+    "20": [
+      "Spark"
+    ],
+    "24": [
+      "Agility"
+    ],
+    "28": [
+      "Slam"
+    ],
+    "32": [
+      "Discharge"
+    ],
+    "36": [
+      "Thunderbolt"
+    ],
+    "40": [
+      "Light Screen"
+    ],
+    "44": [
+      "Thunder"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Endeavor",
+    "Helping Hand",
+    "Knock Off",
+    "Last Resort",
+    "Magnet Rise",
+    "Pain Split",
+    "Signal Beam",
+    "Uproar",
+    "Agility",
+    "Charm",
+    "Dizzy Punch",
+    "Double Slap",
+    "Encore",
+    "Extreme Speed",
+    "Fake Out",
+    "Flail",
+    "Follow Me",
+    "Nasty Plot",
+    "Petal Dance",
+    "Reversal",
+    "Scary Face",
+    "Sing",
+    "Sweet Kiss",
+    "Teeter Dance",
+    "Tickle",
+    "Wish",
+    "Yawn",
+    "Volt Tackle",
+    "Electroweb",
+    "Hold Hands",
+    "Celebrate",
+    "Happy Hour",
+    "Heart Stamp",
+    "Laser Focus",
+    "Thunderbolt",
+    "Quick Attack",
+    "Thunder",
+    "Electro Ball",
+    "Surf",
+    "Fly",
+    "Sweet Scent",
+    "Counter",
+    "Refresh",
+    "Growl",
+    "Thunder Shock",
+    "Play Nice"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    0,
+    1,
+    2,
+    5,
+    14,
+    15,
+    17,
+    18,
+    21,
+    23,
+    24,
+    25,
+    29,
+    31,
+    33,
+    39,
+    40,
+    41,
+    43,
+    59,
+    76,
+    80,
+    82,
+    87,
+    90
+  ],
+  "trMoves": [
+    1,
+    4,
+    8,
+    9,
+    12,
+    20,
+    21,
+    26,
+    27,
+    30,
+    31,
+    35,
+    68,
+    77,
+    80,
+    86,
+    90
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "pixelmonName": "Gulpin",
+  "pokemon": "Gulpin",
+  "stats": {
+    "HP": 70,
+    "Attack": 43,
+    "Defence": 53,
+    "Speed": 40,
+    "SpecialAttack": 43,
+    "SpecialDefence": 53
+  },
+  "catchRate": 225,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 10,
+  "baseExp": 75,
+  "baseFriendship": 70,
+  "types": [
+    "Poison"
+  ],
+  "height": 0.4,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fluctuating",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 10.3,
+  "evolutions": [
+    {
+      "level": 26,
+      "to": {
+        "name": "Swalot"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Body Slam"
+      ]
+    }
+  ],
+  "abilities": [
+    "LiquidOoze",
+    "StickyHold",
+    "Gluttony"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Pound"
+    ],
+    "5": [
+      "Yawn"
+    ],
+    "8": [
+      "Poison Gas"
+    ],
+    "10": [
+      "Sludge"
+    ],
+    "12": [
+      "Amnesia"
+    ],
+    "17": [
+      "Acid Spray"
+    ],
+    "20": [
+      "Encore"
+    ],
+    "25": [
+      "Toxic"
+    ],
+    "28": [
+      "Stockpile",
+      "Spit Up",
+      "Swallow"
+    ],
+    "33": [
+      "Sludge Bomb"
+    ],
+    "36": [
+      "Gastro Acid"
+    ],
+    "41": [
+      "Belch"
+    ],
+    "44": [
+      "Wring Out"
+    ],
+    "49": [
+      "Gunk Shot"
+    ]
+  },
+  "tmMoves": [
+    "Ice Beam",
+    "Solar Beam",
+    "Toxic",
+    "Double Team",
+    "Dream Eater",
+    "Explosion",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Sludge Bomb",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Shadow Ball",
+    "Facade",
+    "Venoshock",
+    "Sludge Wave",
+    "Round",
+    "Confide",
+    "Infestation"
+  ],
+  "tutorMoves": [
+    "Fire Punch",
+    "Gastro Acid",
+    "Giga Drain",
+    "Gunk Shot",
+    "Ice Punch",
+    "Pain Split",
+    "Seed Bomb",
+    "Shock Wave",
+    "Snatch",
+    "Snore",
+    "Thunder Punch",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Acid Armor",
+    "Curse",
+    "Destiny Bond",
+    "Gunk Shot",
+    "Mud-Slap",
+    "Pain Split",
+    "Smog",
+    "Venom Drench"
+  ],
+  "forms": {},
+  "form": 0
+}

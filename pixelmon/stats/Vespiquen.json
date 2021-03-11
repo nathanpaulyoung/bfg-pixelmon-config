@@ -1,0 +1,184 @@
+{
+  "pixelmonName": "Vespiquen",
+  "pokemon": "Vespiquen",
+  "stats": {
+    "HP": 70,
+    "Attack": 80,
+    "Defence": 102,
+    "Speed": 40,
+    "SpecialAttack": 80,
+    "SpecialDefence": 102
+  },
+  "catchRate": 45,
+  "malePercent": 0,
+  "spawnLevel": 26,
+  "spawnLevelRange": 18,
+  "baseExp": 188,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Combee"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 5,
+    "flySpeedModifier": 0.6,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Defence": 1,
+    "SpecialDefence": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.5
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.6
+    }
+  },
+  "weight": 38.5,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    "Unnerve"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Slash"
+    ],
+    "1": [
+      "Slash",
+      "Struggle Bug",
+      "Bug Bite",
+      "Sweet Scent",
+      "Gust",
+      "Poison Sting",
+      "Confuse Ray"
+    ],
+    "4": [
+      "Fury Cutter"
+    ],
+    "8": [
+      "Aromatic Mist"
+    ],
+    "12": [
+      "Fell Stinger"
+    ],
+    "16": [
+      "Fury Swipes"
+    ],
+    "20": [
+      "Swagger"
+    ],
+    "24": [
+      "Aromatherapy"
+    ],
+    "28": [
+      "Air Slash"
+    ],
+    "32": [
+      "Power Gem"
+    ],
+    "36": [
+      "Toxic"
+    ],
+    "40": [
+      "Attack Order",
+      "Defend Order"
+    ],
+    "44": [
+      "Destiny Bond"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Air Cutter",
+    "Bug Bite",
+    "Endeavor",
+    "Ominous Wind",
+    "Signal Beam",
+    "String Shot",
+    "Tailwind",
+    "Air Slash",
+    "Gust",
+    "Pursuit",
+    "Slash",
+    "Laser Focus",
+    "Defog"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": [],
+  "tmMoves8": [
+    7,
+    8,
+    9,
+    16,
+    21,
+    23,
+    24,
+    25,
+    31,
+    33,
+    34,
+    37,
+    39,
+    40,
+    42,
+    56,
+    58,
+    59,
+    73,
+    74,
+    76,
+    77,
+    78,
+    95
+  ],
+  "trMoves": [
+    20,
+    21,
+    22,
+    26,
+    27,
+    35,
+    54,
+    60,
+    61,
+    63
+  ]
+}

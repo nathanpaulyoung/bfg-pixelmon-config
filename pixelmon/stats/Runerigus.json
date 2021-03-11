@@ -1,0 +1,164 @@
+{
+  "pixelmonName": "Runerigus",
+  "pokemon": "Runerigus",
+  "form": 0,
+  "stats": {
+    "HP": 58,
+    "Attack": 95,
+    "Defence": 145,
+    "SpecialAttack": 50,
+    "SpecialDefence": 105,
+    "Speed": 30
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 42,
+  "spawnLevelRange": 14,
+  "baseExp": 169,
+  "baseFriendship": 50,
+  "types": [
+    "Ground",
+    "Ghost"
+  ],
+  "height": 1.6,
+  "width": 1.2,
+  "length": 1.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Yamask f:2"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 66.6,
+  "evolutions": [],
+  "abilities": [
+    "WanderingSpirit",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Mineral",
+    "Amorphous"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Shadow Claw",
+      "Scary Face",
+      "Astonish",
+      "Protect",
+      "Haze",
+      "Night Shade"
+    ],
+    "12": [
+      "Disable"
+    ],
+    "16": [
+      "Brutal Swing"
+    ],
+    "20": [
+      "Crafty Shield"
+    ],
+    "24": [
+      "Hex"
+    ],
+    "28": [
+      "Mean Look"
+    ],
+    "32": [
+      "Slam"
+    ],
+    "38": [
+      "Curse"
+    ],
+    "44": [
+      "Shadow Ball"
+    ],
+    "50": [
+      "Earthquake"
+    ],
+    "56": [
+      "Power Split",
+      "Guard Split"
+    ],
+    "62": [
+      "Destiny Bond"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Memento"
+  ],
+  "forms": {},
+  "tmMoves8": [
+    8,
+    9,
+    19,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    31,
+    32,
+    33,
+    38,
+    39,
+    42,
+    44,
+    47,
+    48,
+    49,
+    54,
+    57,
+    60,
+    61,
+    65,
+    70,
+    71,
+    76,
+    77,
+    81,
+    86,
+    97
+  ],
+  "trMoves": [
+    10,
+    11,
+    17,
+    20,
+    26,
+    27,
+    33,
+    37,
+    38,
+    40,
+    46,
+    49,
+    54,
+    58,
+    62,
+    65,
+    67,
+    68,
+    69,
+    75,
+    76,
+    77,
+    83,
+    99
+  ]
+}

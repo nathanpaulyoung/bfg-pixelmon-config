@@ -1,0 +1,178 @@
+{
+  "pixelmonName": "Remoraid",
+  "pokemon": "Remoraid",
+  "stats": {
+    "HP": 35,
+    "Attack": 65,
+    "Defence": 35,
+    "Speed": 65,
+    "SpecialAttack": 65,
+    "SpecialDefence": 35
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 19,
+  "baseExp": 78,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 5,
+    "swimSpeed": 0.8,
+    "decayRate": 0.99,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 12.0,
+  "evolutions": [
+    {
+      "level": 25,
+      "to": {
+        "name": "Octillery"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Octazooka"
+      ]
+    }
+  ],
+  "abilities": [
+    "Hustle",
+    "Sniper",
+    "Moody"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Water2"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Water Gun",
+      "Helping Hand"
+    ],
+    "4": [
+      "Water Pulse"
+    ],
+    "8": [
+      "Focus Energy"
+    ],
+    "12": [
+      "Psybeam"
+    ],
+    "16": [
+      "Aurora Beam"
+    ],
+    "20": [
+      "Bubble Beam"
+    ],
+    "24": [
+      "Lock-On"
+    ],
+    "28": [
+      "Bullet Seed"
+    ],
+    "32": [
+      "Ice Beam"
+    ],
+    "36": [
+      "Hydro Pump"
+    ],
+    "40": [
+      "Soak"
+    ],
+    "44": [
+      "Hyper Beam"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bounce",
+    "Gunk Shot",
+    "Seed Bomb",
+    "Signal Beam",
+    "String Shot",
+    "Amnesia",
+    "Flail",
+    "Haze",
+    "Hydro Pump",
+    "Mist",
+    "Octazooka",
+    "Focus Energy",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Octazooka",
+    "Supersonic",
+    "Haze",
+    "Flail",
+    "Water Spout",
+    "Acid Spray"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    14,
+    16,
+    21,
+    23,
+    24,
+    25,
+    27,
+    31,
+    33,
+    34,
+    36,
+    39,
+    40,
+    41,
+    45,
+    50,
+    52,
+    53,
+    54,
+    55,
+    58,
+    76
+  ],
+  "trMoves": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    11,
+    13,
+    15,
+    16,
+    20,
+    26,
+    27,
+    59,
+    73,
+    84
+  ]
+}

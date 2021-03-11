@@ -1,0 +1,295 @@
+{
+  "pixelmonName": "Marowak",
+  "pokemon": "Marowak",
+  "stats": {
+    "HP": 60,
+    "Attack": 80,
+    "Defence": 110,
+    "Speed": 45,
+    "SpecialAttack": 50,
+    "SpecialDefence": 80
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 28,
+  "spawnLevelRange": 22,
+  "baseExp": 124,
+  "baseFriendship": 70,
+  "types": [
+    "Ground"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Cubone"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 45.0,
+  "evolutions": [],
+  "abilities": [
+    "RockHead",
+    "LightningRod",
+    "BattleArmour"
+  ],
+  "eggGroups": [
+    "Monster"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Tail Whip",
+      "Bone Club",
+      "Headbutt"
+    ],
+    "3": [
+      "Tail Whip"
+    ],
+    "7": [
+      "Bone Club"
+    ],
+    "11": [
+      "Headbutt"
+    ],
+    "13": [
+      "Leer"
+    ],
+    "17": [
+      "Focus Energy"
+    ],
+    "21": [
+      "Bonemerang"
+    ],
+    "23": [
+      "Rage"
+    ],
+    "27": [
+      "False Swipe"
+    ],
+    "33": [
+      "Thrash"
+    ],
+    "37": [
+      "Fling"
+    ],
+    "43": [
+      "Stomping Tantrum"
+    ],
+    "49": [
+      "Endeavor"
+    ],
+    "53": [
+      "Double-Edge"
+    ],
+    "59": [
+      "Retaliate"
+    ],
+    "65": [
+      "Bone Rush"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Earth Power",
+    "Endeavor",
+    "Iron Defense",
+    "Iron Head",
+    "Knock Off",
+    "Low Kick",
+    "Outrage",
+    "Uproar",
+    "Belly Drum",
+    "Fury Attack",
+    "Sing",
+    "Thrash",
+    "Focus Energy",
+    "Leer",
+    "Screech",
+    "Throat Chop",
+    "Stomping Tantrum",
+    "Laser Focus"
+  ],
+  "eggMoves": [
+    "Belly Drum",
+    "Chip Away",
+    "Detect",
+    "Double Kick",
+    "Endure",
+    "Iron Head",
+    "Perish Song",
+    "Screech",
+    "Skull Bash",
+    "Ancient Power",
+    "Curse"
+  ],
+  "forms": {
+    "1": {
+      "types": [
+        "Fire",
+        "Ghost"
+      ],
+      "preEvolutions": [
+        "Cubone"
+      ],
+      "abilities": [
+        "CursedBody",
+        "LightningRod",
+        "RockHead"
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Growl",
+          "Tail Whip",
+          "Bone Club",
+          "Flame Wheel"
+        ],
+        "3": [
+          "Tail Whip"
+        ],
+        "7": [
+          "Bone Club"
+        ],
+        "11": [
+          "Flame Wheel"
+        ],
+        "13": [
+          "Leer"
+        ],
+        "17": [
+          "Hex"
+        ],
+        "21": [
+          "Bonemerang"
+        ],
+        "23": [
+          "Will-O-Wisp"
+        ],
+        "27": [
+          "Shadow Bone"
+        ],
+        "33": [
+          "Thrash"
+        ],
+        "37": [
+          "Fling"
+        ],
+        "43": [
+          "Stomping Tantrum"
+        ],
+        "49": [
+          "Endeavor"
+        ],
+        "53": [
+          "Flare Blitz"
+        ],
+        "59": [
+          "Retaliate"
+        ],
+        "65": [
+          "Bone Rush"
+        ]
+      },
+      "tmMoves": [
+        "Toxic",
+        "Hidden Power",
+        "Sunny Day",
+        "Ice Beam",
+        "Blizzard",
+        "Hyper Beam",
+        "Protect",
+        "Rain Dance",
+        "Frustration",
+        "Smack Down",
+        "Thunderbolt",
+        "Thunder",
+        "Earthquake",
+        "Return",
+        "Shadow Ball",
+        "Brick Break",
+        "Double Team",
+        "Flamethrower",
+        "Sandstorm",
+        "Fire Blast",
+        "Rock Tomb",
+        "Aerial Ace",
+        "Facade",
+        "Flame Charge",
+        "Rest",
+        "Attract",
+        "Thief",
+        "Round",
+        "Echoed Voice",
+        "Focus Blast",
+        "False Swipe",
+        "Fling",
+        "Brutal Swing",
+        "Will-O-Wisp",
+        "Giga Impact",
+        "Stone Edge",
+        "Swords Dance",
+        "Bulldoze",
+        "Rock Slide",
+        "Dream Eater",
+        "Swagger",
+        "Sleep Talk",
+        "Substitute",
+        "Dark Pulse",
+        "Confide"
+      ],
+      "tutorMoves": [
+        "Iron Head",
+        "Low Kick",
+        "Uproar",
+        "Thunder Punch",
+        "Fire Punch",
+        "Earth Power",
+        "Iron Defense",
+        "Icy Wind",
+        "Iron Tail",
+        "Snore",
+        "Knock Off",
+        "Focus Punch",
+        "Endeavor",
+        "Outrage",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Throat Chop",
+        "Laser Focus",
+        "Heat Wave",
+        "Pain Split",
+        "Spite",
+        "Ally Switch"
+      ],
+      "eggMoves": [
+        "Ancient Power",
+        "Belly Drum",
+        "Screech",
+        "Skull Bash",
+        "Perish Song",
+        "Double Kick",
+        "Iron Head",
+        "Detect",
+        "Endure",
+        "Chip Away",
+        "Curse"
+      ],
+      "form": 1
+    }
+  },
+  "form": 0
+}

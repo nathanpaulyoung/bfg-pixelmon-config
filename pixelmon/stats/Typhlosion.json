@@ -1,0 +1,190 @@
+{
+  "pixelmonName": "Typhlosion",
+  "pokemon": "Typhlosion",
+  "stats": {
+    "HP": 78,
+    "Attack": 84,
+    "Defence": 78,
+    "Speed": 100,
+    "SpecialAttack": 109,
+    "SpecialDefence": 85
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 36,
+  "spawnLevelRange": 14,
+  "baseExp": 209,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 1.7,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Quilava",
+    "Cyndaquil"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.2,
+      "z": -0.15
+    },
+    "moving": {
+      "x": -0.33,
+      "y": -5.0,
+      "z": 0.4
+    }
+  },
+  "weight": 79.5,
+  "evolutions": [],
+  "abilities": [
+    "Blaze",
+    null,
+    "FlashFire"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Eruption",
+      "Double-Edge",
+      "Gyro Ball",
+      "Tackle",
+      "Leer",
+      "Smokescreen",
+      "Ember"
+    ],
+    "6": [
+      "Smokescreen"
+    ],
+    "10": [
+      "Ember"
+    ],
+    "13": [
+      "Quick Attack"
+    ],
+    "20": [
+      "Flame Wheel"
+    ],
+    "24": [
+      "Defense Curl"
+    ],
+    "31": [
+      "Swift"
+    ],
+    "35": [
+      "Flame Charge"
+    ],
+    "43": [
+      "Lava Plume"
+    ],
+    "48": [
+      "Flamethrower"
+    ],
+    "56": [
+      "Inferno"
+    ],
+    "61": [
+      "Rollout"
+    ],
+    "69": [
+      "Double-Edge"
+    ],
+    "74": [
+      "Burn Up"
+    ],
+    "82": [
+      "Eruption"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Flamethrower",
+    "Hyper Beam",
+    "Solar Beam",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Fire Blast",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Will-O-Wisp",
+    "Facade",
+    "Nature Power",
+    "Brick Break",
+    "Overheat",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Gyro Ball",
+    "Fling",
+    "Focus Blast",
+    "Giga Impact",
+    "Shadow Claw",
+    "Flame Charge",
+    "Round",
+    "Bulldoze",
+    "Work Up",
+    "Wild Charge",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Blast Burn",
+    "Covet",
+    "Fire Pledge",
+    "Fire Punch",
+    "Focus Punch",
+    "Heat Wave",
+    "Laser Focus",
+    "Low Kick",
+    "Snore",
+    "Stomping Tantrum",
+    "Throat Chop",
+    "Thunder Punch"
+  ],
+  "eggMoves": [
+    "Covet",
+    "Crush Claw",
+    "Double-Edge",
+    "Double Kick",
+    "Extrasensory",
+    "Flame Burst",
+    "Flare Blitz",
+    "Foresight",
+    "Fury Swipes",
+    "Howl",
+    "Nature Power",
+    "Quick Attack",
+    "Reversal",
+    "Thrash"
+  ],
+  "forms": {},
+  "form": 0
+}

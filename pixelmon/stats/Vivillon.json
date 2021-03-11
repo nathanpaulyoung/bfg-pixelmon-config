@@ -1,0 +1,219 @@
+{
+  "pixelmonName": "Vivillon",
+  "pokemon": "Vivillon",
+  "stats": {
+    "HP": 80,
+    "Attack": 52,
+    "Defence": 50,
+    "Speed": 89,
+    "SpecialAttack": 90,
+    "SpecialDefence": 50
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 13,
+  "spawnLevelRange": 11,
+  "baseExp": 185,
+  "baseFriendship": 0,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "height": 1.2,
+  "width": 1.2,
+  "length": 1.2,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Spewpa",
+    "Scatterbug"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 5,
+    "flyHeightMax": 15,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "HP": 1,
+    "SpecialAttack": 1,
+    "Speed": 1
+  },
+  "weight": 17.0,
+  "evolutions": [],
+  "abilities": [
+    "ShieldDust",
+    "CompoundEyes",
+    "FriendGuard"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Poison Powder",
+      "Stun Spore",
+      "Struggle Bug",
+      "Powder",
+      "Sleep Powder",
+      "Gust"
+    ],
+    "12": [
+      "Light Screen"
+    ],
+    "17": [
+      "Psybeam"
+    ],
+    "21": [
+      "Supersonic"
+    ],
+    "25": [
+      "Draining Kiss"
+    ],
+    "31": [
+      "Aromatherapy"
+    ],
+    "35": [
+      "Bug Buzz"
+    ],
+    "41": [
+      "Safeguard"
+    ],
+    "45": [
+      "Quiver Dance"
+    ],
+    "50": [
+      "Hurricane"
+    ],
+    "55": [
+      "Powder"
+    ]
+  },
+  "tmMoves": [
+    "Hyper Beam",
+    "Solar Beam",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Light Screen",
+    "Dream Eater",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Facade",
+    "Aerial Ace",
+    "Calm Mind",
+    "Roost",
+    "U-Turn",
+    "Energy Ball",
+    "Giga Impact",
+    "Round",
+    "Acrobatics",
+    "Confide",
+    "Infestation"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Defog",
+    "Electroweb",
+    "Endeavor",
+    "Giga Drain",
+    "Laser Focus",
+    "Signal Beam",
+    "Snore",
+    "Tailwind"
+  ],
+  "eggMoves": [
+    "Poison Powder",
+    "Rage Powder",
+    "Stun Spore"
+  ],
+  "forms": {
+    "1": {
+      "form": 1
+    },
+    "2": {
+      "form": 2
+    },
+    "3": {
+      "form": 3
+    },
+    "4": {
+      "form": 4
+    },
+    "5": {
+      "form": 5
+    },
+    "6": {
+      "form": 6
+    },
+    "7": {
+      "form": 7
+    },
+    "8": {
+      "form": 8
+    },
+    "9": {
+      "form": 9
+    },
+    "10": {
+      "form": 10
+    },
+    "11": {
+      "form": 11
+    },
+    "12": {
+      "form": 12
+    },
+    "13": {
+      "form": 13
+    },
+    "14": {
+      "form": 14
+    },
+    "15": {
+      "form": 15
+    },
+    "16": {
+      "form": 16
+    },
+    "17": {
+      "form": 17
+    },
+    "18": {
+      "form": 18
+    },
+    "19": {
+      "form": 19
+    }
+  },
+  "form": 0
+}

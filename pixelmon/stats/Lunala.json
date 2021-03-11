@@ -1,0 +1,184 @@
+{
+  "pixelmonName": "Lunala",
+  "pokemon": "Lunala",
+  "stats": {
+    "HP": 137,
+    "Attack": 113,
+    "Defence": 89,
+    "Speed": 97,
+    "SpecialAttack": 137,
+    "SpecialDefence": 107
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 55,
+  "spawnLevelRange": 0,
+  "baseExp": 136,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic",
+    "Ghost"
+  ],
+  "height": 4.2,
+  "width": 3.0,
+  "length": 3.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Cosmog",
+    "Cosmoem"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.7,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.2,
+      "z": 0.0
+    }
+  },
+  "weight": 120.0,
+  "evolutions": [],
+  "abilities": [
+    "ShadowShield",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Moongeist Beam"
+    ],
+    "1": [
+      "Moongeist Beam",
+      "Cosmic Power",
+      "Teleport",
+      "Confusion",
+      "Hypnosis"
+    ],
+    "7": [
+      "Night Shade"
+    ],
+    "14": [
+      "Confuse Ray"
+    ],
+    "21": [
+      "Air Slash"
+    ],
+    "28": [
+      "Shadow Ball"
+    ],
+    "35": [
+      "Moonlight"
+    ],
+    "42": [
+      "Night Daze"
+    ],
+    "49": [
+      "Magic Coat"
+    ],
+    "56": [
+      "Moonblast"
+    ],
+    "63": [
+      "Phantom Force"
+    ],
+    "70": [
+      "Dream Eater"
+    ],
+    "77": [
+      "Wide Guard"
+    ],
+    "84": [
+      "Hyper Beam"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Signal Beam",
+    "Magic Coat",
+    "Icy Wind",
+    "Snore",
+    "Heat Wave",
+    "Tailwind",
+    "Sky Attack",
+    "Shock Wave",
+    "Spite",
+    "Trick",
+    "Magic Room",
+    "Wonder Room",
+    "Telekinesis",
+    "Defog"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": [],
+  "tmMoves8": [
+    6,
+    8,
+    9,
+    11,
+    14,
+    17,
+    18,
+    19,
+    21,
+    24,
+    25,
+    26,
+    27,
+    34,
+    38,
+    39,
+    40,
+    41,
+    65,
+    69,
+    70,
+    71,
+    72,
+    76,
+    77,
+    78,
+    86,
+    95
+  ],
+  "trMoves": [
+    5,
+    6,
+    8,
+    9,
+    11,
+    12,
+    20,
+    25,
+    26,
+    27,
+    33,
+    34,
+    36,
+    38,
+    44,
+    49,
+    64,
+    85,
+    92
+  ]
+}

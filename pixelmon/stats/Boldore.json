@@ -1,0 +1,147 @@
+{
+  "pixelmonName": "Boldore",
+  "pokemon": "Boldore",
+  "stats": {
+    "HP": 70,
+    "Attack": 105,
+    "Defence": 105,
+    "Speed": 20,
+    "SpecialAttack": 50,
+    "SpecialDefence": 40
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 15,
+  "baseExp": 137,
+  "baseFriendship": 70,
+  "types": [
+    "Rock"
+  ],
+  "height": 0.9,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Roggenrola"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "Defence": 1
+  },
+  "weight": 102.0,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Gigalith"
+      },
+      "conditions": [],
+      "evoType": "trade",
+      "moves": [
+        "Power Gem"
+      ]
+    }
+  ],
+  "abilities": [
+    "Sturdy",
+    "WeakArmor",
+    "SandForce"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Power Gem"
+    ],
+    "1": [
+      "Power Gem",
+      "Sand Attack",
+      "Tackle",
+      "Harden",
+      "Stealth Rock"
+    ],
+    "12": [
+      "Mud-Slap"
+    ],
+    "16": [
+      "Smack Down"
+    ],
+    "20": [
+      "Iron Defense"
+    ],
+    "24": [
+      "Headbutt"
+    ],
+    "30": [
+      "Rock Slide"
+    ],
+    "36": [
+      "Rock Blast"
+    ],
+    "42": [
+      "Sandstorm"
+    ],
+    "48": [
+      "Stone Edge"
+    ],
+    "54": [
+      "Explosion"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Block",
+    "Earth Power",
+    "Gravity",
+    "Iron Defense",
+    "Harden",
+    "Tackle",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    21,
+    22,
+    24,
+    25,
+    31,
+    32,
+    39,
+    48,
+    49,
+    54,
+    76,
+    81,
+    98
+  ],
+  "trMoves": [
+    10,
+    20,
+    26,
+    27,
+    46,
+    63,
+    67,
+    70,
+    75,
+    76,
+    79,
+    99
+  ]
+}

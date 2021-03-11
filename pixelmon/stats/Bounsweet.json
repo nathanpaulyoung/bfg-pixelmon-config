@@ -1,0 +1,143 @@
+{
+  "pixelmonName": "Bounsweet",
+  "pokemon": "Bounsweet",
+  "stats": {
+    "HP": 42,
+    "Attack": 30,
+    "Defence": 38,
+    "Speed": 32,
+    "SpecialAttack": 30,
+    "SpecialDefence": 38
+  },
+  "catchRate": 235,
+  "malePercent": 0,
+  "spawnLevel": 4,
+  "spawnLevelRange": 14,
+  "baseExp": 42,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.3,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 3.2,
+  "evolutions": [
+    {
+      "level": 18,
+      "to": {
+        "name": "Steenee"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Double Slap"
+      ]
+    }
+  ],
+  "abilities": [
+    "LeafGuard",
+    "Oblivious",
+    "SweetVeil"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "1": [
+      "Splash"
+    ],
+    "4": [
+      "Play Nice"
+    ],
+    "8": [
+      "Rapid Spin"
+    ],
+    "12": [
+      "Razor Leaf"
+    ],
+    "16": [
+      "Sweet Scent"
+    ],
+    "20": [
+      "Magical Leaf"
+    ],
+    "24": [
+      "Flail"
+    ],
+    "28": [
+      "Teeter Dance"
+    ],
+    "32": [
+      "Aromatic Mist"
+    ],
+    "36": [
+      "Aromatherapy"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Seed Bomb",
+    "Bounce",
+    "Zen Headbutt",
+    "Snore",
+    "Synthesis",
+    "Giga Drain",
+    "Worry Seed",
+    "Helping Hand",
+    "Endeavor"
+  ],
+  "eggMoves": [
+    "Synthesis",
+    "Acupressure",
+    "Endeavor"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    10,
+    11,
+    17,
+    18,
+    19,
+    21,
+    24,
+    25,
+    28,
+    29,
+    31,
+    34,
+    39,
+    41,
+    52,
+    76,
+    87
+  ],
+  "trMoves": [
+    20,
+    26,
+    27,
+    59,
+    65,
+    69,
+    77,
+    90,
+    92
+  ]
+}

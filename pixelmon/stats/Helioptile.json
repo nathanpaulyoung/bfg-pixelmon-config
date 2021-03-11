@@ -1,0 +1,154 @@
+{
+  "pixelmonName": "Helioptile",
+  "pokemon": "Helioptile",
+  "stats": {
+    "HP": 44,
+    "Attack": 38,
+    "Defence": 33,
+    "Speed": 70,
+    "SpecialAttack": 61,
+    "SpecialDefence": 43
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 9,
+  "baseExp": 58,
+  "baseFriendship": 0,
+  "types": [
+    "Electric",
+    "Normal"
+  ],
+  "height": 0.5,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 6.0,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:sun_stone"
+      },
+      "to": {
+        "name": "Heliolisk"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "DrySkin",
+    "SandVeil",
+    "SolarPower"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Mud-Slap",
+      "Tail Whip"
+    ],
+    "4": [
+      "Pound"
+    ],
+    "8": [
+      "Thunder Shock"
+    ],
+    "12": [
+      "Quick Attack"
+    ],
+    "16": [
+      "Charge"
+    ],
+    "20": [
+      "Bulldoze"
+    ],
+    "24": [
+      "Volt Switch"
+    ],
+    "28": [
+      "Parabolic Charge"
+    ],
+    "32": [
+      "Thunder Wave"
+    ],
+    "36": [
+      "Thunderbolt"
+    ],
+    "40": [
+      "Electrify"
+    ],
+    "44": [
+      "Thunder"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Electroweb",
+    "Magnet Rise",
+    "Signal Beam",
+    "Ally Switch"
+  ],
+  "eggMoves": [
+    "Glare",
+    "Dragon Rush",
+    "Dragon Tail"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    14,
+    15,
+    17,
+    21,
+    22,
+    24,
+    25,
+    31,
+    32,
+    33,
+    39,
+    40,
+    48,
+    56,
+    75,
+    76,
+    80,
+    81,
+    82,
+    90
+  ],
+  "trMoves": [
+    4,
+    8,
+    9,
+    12,
+    20,
+    26,
+    27,
+    31,
+    58,
+    77,
+    80,
+    83,
+    86
+  ]
+}

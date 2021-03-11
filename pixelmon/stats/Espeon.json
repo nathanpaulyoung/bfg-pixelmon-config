@@ -1,0 +1,202 @@
+{
+  "pixelmonName": "Espeon",
+  "pokemon": "Espeon",
+  "stats": {
+    "HP": 65,
+    "Attack": 65,
+    "Defence": 60,
+    "Speed": 110,
+    "SpecialAttack": 130,
+    "SpecialDefence": 95
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 35,
+  "spawnLevelRange": 15,
+  "baseExp": 184,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 0.9,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Eevee"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": -0.35
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": -0.35
+    }
+  },
+  "weight": 26.5,
+  "evolutions": [],
+  "abilities": [
+    "Synchronize",
+    null,
+    "MagicBounce"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 36,
+  "levelUpMoves": {
+    "0": [
+      "Confusion"
+    ],
+    "1": [
+      "Confusion",
+      "Covet",
+      "Bite",
+      "Copycat",
+      "Baton Pass",
+      "Take Down",
+      "Charm",
+      "Double-Edge",
+      "Helping Hand",
+      "Tackle",
+      "Growl",
+      "Tail Whip"
+    ],
+    "5": [
+      "Sand Attack"
+    ],
+    "10": [
+      "Quick Attack"
+    ],
+    "15": [
+      "Baby-Doll Eyes"
+    ],
+    "20": [
+      "Swift"
+    ],
+    "25": [
+      "Psybeam"
+    ],
+    "30": [
+      "Morning Sun"
+    ],
+    "35": [
+      "Power Swap"
+    ],
+    "40": [
+      "Psychic"
+    ],
+    "45": [
+      "Psych Up"
+    ],
+    "50": [
+      "Future Sight"
+    ],
+    "55": [
+      "Last Resort"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Last Resort",
+    "Magic Coat",
+    "Magic Room",
+    "Signal Beam",
+    "Trick",
+    "Zen Headbutt",
+    "Baton Pass",
+    "Bite",
+    "Charm",
+    "Flail",
+    "Growth",
+    "Morning Sun",
+    "Sing",
+    "Tickle",
+    "Wish",
+    "Yawn",
+    "Focus Energy",
+    "Tackle",
+    "Celebrate",
+    "Psychic",
+    "Dazzling Gleam",
+    "Shadow Ball",
+    "Reflect",
+    "Ally Switch",
+    "Telekinesis",
+    "Laser Focus"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    2,
+    8,
+    9,
+    15,
+    17,
+    18,
+    21,
+    24,
+    25,
+    29,
+    31,
+    33,
+    34,
+    39,
+    40,
+    41,
+    46,
+    47,
+    60,
+    70,
+    72,
+    76,
+    79
+  ],
+  "trMoves": [
+    1,
+    11,
+    13,
+    20,
+    25,
+    26,
+    27,
+    29,
+    31,
+    33,
+    34,
+    38,
+    40,
+    42,
+    49,
+    69,
+    77,
+    82,
+    83,
+    85,
+    92,
+    97
+  ]
+}

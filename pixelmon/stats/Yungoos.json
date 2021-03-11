@@ -1,0 +1,158 @@
+{
+  "pixelmonName": "Yungoos",
+  "pokemon": "Yungoos",
+  "stats": {
+    "HP": 48,
+    "Attack": 70,
+    "Defence": 30,
+    "Speed": 45,
+    "SpecialAttack": 30,
+    "SpecialDefence": 30
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 2,
+  "spawnLevelRange": 20,
+  "baseExp": 51,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.4,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 6.0,
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Gumshoos"
+      },
+      "conditions": [
+        {
+          "time": "DAY",
+          "evoConditionType": "time"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Stakeout",
+    "StrongJaw",
+    "Adaptability"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Tackle"
+    ],
+    "3": [
+      "Leer"
+    ],
+    "7": [
+      "Pursuit"
+    ],
+    "10": [
+      "Sand Attack"
+    ],
+    "13": [
+      "Odor Sleuth"
+    ],
+    "16": [
+      "Bide"
+    ],
+    "19": [
+      "Bite"
+    ],
+    "22": [
+      "Mud-Slap"
+    ],
+    "25": [
+      "Super Fang"
+    ],
+    "28": [
+      "Take Down"
+    ],
+    "31": [
+      "Scary Face"
+    ],
+    "34": [
+      "Crunch"
+    ],
+    "37": [
+      "Hyper Fang"
+    ],
+    "40": [
+      "Yawn"
+    ],
+    "43": [
+      "Thrash"
+    ],
+    "46": [
+      "Rest"
+    ]
+  },
+  "tmMoves": [
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Torment",
+    "Facade",
+    "Taunt",
+    "Rock Tomb",
+    "U-Turn",
+    "Payback",
+    "Round",
+    "Echoed Voice",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Endeavor",
+    "Iron Tail",
+    "Last Resort",
+    "Shock Wave",
+    "Snore",
+    "Stomping Tantrum",
+    "Super Fang",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Fire Fang",
+    "Ice Fang",
+    "Last Resort",
+    "Revenge",
+    "Thunder Fang"
+  ],
+  "forms": {},
+  "form": -1
+}

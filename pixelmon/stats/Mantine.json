@@ -1,0 +1,195 @@
+{
+  "pixelmonName": "Mantine",
+  "pokemon": "Mantine",
+  "stats": {
+    "HP": 85,
+    "Attack": 40,
+    "Defence": 70,
+    "Speed": 70,
+    "SpecialAttack": 80,
+    "SpecialDefence": 140
+  },
+  "catchRate": 25,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 40,
+  "baseExp": 168,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Flying"
+  ],
+  "height": 2.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Mantyke"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 10,
+    "swimSpeed": 0.5,
+    "decayRate": 0.99,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.43,
+      "z": -0.47
+    }
+  },
+  "weight": 220.0,
+  "evolutions": [],
+  "abilities": [
+    "SwiftSwim",
+    "WaterAbsorb",
+    "WaterVeil"
+  ],
+  "eggGroups": [
+    "Water1"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "1": [
+      "Psybeam",
+      "Bullet Seed",
+      "Roost",
+      "Tackle",
+      "Water Gun",
+      "Supersonic",
+      "Wing Attack"
+    ],
+    "12": [
+      "Water Pulse"
+    ],
+    "16": [
+      "Wide Guard"
+    ],
+    "20": [
+      "Agility"
+    ],
+    "24": [
+      "Bubble Beam"
+    ],
+    "28": [
+      "Headbutt"
+    ],
+    "32": [
+      "Air Slash"
+    ],
+    "36": [
+      "Aqua Ring"
+    ],
+    "40": [
+      "Bounce"
+    ],
+    "44": [
+      "Take Down"
+    ],
+    "48": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Air Cutter",
+    "Aqua Tail",
+    "Bounce",
+    "Gunk Shot",
+    "Helping Hand",
+    "Iron Head",
+    "Seed Bomb",
+    "Signal Beam",
+    "String Shot",
+    "Tailwind",
+    "Agility",
+    "Aqua Ring",
+    "Air Slash",
+    "Amnesia",
+    "Bubble",
+    "Gust",
+    "Haze",
+    "Hydro Pump",
+    "Mud Sport",
+    "Splash",
+    "Water Sport",
+    "Tackle",
+    "Defog",
+    "Liquidation"
+  ],
+  "eggMoves": [
+    "Twister",
+    "Haze",
+    "Slam",
+    "Mirror Coat",
+    "Splash",
+    "Tailwind",
+    "Confuse Ray"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    21,
+    22,
+    24,
+    25,
+    27,
+    31,
+    33,
+    35,
+    36,
+    39,
+    40,
+    41,
+    45,
+    48,
+    50,
+    52,
+    54,
+    55,
+    58,
+    76,
+    78,
+    81,
+    95
+  ],
+  "trMoves": [
+    1,
+    3,
+    4,
+    5,
+    6,
+    10,
+    12,
+    16,
+    17,
+    20,
+    26,
+    27,
+    59,
+    73,
+    74,
+    84,
+    89,
+    98,
+    99
+  ]
+}

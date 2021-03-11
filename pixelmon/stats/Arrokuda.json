@@ -1,0 +1,138 @@
+{
+  "pixelmonName": "Arrokuda",
+  "pokemon": "Arrokuda",
+  "stats": {
+    "HP": 41,
+    "Attack": 63,
+    "Defence": 40,
+    "SpecialAttack": 40,
+    "SpecialDefence": 30,
+    "Speed": 66
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 16,
+  "spawnLevelRange": 8,
+  "baseExp": 56,
+  "baseFriendship": 50,
+  "types": [
+    "Water"
+  ],
+  "height": 0.4,
+  "width": 0.8,
+  "length": 1.1,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 10,
+    "swimSpeed": 0.6,
+    "decayRate": 0.99,
+    "refreshRate": 100
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 1.0,
+  "evolutions": [
+    {
+      "level": 24,
+      "to": {
+        "name": "Barraskewda"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SwiftSwim",
+    null,
+    "PropellerTail"
+  ],
+  "eggGroups": [
+    "Water2"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Peck",
+      "Aqua Jet"
+    ],
+    "6": [
+      "Fury Attack"
+    ],
+    "12": [
+      "Bite"
+    ],
+    "18": [
+      "Agility"
+    ],
+    "24": [
+      "Dive"
+    ],
+    "30": [
+      "Laser Focus"
+    ],
+    "36": [
+      "Crunch"
+    ],
+    "42": [
+      "Liquidation"
+    ],
+    "48": [
+      "Double-Edge"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Acupressure",
+    "Night Slash",
+    "Slash",
+    "Thrash"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    21,
+    24,
+    25,
+    31,
+    33,
+    36,
+    39,
+    40,
+    43,
+    45,
+    52,
+    58,
+    67,
+    76
+  ],
+  "trMoves": [
+    12,
+    13,
+    16,
+    20,
+    26,
+    27,
+    32,
+    53,
+    57,
+    84,
+    87,
+    95,
+    97,
+    98
+  ]
+}

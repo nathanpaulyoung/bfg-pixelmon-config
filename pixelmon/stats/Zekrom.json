@@ -1,0 +1,182 @@
+{
+  "pixelmonName": "Zekrom",
+  "pokemon": "Zekrom",
+  "stats": {
+    "HP": 100,
+    "Attack": 150,
+    "Defence": 120,
+    "Speed": 90,
+    "SpecialAttack": 120,
+    "SpecialDefence": 100
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 306,
+  "baseFriendship": 0,
+  "types": [
+    "Dragon",
+    "Electric"
+  ],
+  "height": 2.9,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.6,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.6,
+      "z": -0.5
+    }
+  },
+  "weight": 345.0,
+  "evolutions": [],
+  "abilities": [
+    "Teravolt",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "1": [
+      "Dragon Breath",
+      "Noble Roar",
+      "Ancient Power",
+      "Thunder Fang"
+    ],
+    "8": [
+      "Slash"
+    ],
+    "16": [
+      "Crunch"
+    ],
+    "24": [
+      "Zen Headbutt"
+    ],
+    "32": [
+      "Dragon Claw"
+    ],
+    "40": [
+      "Thunderbolt"
+    ],
+    "48": [
+      "Fusion Bolt"
+    ],
+    "56": [
+      "Hyper Voice"
+    ],
+    "64": [
+      "Thunder"
+    ],
+    "72": [
+      "Imprison"
+    ],
+    "80": [
+      "Outrage"
+    ],
+    "88": [
+      "Bolt Strike"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Ancient Power",
+    "Draco Meteor",
+    "Earth Power",
+    "Hyper Voice",
+    "Magnet Rise",
+    "Outrage",
+    "Signal Beam",
+    "Tailwind",
+    "Zen Headbutt",
+    "Haze",
+    "Slash",
+    "Laser Focus",
+    "Defog",
+    "Fusion Bolt",
+    "Dragon Claw",
+    "Bolt Strike",
+    "Outrage",
+    "Stone Edge"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": [],
+  "tmMoves8": [
+    5,
+    6,
+    8,
+    9,
+    14,
+    17,
+    18,
+    19,
+    21,
+    22,
+    24,
+    25,
+    30,
+    33,
+    39,
+    40,
+    41,
+    44,
+    46,
+    48,
+    57,
+    59,
+    65,
+    66,
+    76,
+    80,
+    97,
+    99
+  ],
+  "trMoves": [
+    8,
+    9,
+    11,
+    20,
+    24,
+    26,
+    27,
+    32,
+    33,
+    42,
+    47,
+    51,
+    62,
+    64,
+    67,
+    69,
+    70,
+    75,
+    80,
+    86,
+    99
+  ]
+}

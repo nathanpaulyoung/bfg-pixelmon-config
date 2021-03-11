@@ -1,0 +1,174 @@
+{
+  "pixelmonName": "Deino",
+  "pokemon": "Deino",
+  "stats": {
+    "HP": 52,
+    "Attack": 65,
+    "Defence": 50,
+    "Speed": 38,
+    "SpecialAttack": 45,
+    "SpecialDefence": 50
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 40,
+  "spawnLevelRange": 9,
+  "baseExp": 60,
+  "baseFriendship": 35,
+  "types": [
+    "Dark",
+    "Dragon"
+  ],
+  "height": 0.8,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 17.3,
+  "evolutions": [
+    {
+      "level": 50,
+      "to": {
+        "name": "Zweilous"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Hustle",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "1": [
+      "Tackle",
+      "Focus Energy"
+    ],
+    "4": [
+      "Dragon Breath"
+    ],
+    "8": [
+      "Bite"
+    ],
+    "12": [
+      "Roar"
+    ],
+    "16": [
+      "Assurance"
+    ],
+    "20": [
+      "Headbutt"
+    ],
+    "24": [
+      "Work Up"
+    ],
+    "28": [
+      "Slam"
+    ],
+    "32": [
+      "Crunch"
+    ],
+    "36": [
+      "Scary Face"
+    ],
+    "40": [
+      "Dragon Pulse"
+    ],
+    "44": [
+      "Body Slam"
+    ],
+    "48": [
+      "Hyper Voice"
+    ],
+    "52": [
+      "Dragon Rush"
+    ],
+    "56": [
+      "Nasty Plot"
+    ],
+    "60": [
+      "Outrage"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Draco Meteor",
+    "Earth Power",
+    "Hyper Voice",
+    "Outrage",
+    "Spite",
+    "Superpower",
+    "Uproar",
+    "Zen Headbutt",
+    "Bite",
+    "Scary Face",
+    "Focus Energy",
+    "Tackle",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Double Hit",
+    "Astonish",
+    "Head Smash",
+    "Belch"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    14,
+    16,
+    21,
+    23,
+    24,
+    25,
+    26,
+    31,
+    33,
+    34,
+    39,
+    58,
+    66,
+    67,
+    68,
+    76
+  ],
+  "trMoves": [
+    1,
+    13,
+    20,
+    24,
+    26,
+    27,
+    32,
+    35,
+    37,
+    39,
+    42,
+    58,
+    62,
+    67,
+    68,
+    69,
+    85
+  ]
+}

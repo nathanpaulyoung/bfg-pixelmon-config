@@ -1,0 +1,154 @@
+{
+  "pixelmonName": "Bergmite",
+  "pokemon": "Bergmite",
+  "stats": {
+    "HP": 55,
+    "Attack": 69,
+    "Defence": 85,
+    "Speed": 28,
+    "SpecialAttack": 32,
+    "SpecialDefence": 35
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 23,
+  "spawnLevelRange": 13,
+  "baseExp": 61,
+  "baseFriendship": 0,
+  "types": [
+    "Ice"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 99.5,
+  "evolutions": [
+    {
+      "level": 37,
+      "to": {
+        "name": "Avalugg"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Body Slam"
+      ]
+    }
+  ],
+  "abilities": [
+    "OwnTempo",
+    "IceBody",
+    "Sturdy"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Rapid Spin",
+      "Harden"
+    ],
+    "3": [
+      "Tackle"
+    ],
+    "6": [
+      "Powder Snow"
+    ],
+    "9": [
+      "Curse"
+    ],
+    "12": [
+      "Icy Wind"
+    ],
+    "15": [
+      "Protect"
+    ],
+    "18": [
+      "Avalanche"
+    ],
+    "21": [
+      "Bite"
+    ],
+    "24": [
+      "Ice Fang"
+    ],
+    "27": [
+      "Iron Defense"
+    ],
+    "30": [
+      "Recover"
+    ],
+    "33": [
+      "Crunch"
+    ],
+    "36": [
+      "Take Down"
+    ],
+    "39": [
+      "Blizzard"
+    ],
+    "42": [
+      "Double-Edge"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "After You",
+    "Iron Defense"
+  ],
+  "eggMoves": [
+    "Mist",
+    "Mirror Coat",
+    "Aurora Veil"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    19,
+    21,
+    22,
+    24,
+    25,
+    27,
+    31,
+    33,
+    35,
+    39,
+    48,
+    51,
+    64,
+    67,
+    76
+  ],
+  "trMoves": [
+    4,
+    5,
+    6,
+    20,
+    26,
+    27,
+    32,
+    46,
+    52,
+    70,
+    75
+  ]
+}

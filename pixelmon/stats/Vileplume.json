@@ -1,0 +1,145 @@
+{
+  "pixelmonName": "Vileplume",
+  "pokemon": "Vileplume",
+  "stats": {
+    "HP": 75,
+    "Attack": 80,
+    "Defence": 85,
+    "Speed": 50,
+    "SpecialAttack": 110,
+    "SpecialDefence": 90
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 20,
+  "baseExp": 184,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "height": 1.2,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Gloom",
+    "Oddish"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.61,
+      "z": -0.55
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.61,
+      "z": -0.55
+    }
+  },
+  "weight": 18.6,
+  "evolutions": [],
+  "abilities": [
+    "Chlorophyll",
+    null,
+    "EffectSpore"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Petal Blizzard"
+    ],
+    "1": [
+      "Petal Blizzard",
+      "Aromatherapy",
+      "Mega Drain",
+      "Poison Powder",
+      "Stun Spore",
+      "Sleep Powder",
+      "Giga Drain",
+      "Toxic",
+      "Moonblast",
+      "Grassy Terrain",
+      "Moonlight",
+      "Petal Dance",
+      "Absorb",
+      "Growth",
+      "Acid",
+      "Sweet Scent"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "After You",
+    "Gastro Acid",
+    "Seed Bomb",
+    "Synthesis",
+    "Worry Seed",
+    "Absorb",
+    "Aromatherapy",
+    "Charm",
+    "Flail",
+    "Leech Seed",
+    "Moonlight",
+    "Petal Dance",
+    "Teeter Dance",
+    "Tickle",
+    "Moonblast"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    11,
+    19,
+    21,
+    24,
+    25,
+    28,
+    29,
+    31,
+    34,
+    39,
+    50,
+    59,
+    63,
+    74,
+    76,
+    88
+  ],
+  "trMoves": [
+    0,
+    1,
+    20,
+    22,
+    26,
+    27,
+    59,
+    65,
+    77,
+    78,
+    92,
+    96
+  ]
+}

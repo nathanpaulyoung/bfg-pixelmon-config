@@ -1,0 +1,154 @@
+{
+  "pixelmonName": "Tranquill",
+  "pokemon": "Tranquill",
+  "stats": {
+    "HP": 62,
+    "Attack": 77,
+    "Defence": 62,
+    "Speed": 65,
+    "SpecialAttack": 50,
+    "SpecialDefence": 42
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 9,
+  "baseExp": 125,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Pidove"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 5,
+    "flyHeightMax": 25,
+    "flySpeedModifier": 1.4,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 15.0,
+  "evolutions": [
+    {
+      "level": 32,
+      "to": {
+        "name": "Unfezant"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "BigPecks",
+    "SuperLuck",
+    "Rivalry"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "1": [
+      "Gust",
+      "Growl",
+      "Leer",
+      "Quick Attack"
+    ],
+    "12": [
+      "Taunt"
+    ],
+    "16": [
+      "Air Cutter"
+    ],
+    "20": [
+      "Swagger"
+    ],
+    "26": [
+      "Feather Dance"
+    ],
+    "34": [
+      "Detect"
+    ],
+    "38": [
+      "Air Slash"
+    ],
+    "44": [
+      "Roost"
+    ],
+    "50": [
+      "Tailwind"
+    ],
+    "56": [
+      "Sky Attack"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Air Cutter",
+    "Heat Wave",
+    "Tailwind",
+    "Uproar",
+    "Air Slash",
+    "Feather Dance",
+    "Gust",
+    "Hypnosis",
+    "Morning Sun",
+    "Wish",
+    "Leer",
+    "Defog"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    6,
+    21,
+    24,
+    25,
+    30,
+    31,
+    33,
+    34,
+    39,
+    40,
+    56,
+    76,
+    95
+  ],
+  "trMoves": [
+    12,
+    13,
+    20,
+    26,
+    27,
+    35,
+    36,
+    37,
+    85
+  ]
+}

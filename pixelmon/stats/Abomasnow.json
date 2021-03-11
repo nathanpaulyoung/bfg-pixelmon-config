@@ -1,0 +1,241 @@
+{
+  "pixelmonName": "Abomasnow",
+  "pokemon": "Abomasnow",
+  "stats": {
+    "HP": 90,
+    "Attack": 92,
+    "Defence": 75,
+    "Speed": 60,
+    "SpecialAttack": 92,
+    "SpecialDefence": 85
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 40,
+  "spawnLevelRange": 5,
+  "baseExp": 214,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Ice"
+  ],
+  "height": 2.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Snover"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "SpecialAttack": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.1
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.1
+    }
+  },
+  "weight": 135.5,
+  "evolutions": [],
+  "abilities": [
+    "SnowWarning",
+    null,
+    "Soundproof"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Ice Punch"
+    ],
+    "1": [
+      "Ice Punch",
+      "Aurora Veil",
+      "Powder Snow",
+      "Leer",
+      "Leafage",
+      "Mist"
+    ],
+    "15": [
+      "Ice Shard"
+    ],
+    "20": [
+      "Razor Leaf"
+    ],
+    "25": [
+      "Icy Wind"
+    ],
+    "30": [
+      "Swagger"
+    ],
+    "35": [
+      "Ingrain"
+    ],
+    "43": [
+      "Wood Hammer"
+    ],
+    "49": [
+      "Blizzard"
+    ],
+    "56": [
+      "Sheer Cold"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Solar Beam",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Light Screen",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Shadow Ball",
+    "Hail",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Fling",
+    "Focus Blast",
+    "Energy Ball",
+    "Giga Impact",
+    "Grass Knot",
+    "Round",
+    "Bulldoze",
+    "Frost Breath",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Focus Punch",
+    "Giga Drain",
+    "Ice Punch",
+    "Icy Wind",
+    "Iron Tail",
+    "Outrage",
+    "Role Play",
+    "Seed Bomb",
+    "Snore",
+    "Stomping Tantrum",
+    "Synthesis",
+    "Water Pulse",
+    "Worry Seed"
+  ],
+  "eggMoves": [
+    "Avalanche",
+    "Bullet Seed",
+    "Double-Edge",
+    "Growth",
+    "Leech Seed",
+    "Magical Leaf",
+    "Mist",
+    "Natural Gift",
+    "Seed Bomb",
+    "Skull Bash",
+    "Stomp"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 90,
+        "Attack": 132,
+        "Defence": 105,
+        "Speed": 30,
+        "SpecialAttack": 132,
+        "SpecialDefence": 105
+      },
+      "height": 2.7,
+      "weight": 185.0,
+      "abilities": [
+        "SnowWarning",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": 0,
+  "tmMoves8": [
+    0,
+    1,
+    4,
+    8,
+    9,
+    10,
+    11,
+    17,
+    19,
+    21,
+    22,
+    24,
+    25,
+    27,
+    28,
+    31,
+    33,
+    35,
+    39,
+    43,
+    46,
+    48,
+    50,
+    51,
+    59,
+    64,
+    76,
+    81,
+    98
+  ],
+  "trMoves": [
+    0,
+    5,
+    6,
+    10,
+    20,
+    24,
+    26,
+    27,
+    31,
+    33,
+    59,
+    64,
+    65,
+    67,
+    71,
+    77
+  ]
+}

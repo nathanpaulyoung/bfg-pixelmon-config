@@ -1,0 +1,129 @@
+{
+  "pixelmonName": "Sandygast",
+  "pokemon": "Sandygast",
+  "stats": {
+    "HP": 55,
+    "Attack": 55,
+    "Defence": 80,
+    "Speed": 15,
+    "SpecialAttack": 70,
+    "SpecialDefence": 45
+  },
+  "catchRate": 140,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 30,
+  "baseExp": 64,
+  "baseFriendship": 70,
+  "types": [
+    "Ghost",
+    "Ground"
+  ],
+  "height": 0.5,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 70.0,
+  "evolutions": [
+    {
+      "level": 42,
+      "to": {
+        "name": "Palossand"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "WaterCompaction",
+    null,
+    "SandVeil"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Harden",
+      "Absorb"
+    ],
+    "5": [
+      "Astonish"
+    ],
+    "9": [
+      "Sand Attack"
+    ],
+    "14": [
+      "Sand Tomb"
+    ],
+    "18": [
+      "Mega Drain"
+    ],
+    "23": [
+      "Bulldoze"
+    ],
+    "27": [
+      "Hypnosis"
+    ],
+    "32": [
+      "Iron Defense"
+    ],
+    "36": [
+      "Giga Drain"
+    ],
+    "41": [
+      "Shadow Ball"
+    ],
+    "45": [
+      "Earth Power"
+    ],
+    "50": [
+      "Shore Up"
+    ],
+    "54": [
+      "Sandstorm"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Block",
+    "Earth Power",
+    "Gravity",
+    "Iron Defense",
+    "Snore",
+    "Role Play",
+    "Pain Split",
+    "Giga Drain",
+    "Spite",
+    "After You",
+    "Trick",
+    "Recycle",
+    "Stealth Rock",
+    "Skill Swap"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Destiny Bond",
+    "Ancient Power",
+    "Stockpile",
+    "Swallow",
+    "Spit Up",
+    "Curse"
+  ],
+  "forms": {},
+  "form": -1
+}

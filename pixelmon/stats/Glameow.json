@@ -1,0 +1,166 @@
+{
+  "pixelmonName": "Glameow",
+  "pokemon": "Glameow",
+  "stats": {
+    "HP": 49,
+    "Attack": 55,
+    "Defence": 42,
+    "Speed": 85,
+    "SpecialAttack": 42,
+    "SpecialDefence": 37
+  },
+  "catchRate": 190,
+  "malePercent": 25,
+  "spawnLevel": 20,
+  "spawnLevelRange": 17,
+  "baseExp": 71,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 3.9,
+  "evolutions": [
+    {
+      "level": 38,
+      "to": {
+        "name": "Purugly"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Swagger"
+      ]
+    }
+  ],
+  "abilities": [
+    "Limber",
+    "OwnTempo",
+    "KeenEye"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Fake Out"
+    ],
+    "5": [
+      "Scratch"
+    ],
+    "8": [
+      "Growl"
+    ],
+    "13": [
+      "Hypnosis"
+    ],
+    "17": [
+      "Feint Attack"
+    ],
+    "20": [
+      "Fury Swipes"
+    ],
+    "25": [
+      "Charm"
+    ],
+    "29": [
+      "Assist"
+    ],
+    "32": [
+      "Captivate"
+    ],
+    "37": [
+      "Slash"
+    ],
+    "41": [
+      "Sucker Punch"
+    ],
+    "44": [
+      "Attract"
+    ],
+    "48": [
+      "Hone Claws"
+    ],
+    "50": [
+      "Play Rough"
+    ]
+  },
+  "tmMoves": [
+    "Thunderbolt",
+    "Thunder",
+    "Toxic",
+    "Double Team",
+    "Dream Eater",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Shadow Ball",
+    "Torment",
+    "Facade",
+    "Taunt",
+    "Aerial Ace",
+    "U-Turn",
+    "Payback",
+    "Shadow Claw",
+    "Round",
+    "Echoed Voice",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Foul Play",
+    "Hyper Voice",
+    "Iron Tail",
+    "Knock Off",
+    "Last Resort",
+    "Shock Wave",
+    "Snatch",
+    "Snore",
+    "Super Fang",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Assurance",
+    "Bite",
+    "Fake Tears",
+    "Flail",
+    "Last Resort",
+    "Quick Attack",
+    "Sand Attack",
+    "Snatch",
+    "Tail Whip",
+    "Wake-Up Slap"
+  ],
+  "forms": {},
+  "form": 0
+}

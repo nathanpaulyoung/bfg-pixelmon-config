@@ -1,0 +1,174 @@
+{
+  "pixelmonName": "Conkeldurr",
+  "pokemon": "Conkeldurr",
+  "stats": {
+    "HP": 105,
+    "Attack": 140,
+    "Defence": 95,
+    "Speed": 45,
+    "SpecialAttack": 55,
+    "SpecialDefence": 65
+  },
+  "catchRate": 45,
+  "malePercent": 75,
+  "spawnLevel": 40,
+  "spawnLevelRange": 12,
+  "baseExp": 227,
+  "baseFriendship": 70,
+  "types": [
+    "Fighting"
+  ],
+  "height": 1.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Gurdurr",
+    "Timburr"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.2,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.4,
+      "z": 0.0
+    }
+  },
+  "weight": 87.0,
+  "evolutions": [],
+  "abilities": [
+    "Guts",
+    "SheerForce",
+    "IronFist"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Pound",
+      "Leer",
+      "Low Kick",
+      "Rock Throw"
+    ],
+    "12": [
+      "Focus Energy"
+    ],
+    "16": [
+      "Bulk Up"
+    ],
+    "20": [
+      "Rock Slide"
+    ],
+    "24": [
+      "Slam"
+    ],
+    "30": [
+      "Scary Face"
+    ],
+    "36": [
+      "Dynamic Punch"
+    ],
+    "42": [
+      "Hammer Arm"
+    ],
+    "48": [
+      "Stone Edge"
+    ],
+    "54": [
+      "Superpower"
+    ],
+    "60": [
+      "Focus Punch"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Block",
+    "Helping Hand",
+    "Knock Off",
+    "Low Kick",
+    "Superpower",
+    "Foresight",
+    "Reversal",
+    "Rock Throw",
+    "Scary Face",
+    "Focus Energy",
+    "Leer",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    0,
+    1,
+    3,
+    4,
+    5,
+    8,
+    9,
+    15,
+    21,
+    22,
+    24,
+    25,
+    26,
+    31,
+    33,
+    34,
+    39,
+    41,
+    42,
+    43,
+    48,
+    54,
+    57,
+    59,
+    63,
+    75,
+    76,
+    79,
+    81,
+    97,
+    98
+  ],
+  "trMoves": [
+    7,
+    10,
+    13,
+    20,
+    21,
+    26,
+    27,
+    37,
+    39,
+    48,
+    53,
+    57,
+    64,
+    75,
+    77,
+    85,
+    94
+  ]
+}

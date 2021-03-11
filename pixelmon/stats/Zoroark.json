@@ -1,0 +1,154 @@
+{
+  "pixelmonName": "Zoroark",
+  "pokemon": "Zoroark",
+  "stats": {
+    "HP": 60,
+    "Attack": 105,
+    "Defence": 60,
+    "Speed": 105,
+    "SpecialAttack": 120,
+    "SpecialDefence": 60
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 30,
+  "spawnLevelRange": 15,
+  "baseExp": 179,
+  "baseFriendship": 70,
+  "types": [
+    "Dark"
+  ],
+  "height": 1.6,
+  "width": 0.8,
+  "length": 0.8,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Zorua"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.15,
+      "z": -0.12
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.3,
+      "z": 0.2
+    }
+  },
+  "weight": 81.1,
+  "evolutions": [],
+  "abilities": [
+    "Illusion",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Night Daze",
+      "Imprison",
+      "U-Turn",
+      "Scratch",
+      "Leer",
+      "Pursuit",
+      "Hone Claws",
+      "Night Slash"
+    ],
+    "5": [
+      "Pursuit"
+    ],
+    "9": [
+      "Hone Claws"
+    ],
+    "13": [
+      "Fury Swipes"
+    ],
+    "17": [
+      "Feint Attack"
+    ],
+    "21": [
+      "Scary Face"
+    ],
+    "25": [
+      "Taunt"
+    ],
+    "29": [
+      "Foul Play"
+    ],
+    "34": [
+      "Torment"
+    ],
+    "39": [
+      "Agility"
+    ],
+    "44": [
+      "Embargo"
+    ],
+    "49": [
+      "Punishment"
+    ],
+    "54": [
+      "Nasty Plot"
+    ],
+    "59": [
+      "Imprison"
+    ],
+    "64": [
+      "Night Daze"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bounce",
+    "Covet",
+    "Foul Play",
+    "Hyper Voice",
+    "Knock Off",
+    "Low Kick",
+    "Spite",
+    "Sucker Punch",
+    "Trick",
+    "Uproar",
+    "Agility",
+    "Extrasensory",
+    "Feint Attack",
+    "Nasty Plot",
+    "Pursuit",
+    "Scary Face",
+    "Leer",
+    "Laser Focus",
+    "Throat Chop"
+  ],
+  "eggMoves": [
+    "Captivate",
+    "Copycat",
+    "Counter",
+    "Dark Pulse",
+    "Detect",
+    "Extrasensory",
+    "Memento",
+    "Snatch",
+    "Sucker Punch"
+  ],
+  "forms": {},
+  "form": 0
+}

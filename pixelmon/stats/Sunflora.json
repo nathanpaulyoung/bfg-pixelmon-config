@@ -1,0 +1,162 @@
+{
+  "pixelmonName": "Sunflora",
+  "pokemon": "Sunflora",
+  "stats": {
+    "HP": 75,
+    "Attack": 75,
+    "Defence": 55,
+    "Speed": 30,
+    "SpecialAttack": 105,
+    "SpecialDefence": 85
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 40,
+  "baseExp": 146,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.8,
+  "width": 0.6,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Sunkern"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 8.5,
+  "evolutions": [],
+  "abilities": [
+    "Chlorophyll",
+    "SolarPower",
+    "EarlyBird"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Flower Shield",
+      "Absorb",
+      "Pound",
+      "Growth"
+    ],
+    "4": [
+      "Ingrain"
+    ],
+    "7": [
+      "Grass Whistle"
+    ],
+    "10": [
+      "Mega Drain"
+    ],
+    "13": [
+      "Leech Seed"
+    ],
+    "16": [
+      "Razor Leaf"
+    ],
+    "19": [
+      "Worry Seed"
+    ],
+    "22": [
+      "Giga Drain"
+    ],
+    "25": [
+      "Bullet Seed"
+    ],
+    "28": [
+      "Petal Dance"
+    ],
+    "31": [
+      "Natural Gift"
+    ],
+    "34": [
+      "Solar Beam"
+    ],
+    "37": [
+      "Double-Edge"
+    ],
+    "40": [
+      "Sunny Day"
+    ],
+    "43": [
+      "Leaf Storm"
+    ],
+    "50": [
+      "Petal Blizzard"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Hyper Beam",
+    "Solar Beam",
+    "Toxic",
+    "Double Team",
+    "Light Screen",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Sludge Bomb",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Sunny Day",
+    "Facade",
+    "Nature Power",
+    "Energy Ball",
+    "Giga Impact",
+    "Grass Knot",
+    "Round",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Earth Power",
+    "Endeavor",
+    "Giga Drain",
+    "Helping Hand",
+    "Seed Bomb",
+    "Snore",
+    "Synthesis",
+    "Uproar",
+    "Worry Seed"
+  ],
+  "eggMoves": [
+    "Bide",
+    "Curse",
+    "Encore",
+    "Endure",
+    "Grass Whistle",
+    "Grassy Terrain",
+    "Helping Hand",
+    "Ingrain",
+    "Leech Seed",
+    "Morning Sun",
+    "Natural Gift",
+    "Nature Power",
+    "Sweet Scent"
+  ],
+  "forms": {},
+  "form": 0
+}

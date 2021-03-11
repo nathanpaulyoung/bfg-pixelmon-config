@@ -1,0 +1,185 @@
+{
+  "pixelmonName": "Turtonator",
+  "pokemon": "Turtonator",
+  "stats": {
+    "HP": 60,
+    "Attack": 78,
+    "Defence": 135,
+    "Speed": 36,
+    "SpecialAttack": 91,
+    "SpecialDefence": 85
+  },
+  "catchRate": 70,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 25,
+  "baseExp": 170,
+  "baseFriendship": 70,
+  "types": [
+    "Fire",
+    "Dragon"
+  ],
+  "height": 2.0,
+  "width": 2.0,
+  "length": 2.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.2,
+      "z": 1.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.2,
+      "z": 1.1
+    }
+  },
+  "weight": 212.0,
+  "evolutions": [],
+  "abilities": [
+    "ShellArmour",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "1": [
+      "Smog",
+      "Tackle"
+    ],
+    "4": [
+      "Ember"
+    ],
+    "8": [
+      "Protect"
+    ],
+    "12": [
+      "Endure"
+    ],
+    "16": [
+      "Flail"
+    ],
+    "20": [
+      "Incinerate"
+    ],
+    "24": [
+      "Iron Defense"
+    ],
+    "28": [
+      "Dragon Pulse"
+    ],
+    "32": [
+      "Body Slam"
+    ],
+    "36": [
+      "Flamethrower"
+    ],
+    "40": [
+      "Shell Trap"
+    ],
+    "44": [
+      "Shell Smash"
+    ],
+    "48": [
+      "Overheat"
+    ],
+    "52": [
+      "Explosion"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Block",
+    "Draco Meteor",
+    "Dragon Pulse",
+    "Endeavor",
+    "Heat Wave",
+    "Hyper Voice",
+    "Iron Defense",
+    "Iron Head",
+    "Iron Tail",
+    "Outrage",
+    "Shock Wave",
+    "Snore",
+    "Stomping Tantrum",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Wide Guard",
+    "Head Smash",
+    "Rapid Spin",
+    "Curse"
+  ],
+  "forms": {},
+  "form": -1,
+  "tmMoves8": [
+    0,
+    1,
+    8,
+    9,
+    11,
+    13,
+    21,
+    24,
+    25,
+    31,
+    34,
+    38,
+    39,
+    42,
+    48,
+    57,
+    59,
+    74,
+    76,
+    81,
+    97,
+    98
+  ],
+  "trMoves": [
+    1,
+    2,
+    10,
+    15,
+    20,
+    24,
+    26,
+    27,
+    31,
+    35,
+    36,
+    37,
+    42,
+    43,
+    46,
+    47,
+    48,
+    62,
+    64,
+    70,
+    74,
+    75,
+    79,
+    85,
+    88,
+    99
+  ]
+}

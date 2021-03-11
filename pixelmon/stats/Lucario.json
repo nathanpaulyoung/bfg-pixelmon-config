@@ -1,0 +1,277 @@
+{
+  "pixelmonName": "Lucario",
+  "pokemon": "Lucario",
+  "stats": {
+    "HP": 70,
+    "Attack": 110,
+    "Defence": 70,
+    "Speed": 90,
+    "SpecialAttack": 115,
+    "SpecialDefence": 70
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 21,
+  "spawnLevelRange": 15,
+  "baseExp": 184,
+  "baseFriendship": 70,
+  "types": [
+    "Fighting",
+    "Steel"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Riolu"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "SpecialAttack": 1
+  },
+  "weight": 54.0,
+  "evolutions": [],
+  "abilities": [
+    "Steadfast",
+    "InnerFocus",
+    "Justified"
+  ],
+  "eggGroups": [
+    "Field",
+    "Humanlike"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Aura Sphere"
+    ],
+    "1": [
+      "Aura Sphere",
+      "Life Dew",
+      "Work Up",
+      "Rock Smash",
+      "Nasty Plot",
+      "Screech",
+      "Force Palm",
+      "Helping Hand",
+      "Copycat",
+      "Final Gambit",
+      "Reversal",
+      "Quick Attack",
+      "Detect",
+      "Feint",
+      "Metal Claw"
+    ],
+    "12": [
+      "Counter"
+    ],
+    "16": [
+      "Laser Focus"
+    ],
+    "20": [
+      "Power-Up Punch"
+    ],
+    "24": [
+      "Calm Mind"
+    ],
+    "28": [
+      "Metal Sound"
+    ],
+    "32": [
+      "Quick Guard"
+    ],
+    "36": [
+      "Bone Rush"
+    ],
+    "40": [
+      "Swords Dance"
+    ],
+    "44": [
+      "Heal Pulse"
+    ],
+    "48": [
+      "Meteor Mash"
+    ],
+    "52": [
+      "Dragon Pulse"
+    ],
+    "56": [
+      "Extreme Speed"
+    ],
+    "60": [
+      "Close Combat"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Roar",
+    "Hyper Beam",
+    "Earthquake",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Shadow Ball",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Bulk Up",
+    "Calm Mind",
+    "Payback",
+    "Fling",
+    "Poison Jab",
+    "Dark Pulse",
+    "Focus Blast",
+    "Giga Impact",
+    "Shadow Claw",
+    "Flash Cannon",
+    "Stone Edge",
+    "Low Sweep",
+    "Round",
+    "Bulldoze",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Dragon Pulse",
+    "Drain Punch",
+    "Dual Chop",
+    "Focus Punch",
+    "Helping Hand",
+    "Ice Punch",
+    "Iron Defense",
+    "Iron Tail",
+    "Laser Focus",
+    "Low Kick",
+    "Magnet Rise",
+    "Role Play",
+    "Snore",
+    "Thunder Punch",
+    "Water Pulse",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Bite",
+    "Blaze Kick",
+    "Bullet Punch",
+    "Circle Throw",
+    "Cross Chop",
+    "Crunch",
+    "Detect",
+    "Follow Me",
+    "High Jump Kick",
+    "Iron Defense",
+    "Low Kick",
+    "Meteor Mash",
+    "Mind Reader",
+    "Sky Uppercut",
+    "Vacuum Wave"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 70,
+        "Attack": 145,
+        "Defence": 88,
+        "Speed": 112,
+        "SpecialAttack": 140,
+        "SpecialDefence": 70
+      },
+      "height": 1.3,
+      "weight": 57.5,
+      "abilities": [
+        "Adaptability",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": 0,
+  "tmMoves8": [
+    0,
+    1,
+    4,
+    5,
+    8,
+    9,
+    15,
+    16,
+    21,
+    22,
+    24,
+    25,
+    26,
+    31,
+    33,
+    34,
+    39,
+    40,
+    41,
+    42,
+    43,
+    48,
+    57,
+    59,
+    63,
+    65,
+    75,
+    76,
+    79,
+    81
+  ],
+  "trMoves": [
+    0,
+    7,
+    10,
+    11,
+    12,
+    13,
+    20,
+    21,
+    26,
+    27,
+    31,
+    32,
+    33,
+    41,
+    46,
+    48,
+    49,
+    53,
+    56,
+    57,
+    58,
+    62,
+    64,
+    68,
+    69,
+    70,
+    75,
+    85
+  ]
+}

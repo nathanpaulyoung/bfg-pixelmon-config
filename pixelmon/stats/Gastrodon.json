@@ -1,0 +1,208 @@
+{
+  "pixelmonName": "Gastrodon",
+  "pokemon": "Gastrodon",
+  "stats": {
+    "HP": 111,
+    "Attack": 83,
+    "Defence": 68,
+    "Speed": 39,
+    "SpecialAttack": 92,
+    "SpecialDefence": 82
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 40,
+  "spawnLevelRange": 20,
+  "baseExp": 176,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Ground"
+  ],
+  "height": 0.9,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Shellos"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.3
+    }
+  },
+  "weight": 29.9,
+  "evolutions": [],
+  "abilities": [
+    "StickyHold",
+    "StormDrain",
+    "SandForce"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Water Gun",
+      "Mud-Slap",
+      "Harden",
+      "Recover"
+    ],
+    "15": [
+      "Water Pulse"
+    ],
+    "20": [
+      "Ancient Power"
+    ],
+    "25": [
+      "Body Slam"
+    ],
+    "33": [
+      "Muddy Water"
+    ],
+    "39": [
+      "Earth Power"
+    ],
+    "46": [
+      "Rain Dance"
+    ],
+    "53": [
+      "Memento"
+    ]
+  },
+  "tmMoves": [
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Waterfall",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Hail",
+    "Facade",
+    "Rock Tomb",
+    "Giga Impact",
+    "Stone Edge",
+    "Sludge Wave",
+    "Round",
+    "Scald",
+    "Bulldoze",
+    "Confide",
+    "Infestation"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Earth Power",
+    "Icy Wind",
+    "Pain Split",
+    "Snore",
+    "Stomping Tantrum",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Acid Armor",
+    "Amnesia",
+    "Brine",
+    "Clear Smog",
+    "Counter",
+    "Curse",
+    "Fissure",
+    "Memento",
+    "Mirror Coat",
+    "Mist",
+    "Sludge",
+    "Spit Up",
+    "Stockpile",
+    "Swallow",
+    "Trump Card",
+    "Yawn"
+  ],
+  "forms": {
+    "1": {
+      "form": 1
+    }
+  },
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    15,
+    21,
+    22,
+    24,
+    25,
+    27,
+    31,
+    32,
+    33,
+    35,
+    36,
+    39,
+    45,
+    46,
+    48,
+    49,
+    53,
+    55,
+    76,
+    81,
+    98
+  ],
+  "trMoves": [
+    1,
+    3,
+    4,
+    5,
+    6,
+    10,
+    16,
+    17,
+    20,
+    22,
+    26,
+    27,
+    45,
+    67,
+    75,
+    78,
+    84
+  ]
+}

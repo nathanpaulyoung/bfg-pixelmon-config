@@ -1,0 +1,228 @@
+{
+  "pixelmonName": "Snorlax",
+  "pokemon": "Snorlax",
+  "stats": {
+    "HP": 160,
+    "Attack": 110,
+    "Defence": 65,
+    "Speed": 30,
+    "SpecialAttack": 65,
+    "SpecialDefence": 110
+  },
+  "catchRate": 25,
+  "malePercent": 87,
+  "spawnLevel": 40,
+  "spawnLevelRange": 10,
+  "baseExp": 154,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 2.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Munchlax"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.05,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.05,
+      "z": -0.3
+    }
+  },
+  "weight": 460.0,
+  "evolutions": [],
+  "abilities": [
+    "Immunity",
+    "ThickFat",
+    "Gluttony"
+  ],
+  "eggGroups": [
+    "Monster"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "1": [
+      "Recycle",
+      "Covet",
+      "Stockpile",
+      "Swallow",
+      "Screech",
+      "Fling",
+      "Metronome",
+      "Flail",
+      "Last Resort",
+      "Lick",
+      "Tackle",
+      "Defense Curl",
+      "Block"
+    ],
+    "12": [
+      "Yawn"
+    ],
+    "16": [
+      "Bite"
+    ],
+    "20": [
+      "Rest",
+      "Snore",
+      "Sleep Talk"
+    ],
+    "24": [
+      "Crunch"
+    ],
+    "28": [
+      "Body Slam"
+    ],
+    "32": [
+      "Heavy Slam"
+    ],
+    "36": [
+      "Amnesia"
+    ],
+    "40": [
+      "High Horsepower"
+    ],
+    "44": [
+      "Hammer Arm"
+    ],
+    "48": [
+      "Belly Drum"
+    ],
+    "52": [
+      "Belch"
+    ],
+    "56": [
+      "Giga Impact"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "After You",
+    "Block",
+    "Covet",
+    "Gunk Shot",
+    "Hyper Voice",
+    "Iron Head",
+    "Last Resort",
+    "Outrage",
+    "Seed Bomb",
+    "Superpower",
+    "Uproar",
+    "Zen Headbutt",
+    "Amnesia",
+    "Belly Drum",
+    "Charm",
+    "Lovely Kiss",
+    "Pursuit",
+    "Refresh",
+    "Splash",
+    "Sweet Kiss",
+    "Yawn",
+    "Harden",
+    "Tackle",
+    "Stomping Tantrum",
+    "Sunny Day",
+    "Body Slam",
+    "Celebrate"
+  ],
+  "eggMoves": [
+    "Double-Edge",
+    "Curse",
+    "Fissure",
+    "Counter",
+    "Gastro Acid"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    8,
+    9,
+    11,
+    16,
+    20,
+    21,
+    22,
+    24,
+    25,
+    27,
+    29,
+    31,
+    32,
+    33,
+    34,
+    36,
+    39,
+    43,
+    48,
+    59,
+    76,
+    79,
+    81,
+    98
+  ],
+  "trMoves": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    14,
+    15,
+    17,
+    20,
+    24,
+    26,
+    27,
+    30,
+    32,
+    33,
+    35,
+    39,
+    42,
+    59,
+    64,
+    69,
+    73,
+    74,
+    79,
+    85,
+    86,
+    88,
+    93,
+    94,
+    99
+  ]
+}

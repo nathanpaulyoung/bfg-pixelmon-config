@@ -1,0 +1,158 @@
+{
+  "pixelmonName": "Pachirisu",
+  "pokemon": "Pachirisu",
+  "stats": {
+    "HP": 60,
+    "Attack": 45,
+    "Defence": 70,
+    "Speed": 95,
+    "SpecialAttack": 45,
+    "SpecialDefence": 90
+  },
+  "catchRate": 200,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 15,
+  "baseExp": 120,
+  "baseFriendship": 100,
+  "types": [
+    "Electric"
+  ],
+  "height": 0.3,
+  "width": 0.3,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 3.9,
+  "evolutions": [],
+  "abilities": [
+    "RunAway",
+    "Pickup",
+    "VoltAbsorb"
+  ],
+  "eggGroups": [
+    "Field",
+    "Fairy"
+  ],
+  "eggCycles": 11,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Bide"
+    ],
+    "5": [
+      "Quick Attack"
+    ],
+    "9": [
+      "Charm"
+    ],
+    "13": [
+      "Spark"
+    ],
+    "17": [
+      "Endure"
+    ],
+    "19": [
+      "Nuzzle"
+    ],
+    "21": [
+      "Swift"
+    ],
+    "25": [
+      "Electro Ball"
+    ],
+    "29": [
+      "Sweet Kiss"
+    ],
+    "33": [
+      "Thunder Wave"
+    ],
+    "37": [
+      "Super Fang"
+    ],
+    "41": [
+      "Discharge"
+    ],
+    "45": [
+      "Last Resort"
+    ],
+    "49": [
+      "Hyper Fang"
+    ]
+  },
+  "tmMoves": [
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Toxic",
+    "Double Team",
+    "Light Screen",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Facade",
+    "U-Turn",
+    "Fling",
+    "Grass Knot",
+    "Charge Beam",
+    "Round",
+    "Echoed Voice",
+    "Volt Switch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Electroweb",
+    "Gunk Shot",
+    "Helping Hand",
+    "Iron Tail",
+    "Laser Focus",
+    "Last Resort",
+    "Magnet Rise",
+    "Seed Bomb",
+    "Shock Wave",
+    "Snore",
+    "Super Fang",
+    "Thunder Punch",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Baby-Doll Eyes",
+    "Bestow",
+    "Bite",
+    "Charge",
+    "Covet",
+    "Defense Curl",
+    "Fake Tears",
+    "Flail",
+    "Flatter",
+    "Follow Me",
+    "Ion Deluge",
+    "Iron Tail",
+    "Rollout",
+    "Tail Whip"
+  ],
+  "forms": {},
+  "form": 0
+}

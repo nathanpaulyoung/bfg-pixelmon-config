@@ -1,0 +1,160 @@
+{
+  "pixelmonName": "Popplio",
+  "pokemon": "Popplio",
+  "stats": {
+    "HP": 50,
+    "Attack": 54,
+    "Defence": 54,
+    "Speed": 40,
+    "SpecialAttack": 66,
+    "SpecialDefence": 56
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 5,
+  "spawnLevelRange": 15,
+  "baseExp": 64,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.4,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 7.5,
+  "evolutions": [
+    {
+      "level": 17,
+      "to": {
+        "name": "Brionne"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Torrent",
+    null,
+    "LiquidVoice"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "1": [
+      "Pound",
+      "Growl"
+    ],
+    "3": [
+      "Water Gun"
+    ],
+    "6": [
+      "Disarming Voice"
+    ],
+    "9": [
+      "Aqua Jet"
+    ],
+    "12": [
+      "Baby-Doll Eyes"
+    ],
+    "15": [
+      "Icy Wind"
+    ],
+    "18": [
+      "Sing"
+    ],
+    "21": [
+      "Bubble Beam"
+    ],
+    "24": [
+      "Encore"
+    ],
+    "27": [
+      "Misty Terrain"
+    ],
+    "30": [
+      "Hyper Voice"
+    ],
+    "33": [
+      "Moonblast"
+    ],
+    "36": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Water Pledge",
+    "Covet",
+    "Uproar",
+    "Icy Wind",
+    "Aqua Tail",
+    "Hyper Voice",
+    "Iron Tail",
+    "Snore",
+    "Water Pulse",
+    "Helping Hand",
+    "Wonder Room"
+  ],
+  "eggMoves": [
+    "Aqua Ring",
+    "Perish Song",
+    "Life Dew"
+  ],
+  "forms": {},
+  "form": -1,
+  "tmMoves8": [
+    21,
+    24,
+    25,
+    27,
+    29,
+    31,
+    33,
+    35,
+    36,
+    39,
+    41,
+    45,
+    55,
+    71,
+    76,
+    78,
+    87,
+    89
+  ],
+  "trMoves": [
+    3,
+    4,
+    5,
+    6,
+    16,
+    17,
+    20,
+    26,
+    27,
+    30,
+    31,
+    35,
+    42,
+    84,
+    85,
+    90
+  ]
+}

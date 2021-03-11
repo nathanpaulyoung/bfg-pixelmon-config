@@ -1,0 +1,161 @@
+{
+  "pixelmonName": "Pheromosa",
+  "pokemon": "Pheromosa",
+  "stats": {
+    "HP": 71,
+    "Attack": 137,
+    "Defence": 37,
+    "Speed": 151,
+    "SpecialAttack": 137,
+    "SpecialDefence": 37
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 114,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Fighting"
+  ],
+  "height": 3.0,
+  "width": 1.8,
+  "length": 1.8,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Speed": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.2,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.2,
+      "z": -0.3
+    }
+  },
+  "weight": 25.0,
+  "evolutions": [],
+  "abilities": [
+    "BeastBoost",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Quiver Dance",
+      "Quick Guard",
+      "Low Kick",
+      "Rapid Spin",
+      "Leer",
+      "Double Kick"
+    ],
+    "7": [
+      "Swift"
+    ],
+    "13": [
+      "Stomp"
+    ],
+    "19": [
+      "Feint"
+    ],
+    "23": [
+      "Silver Wind"
+    ],
+    "29": [
+      "Bounce"
+    ],
+    "31": [
+      "Jump Kick"
+    ],
+    "37": [
+      "Agility"
+    ],
+    "43": [
+      "Triple Kick"
+    ],
+    "47": [
+      "Lunge"
+    ],
+    "53": [
+      "Bug Buzz"
+    ],
+    "59": [
+      "Me First"
+    ],
+    "67": [
+      "High Jump Kick"
+    ],
+    "73": [
+      "Speed Swap"
+    ]
+  },
+  "tmMoves": [
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "False Swipe",
+    "Swagger",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Torment",
+    "Facade",
+    "Taunt",
+    "Brick Break",
+    "Roost",
+    "U-Turn",
+    "Fling",
+    "Poison Jab",
+    "Focus Blast",
+    "Giga Impact",
+    "Low Sweep",
+    "Round",
+    "Echoed Voice",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Bounce",
+    "Bug Bite",
+    "Drill Run",
+    "Electroweb",
+    "Foul Play",
+    "Icy Wind",
+    "Laser Focus",
+    "Low Kick",
+    "Outrage",
+    "Shock Wave",
+    "Signal Beam",
+    "Snatch",
+    "Snore",
+    "Throat Chop"
+  ],
+  "forms": {},
+  "form": -1,
+  "eggMoves": []
+}

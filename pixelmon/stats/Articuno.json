@@ -1,0 +1,193 @@
+{
+  "pixelmonName": "Articuno",
+  "pokemon": "Articuno",
+  "form": 0,
+  "stats": {
+    "HP": 90,
+    "Attack": 85,
+    "Defence": 100,
+    "Speed": 85,
+    "SpecialAttack": 95,
+    "SpecialDefence": 125
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 215,
+  "baseFriendship": 35,
+  "types": [
+    "Ice",
+    "Flying"
+  ],
+  "height": 1.7,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 30,
+    "flyHeightMax": 50,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 400,
+    "flyRefreshRateSpeed": 400,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "mountedFlying": {
+    "upperAngleLimit": 40,
+    "lowerAngleLimit": -40,
+    "maxFlySpeed": 2.1,
+    "decelerationRate": 0.2,
+    "hoverDecelerationRate": 0.09,
+    "accelerationRate": 0.09,
+    "strafeAccelerationRate": 0.9,
+    "strafeRollConversion": 30,
+    "turnRate": 1,
+    "pitchRate": 1
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "SpecialDefence": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": 0.0
+    }
+  },
+  "weight": 55.4,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    "SnowCloak"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "0": [
+      "Gust",
+      "Powder Snow"
+    ],
+    "8": [
+      "Mist"
+    ],
+    "15": [
+      "Ice Shard"
+    ],
+    "22": [
+      "Mind Reader"
+    ],
+    "29": [
+      "Ancient Power"
+    ],
+    "36": [
+      "Agility"
+    ],
+    "43": [
+      "Freeze-Dry"
+    ],
+    "50": [
+      "Reflect"
+    ],
+    "57": [
+      "Hail"
+    ],
+    "64": [
+      "Tailwind"
+    ],
+    "71": [
+      "Ice Beam"
+    ],
+    "78": [
+      "Blizzard"
+    ],
+    "85": [
+      "Roost"
+    ],
+    "92": [
+      "Hurricane"
+    ],
+    "99": [
+      "Sheer Cold"
+    ]
+  },
+  "tmMoves": [
+    "Fly",
+    "Roar",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Toxic",
+    "Double Team",
+    "Reflect",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Steel Wing",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Hail",
+    "Facade",
+    "Aerial Ace",
+    "Roost",
+    "U-Turn",
+    "Giga Impact",
+    "Round",
+    "Sky Drop",
+    "Frost Breath",
+    "Confide",
+    "Aurora Veil"
+  ],
+  "tutorMoves": [
+    "Defog",
+    "Icy Wind",
+    "Laser Focus",
+    "Signal Beam",
+    "Sky Attack",
+    "Snore",
+    "Tailwind",
+    "Water Pulse"
+  ],
+  "forms": {
+    "2": {
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "isRideable": false,
+      "canFly": false,
+      "canSurf": false,
+      "weight": 50.9,
+      "abilities": [
+        "Competitive",
+        null,
+        null
+      ]
+    }
+  },
+  "eggMoves": []
+}

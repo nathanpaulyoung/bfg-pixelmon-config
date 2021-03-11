@@ -1,0 +1,145 @@
+{
+  "pixelmonName": "Manaphy",
+  "pokemon": "Manaphy",
+  "stats": {
+    "HP": 100,
+    "Attack": 100,
+    "Defence": 100,
+    "Speed": 100,
+    "SpecialAttack": 100,
+    "SpecialDefence": 100
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 50,
+  "spawnLevelRange": 0,
+  "baseExp": 270,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.3,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Phione"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "HP": 3
+  },
+  "weight": 1.4,
+  "evolutions": [],
+  "abilities": [
+    "Hydration",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Water1",
+    "Fairy"
+  ],
+  "eggCycles": 11,
+  "levelUpMoves": {
+    "0": [
+      "Tail Glow",
+      "Bubble",
+      "Water Sport"
+    ],
+    "9": [
+      "Charm"
+    ],
+    "16": [
+      "Supersonic"
+    ],
+    "24": [
+      "Bubble Beam"
+    ],
+    "31": [
+      "Acid Armor"
+    ],
+    "39": [
+      "Whirlpool"
+    ],
+    "46": [
+      "Water Pulse"
+    ],
+    "54": [
+      "Aqua Ring"
+    ],
+    "61": [
+      "Dive"
+    ],
+    "69": [
+      "Rain Dance"
+    ],
+    "76": [
+      "Heart Swap"
+    ]
+  },
+  "tmMoves": [
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Light Screen",
+    "Reflect",
+    "Waterfall",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Psych Up",
+    "Shadow Ball",
+    "Hail",
+    "Facade",
+    "Calm Mind",
+    "U-Turn",
+    "Fling",
+    "Energy Ball",
+    "Giga Impact",
+    "Grass Knot",
+    "Round",
+    "Scald",
+    "Confide",
+    "Dazzling Gleam"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Covet",
+    "Heal Bell",
+    "Helping Hand",
+    "Icy Wind",
+    "Knock Off",
+    "Last Resort",
+    "Liquidation",
+    "Signal Beam",
+    "Skill Swap",
+    "Snore",
+    "Uproar",
+    "Water Pulse"
+  ],
+  "forms": {},
+  "form": -1,
+  "eggMoves": []
+}

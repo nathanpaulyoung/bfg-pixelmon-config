@@ -1,0 +1,156 @@
+{
+  "pixelmonName": "Tangela",
+  "pokemon": "Tangela",
+  "stats": {
+    "HP": 65,
+    "Attack": 55,
+    "Defence": 115,
+    "Speed": 60,
+    "SpecialAttack": 100,
+    "SpecialDefence": 40
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 40,
+  "baseExp": 166,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 35.0,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Tangrowth"
+      },
+      "conditions": [
+        {
+          "attackIndex": 320,
+          "evoConditionType": "move"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Chlorophyll",
+    "LeafGuard",
+    "Regenerator"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Ingrain",
+      "Constrict"
+    ],
+    "4": [
+      "Sleep Powder"
+    ],
+    "7": [
+      "Vine Whip"
+    ],
+    "10": [
+      "Absorb"
+    ],
+    "14": [
+      "Poison Powder"
+    ],
+    "17": [
+      "Bind"
+    ],
+    "20": [
+      "Growth"
+    ],
+    "23": [
+      "Mega Drain"
+    ],
+    "27": [
+      "Knock Off"
+    ],
+    "30": [
+      "Stun Spore"
+    ],
+    "33": [
+      "Natural Gift"
+    ],
+    "36": [
+      "Giga Drain"
+    ],
+    "38": [
+      "Ancient Power"
+    ],
+    "41": [
+      "Slam"
+    ],
+    "44": [
+      "Tickle"
+    ],
+    "46": [
+      "Wring Out"
+    ],
+    "48": [
+      "Grassy Terrain"
+    ],
+    "50": [
+      "Power Whip"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Ancient Power",
+    "Bind",
+    "Endeavor",
+    "Knock Off",
+    "Pain Split",
+    "Seed Bomb",
+    "Synthesis",
+    "Worry Seed",
+    "Absorb",
+    "Amnesia",
+    "Flail",
+    "Growth",
+    "Leech Seed",
+    "Morning Sun",
+    "Tickle"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Confusion",
+    "Endeavor",
+    "Flail",
+    "Giga Drain",
+    "Leaf Storm",
+    "Leech Seed",
+    "Mega Drain",
+    "Natural Gift",
+    "Nature Power",
+    "Power Swap",
+    "Rage Powder",
+    "Wake-Up Slap"
+  ],
+  "forms": {},
+  "form": 0
+}

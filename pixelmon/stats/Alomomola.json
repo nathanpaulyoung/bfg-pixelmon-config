@@ -1,0 +1,161 @@
+{
+  "pixelmonName": "Alomomola",
+  "pokemon": "Alomomola",
+  "stats": {
+    "HP": 165,
+    "Attack": 75,
+    "Defence": 80,
+    "Speed": 65,
+    "SpecialAttack": 40,
+    "SpecialDefence": 45
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 18,
+  "spawnLevelRange": 17,
+  "baseExp": 165,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 31.6,
+  "evolutions": [],
+  "abilities": [
+    "Healer",
+    "Hydration",
+    "Regenerator"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Water2"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Play Nice",
+      "Hydro Pump",
+      "Wide Guard",
+      "Healing Wish",
+      "Helping Hand",
+      "Pound",
+      "Water Sport"
+    ],
+    "5": [
+      "Aqua Ring"
+    ],
+    "9": [
+      "Aqua Jet"
+    ],
+    "13": [
+      "Double Slap"
+    ],
+    "17": [
+      "Heal Pulse"
+    ],
+    "21": [
+      "Protect"
+    ],
+    "25": [
+      "Water Pulse"
+    ],
+    "29": [
+      "Wake-Up Slap"
+    ],
+    "33": [
+      "Soak"
+    ],
+    "37": [
+      "Wish"
+    ],
+    "41": [
+      "Brine"
+    ],
+    "45": [
+      "Safeguard"
+    ],
+    "49": [
+      "Whirlpool"
+    ],
+    "53": [
+      "Helping Hand"
+    ],
+    "57": [
+      "Healing Wish"
+    ],
+    "61": [
+      "Wide Guard"
+    ],
+    "65": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Light Screen",
+    "Waterfall",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Psych Up",
+    "Shadow Ball",
+    "Hail",
+    "Facade",
+    "Calm Mind",
+    "Round",
+    "Scald",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Helping Hand",
+    "Icy Wind",
+    "Knock Off",
+    "Liquidation",
+    "Magic Coat",
+    "Pain Split",
+    "Snore",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Endure",
+    "Mirror Coat",
+    "Mist",
+    "Pain Split",
+    "Refresh",
+    "Tickle"
+  ],
+  "forms": {},
+  "form": 0
+}

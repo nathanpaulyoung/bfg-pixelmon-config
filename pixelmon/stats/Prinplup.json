@@ -1,0 +1,170 @@
+{
+  "pixelmonName": "Prinplup",
+  "pokemon": "Prinplup",
+  "stats": {
+    "HP": 64,
+    "Attack": 66,
+    "Defence": 68,
+    "Speed": 50,
+    "SpecialAttack": 81,
+    "SpecialDefence": 76
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 16,
+  "spawnLevelRange": 18,
+  "baseExp": 143,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.8,
+  "width": 1.0,
+  "length": 2.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Piplup"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 0,
+    "passive": 50,
+    "aggressive": 50
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 23.0,
+  "evolutions": [
+    {
+      "level": 36,
+      "to": {
+        "name": "Empoleon"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Aqua Jet"
+      ]
+    }
+  ],
+  "abilities": [
+    "Torrent",
+    null,
+    "Defiant"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Growl",
+      "Bubble",
+      "Metal Claw"
+    ],
+    "4": [
+      "Growl"
+    ],
+    "8": [
+      "Bubble"
+    ],
+    "11": [
+      "Water Sport"
+    ],
+    "15": [
+      "Peck"
+    ],
+    "19": [
+      "Bubble Beam"
+    ],
+    "24": [
+      "Bide"
+    ],
+    "28": [
+      "Fury Attack"
+    ],
+    "33": [
+      "Brine"
+    ],
+    "37": [
+      "Whirlpool"
+    ],
+    "42": [
+      "Mist"
+    ],
+    "46": [
+      "Drill Peck"
+    ],
+    "50": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Toxic",
+    "Double Team",
+    "Waterfall",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Hail",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Fling",
+    "Shadow Claw",
+    "Grass Knot",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Quash",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Defog",
+    "Icy Wind",
+    "Signal Beam",
+    "Snore",
+    "Stealth Rock",
+    "Water Pledge",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Aqua Ring",
+    "Bide",
+    "Double Hit",
+    "Feather Dance",
+    "Flail",
+    "Hydro Pump",
+    "Icy Wind",
+    "Mud-Slap",
+    "Mud Sport",
+    "Power Trip",
+    "Snore",
+    "Supersonic",
+    "Yawn"
+  ],
+  "forms": {},
+  "form": 0
+}

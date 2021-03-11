@@ -1,0 +1,162 @@
+{
+  "pixelmonName": "Fennekin",
+  "pokemon": "Fennekin",
+  "stats": {
+    "HP": 40,
+    "Attack": 45,
+    "Defence": 40,
+    "Speed": 60,
+    "SpecialAttack": 62,
+    "SpecialDefence": 60
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 5,
+  "spawnLevelRange": 11,
+  "baseExp": 61,
+  "baseFriendship": 0,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.4,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 9.4,
+  "evolutions": [
+    {
+      "level": 16,
+      "to": {
+        "name": "Braixen"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Blaze",
+    null,
+    "Magician"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Tail Whip"
+    ],
+    "5": [
+      "Ember"
+    ],
+    "11": [
+      "Howl"
+    ],
+    "14": [
+      "Flame Charge"
+    ],
+    "17": [
+      "Psybeam"
+    ],
+    "20": [
+      "Fire Spin"
+    ],
+    "25": [
+      "Lucky Chant"
+    ],
+    "27": [
+      "Light Screen"
+    ],
+    "31": [
+      "Psyshock"
+    ],
+    "35": [
+      "Flamethrower"
+    ],
+    "38": [
+      "Will-O-Wisp"
+    ],
+    "41": [
+      "Psychic"
+    ],
+    "43": [
+      "Sunny Day"
+    ],
+    "46": [
+      "Magic Room"
+    ],
+    "48": [
+      "Fire Blast"
+    ]
+  },
+  "tmMoves": [
+    "Flamethrower",
+    "Solar Beam",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Light Screen",
+    "Fire Blast",
+    "Dream Eater",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Will-O-Wisp",
+    "Facade",
+    "Overheat",
+    "Embargo",
+    "Grass Knot",
+    "Psyshock",
+    "Flame Charge",
+    "Round",
+    "Echoed Voice",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Fire Pledge",
+    "Foul Play",
+    "Heat Wave",
+    "Iron Tail",
+    "Magic Coat",
+    "Magic Room",
+    "Snore"
+  ],
+  "eggMoves": [
+    "Heat Wave",
+    "Hypnosis",
+    "Magic Coat",
+    "Psychic Terrain",
+    "Wish"
+  ],
+  "forms": {},
+  "form": 0
+}

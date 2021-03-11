@@ -1,0 +1,194 @@
+{
+  "pixelmonName": "Wailmer",
+  "pokemon": "Wailmer",
+  "stats": {
+    "HP": 130,
+    "Attack": 70,
+    "Defence": 35,
+    "Speed": 60,
+    "SpecialAttack": 70,
+    "SpecialDefence": 35
+  },
+  "catchRate": 125,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 24,
+  "baseExp": 137,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.5,
+  "width": 1.5,
+  "length": 1.5,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Fluctuating",
+  "aggression": {
+    "timid": 50,
+    "passive": 50,
+    "aggressive": 0
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 10,
+    "swimSpeed": 2.0,
+    "decayRate": 0.9,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": -0.325
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": -0.325
+    }
+  },
+  "weight": 130.0,
+  "evolutions": [
+    {
+      "level": 40,
+      "to": {
+        "name": "Wailord"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "WaterVeil",
+    "Oblivious",
+    "Pressure"
+  ],
+  "eggGroups": [
+    "Field",
+    "Water2"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "1": [
+      "Splash"
+    ],
+    "3": [
+      "Growl"
+    ],
+    "6": [
+      "Astonish"
+    ],
+    "12": [
+      "Water Gun"
+    ],
+    "15": [
+      "Mist"
+    ],
+    "18": [
+      "Water Pulse"
+    ],
+    "21": [
+      "Heavy Slam"
+    ],
+    "24": [
+      "Brine"
+    ],
+    "27": [
+      "Whirlpool"
+    ],
+    "30": [
+      "Dive"
+    ],
+    "33": [
+      "Bounce"
+    ],
+    "36": [
+      "Body Slam"
+    ],
+    "39": [
+      "Rest"
+    ],
+    "42": [
+      "Amnesia"
+    ],
+    "45": [
+      "Hydro Pump"
+    ],
+    "48": [
+      "Water Spout"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bounce",
+    "Hyper Voice",
+    "Zen Headbutt",
+    "Aqua Ring",
+    "Amnesia",
+    "Hydro Pump",
+    "Mist",
+    "Splash",
+    "Thrash",
+    "Tickle"
+  ],
+  "eggMoves": [
+    "Double-Edge",
+    "Thrash",
+    "Curse",
+    "Fissure",
+    "Tickle",
+    "Defense Curl",
+    "Rollout",
+    "Aqua Ring",
+    "Soak"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    20,
+    21,
+    24,
+    25,
+    27,
+    31,
+    33,
+    35,
+    36,
+    39,
+    45,
+    46,
+    48,
+    52,
+    55,
+    64,
+    76,
+    81
+  ],
+  "trMoves": [
+    1,
+    3,
+    4,
+    5,
+    6,
+    10,
+    16,
+    17,
+    20,
+    26,
+    27,
+    42,
+    69,
+    79,
+    84,
+    99
+  ]
+}

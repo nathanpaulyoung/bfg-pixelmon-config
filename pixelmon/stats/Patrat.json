@@ -1,0 +1,170 @@
+{
+  "pixelmonName": "Patrat",
+  "pokemon": "Patrat",
+  "stats": {
+    "HP": 45,
+    "Attack": 55,
+    "Defence": 39,
+    "Speed": 42,
+    "SpecialAttack": 35,
+    "SpecialDefence": 39
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 6,
+  "spawnLevelRange": 11,
+  "baseExp": 51,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 11.6,
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Watchog"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Confuse Ray"
+      ]
+    }
+  ],
+  "abilities": [
+    "RunAway",
+    "KeenEye",
+    "Analytic"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Tackle"
+    ],
+    "3": [
+      "Leer"
+    ],
+    "6": [
+      "Bite"
+    ],
+    "8": [
+      "Bide"
+    ],
+    "11": [
+      "Detect"
+    ],
+    "13": [
+      "Sand Attack"
+    ],
+    "16": [
+      "Crunch"
+    ],
+    "18": [
+      "Hypnosis"
+    ],
+    "21": [
+      "Super Fang"
+    ],
+    "23": [
+      "After You"
+    ],
+    "26": [
+      "Focus Energy"
+    ],
+    "28": [
+      "Work Up"
+    ],
+    "31": [
+      "Hyper Fang"
+    ],
+    "33": [
+      "Nasty Plot"
+    ],
+    "36": [
+      "Mean Look"
+    ],
+    "41": [
+      "Slam"
+    ],
+    "38": [
+      "Baton Pass"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Thunderbolt",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Shadow Ball",
+    "Facade",
+    "Fling",
+    "Grass Knot",
+    "Round",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Aqua Tail",
+    "Covet",
+    "Endeavor",
+    "Gunk Shot",
+    "Helping Hand",
+    "Iron Tail",
+    "Laser Focus",
+    "Last Resort",
+    "Low Kick",
+    "Seed Bomb",
+    "Shock Wave",
+    "Snore",
+    "Super Fang",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Assurance",
+    "Bullet Seed",
+    "Flail",
+    "Foresight",
+    "Iron Tail",
+    "Pursuit",
+    "Revenge",
+    "Screech",
+    "Tearful Look"
+  ],
+  "forms": {},
+  "form": 0
+}

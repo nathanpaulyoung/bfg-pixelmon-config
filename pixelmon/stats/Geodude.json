@@ -1,0 +1,303 @@
+{
+  "pixelmonName": "Geodude",
+  "pokemon": "Geodude",
+  "stats": {
+    "HP": 40,
+    "Attack": 80,
+    "Defence": 100,
+    "Speed": 20,
+    "SpecialAttack": 30,
+    "SpecialDefence": 30
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 15,
+  "baseExp": 73,
+  "baseFriendship": 70,
+  "types": [
+    "Rock",
+    "Ground"
+  ],
+  "height": 1.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "hoverHeight": 1.0,
+  "weight": 20.0,
+  "evolutions": [
+    {
+      "level": 25,
+      "to": {
+        "name": "Graveler",
+        "form": 0
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "RockHead",
+    "Sturdy",
+    "SandVeil"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Defense Curl"
+    ],
+    "4": [
+      "Mud Sport"
+    ],
+    "6": [
+      "Rock Polish"
+    ],
+    "10": [
+      "Rollout"
+    ],
+    "12": [
+      "Magnitude"
+    ],
+    "16": [
+      "Rock Throw"
+    ],
+    "18": [
+      "Smack Down"
+    ],
+    "22": [
+      "Bulldoze"
+    ],
+    "24": [
+      "Self-Destruct"
+    ],
+    "28": [
+      "Stealth Rock"
+    ],
+    "30": [
+      "Rock Blast"
+    ],
+    "34": [
+      "Earthquake"
+    ],
+    "36": [
+      "Explosion"
+    ],
+    "40": [
+      "Double-Edge"
+    ],
+    "42": [
+      "Stone Edge"
+    ]
+  },
+  "tmMoves": [
+    "Flamethrower",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Fire Blast",
+    "Explosion",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Facade",
+    "Nature Power",
+    "Brick Break",
+    "Rock Tomb",
+    "Gyro Ball",
+    "Fling",
+    "Rock Polish",
+    "Stone Edge",
+    "Smack Down",
+    "Round",
+    "Bulldoze",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Earth Power",
+    "Fire Punch",
+    "Focus Punch",
+    "Iron Defense",
+    "Snore",
+    "Stealth Rock",
+    "Superpower",
+    "Thunder Punch"
+  ],
+  "eggMoves": [
+    "Autotomize",
+    "Block",
+    "Curse",
+    "Endure",
+    "Flail",
+    "Focus Punch",
+    "Hammer Arm",
+    "Mega Punch",
+    "Rock Climb",
+    "Wide Guard"
+  ],
+  "forms": {
+    "1": {
+      "types": [
+        "Rock",
+        "Electric"
+      ],
+      "evolutions": [
+        {
+          "level": 25,
+          "to": {
+            "name": "Graveler",
+            "form": 1
+          },
+          "conditions": [],
+          "evoType": "leveling"
+        }
+      ],
+      "abilities": [
+        "MagnetPull",
+        "Sturdy",
+        "Galvanize"
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Tackle",
+          "Defense Curl"
+        ],
+        "4": [
+          "Charge"
+        ],
+        "6": [
+          "Rock Polish"
+        ],
+        "10": [
+          "Rollout"
+        ],
+        "12": [
+          "Spark"
+        ],
+        "16": [
+          "Rock Throw"
+        ],
+        "18": [
+          "Smack Down"
+        ],
+        "22": [
+          "Thunder Punch"
+        ],
+        "24": [
+          "Self-Destruct"
+        ],
+        "28": [
+          "Stealth Rock"
+        ],
+        "30": [
+          "Rock Blast"
+        ],
+        "34": [
+          "Discharge"
+        ],
+        "36": [
+          "Explosion"
+        ],
+        "40": [
+          "Double-Edge"
+        ],
+        "42": [
+          "Stone Edge"
+        ]
+      },
+      "tmMoves": [
+        "Toxic",
+        "Hidden Power",
+        "Sunny Day",
+        "Protect",
+        "Frustration",
+        "Smack Down",
+        "Thunderbolt",
+        "Thunder",
+        "Earthquake",
+        "Return",
+        "Brick Break",
+        "Double Team",
+        "Flamethrower",
+        "Sandstorm",
+        "Fire Blast",
+        "Rock Tomb",
+        "Facade",
+        "Rest",
+        "Attract",
+        "Round",
+        "Fling",
+        "Charge Beam",
+        "Brutal Swing",
+        "Explosion",
+        "Rock Polish",
+        "Stone Edge",
+        "Volt Switch",
+        "Gyro Ball",
+        "Bulldoze",
+        "Rock Slide",
+        "Swagger",
+        "Sleep Talk",
+        "Substitute",
+        "Nature Power",
+        "Confide"
+      ],
+      "tutorMoves": [
+        "Thunder Punch",
+        "Fire Punch",
+        "Block",
+        "Earth Power",
+        "Iron Defense",
+        "Superpower",
+        "Snore",
+        "Focus Punch",
+        "Stealth Rock",
+        "Magnet Rise",
+        "Electroweb"
+      ],
+      "eggMoves": [
+        "Block",
+        "Flail",
+        "Curse",
+        "Rock Climb",
+        "Endure",
+        "Autotomize",
+        "Wide Guard",
+        "Magnet Rise",
+        "Counter",
+        "Screech"
+      ],
+      "form": 1
+    }
+  },
+  "form": 0
+}

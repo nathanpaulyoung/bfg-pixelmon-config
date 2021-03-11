@@ -1,0 +1,161 @@
+{
+  "pixelmonName": "Shellder",
+  "pokemon": "Shellder",
+  "stats": {
+    "HP": 30,
+    "Attack": 65,
+    "Defence": 100,
+    "Speed": 40,
+    "SpecialAttack": 45,
+    "SpecialDefence": 25
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 10,
+  "baseExp": 97,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.3,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 4.0,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:water_stone"
+      },
+      "to": {
+        "name": "Cloyster"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "ShellArmour",
+    "SkillLink",
+    "Overcoat"
+  ],
+  "eggGroups": [
+    "Water3"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Tackle",
+      "Water Gun"
+    ],
+    "4": [
+      "Withdraw"
+    ],
+    "8": [
+      "Ice Shard"
+    ],
+    "12": [
+      "Leer"
+    ],
+    "16": [
+      "Whirlpool"
+    ],
+    "20": [
+      "Supersonic"
+    ],
+    "24": [
+      "Aurora Beam"
+    ],
+    "28": [
+      "Protect"
+    ],
+    "32": [
+      "Razor Shell"
+    ],
+    "36": [
+      "Iron Defense"
+    ],
+    "40": [
+      "Ice Beam"
+    ],
+    "44": [
+      "Shell Smash"
+    ],
+    "48": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Iron Defense",
+    "Aqua Ring",
+    "Barrier",
+    "Hydro Pump",
+    "Rapid Spin",
+    "Refresh",
+    "Tackle",
+    "Leer",
+    "Screech",
+    "Liquidation"
+  ],
+  "eggMoves": [
+    "Bubble Beam",
+    "Water Pulse",
+    "Aqua Ring",
+    "Life Dew"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    16,
+    20,
+    21,
+    24,
+    25,
+    27,
+    31,
+    33,
+    35,
+    36,
+    39,
+    40,
+    45,
+    51,
+    53,
+    54,
+    55,
+    57,
+    64,
+    76,
+    83
+  ],
+  "trMoves": [
+    3,
+    4,
+    5,
+    6,
+    19,
+    20,
+    26,
+    27,
+    46,
+    98
+  ]
+}

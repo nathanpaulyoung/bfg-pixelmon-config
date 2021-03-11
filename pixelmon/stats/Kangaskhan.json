@@ -1,0 +1,163 @@
+{
+  "pixelmonName": "Kangaskhan",
+  "pokemon": "Kangaskhan",
+  "stats": {
+    "HP": 105,
+    "Attack": 95,
+    "Defence": 80,
+    "Speed": 90,
+    "SpecialAttack": 40,
+    "SpecialDefence": 80
+  },
+  "catchRate": 45,
+  "malePercent": 0,
+  "spawnLevel": 25,
+  "spawnLevelRange": 25,
+  "baseExp": 175,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 2.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.95,
+      "z": -0.35
+    }
+  },
+  "weight": 80.0,
+  "evolutions": [],
+  "abilities": [
+    "EarlyBird",
+    "Scrappy",
+    "InnerFocus"
+  ],
+  "eggGroups": [
+    "Monster"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Comet Punch",
+      "Leer"
+    ],
+    "7": [
+      "Fake Out"
+    ],
+    "10": [
+      "Tail Whip"
+    ],
+    "13": [
+      "Bite"
+    ],
+    "19": [
+      "Double Hit"
+    ],
+    "22": [
+      "Rage"
+    ],
+    "25": [
+      "Mega Punch"
+    ],
+    "31": [
+      "Chip Away"
+    ],
+    "34": [
+      "Dizzy Punch"
+    ],
+    "37": [
+      "Crunch"
+    ],
+    "43": [
+      "Endure"
+    ],
+    "46": [
+      "Outrage"
+    ],
+    "49": [
+      "Sucker Punch"
+    ],
+    "50": [
+      "Reversal"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Covet",
+    "Endeavor",
+    "Helping Hand",
+    "Low Kick",
+    "Outrage",
+    "Spite",
+    "Sucker Punch",
+    "Uproar",
+    "Bite",
+    "Crush Claw",
+    "Dizzy Punch",
+    "Feint Attack",
+    "Fake Out",
+    "Foresight",
+    "Reversal",
+    "Sing",
+    "Wish",
+    "Yawn",
+    "Stomp",
+    "Focus Energy",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Circle Throw",
+    "Counter",
+    "Crush Claw",
+    "Disable",
+    "Double-Edge",
+    "Endeavor",
+    "Focus Energy",
+    "Focus Punch",
+    "Foresight",
+    "Hammer Arm",
+    "Stomp",
+    "Trump Card",
+    "Uproar"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 105,
+        "Attack": 125,
+        "Defence": 100,
+        "Speed": 100,
+        "SpecialAttack": 60,
+        "SpecialDefence": 100
+      },
+      "weight": 100.0,
+      "abilities": [
+        "ParentalBond",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": 0
+}

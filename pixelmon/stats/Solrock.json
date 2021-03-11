@@ -1,0 +1,184 @@
+{
+  "pixelmonName": "Solrock",
+  "pokemon": "Solrock",
+  "stats": {
+    "HP": 90,
+    "Attack": 95,
+    "Defence": 85,
+    "Speed": 70,
+    "SpecialAttack": 55,
+    "SpecialDefence": 65
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 20,
+  "spawnLevelRange": 30,
+  "baseExp": 150,
+  "baseFriendship": 70,
+  "types": [
+    "Rock",
+    "Psychic"
+  ],
+  "height": 1.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "hoverHeight": 1.0,
+  "weight": 154.0,
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "1": [
+      "Flare Blitz",
+      "Morning Sun",
+      "Tackle",
+      "Harden",
+      "Confusion",
+      "Rock Throw"
+    ],
+    "5": [
+      "Hypnosis"
+    ],
+    "10": [
+      "Rock Polish"
+    ],
+    "15": [
+      "Rock Slide"
+    ],
+    "20": [
+      "Zen Headbutt"
+    ],
+    "25": [
+      "Cosmic Power"
+    ],
+    "30": [
+      "Psychic"
+    ],
+    "35": [
+      "Stone Edge"
+    ],
+    "40": [
+      "Solar Beam"
+    ],
+    "45": [
+      "Wonder Room"
+    ],
+    "50": [
+      "Explosion"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Ancient Power",
+    "Earth Power",
+    "Gravity",
+    "Heat Wave",
+    "Helping Hand",
+    "Iron Defense",
+    "Iron Head",
+    "Magic Coat",
+    "Pain Split",
+    "Signal Beam",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Baton Pass",
+    "Morning Sun",
+    "Rock Throw",
+    "Harden",
+    "Tackle",
+    "Laser Focus",
+    "Ally Switch",
+    "Telekinesis",
+    "Stomping Tantrum"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": [],
+  "tmMoves8": [
+    8,
+    9,
+    11,
+    13,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    24,
+    25,
+    32,
+    33,
+    34,
+    38,
+    39,
+    40,
+    41,
+    46,
+    48,
+    49,
+    54,
+    60,
+    70,
+    71,
+    76,
+    78,
+    81,
+    91,
+    98
+  ],
+  "trMoves": [
+    0,
+    1,
+    2,
+    10,
+    11,
+    15,
+    20,
+    25,
+    26,
+    27,
+    29,
+    33,
+    36,
+    40,
+    43,
+    44,
+    46,
+    49,
+    52,
+    55,
+    67,
+    69,
+    74,
+    75,
+    76,
+    77,
+    82,
+    83
+  ]
+}

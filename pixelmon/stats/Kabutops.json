@@ -1,0 +1,178 @@
+{
+  "pixelmonName": "Kabutops",
+  "pokemon": "Kabutops",
+  "stats": {
+    "HP": 60,
+    "Attack": 115,
+    "Defence": 105,
+    "Speed": 80,
+    "SpecialAttack": 65,
+    "SpecialDefence": 70
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 40,
+  "spawnLevelRange": 10,
+  "baseExp": 199,
+  "baseFriendship": 70,
+  "types": [
+    "Rock",
+    "Water"
+  ],
+  "height": 1.3,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Kabuto"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.35,
+      "z": -0.2
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.35,
+      "z": -0.2
+    }
+  },
+  "weight": 40.5,
+  "evolutions": [],
+  "abilities": [
+    "SwiftSwim",
+    "BattleArmour",
+    "WeakArmor"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Water3"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "0": [
+      "Night Slash",
+      "Feint",
+      "Scratch",
+      "Harden",
+      "Absorb",
+      "Leer",
+      "Slash"
+    ],
+    "6": [
+      "Absorb"
+    ],
+    "11": [
+      "Leer"
+    ],
+    "16": [
+      "Mud Shot"
+    ],
+    "21": [
+      "Sand Attack"
+    ],
+    "26": [
+      "Endure"
+    ],
+    "31": [
+      "Aqua Jet"
+    ],
+    "36": [
+      "Mega Drain"
+    ],
+    "45": [
+      "Metal Sound"
+    ],
+    "54": [
+      "Ancient Power"
+    ],
+    "63": [
+      "Wring Out"
+    ],
+    "72": [
+      "Night Slash"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Toxic",
+    "Double Team",
+    "Waterfall",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Hail",
+    "Facade",
+    "Nature Power",
+    "Brick Break",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Rock Polish",
+    "X-Scissor",
+    "Giga Impact",
+    "Stone Edge",
+    "Smack Down",
+    "Round",
+    "Scald",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Earth Power",
+    "Giga Drain",
+    "Icy Wind",
+    "Iron Defense",
+    "Knock Off",
+    "Liquidation",
+    "Low Kick",
+    "Snore",
+    "Stealth Rock",
+    "Superpower",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Aurora Beam",
+    "Bubble Beam",
+    "Confuse Ray",
+    "Flail",
+    "Foresight",
+    "Giga Drain",
+    "Icy Wind",
+    "Knock Off",
+    "Mud Shot",
+    "Rapid Spin",
+    "Screech",
+    "Take Down"
+  ],
+  "forms": {},
+  "form": 0
+}

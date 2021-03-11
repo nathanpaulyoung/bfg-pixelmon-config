@@ -1,0 +1,132 @@
+{
+  "pixelmonName": "Poipole",
+  "pokemon": "Poipole",
+  "stats": {
+    "HP": 67,
+    "Attack": 73,
+    "Defence": 67,
+    "Speed": 73,
+    "SpecialAttack": 73,
+    "SpecialDefence": 67
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 50,
+  "spawnLevelRange": 0,
+  "baseExp": 189,
+  "baseFriendship": 70,
+  "types": [
+    "Poison"
+  ],
+  "height": 0.6,
+  "width": 0.6,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Speed": 1
+  },
+  "hoverHeight": 0.5,
+  "weight": 1.8,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Naganadel"
+      },
+      "conditions": [
+        {
+          "attackIndex": 437,
+          "evoConditionType": "move"
+        }
+      ],
+      "evoType": "leveling",
+      "moves": [
+        "Air Cutter"
+      ]
+    }
+  ],
+  "abilities": [
+    "BeastBoost",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Dragon Pulse",
+      "Peck",
+      "Growl",
+      "Helping Hand",
+      "Acid"
+    ],
+    "7": [
+      "Fury Attack"
+    ],
+    "13": [
+      "Venoshock"
+    ],
+    "19": [
+      "Charm"
+    ],
+    "23": [
+      "Venom Drench"
+    ],
+    "31": [
+      "Nasty Plot"
+    ],
+    "37": [
+      "Poison Jab"
+    ],
+    "41": [
+      "Toxic"
+    ],
+    "47": [
+      "Fell Stinger"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Sludge Bomb",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Facade",
+    "Poison Jab",
+    "Venoshock",
+    "Sludge Wave",
+    "Round",
+    "Echoed Voice",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Dragon Pulse",
+    "Gastro Acid",
+    "Gunk Shot",
+    "Helping Hand",
+    "Iron Tail",
+    "Signal Beam",
+    "Snatch",
+    "Snore",
+    "Uproar"
+  ],
+  "forms": {},
+  "form": -1,
+  "eggMoves": []
+}

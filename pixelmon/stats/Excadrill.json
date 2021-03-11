@@ -1,0 +1,167 @@
+{
+  "pixelmonName": "Excadrill",
+  "pokemon": "Excadrill",
+  "stats": {
+    "HP": 110,
+    "Attack": 135,
+    "Defence": 60,
+    "Speed": 88,
+    "SpecialAttack": 50,
+    "SpecialDefence": 65
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 32,
+  "spawnLevelRange": 12,
+  "baseExp": 178,
+  "baseFriendship": 70,
+  "types": [
+    "Ground",
+    "Steel"
+  ],
+  "height": 0.7,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Drilbur"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.2,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.2,
+      "z": -0.3
+    }
+  },
+  "weight": 40.4,
+  "evolutions": [],
+  "abilities": [
+    "SandRush",
+    "SandForce",
+    "MoldBreaker"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Horn Drill"
+    ],
+    "1": [
+      "Horn Drill",
+      "Mud-Slap",
+      "Rapid Spin",
+      "Scratch",
+      "Hone Claws"
+    ],
+    "12": [
+      "Fury Swipes"
+    ],
+    "16": [
+      "Metal Claw"
+    ],
+    "20": [
+      "Sandstorm"
+    ],
+    "24": [
+      "Crush Claw"
+    ],
+    "28": [
+      "Rock Slide"
+    ],
+    "34": [
+      "Dig"
+    ],
+    "40": [
+      "Swords Dance"
+    ],
+    "46": [
+      "Drill Run"
+    ],
+    "52": [
+      "Earthquake"
+    ],
+    "58": [
+      "Fissure"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Drill Run",
+    "Earth Power",
+    "Iron Defense",
+    "Iron Head",
+    "Magnet Rise",
+    "Crush Claw",
+    "Metal Sound",
+    "Mud Sport",
+    "Rapid Spin",
+    "Slash",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    15,
+    21,
+    22,
+    24,
+    25,
+    31,
+    32,
+    39,
+    43,
+    48,
+    49,
+    53,
+    54,
+    59,
+    65,
+    76,
+    81,
+    96,
+    97,
+    98
+  ],
+  "trMoves": [
+    0,
+    10,
+    20,
+    22,
+    26,
+    27,
+    46,
+    57,
+    60,
+    64,
+    67,
+    74,
+    76,
+    87,
+    94
+  ]
+}

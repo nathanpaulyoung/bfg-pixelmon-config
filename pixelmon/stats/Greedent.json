@@ -1,0 +1,139 @@
+{
+  "pixelmonName": "Greedent",
+  "pokemon": "Greedent",
+  "stats": {
+    "HP": 120,
+    "Attack": 95,
+    "Defence": 95,
+    "SpecialAttack": 55,
+    "SpecialDefence": 75,
+    "Speed": 20
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 24,
+  "spawnLevelRange": 20,
+  "baseExp": 161,
+  "baseFriendship": 50,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Skwovet"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 6.0,
+  "evolutions": [],
+  "abilities": [
+    "CheekPouch",
+    null,
+    "Gluttony"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Covet"
+    ],
+    "1": [
+      "Covet",
+      "Tackle",
+      "Tail Whip",
+      "Bite",
+      "Stuff Cheeks"
+    ],
+    "15": [
+      "Stockpile",
+      "Swallow",
+      "Spit Up"
+    ],
+    "20": [
+      "Body Slam"
+    ],
+    "27": [
+      "Rest"
+    ],
+    "34": [
+      "Counter"
+    ],
+    "41": [
+      "Bullet Seed"
+    ],
+    "48": [
+      "Super Fang"
+    ],
+    "55": [
+      "Belch"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Belly Drum",
+    "Defense Curl",
+    "Last Resort",
+    "Rollout"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    15,
+    21,
+    23,
+    24,
+    25,
+    31,
+    39,
+    50,
+    53,
+    57,
+    58,
+    59,
+    66,
+    67,
+    68,
+    76,
+    84,
+    97,
+    98
+  ],
+  "trMoves": [
+    0,
+    1,
+    10,
+    17,
+    20,
+    26,
+    27,
+    31,
+    32,
+    35,
+    39,
+    42,
+    52,
+    59,
+    86,
+    97,
+    99
+  ]
+}

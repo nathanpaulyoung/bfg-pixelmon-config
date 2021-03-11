@@ -1,0 +1,201 @@
+{
+  "pixelmonName": "Onix",
+  "pokemon": "Onix",
+  "stats": {
+    "HP": 35,
+    "Attack": 45,
+    "Defence": 160,
+    "Speed": 70,
+    "SpecialAttack": 30,
+    "SpecialDefence": 45
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 40,
+  "baseExp": 108,
+  "baseFriendship": 70,
+  "types": [
+    "Rock",
+    "Ground"
+  ],
+  "height": 5.0,
+  "width": 2.0,
+  "length": 3.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.2,
+      "z": -1.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.3,
+      "z": 1.0
+    }
+  },
+  "weight": 210.0,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Steelix"
+      },
+      "conditions": [
+        {
+          "item": {
+            "itemID": "pixelmon:metal_coat"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "trade"
+    }
+  ],
+  "abilities": [
+    "RockHead",
+    "Sturdy",
+    "WeakArmor"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "1": [
+      "Tackle",
+      "Harden",
+      "Bind",
+      "Rock Throw"
+    ],
+    "4": [
+      "Smack Down"
+    ],
+    "8": [
+      "Rock Polish"
+    ],
+    "12": [
+      "Dragon Breath"
+    ],
+    "16": [
+      "Curse"
+    ],
+    "20": [
+      "Rock Slide"
+    ],
+    "24": [
+      "Screech"
+    ],
+    "28": [
+      "Sand Tomb"
+    ],
+    "32": [
+      "Stealth Rock"
+    ],
+    "36": [
+      "Slam"
+    ],
+    "40": [
+      "Sandstorm"
+    ],
+    "44": [
+      "Dig"
+    ],
+    "48": [
+      "Iron Tail"
+    ],
+    "52": [
+      "Stone Edge"
+    ],
+    "56": [
+      "Double-Edge"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Ancient Power",
+    "Bind",
+    "Block",
+    "Earth Power",
+    "Iron Head",
+    "Twister",
+    "Flail",
+    "Mud Sport",
+    "Rock Throw",
+    "Sharpen",
+    "Harden",
+    "Tackle",
+    "Screech",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [
+    "Flail",
+    "Block",
+    "Defense Curl",
+    "Wide Guard",
+    "Rollout",
+    "Dragon Tail",
+    "Head Smash"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    15,
+    16,
+    20,
+    21,
+    22,
+    24,
+    25,
+    26,
+    31,
+    32,
+    34,
+    39,
+    48,
+    49,
+    54,
+    57,
+    76,
+    81,
+    97,
+    98,
+    99
+  ],
+  "trMoves": [
+    1,
+    10,
+    20,
+    26,
+    27,
+    31,
+    37,
+    51,
+    52,
+    62,
+    67,
+    70,
+    74,
+    75,
+    76,
+    79,
+    87,
+    94,
+    99
+  ]
+}

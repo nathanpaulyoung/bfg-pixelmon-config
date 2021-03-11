@@ -1,0 +1,154 @@
+{
+  "pixelmonName": "Dwebble",
+  "pokemon": "Dwebble",
+  "stats": {
+    "HP": 50,
+    "Attack": 65,
+    "Defence": 85,
+    "Speed": 55,
+    "SpecialAttack": 35,
+    "SpecialDefence": 35
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 29,
+  "baseExp": 65,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Rock"
+  ],
+  "height": 0.3,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 14.5,
+  "evolutions": [
+    {
+      "level": 34,
+      "to": {
+        "name": "Crustle"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Sturdy",
+    "ShellArmour",
+    "WeakArmor"
+  ],
+  "eggGroups": [
+    "Bug",
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Fury Cutter",
+      "Sand Attack"
+    ],
+    "4": [
+      "Withdraw"
+    ],
+    "8": [
+      "Smack Down"
+    ],
+    "12": [
+      "Bug Bite"
+    ],
+    "16": [
+      "Flail"
+    ],
+    "20": [
+      "Slash"
+    ],
+    "24": [
+      "Rock Slide"
+    ],
+    "28": [
+      "Stealth Rock"
+    ],
+    "32": [
+      "Rock Blast"
+    ],
+    "36": [
+      "X-Scissor"
+    ],
+    "40": [
+      "Rock Polish"
+    ],
+    "44": [
+      "Shell Smash"
+    ],
+    "48": [
+      "Rock Wrecker"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Block",
+    "Bug Bite",
+    "Iron Defense",
+    "Knock Off",
+    "Feint Attack",
+    "Flail",
+    "Slash"
+  ],
+  "eggMoves": [
+    "Night Slash",
+    "Counter",
+    "Curse",
+    "Block",
+    "Wide Guard",
+    "Knock Off"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    11,
+    15,
+    21,
+    22,
+    24,
+    25,
+    31,
+    32,
+    39,
+    48,
+    49,
+    54,
+    65,
+    76,
+    81
+  ],
+  "trMoves": [
+    0,
+    10,
+    20,
+    23,
+    26,
+    27,
+    46,
+    57,
+    60,
+    75,
+    76
+  ]
+}

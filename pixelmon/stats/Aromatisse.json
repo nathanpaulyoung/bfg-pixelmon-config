@@ -1,0 +1,153 @@
+{
+  "pixelmonName": "Aromatisse",
+  "pokemon": "Aromatisse",
+  "stats": {
+    "HP": 101,
+    "Attack": 72,
+    "Defence": 72,
+    "Speed": 29,
+    "SpecialAttack": 99,
+    "SpecialDefence": 89
+  },
+  "catchRate": 140,
+  "malePercent": 50,
+  "spawnLevel": 36,
+  "spawnLevelRange": 12,
+  "baseExp": 162,
+  "baseFriendship": 0,
+  "types": [
+    "Fairy"
+  ],
+  "height": 0.8,
+  "width": 0.8,
+  "length": 0.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Spritzee"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 15.5,
+  "evolutions": [],
+  "abilities": [
+    "Healer",
+    null,
+    "AromaVeil"
+  ],
+  "eggGroups": [
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Aromatic Mist",
+      "Heal Pulse",
+      "Fairy Wind",
+      "Sweet Scent",
+      "Sweet Kiss",
+      "Echoed Voice"
+    ],
+    "9": [
+      "Disarming Voice"
+    ],
+    "12": [
+      "Aromatherapy"
+    ],
+    "15": [
+      "Draining Kiss"
+    ],
+    "18": [
+      "Attract"
+    ],
+    "21": [
+      "Flail"
+    ],
+    "24": [
+      "Misty Terrain"
+    ],
+    "27": [
+      "Psychic"
+    ],
+    "30": [
+      "Charm"
+    ],
+    "33": [
+      "Calm Mind"
+    ],
+    "36": [
+      "Moonblast"
+    ],
+    "39": [
+      "Skill Swap"
+    ],
+    "42": [
+      "Psych Up"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "After You",
+    "Covet",
+    "Endeavor",
+    "Heal Bell",
+    "Helping Hand",
+    "Magic Coat",
+    "Ally Switch",
+    "Telekinesis"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    17,
+    18,
+    21,
+    24,
+    25,
+    29,
+    31,
+    33,
+    34,
+    39,
+    41,
+    47,
+    63,
+    70,
+    76,
+    87,
+    89
+  ],
+  "trMoves": [
+    8,
+    9,
+    11,
+    14,
+    20,
+    25,
+    26,
+    27,
+    30,
+    40,
+    49,
+    52,
+    65,
+    68,
+    70,
+    83,
+    92
+  ]
+}

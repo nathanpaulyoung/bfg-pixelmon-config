@@ -1,0 +1,153 @@
+{
+  "pixelmonName": "Tsareena",
+  "pokemon": "Tsareena",
+  "stats": {
+    "HP": 72,
+    "Attack": 120,
+    "Defence": 98,
+    "Speed": 72,
+    "SpecialAttack": 50,
+    "SpecialDefence": 98
+  },
+  "catchRate": 45,
+  "malePercent": 0,
+  "spawnLevel": 30,
+  "spawnLevelRange": 30,
+  "baseExp": 230,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 1.2,
+  "width": 1.2,
+  "length": 1.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Bounsweet",
+    "Steenee"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 3
+  },
+  "weight": 21.4,
+  "evolutions": [],
+  "abilities": [
+    "LeafGuard",
+    "QueenlyMajesty",
+    "SweetVeil"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Trop Kick"
+    ],
+    "1": [
+      "Trop Kick",
+      "Power Whip",
+      "Flail",
+      "Play Nice",
+      "Splash",
+      "Swagger",
+      "Rapid Spin",
+      "Razor Leaf"
+    ],
+    "16": [
+      "Sweet Scent"
+    ],
+    "22": [
+      "Magical Leaf"
+    ],
+    "28": [
+      "Stomp"
+    ],
+    "34": [
+      "Teeter Dance"
+    ],
+    "40": [
+      "Aromatic Mist"
+    ],
+    "46": [
+      "Aromatherapy"
+    ],
+    "52": [
+      "Leaf Storm"
+    ],
+    "58": [
+      "High Jump Kick"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Seed Bomb",
+    "Bounce",
+    "Low Kick",
+    "Zen Headbutt",
+    "Snore",
+    "Knock Off",
+    "Synthesis",
+    "Giga Drain",
+    "Worry Seed",
+    "Helping Hand",
+    "Endeavor",
+    "Laser Focus"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    1,
+    8,
+    9,
+    10,
+    11,
+    12,
+    17,
+    18,
+    19,
+    21,
+    24,
+    25,
+    28,
+    29,
+    31,
+    34,
+    39,
+    41,
+    52,
+    56,
+    57,
+    59,
+    75,
+    76,
+    78,
+    87
+  ],
+  "trMoves": [
+    7,
+    20,
+    26,
+    27,
+    37,
+    59,
+    65,
+    69,
+    71,
+    72,
+    77,
+    90,
+    92
+  ]
+}

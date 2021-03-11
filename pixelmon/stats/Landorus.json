@@ -1,0 +1,207 @@
+{
+  "pixelmonName": "Landorus",
+  "pokemon": "Landorus",
+  "stats": {
+    "HP": 89,
+    "Attack": 125,
+    "Defence": 90,
+    "Speed": 101,
+    "SpecialAttack": 115,
+    "SpecialDefence": 80
+  },
+  "catchRate": 3,
+  "malePercent": 100,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 270,
+  "baseFriendship": 90,
+  "types": [
+    "Ground",
+    "Flying"
+  ],
+  "height": 2.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 20,
+    "flyHeightMax": 50,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "hoverHeight": 1.0,
+  "weight": 68.0,
+  "evolutions": [],
+  "abilities": [
+    "SandForce",
+    null,
+    "SheerForce"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Outrage",
+      "Hammer Arm",
+      "Fissure",
+      "Block",
+      "Mud Shot",
+      "Rock Tomb",
+      "Imprison"
+    ],
+    "7": [
+      "Punishment"
+    ],
+    "13": [
+      "Bulldoze"
+    ],
+    "19": [
+      "Rock Throw"
+    ],
+    "25": [
+      "Extrasensory"
+    ],
+    "31": [
+      "Swords Dance"
+    ],
+    "37": [
+      "Earth Power"
+    ],
+    "43": [
+      "Rock Slide"
+    ],
+    "49": [
+      "Earthquake"
+    ],
+    "55": [
+      "Sandstorm"
+    ],
+    "61": [
+      "Fissure"
+    ],
+    "67": [
+      "Stone Edge"
+    ],
+    "73": [
+      "Hammer Arm"
+    ],
+    "79": [
+      "Outrage"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Fly",
+    "Hyper Beam",
+    "Earthquake",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Explosion",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Bulk Up",
+    "Calm Mind",
+    "U-Turn",
+    "Payback",
+    "Fling",
+    "Rock Polish",
+    "Focus Blast",
+    "Giga Impact",
+    "Stone Edge",
+    "Grass Knot",
+    "Smack Down",
+    "Sludge Wave",
+    "Round",
+    "Bulldoze",
+    "Confide",
+    "Brutal Swing"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Defog",
+    "Earth Power",
+    "Gravity",
+    "Iron Tail",
+    "Knock Off",
+    "Outrage",
+    "Role Play",
+    "Snore",
+    "Stealth Rock",
+    "Superpower"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 89,
+        "Attack": 145,
+        "Defence": 90,
+        "Speed": 91,
+        "SpecialAttack": 105,
+        "SpecialDefence": 80
+      },
+      "width": 1.5,
+      "length": 2.0,
+      "isRideable": true,
+      "evYields": {
+        "Attack": 3
+      },
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": 0.4
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": 0.4
+        }
+      },
+      "abilities": [
+        "Intimidate",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": 0,
+  "eggMoves": []
+}

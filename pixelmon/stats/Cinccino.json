@@ -1,0 +1,145 @@
+{
+  "pixelmonName": "Cinccino",
+  "pokemon": "Cinccino",
+  "stats": {
+    "HP": 75,
+    "Attack": 95,
+    "Defence": 60,
+    "Speed": 115,
+    "SpecialAttack": 65,
+    "SpecialDefence": 60
+  },
+  "catchRate": 255,
+  "malePercent": 25,
+  "spawnLevel": 25,
+  "spawnLevelRange": 12,
+  "baseExp": 165,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Minccino"
+  ],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 7.5,
+  "evolutions": [],
+  "abilities": [
+    "CuteCharm",
+    "Technician",
+    "SkillLink"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "1": [
+      "Bullet Seed",
+      "Rock Blast",
+      "Sing",
+      "Charm",
+      "Swift",
+      "Encore",
+      "After You",
+      "Tail Slap",
+      "Tickle",
+      "Slam",
+      "Hyper Voice",
+      "Last Resort",
+      "Pound",
+      "Baby-Doll Eyes",
+      "Helping Hand",
+      "Echoed Voice"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "After You",
+    "Aqua Tail",
+    "Covet",
+    "Gunk Shot",
+    "Helping Hand",
+    "Hyper Voice",
+    "Knock Off",
+    "Last Resort",
+    "Seed Bomb",
+    "Uproar",
+    "Charm",
+    "Double Slap",
+    "Encore",
+    "Flail",
+    "Sing",
+    "Tickle",
+    "Charm",
+    "Double Slap",
+    "Encore",
+    "Laser Focus"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    14,
+    15,
+    17,
+    19,
+    21,
+    23,
+    24,
+    25,
+    29,
+    31,
+    33,
+    34,
+    39,
+    40,
+    41,
+    47,
+    50,
+    54,
+    56,
+    59,
+    76,
+    79,
+    84
+  ],
+  "trMoves": [
+    8,
+    9,
+    20,
+    26,
+    27,
+    30,
+    31,
+    35,
+    42,
+    49,
+    59,
+    64,
+    73,
+    77,
+    85,
+    90,
+    92
+  ]
+}

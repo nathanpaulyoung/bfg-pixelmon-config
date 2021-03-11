@@ -1,0 +1,144 @@
+{
+  "pixelmonName": "Impidimp",
+  "pokemon": "Impidimp",
+  "form": 0,
+  "stats": {
+    "HP": 45,
+    "Attack": 45,
+    "Defence": 30,
+    "SpecialAttack": 55,
+    "SpecialDefence": 40,
+    "Speed": 50
+  },
+  "catchRate": 255,
+  "malePercent": 100,
+  "spawnLevel": 21,
+  "spawnLevelRange": 10,
+  "baseExp": 53,
+  "baseFriendship": 50,
+  "types": [
+    "Dark",
+    "Fairy"
+  ],
+  "height": 1.0,
+  "width": 0.8,
+  "length": 0.9,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 5.5,
+  "evolutions": [
+    {
+      "level": 32,
+      "to": {
+        "name": "Morgrem"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "False Surrender"
+      ]
+    }
+  ],
+  "abilities": [
+    "Prankster",
+    "Frisk",
+    "Pickpocket"
+  ],
+  "eggGroups": [
+    "Fairy",
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Fake Out",
+      "Confide"
+    ],
+    "4": [
+      "Bite"
+    ],
+    "8": [
+      "Flatter"
+    ],
+    "12": [
+      "Fake Tears"
+    ],
+    "16": [
+      "Assurance"
+    ],
+    "20": [
+      "Swagger"
+    ],
+    "24": [
+      "Sucker Punch"
+    ],
+    "28": [
+      "Torment"
+    ],
+    "33": [
+      "Dark Pulse"
+    ],
+    "36": [
+      "Nasty Plot"
+    ],
+    "40": [
+      "Play Rough"
+    ],
+    "44": [
+      "Foul Play"
+    ]
+  },
+  "tutorMoves": [
+    "Burning Jealousy",
+    "Lash Out"
+  ],
+  "eggMoves": [],
+  "tmMoves8": [
+    0,
+    1,
+    14,
+    21,
+    23,
+    24,
+    25,
+    31,
+    39,
+    42,
+    47,
+    58,
+    63,
+    76,
+    79,
+    87
+  ],
+  "trMoves": [
+    7,
+    14,
+    18,
+    20,
+    26,
+    27,
+    35,
+    37,
+    38,
+    58,
+    68,
+    81,
+    90,
+    92
+  ]
+}

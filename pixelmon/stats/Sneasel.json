@@ -1,0 +1,188 @@
+{
+  "pixelmonName": "Sneasel",
+  "pokemon": "Sneasel",
+  "stats": {
+    "HP": 55,
+    "Attack": 95,
+    "Defence": 55,
+    "Speed": 115,
+    "SpecialAttack": 35,
+    "SpecialDefence": 75
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 30,
+  "baseExp": 132,
+  "baseFriendship": 35,
+  "types": [
+    "Dark",
+    "Ice"
+  ],
+  "height": 0.9,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 28.0,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Weavile"
+      },
+      "conditions": [
+        {
+          "item": {
+            "itemID": "pixelmon:razor_claw"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "InnerFocus",
+    "KeenEye",
+    "Pickpocket"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Scratch",
+      "Leer"
+    ],
+    "6": [
+      "Taunt"
+    ],
+    "12": [
+      "Quick Attack"
+    ],
+    "18": [
+      "Metal Claw"
+    ],
+    "24": [
+      "Icy Wind"
+    ],
+    "30": [
+      "Fury Swipes"
+    ],
+    "36": [
+      "Hone Claws"
+    ],
+    "42": [
+      "Beat Up"
+    ],
+    "48": [
+      "Agility"
+    ],
+    "54": [
+      "Screech"
+    ],
+    "60": [
+      "Slash"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Foul Play",
+    "Knock Off",
+    "Low Kick",
+    "Spite",
+    "Agility",
+    "Beat Up",
+    "Bite",
+    "Crush Claw",
+    "Feint Attack",
+    "Fake Out",
+    "Foresight",
+    "Moonlight",
+    "Pursuit",
+    "Slash",
+    "Leer",
+    "Screech",
+    "Throat Chop"
+  ],
+  "eggMoves": [
+    "Counter",
+    "Spite",
+    "Bite",
+    "Fake Out",
+    "Double Hit",
+    "Ice Shard",
+    "Feint",
+    "Icicle Crash"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    0,
+    1,
+    4,
+    15,
+    16,
+    18,
+    21,
+    23,
+    24,
+    25,
+    27,
+    31,
+    33,
+    34,
+    35,
+    36,
+    37,
+    39,
+    40,
+    43,
+    47,
+    57,
+    59,
+    64,
+    65,
+    69,
+    75,
+    76,
+    79,
+    85,
+    94
+  ],
+  "trMoves": [
+    0,
+    4,
+    5,
+    6,
+    7,
+    12,
+    20,
+    26,
+    27,
+    31,
+    33,
+    37,
+    49,
+    57,
+    58,
+    60,
+    81,
+    95
+  ]
+}

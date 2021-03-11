@@ -1,0 +1,192 @@
+{
+  "pixelmonName": "Manectric",
+  "pokemon": "Manectric",
+  "stats": {
+    "HP": 70,
+    "Attack": 75,
+    "Defence": 60,
+    "Speed": 105,
+    "SpecialAttack": 105,
+    "SpecialDefence": 60
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 40,
+  "spawnLevelRange": 10,
+  "baseExp": 168,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 1.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Electrike"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.8,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.8,
+      "z": -0.6
+    }
+  },
+  "weight": 40.2,
+  "evolutions": [],
+  "abilities": [
+    "Static",
+    "LightningRod",
+    "Minus"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Fire Fang",
+      "Tackle",
+      "Thunder Wave",
+      "Leer",
+      "Howl"
+    ],
+    "12": [
+      "Quick Attack"
+    ],
+    "16": [
+      "Shock Wave"
+    ],
+    "20": [
+      "Bite"
+    ],
+    "24": [
+      "Thunder Fang"
+    ],
+    "30": [
+      "Roar"
+    ],
+    "36": [
+      "Discharge"
+    ],
+    "42": [
+      "Charge"
+    ],
+    "48": [
+      "Wild Charge"
+    ],
+    "54": [
+      "Thunder"
+    ],
+    "60": [
+      "Electric Terrain"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Magnet Rise",
+    "Signal Beam",
+    "Uproar",
+    "Bite",
+    "Howl",
+    "Refresh",
+    "Tackle",
+    "Leer",
+    "Refresh",
+    "Laser Focus"
+  ],
+  "eggMoves": [],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 70,
+        "Attack": 75,
+        "Defence": 80,
+        "Speed": 135,
+        "SpecialAttack": 135,
+        "SpecialDefence": 80
+      },
+      "height": 1.8,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "moving": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "weight": 44.0,
+      "abilities": [
+        "Intimidate",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    14,
+    17,
+    21,
+    23,
+    24,
+    25,
+    26,
+    31,
+    33,
+    39,
+    40,
+    66,
+    67,
+    68,
+    76,
+    80,
+    85,
+    90,
+    93
+  ],
+  "trMoves": [
+    1,
+    2,
+    8,
+    9,
+    12,
+    20,
+    26,
+    27,
+    31,
+    32,
+    35,
+    42,
+    43,
+    80,
+    86,
+    97
+  ]
+}

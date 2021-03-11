@@ -1,0 +1,192 @@
+{
+  "pixelmonName": "Lairon",
+  "pokemon": "Lairon",
+  "stats": {
+    "HP": 60,
+    "Attack": 90,
+    "Defence": 140,
+    "Speed": 40,
+    "SpecialAttack": 50,
+    "SpecialDefence": 50
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 40,
+  "spawnLevelRange": 20,
+  "baseExp": 152,
+  "baseFriendship": 35,
+  "types": [
+    "Steel",
+    "Rock"
+  ],
+  "height": 0.9,
+  "width": 1.0,
+  "length": 2.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Aron"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 0,
+    "passive": 50,
+    "aggressive": 50
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.25,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.25,
+      "z": 0.0
+    }
+  },
+  "weight": 120.0,
+  "evolutions": [
+    {
+      "level": 42,
+      "to": {
+        "name": "Aggron"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Sturdy",
+    "RockHead",
+    "HeavyMetal"
+  ],
+  "eggGroups": [
+    "Monster"
+  ],
+  "eggCycles": 36,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Harden",
+      "Mud-Slap",
+      "Headbutt"
+    ],
+    "4": [
+      "Mud-Slap"
+    ],
+    "7": [
+      "Headbutt"
+    ],
+    "10": [
+      "Metal Claw"
+    ],
+    "13": [
+      "Rock Tomb"
+    ],
+    "16": [
+      "Protect"
+    ],
+    "19": [
+      "Roar"
+    ],
+    "22": [
+      "Iron Head"
+    ],
+    "25": [
+      "Rock Slide"
+    ],
+    "28": [
+      "Take Down"
+    ],
+    "31": [
+      "Metal Sound"
+    ],
+    "35": [
+      "Iron Tail"
+    ],
+    "39": [
+      "Iron Defense"
+    ],
+    "43": [
+      "Double-Edge"
+    ],
+    "47": [
+      "Autotomize"
+    ],
+    "51": [
+      "Heavy Slam"
+    ],
+    "55": [
+      "Metal Burst"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Rock Polish",
+    "Shadow Claw",
+    "Stone Edge",
+    "Round",
+    "Bulldoze",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Earth Power",
+    "Endeavor",
+    "Iron Defense",
+    "Iron Head",
+    "Iron Tail",
+    "Magnet Rise",
+    "Shock Wave",
+    "Snore",
+    "Spite",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Superpower",
+    "Uproar",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Body Slam",
+    "Curse",
+    "Dragon Rush",
+    "Endeavor",
+    "Head Smash",
+    "Iron Head",
+    "Reversal",
+    "Screech",
+    "Smelling Salts",
+    "Stealth Rock",
+    "Stomp",
+    "Superpower"
+  ],
+  "forms": {},
+  "form": 0
+}

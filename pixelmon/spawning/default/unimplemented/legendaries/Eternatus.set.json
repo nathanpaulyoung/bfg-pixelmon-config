@@ -1,0 +1,25 @@
+{
+  "id": "Eternatus",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Eternatus",
+        "level": 70
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "end"
+        ]
+      },
+      "rarity": 3.0
+    }
+  ]
+}

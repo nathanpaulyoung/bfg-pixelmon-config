@@ -1,0 +1,221 @@
+{
+  "pixelmonName": "Rayquaza",
+  "pokemon": "Rayquaza",
+  "stats": {
+    "HP": 105,
+    "Attack": 150,
+    "Defence": 90,
+    "Speed": 95,
+    "SpecialAttack": 150,
+    "SpecialDefence": 90
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 220,
+  "baseFriendship": 0,
+  "types": [
+    "Dragon",
+    "Flying"
+  ],
+  "height": 3.0,
+  "width": 3.0,
+  "length": 7.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 30,
+    "flyHeightMax": 50,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 400,
+    "flyRefreshRateSpeed": 400,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "Attack": 2,
+    "SpecialAttack": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.25,
+      "z": 0.1
+    }
+  },
+  "hoverHeight": 1.0,
+  "weight": 206.5,
+  "evolutions": [],
+  "abilities": [
+    "AirLock",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Twister"
+    ],
+    "5": [
+      "Scary Face"
+    ],
+    "15": [
+      "Ancient Power"
+    ],
+    "20": [
+      "Crunch"
+    ],
+    "30": [
+      "Air Slash"
+    ],
+    "35": [
+      "Rest"
+    ],
+    "45": [
+      "Extreme Speed"
+    ],
+    "50": [
+      "Dragon Pulse"
+    ],
+    "60": [
+      "Dragon Dance"
+    ],
+    "65": [
+      "Fly"
+    ],
+    "75": [
+      "Hyper Voice"
+    ],
+    "80": [
+      "Outrage"
+    ],
+    "90": [
+      "Hyper Beam"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Fly",
+    "Roar",
+    "Flamethrower",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Fire Blast",
+    "Waterfall",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Facade",
+    "Brick Break",
+    "Overheat",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Dragon Claw",
+    "Bulk Up",
+    "Gyro Ball",
+    "Fling",
+    "Focus Blast",
+    "Energy Ball",
+    "Giga Impact",
+    "Shadow Claw",
+    "Stone Edge",
+    "Round",
+    "Echoed Voice",
+    "Sky Drop",
+    "Bulldoze",
+    "Dragon Tail",
+    "Confide",
+    "Brutal Swing"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bind",
+    "Defog",
+    "Draco Meteor",
+    "Dragon Ascent",
+    "Dragon Pulse",
+    "Earth Power",
+    "Hyper Voice",
+    "Icy Wind",
+    "Iron Head",
+    "Iron Tail",
+    "Outrage",
+    "Shock Wave",
+    "Snore",
+    "Tailwind",
+    "Uproar",
+    "Water Pulse"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 105,
+        "Attack": 180,
+        "Defence": 100,
+        "Speed": 115,
+        "SpecialAttack": 180,
+        "SpecialDefence": 100
+      },
+      "height": 5.0,
+      "width": 5.0,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -0.2,
+          "z": -0.1
+        },
+        "moving": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": -0.1
+        }
+      },
+      "weight": 392.0,
+      "abilities": [
+        "DeltaStream",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": 0,
+  "eggMoves": []
+}

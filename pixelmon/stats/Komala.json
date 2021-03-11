@@ -1,0 +1,133 @@
+{
+  "pixelmonName": "Komala",
+  "pokemon": "Komala",
+  "stats": {
+    "HP": 65,
+    "Attack": 115,
+    "Defence": 65,
+    "Speed": 65,
+    "SpecialAttack": 75,
+    "SpecialDefence": 95
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 25,
+  "baseExp": 168,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.4,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 19.9,
+  "evolutions": [],
+  "abilities": [
+    "Comatose",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Defense Curl",
+      "Rollout"
+    ],
+    "6": [
+      "Stockpile",
+      "Spit Up",
+      "Swallow"
+    ],
+    "11": [
+      "Rapid Spin"
+    ],
+    "16": [
+      "Yawn"
+    ],
+    "21": [
+      "Slam"
+    ],
+    "26": [
+      "Flail"
+    ],
+    "31": [
+      "Sucker Punch"
+    ],
+    "36": [
+      "Psych Up"
+    ],
+    "41": [
+      "Wood Hammer"
+    ],
+    "46": [
+      "Thrash"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Psych Up",
+    "Facade",
+    "Brick Break",
+    "Bulk Up",
+    "Calm Mind",
+    "U-Turn",
+    "Payback",
+    "Shadow Claw",
+    "Low Sweep",
+    "Round",
+    "Quash",
+    "Acrobatics",
+    "Bulldoze",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Endeavor",
+    "Iron Head",
+    "Knock Off",
+    "Last Resort",
+    "Snore",
+    "Stomping Tantrum",
+    "Superpower",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Charm",
+    "Play Rough",
+    "Sing",
+    "Wish"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,150 @@
+{
+  "pixelmonName": "Rookidee",
+  "pokemon": "Rookidee",
+  "stats": {
+    "HP": 38,
+    "Attack": 47,
+    "Defence": 35,
+    "SpecialAttack": 33,
+    "SpecialDefence": 35,
+    "Speed": 57
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 8,
+  "spawnLevelRange": 10,
+  "baseExp": 49,
+  "baseFriendship": 50,
+  "types": [
+    "Flying"
+  ],
+  "height": 0.2,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 10,
+    "flySpeedModifier": 0.6,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 1.8,
+  "evolutions": [
+    {
+      "level": 18,
+      "to": {
+        "name": "Corvisquire"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "KeenEye",
+    "Unnerve",
+    "BigPecks"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "1": [
+      "Peck",
+      "Leer"
+    ],
+    "4": [
+      "Power Trip"
+    ],
+    "8": [
+      "Hone Claws"
+    ],
+    "12": [
+      "Fury Attack"
+    ],
+    "16": [
+      "Pluck"
+    ],
+    "20": [
+      "Taunt"
+    ],
+    "24": [
+      "Scary Face"
+    ],
+    "28": [
+      "Drill Peck"
+    ],
+    "32": [
+      "Swagger"
+    ],
+    "36": [
+      "Brave Bird"
+    ]
+  },
+  "tutorMoves": [
+    "Dual Wingbeat"
+  ],
+  "eggMoves": [
+    "Defog",
+    "Rock Smash",
+    "Roost",
+    "Sand Attack",
+    "Sky Attack",
+    "Spite",
+    "Tailwind"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    6,
+    21,
+    23,
+    24,
+    25,
+    26,
+    31,
+    39,
+    40,
+    42,
+    47,
+    56,
+    57,
+    58,
+    76,
+    79,
+    95
+  ],
+  "trMoves": [
+    12,
+    13,
+    20,
+    21,
+    26,
+    27,
+    37,
+    66,
+    68,
+    85
+  ]
+}

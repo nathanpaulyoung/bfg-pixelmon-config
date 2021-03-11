@@ -1,0 +1,203 @@
+{
+  "pixelmonName": "Bronzor",
+  "pokemon": "Bronzor",
+  "stats": {
+    "HP": 57,
+    "Attack": 24,
+    "Defence": 86,
+    "Speed": 23,
+    "SpecialAttack": 24,
+    "SpecialDefence": 86
+  },
+  "catchRate": 255,
+  "malePercent": -1,
+  "spawnLevel": 20,
+  "spawnLevelRange": 10,
+  "baseExp": 72,
+  "baseFriendship": 70,
+  "types": [
+    "Steel",
+    "Psychic"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 60.5,
+  "evolutions": [
+    {
+      "level": 33,
+      "to": {
+        "name": "Bronzong"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Block"
+      ]
+    }
+  ],
+  "abilities": [
+    "Levitate",
+    "Heatproof",
+    "HeavyMetal"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Tackle",
+      "Confusion"
+    ],
+    "4": [
+      "Confuse Ray"
+    ],
+    "8": [
+      "Payback"
+    ],
+    "12": [
+      "Imprison"
+    ],
+    "16": [
+      "Gyro Ball"
+    ],
+    "20": [
+      "Hypnosis"
+    ],
+    "24": [
+      "Safeguard"
+    ],
+    "28": [
+      "Extrasensory"
+    ],
+    "32": [
+      "Heavy Slam"
+    ],
+    "36": [
+      "Iron Defense"
+    ],
+    "40": [
+      "Metal Sound"
+    ],
+    "44": [
+      "Future Sight"
+    ]
+  },
+  "tmMoves": [
+    "Solar Beam",
+    "Earthquake",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Light Screen",
+    "Reflect",
+    "Dream Eater",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Shadow Ball",
+    "Facade",
+    "Rock Tomb",
+    "Calm Mind",
+    "Gyro Ball",
+    "Payback",
+    "Rock Polish",
+    "Flash Cannon",
+    "Trick Room",
+    "Grass Knot",
+    "Charge Beam",
+    "Psyshock",
+    "Round",
+    "Bulldoze",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Ally Switch",
+    "Gravity",
+    "Iron Defense",
+    "Recycle",
+    "Signal Beam",
+    "Skill Swap",
+    "Snore",
+    "Stealth Rock",
+    "Telekinesis",
+    "Trick",
+    "Wonder Room"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": [],
+  "tmMoves8": [
+    11,
+    17,
+    18,
+    19,
+    21,
+    22,
+    24,
+    25,
+    32,
+    33,
+    34,
+    39,
+    44,
+    48,
+    57,
+    60,
+    61,
+    62,
+    70,
+    71,
+    76,
+    77,
+    81
+  ],
+  "trMoves": [
+    10,
+    11,
+    20,
+    25,
+    26,
+    27,
+    33,
+    34,
+    38,
+    40,
+    46,
+    49,
+    52,
+    70,
+    76,
+    77,
+    79,
+    83
+  ]
+}

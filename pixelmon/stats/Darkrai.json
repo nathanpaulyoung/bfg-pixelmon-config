@@ -1,0 +1,155 @@
+{
+  "pixelmonName": "Darkrai",
+  "pokemon": "Darkrai",
+  "stats": {
+    "HP": 70,
+    "Attack": 90,
+    "Defence": 90,
+    "Speed": 125,
+    "SpecialAttack": 135,
+    "SpecialDefence": 90
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 270,
+  "baseFriendship": 0,
+  "types": [
+    "Dark"
+  ],
+  "height": 1.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2,
+    "Speed": 1
+  },
+  "weight": 50.5,
+  "evolutions": [],
+  "abilities": [
+    "BadDreams",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Ominous Wind",
+      "Disable"
+    ],
+    "11": [
+      "Quick Attack"
+    ],
+    "20": [
+      "Hypnosis"
+    ],
+    "29": [
+      "Feint Attack"
+    ],
+    "38": [
+      "Nightmare"
+    ],
+    "47": [
+      "Double Team"
+    ],
+    "57": [
+      "Haze"
+    ],
+    "66": [
+      "Dark Void"
+    ],
+    "75": [
+      "Nasty Plot"
+    ],
+    "84": [
+      "Dream Eater"
+    ],
+    "93": [
+      "Dark Pulse"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Dream Eater",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Sludge Bomb",
+    "Swagger",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Shadow Ball",
+    "Torment",
+    "Will-O-Wisp",
+    "Facade",
+    "Taunt",
+    "Brick Break",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Calm Mind",
+    "Payback",
+    "Embargo",
+    "Fling",
+    "Poison Jab",
+    "Dark Pulse",
+    "X-Scissor",
+    "Focus Blast",
+    "Giga Impact",
+    "Shadow Claw",
+    "Charge Beam",
+    "Round",
+    "Snarl",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Drain Punch",
+    "Focus Punch",
+    "Foul Play",
+    "Icy Wind",
+    "Knock Off",
+    "Last Resort",
+    "Shock Wave",
+    "Snatch",
+    "Snore",
+    "Spite",
+    "Throat Chop",
+    "Trick",
+    "Wonder Room"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": []
+}

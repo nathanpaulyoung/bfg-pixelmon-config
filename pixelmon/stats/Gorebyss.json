@@ -1,0 +1,171 @@
+{
+  "pixelmonName": "Gorebyss",
+  "pokemon": "Gorebyss",
+  "stats": {
+    "HP": 55,
+    "Attack": 84,
+    "Defence": 105,
+    "Speed": 52,
+    "SpecialAttack": 114,
+    "SpecialDefence": 75
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 10,
+  "baseExp": 178,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.8,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Clamperl"
+  ],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 5,
+    "depthRangeEnd": 15,
+    "swimSpeed": 0.9,
+    "decayRate": 0.8,
+    "refreshRate": 150
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.55,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.55,
+      "z": -0.6
+    }
+  },
+  "weight": 22.6,
+  "evolutions": [],
+  "abilities": [
+    "SwiftSwim",
+    null,
+    "Hydration"
+  ],
+  "eggGroups": [
+    "Water1"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Whirlpool",
+      "Confusion"
+    ],
+    "5": [
+      "Water Sport"
+    ],
+    "9": [
+      "Agility"
+    ],
+    "11": [
+      "Draining Kiss"
+    ],
+    "14": [
+      "Water Pulse"
+    ],
+    "16": [
+      "Amnesia"
+    ],
+    "19": [
+      "Aqua Ring"
+    ],
+    "23": [
+      "Captivate"
+    ],
+    "26": [
+      "Dive"
+    ],
+    "29": [
+      "Baton Pass"
+    ],
+    "34": [
+      "Psychic"
+    ],
+    "39": [
+      "Aqua Tail"
+    ],
+    "45": [
+      "Coil"
+    ],
+    "50": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Waterfall",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Psych Up",
+    "Shadow Ball",
+    "Hail",
+    "Facade",
+    "Giga Impact",
+    "Round",
+    "Scald",
+    "Confide",
+    "Infestation"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bind",
+    "Bounce",
+    "Icy Wind",
+    "Signal Beam",
+    "Snore",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Aqua Ring",
+    "Barrier",
+    "Body Slam",
+    "Brine",
+    "Confuse Ray",
+    "Endure",
+    "Mud Sport",
+    "Muddy Water",
+    "Refresh",
+    "Supersonic",
+    "Water Pulse"
+  ],
+  "forms": {},
+  "form": 0
+}

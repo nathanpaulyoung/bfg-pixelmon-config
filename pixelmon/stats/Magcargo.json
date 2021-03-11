@@ -1,0 +1,171 @@
+{
+  "pixelmonName": "Magcargo",
+  "pokemon": "Magcargo",
+  "stats": {
+    "HP": 60,
+    "Attack": 50,
+    "Defence": 120,
+    "Speed": 30,
+    "SpecialAttack": 90,
+    "SpecialDefence": 80
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 38,
+  "spawnLevelRange": 22,
+  "baseExp": 154,
+  "baseFriendship": 70,
+  "types": [
+    "Fire",
+    "Rock"
+  ],
+  "height": 0.8,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Slugma"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 55.0,
+  "evolutions": [],
+  "abilities": [
+    "MagmaArmor",
+    "FlameBody",
+    "WeakArmor"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Earth Power",
+      "Yawn",
+      "Smog",
+      "Ember",
+      "Rock Throw",
+      "Shell Smash"
+    ],
+    "6": [
+      "Ember"
+    ],
+    "8": [
+      "Rock Throw"
+    ],
+    "13": [
+      "Harden"
+    ],
+    "15": [
+      "Incinerate"
+    ],
+    "20": [
+      "Clear Smog"
+    ],
+    "22": [
+      "Ancient Power"
+    ],
+    "27": [
+      "Flame Burst"
+    ],
+    "29": [
+      "Rock Slide"
+    ],
+    "34": [
+      "Lava Plume"
+    ],
+    "36": [
+      "Amnesia"
+    ],
+    "43": [
+      "Body Slam"
+    ],
+    "47": [
+      "Recover"
+    ],
+    "54": [
+      "Flamethrower"
+    ],
+    "58": [
+      "Earth Power"
+    ]
+  },
+  "tmMoves": [
+    "Flamethrower",
+    "Hyper Beam",
+    "Solar Beam",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Light Screen",
+    "Reflect",
+    "Fire Blast",
+    "Explosion",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Will-O-Wisp",
+    "Facade",
+    "Nature Power",
+    "Overheat",
+    "Rock Tomb",
+    "Gyro Ball",
+    "Rock Polish",
+    "Giga Impact",
+    "Stone Edge",
+    "Smack Down",
+    "Flame Charge",
+    "Round",
+    "Bulldoze",
+    "Confide",
+    "Infestation"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Earth Power",
+    "Heat Wave",
+    "Iron Defense",
+    "Pain Split",
+    "Snore",
+    "Stealth Rock",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [
+    "Acid Armor",
+    "Curse",
+    "Earth Power",
+    "Guard Swap",
+    "Heat Wave",
+    "Inferno",
+    "Memento",
+    "Rollout",
+    "Smokescreen",
+    "Spit Up",
+    "Stockpile",
+    "Swallow"
+  ],
+  "forms": {},
+  "form": 0
+}

@@ -1,0 +1,163 @@
+{
+  "pixelmonName": "Bellsprout",
+  "pokemon": "Bellsprout",
+  "stats": {
+    "HP": 50,
+    "Attack": 75,
+    "Defence": 35,
+    "Speed": 40,
+    "SpecialAttack": 70,
+    "SpecialDefence": 30
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 2,
+  "spawnLevelRange": 19,
+  "baseExp": 84,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "height": 0.7,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 4.0,
+  "evolutions": [
+    {
+      "level": 21,
+      "to": {
+        "name": "Weepinbell"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Chlorophyll",
+    null,
+    "Gluttony"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Vine Whip"
+    ],
+    "7": [
+      "Growth"
+    ],
+    "11": [
+      "Wrap"
+    ],
+    "13": [
+      "Sleep Powder"
+    ],
+    "15": [
+      "Poison Powder"
+    ],
+    "17": [
+      "Stun Spore"
+    ],
+    "23": [
+      "Acid"
+    ],
+    "27": [
+      "Knock Off"
+    ],
+    "29": [
+      "Sweet Scent"
+    ],
+    "35": [
+      "Gastro Acid"
+    ],
+    "39": [
+      "Razor Leaf"
+    ],
+    "41": [
+      "Poison Jab"
+    ],
+    "47": [
+      "Slam"
+    ],
+    "50": [
+      "Wring Out"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Solar Beam",
+    "Toxic",
+    "Double Team",
+    "Reflect",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Sludge Bomb",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Facade",
+    "Nature Power",
+    "Poison Jab",
+    "Energy Ball",
+    "Grass Knot",
+    "Venoshock",
+    "Round",
+    "Confide",
+    "Infestation"
+  ],
+  "tutorMoves": [
+    "Bind",
+    "Gastro Acid",
+    "Giga Drain",
+    "Knock Off",
+    "Seed Bomb",
+    "Snore",
+    "Synthesis",
+    "Worry Seed"
+  ],
+  "eggMoves": [
+    "Acid Spray",
+    "Belch",
+    "Bullet Seed",
+    "Clear Smog",
+    "Encore",
+    "Giga Drain",
+    "Ingrain",
+    "Leech Life",
+    "Magical Leaf",
+    "Natural Gift",
+    "Power Whip",
+    "Strength Sap",
+    "Synthesis",
+    "Tickle",
+    "Weather Ball",
+    "Worry Seed"
+  ],
+  "forms": {},
+  "form": 0
+}

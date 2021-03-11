@@ -1,0 +1,340 @@
+{
+  "pixelmonName": "Persian",
+  "pokemon": "Persian",
+  "stats": {
+    "HP": 65,
+    "Attack": 70,
+    "Defence": 60,
+    "Speed": 115,
+    "SpecialAttack": 65,
+    "SpecialDefence": 65
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 28,
+  "spawnLevelRange": 22,
+  "baseExp": 148,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.0,
+  "width": 0.4,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Meowth"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.9,
+      "z": -0.1
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.9,
+      "z": -0.1
+    }
+  },
+  "weight": 32.0,
+  "evolutions": [],
+  "abilities": [
+    "Limber",
+    "Technician",
+    "Unnerve"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Power Gem"
+    ],
+    "1": [
+      "Power Gem",
+      "Switcheroo",
+      "Fake Out",
+      "Growl",
+      "Feint",
+      "Scratch"
+    ],
+    "12": [
+      "Pay Day"
+    ],
+    "16": [
+      "Bite"
+    ],
+    "20": [
+      "Taunt"
+    ],
+    "24": [
+      "Assurance"
+    ],
+    "31": [
+      "Fury Swipes"
+    ],
+    "36": [
+      "Screech"
+    ],
+    "42": [
+      "Slash"
+    ],
+    "48": [
+      "Nasty Plot"
+    ],
+    "54": [
+      "Play Rough"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Foul Play",
+    "Gunk Shot",
+    "Hyper Voice",
+    "Knock Off",
+    "Last Resort",
+    "Seed Bomb",
+    "Spite",
+    "Uproar",
+    "Amnesia",
+    "Bite",
+    "Charm",
+    "Feint Attack",
+    "Fake Out",
+    "Flail",
+    "Hypnosis",
+    "Nasty Plot",
+    "Petal Dance",
+    "Sing",
+    "Slash",
+    "Screech",
+    "Happy Hour",
+    "Throat Chop"
+  ],
+  "eggMoves": [],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 65,
+        "Attack": 60,
+        "Defence": 60,
+        "Speed": 115,
+        "SpecialAttack": 75,
+        "SpecialDefence": 65
+      },
+      "types": [
+        "Dark"
+      ],
+      "abilities": [
+        "FurCoat",
+        "Technician",
+        "Rattled"
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Power Gem"
+        ],
+        "1": [
+          "Power Gem",
+          "Quash",
+          "Switcheroo",
+          "Fake Out",
+          "Growl",
+          "Feint",
+          "Scratch"
+        ],
+        "12": [
+          "Pay Day"
+        ],
+        "16": [
+          "Bite"
+        ],
+        "20": [
+          "Taunt"
+        ],
+        "24": [
+          "Assurance"
+        ],
+        "31": [
+          "Fury Swipes"
+        ],
+        "36": [
+          "Screech"
+        ],
+        "42": [
+          "Night Slash"
+        ],
+        "48": [
+          "Nasty Plot"
+        ],
+        "54": [
+          "Play Rough"
+        ]
+      },
+      "tmMoves": [
+        "Work Up",
+        "Roar",
+        "Toxic",
+        "Hidden Power",
+        "Sunny Day",
+        "Taunt",
+        "Hyper Beam",
+        "Protect",
+        "Rain Dance",
+        "Frustration",
+        "Thunderbolt",
+        "Thunder",
+        "Return",
+        "Shadow Ball",
+        "Double Team",
+        "Aerial Ace",
+        "Torment",
+        "Facade",
+        "Rest",
+        "Attract",
+        "Thief",
+        "Round",
+        "Echoed Voice",
+        "Quash",
+        "Embargo",
+        "Shadow Claw",
+        "Payback",
+        "Giga Impact",
+        "Psych Up",
+        "Dream Eater",
+        "Swagger",
+        "Sleep Talk",
+        "U-Turn",
+        "Substitute",
+        "Snarl",
+        "Dark Pulse",
+        "Confide"
+      ],
+      "tutorMoves": [
+        "Covet",
+        "Seed Bomb",
+        "Gunk Shot",
+        "Uproar",
+        "Foul Play",
+        "Last Resort",
+        "Icy Wind",
+        "Hyper Voice",
+        "Iron Tail",
+        "Snore",
+        "Knock Off",
+        "Shock Wave",
+        "Water Pulse",
+        "Spite",
+        "Snatch",
+        "Throat Chop"
+      ],
+      "eggMoves": [
+        "Spite",
+        "Charm",
+        "Hypnosis",
+        "Amnesia",
+        "Assist",
+        "Flail",
+        "Punishment",
+        "Snatch",
+        "Foul Play",
+        "Parting Shot",
+        "Flatter",
+        "Covet"
+      ],
+      "form": 1,
+      "tmMoves8": [
+        2,
+        8,
+        9,
+        15,
+        16,
+        21,
+        23,
+        24,
+        25,
+        27,
+        29,
+        31,
+        33,
+        34,
+        37,
+        39,
+        40,
+        47,
+        56,
+        57,
+        58,
+        65,
+        76,
+        79,
+        85
+      ]
+    }
+  },
+  "form": 0,
+  "tmMoves8": [
+    2,
+    8,
+    9,
+    15,
+    16,
+    21,
+    23,
+    24,
+    25,
+    27,
+    29,
+    31,
+    33,
+    34,
+    39,
+    40,
+    56,
+    57,
+    58,
+    65,
+    76,
+    79
+  ],
+  "trMoves": [
+    1,
+    8,
+    9,
+    17,
+    20,
+    26,
+    27,
+    31,
+    33,
+    35,
+    37,
+    42,
+    58,
+    59,
+    63,
+    68,
+    73,
+    81,
+    85,
+    90,
+    95
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "pixelmonName": "Solgaleo",
+  "pokemon": "Solgaleo",
+  "stats": {
+    "HP": 137,
+    "Attack": 137,
+    "Defence": 107,
+    "Speed": 97,
+    "SpecialAttack": 113,
+    "SpecialDefence": 89
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 55,
+  "spawnLevelRange": 0,
+  "baseExp": 136,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic",
+    "Steel"
+  ],
+  "height": 3.4,
+  "width": 3.4,
+  "length": 3.4,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Cosmog",
+    "Cosmoem"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.4,
+      "z": -1.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.4,
+      "z": -1.0
+    }
+  },
+  "weight": 230.0,
+  "evolutions": [],
+  "abilities": [
+    "FullMetalBody",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Sunsteel Strike"
+    ],
+    "1": [
+      "Sunsteel Strike",
+      "Cosmic Power",
+      "Teleport",
+      "Metal Claw",
+      "Noble Roar"
+    ],
+    "7": [
+      "Iron Head"
+    ],
+    "14": [
+      "Metal Sound"
+    ],
+    "21": [
+      "Zen Headbutt"
+    ],
+    "28": [
+      "Flash Cannon"
+    ],
+    "35": [
+      "Morning Sun"
+    ],
+    "42": [
+      "Crunch"
+    ],
+    "49": [
+      "Metal Burst"
+    ],
+    "56": [
+      "Wild Charge"
+    ],
+    "63": [
+      "Solar Beam"
+    ],
+    "70": [
+      "Flare Blitz"
+    ],
+    "77": [
+      "Wide Guard"
+    ],
+    "84": [
+      "Giga Impact"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Iron Head",
+    "Iron Defense",
+    "Last Resort",
+    "Superpower",
+    "Zen Headbutt",
+    "Hyper Voice",
+    "Iron Tail",
+    "Snore",
+    "Knock Off",
+    "Shock Wave",
+    "Endeavor",
+    "Outrage"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": [],
+  "tmMoves8": [
+    8,
+    9,
+    11,
+    13,
+    14,
+    17,
+    18,
+    19,
+    21,
+    22,
+    24,
+    25,
+    26,
+    34,
+    39,
+    40,
+    41,
+    48,
+    70,
+    76,
+    81,
+    85,
+    92
+  ],
+  "trMoves": [
+    2,
+    8,
+    9,
+    10,
+    11,
+    12,
+    15,
+    20,
+    24,
+    25,
+    26,
+    27,
+    31,
+    32,
+    34,
+    39,
+    42,
+    44,
+    46,
+    49,
+    52,
+    53,
+    55,
+    64,
+    69,
+    70,
+    74,
+    75,
+    79,
+    85,
+    86,
+    88,
+    97
+  ]
+}

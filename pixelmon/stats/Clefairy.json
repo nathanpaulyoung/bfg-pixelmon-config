@@ -1,0 +1,226 @@
+{
+  "pixelmonName": "Clefairy",
+  "pokemon": "Clefairy",
+  "stats": {
+    "HP": 70,
+    "Attack": 45,
+    "Defence": 48,
+    "Speed": 35,
+    "SpecialAttack": 60,
+    "SpecialDefence": 65
+  },
+  "catchRate": 150,
+  "malePercent": 25,
+  "spawnLevel": 15,
+  "spawnLevelRange": 35,
+  "baseExp": 68,
+  "baseFriendship": 140,
+  "types": [
+    "Fairy"
+  ],
+  "height": 0.4,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Cleffa"
+  ],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 7.5,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:moon_stone"
+      },
+      "to": {
+        "name": "Clefable"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "CuteCharm",
+    "MagicGuard",
+    "FriendGuard"
+  ],
+  "eggGroups": [
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Sing",
+      "Sweet Kiss",
+      "Disarming Voice",
+      "Encore",
+      "Charm",
+      "Splash",
+      "Pound",
+      "Copycat",
+      "Growl",
+      "Defense Curl"
+    ],
+    "4": [
+      "Stored Power"
+    ],
+    "8": [
+      "Minimize"
+    ],
+    "12": [
+      "After You"
+    ],
+    "16": [
+      "Life Dew"
+    ],
+    "20": [
+      "Metronome"
+    ],
+    "24": [
+      "Moonlight"
+    ],
+    "28": [
+      "Gravity"
+    ],
+    "32": [
+      "Meteor Mash"
+    ],
+    "36": [
+      "Follow Me"
+    ],
+    "40": [
+      "Cosmic Power"
+    ],
+    "44": [
+      "Moonblast"
+    ],
+    "48": [
+      "Healing Wish"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "After You",
+    "Bounce",
+    "Covet",
+    "Endeavor",
+    "Gravity",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Knock Off",
+    "Last Resort",
+    "Magic Coat",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Uproar",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Amnesia",
+    "Aromatherapy",
+    "Belly Drum",
+    "Charm",
+    "Dizzy Punch",
+    "Double Slap",
+    "Encore",
+    "Follow Me",
+    "Heal Pulse",
+    "Moonlight",
+    "Petal Dance",
+    "Scary Face",
+    "Sing",
+    "Splash",
+    "Sweet Kiss",
+    "Tickle",
+    "Wish",
+    "Telekinesis"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    0,
+    1,
+    3,
+    4,
+    5,
+    10,
+    11,
+    14,
+    15,
+    17,
+    18,
+    19,
+    21,
+    24,
+    25,
+    27,
+    29,
+    31,
+    33,
+    34,
+    39,
+    41,
+    43,
+    44,
+    47,
+    52,
+    59,
+    63,
+    71,
+    76,
+    79,
+    87,
+    89,
+    92
+  ],
+  "trMoves": [
+    1,
+    2,
+    5,
+    6,
+    8,
+    9,
+    11,
+    14,
+    15,
+    17,
+    19,
+    20,
+    25,
+    26,
+    27,
+    29,
+    30,
+    31,
+    33,
+    35,
+    38,
+    42,
+    44,
+    49,
+    69,
+    76,
+    77,
+    82,
+    83,
+    85,
+    90,
+    92
+  ]
+}

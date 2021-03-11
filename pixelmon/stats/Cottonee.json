@@ -1,0 +1,172 @@
+{
+  "pixelmonName": "Cottonee",
+  "pokemon": "Cottonee",
+  "stats": {
+    "HP": 40,
+    "Attack": 27,
+    "Defence": 60,
+    "Speed": 66,
+    "SpecialAttack": 37,
+    "SpecialDefence": 50
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 20,
+  "baseExp": 56,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Fairy"
+  ],
+  "height": 0.3,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 0.6,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:sun_stone"
+      },
+      "to": {
+        "name": "Whimsicott"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "Prankster",
+    "Infiltrator",
+    "Chlorophyll"
+  ],
+  "eggGroups": [
+    "Grass",
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Absorb",
+      "Helping Hand"
+    ],
+    "3": [
+      "Fairy Wind"
+    ],
+    "6": [
+      "Stun Spore"
+    ],
+    "12": [
+      "Mega Drain"
+    ],
+    "15": [
+      "Razor Leaf"
+    ],
+    "18": [
+      "Growth"
+    ],
+    "21": [
+      "Poison Powder"
+    ],
+    "24": [
+      "Giga Drain"
+    ],
+    "27": [
+      "Charm"
+    ],
+    "30": [
+      "Leech Seed"
+    ],
+    "33": [
+      "Cotton Spore"
+    ],
+    "36": [
+      "Energy Ball"
+    ],
+    "39": [
+      "Sunny Day"
+    ],
+    "42": [
+      "Endeavor"
+    ],
+    "45": [
+      "Cotton Guard"
+    ],
+    "48": [
+      "Solar Beam"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Endeavor",
+    "Helping Hand",
+    "Knock Off",
+    "Seed Bomb",
+    "Tailwind",
+    "Worry Seed",
+    "Absorb",
+    "Beat Up",
+    "Charm",
+    "Encore",
+    "Growth",
+    "Leech Seed",
+    "Tickle",
+    "Defog"
+  ],
+  "eggMoves": [
+    "Tickle",
+    "Memento",
+    "Switcheroo",
+    "Worry Seed",
+    "Nature Power"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    11,
+    19,
+    21,
+    24,
+    25,
+    28,
+    29,
+    31,
+    34,
+    37,
+    39,
+    40,
+    41,
+    47,
+    76,
+    88,
+    89
+  ],
+  "trMoves": [
+    20,
+    26,
+    27,
+    30,
+    37,
+    59,
+    65,
+    77,
+    92
+  ]
+}

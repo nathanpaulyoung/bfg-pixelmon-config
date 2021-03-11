@@ -1,0 +1,165 @@
+{
+  "pixelmonName": "Registeel",
+  "pokemon": "Registeel",
+  "stats": {
+    "HP": 80,
+    "Attack": 75,
+    "Defence": 150,
+    "Speed": 50,
+    "SpecialAttack": 75,
+    "SpecialDefence": 150
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 40,
+  "spawnLevelRange": 0,
+  "baseExp": 215,
+  "baseFriendship": 35,
+  "types": [
+    "Steel"
+  ],
+  "height": 1.9,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2,
+    "SpecialDefence": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.7,
+      "z": -0.17
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.7,
+      "z": -0.17
+    }
+  },
+  "weight": 205.0,
+  "evolutions": [],
+  "abilities": [
+    "ClearBody",
+    null,
+    "LightMetal"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "0": [
+      "Explosion",
+      "Stomp",
+      "Metal Claw",
+      "Charge Beam",
+      "Bulldoze"
+    ],
+    "7": [
+      "Metal Claw"
+    ],
+    "13": [
+      "Charge Beam"
+    ],
+    "19": [
+      "Bulldoze"
+    ],
+    "25": [
+      "Curse"
+    ],
+    "31": [
+      "Ancient Power"
+    ],
+    "37": [
+      "Iron Defense",
+      "Amnesia"
+    ],
+    "43": [
+      "Iron Head",
+      "Flash Cannon"
+    ],
+    "49": [
+      "Hammer Arm"
+    ],
+    "55": [
+      "Lock-On",
+      "Zap Cannon"
+    ],
+    "61": [
+      "Superpower"
+    ],
+    "67": [
+      "Hyper Beam"
+    ]
+  },
+  "tmMoves": [
+    "Hyper Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Explosion",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Fling",
+    "Rock Polish",
+    "Focus Blast",
+    "Giga Impact",
+    "Shadow Claw",
+    "Flash Cannon",
+    "Charge Beam",
+    "Round",
+    "Bulldoze",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Focus Punch",
+    "Gravity",
+    "Ice Punch",
+    "Iron Defense",
+    "Iron Head",
+    "Magnet Rise",
+    "Shock Wave",
+    "Snore",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Superpower",
+    "Thunder Punch"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": []
+}

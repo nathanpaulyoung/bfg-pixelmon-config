@@ -1,0 +1,249 @@
+{
+  "pixelmonName": "Indeedee",
+  "pokemon": "Indeedee",
+  "form": 0,
+  "stats": {
+    "HP": 60,
+    "Attack": 65,
+    "Defence": 55,
+    "SpecialAttack": 105,
+    "SpecialDefence": 95,
+    "Speed": 95
+  },
+  "catchRate": 30,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 30,
+  "baseExp": 166,
+  "baseFriendship": 140,
+  "types": [
+    "Psychic",
+    "Normal"
+  ],
+  "height": 1.0,
+  "width": 0.8,
+  "length": 0.9,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 28.0,
+  "evolutions": [],
+  "abilities": [
+    "InnerFocus",
+    "Synchronize",
+    "PsychicSurge"
+  ],
+  "eggGroups": [
+    "Fairy"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Stored Power",
+      "Play Nice"
+    ],
+    "5": [
+      "Encore"
+    ],
+    "10": [
+      "Disarming Voice"
+    ],
+    "15": [
+      "Psybeam"
+    ],
+    "20": [
+      "Helping Hand"
+    ],
+    "25": [
+      "After You"
+    ],
+    "30": [
+      "Aromatherapy"
+    ],
+    "35": [
+      "Psychic"
+    ],
+    "40": [
+      "Calm Mind"
+    ],
+    "45": [
+      "Power Split"
+    ],
+    "50": [
+      "Psychic Terrain"
+    ],
+    "55": [
+      "Last Resort"
+    ]
+  },
+  "tutorMoves": [
+    "Expanding Force",
+    "Terrain Pulse"
+  ],
+  "eggMoves": [
+    "Extrasensory",
+    "Fake Out",
+    "Psych Up"
+  ],
+  "tmMoves8": [
+    2,
+    10,
+    21,
+    24,
+    25,
+    31,
+    39,
+    40,
+    41,
+    44,
+    60,
+    63,
+    70,
+    71,
+    72,
+    76,
+    87,
+    91,
+    92
+  ],
+  "trMoves": [
+    11,
+    14,
+    19,
+    20,
+    25,
+    26,
+    27,
+    30,
+    33,
+    34,
+    38,
+    42,
+    49,
+    65,
+    69,
+    82,
+    83,
+    90,
+    92
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 70,
+        "Attack": 55,
+        "Defence": 65,
+        "SpecialAttack": 95,
+        "SpecialDefence": 105,
+        "Speed": 85
+      },
+      "evYields": {
+        "SpecialDefence": 2
+      },
+      "abilities": [
+        "Own Tempo",
+        "Synchronize",
+        "Psychic Surge"
+      ],
+      "levelUpMoves": {
+        "1": [
+          "Stored Power",
+          "Play Nice"
+        ],
+        "5": [
+          "Baton Pass"
+        ],
+        "10": [
+          "Disarming Voice"
+        ],
+        "15": [
+          "Psybeam"
+        ],
+        "20": [
+          "Helping Hand"
+        ],
+        "25": [
+          "Follow Me"
+        ],
+        "30": [
+          "Aromatherapy"
+        ],
+        "35": [
+          "Psychic"
+        ],
+        "40": [
+          "Calm Mind"
+        ],
+        "45": [
+          "Guard Split"
+        ],
+        "50": [
+          "Psychic Terrain"
+        ],
+        "55": [
+          "Healing Wish"
+        ]
+      },
+      "eggMoves": [
+        "Psych Up",
+        "Fake Out",
+        "Psycho Shift",
+        "Heal Pulse"
+      ],
+      "tmMoves8": [
+        2,
+        10,
+        17,
+        18,
+        19,
+        21,
+        24,
+        25,
+        31,
+        39,
+        40,
+        41,
+        44,
+        61,
+        63,
+        76,
+        87,
+        91,
+        92
+      ],
+      "trMoves": [
+        11,
+        14,
+        20,
+        25,
+        26,
+        27,
+        29,
+        33,
+        34,
+        38,
+        42,
+        49,
+        65,
+        69,
+        82,
+        83,
+        90,
+        92
+      ]
+    }
+  }
+}

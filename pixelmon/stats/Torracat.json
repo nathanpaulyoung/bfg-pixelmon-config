@@ -1,0 +1,150 @@
+{
+  "pixelmonName": "Torracat",
+  "pokemon": "Torracat",
+  "stats": {
+    "HP": 65,
+    "Attack": 85,
+    "Defence": 50,
+    "Speed": 90,
+    "SpecialAttack": 80,
+    "SpecialDefence": 50
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 18,
+  "spawnLevelRange": 20,
+  "baseExp": 147,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.7,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Litten"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 25.0,
+  "evolutions": [
+    {
+      "level": 34,
+      "to": {
+        "name": "Incineroar"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Darkest Lariat"
+      ]
+    }
+  ],
+  "abilities": [
+    "Blaze",
+    null,
+    "Intimidate"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "1": [
+      "Scratch",
+      "Growl",
+      "Ember",
+      "Lick"
+    ],
+    "9": [
+      "Roar"
+    ],
+    "12": [
+      "Fury Swipes"
+    ],
+    "15": [
+      "Bite"
+    ],
+    "20": [
+      "Double Kick"
+    ],
+    "25": [
+      "Fire Fang"
+    ],
+    "30": [
+      "Scary Face"
+    ],
+    "35": [
+      "Swagger"
+    ],
+    "40": [
+      "Flamethrower"
+    ],
+    "45": [
+      "Thrash"
+    ],
+    "50": [
+      "Flare Blitz"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Fire Pledge",
+    "Covet",
+    "Snore",
+    "Heat Wave",
+    "Endeavor",
+    "Outrage"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": -1,
+  "tmMoves8": [
+    2,
+    13,
+    21,
+    24,
+    25,
+    26,
+    31,
+    34,
+    38,
+    39,
+    42,
+    56,
+    65,
+    68,
+    76,
+    78
+  ],
+  "trMoves": [
+    0,
+    1,
+    2,
+    15,
+    18,
+    20,
+    24,
+    26,
+    27,
+    32,
+    36,
+    37,
+    43,
+    48,
+    55,
+    68,
+    85
+  ]
+}

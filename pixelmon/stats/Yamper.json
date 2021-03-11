@@ -1,0 +1,134 @@
+{
+  "pixelmonName": "Yamper",
+  "pokemon": "Yamper",
+  "stats": {
+    "HP": 59,
+    "Attack": 45,
+    "Defence": 50,
+    "SpecialAttack": 40,
+    "SpecialDefence": 50,
+    "Speed": 26
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 19,
+  "spawnLevelRange": 6,
+  "baseExp": 54,
+  "baseFriendship": 50,
+  "types": [
+    "Electric"
+  ],
+  "height": 0.3,
+  "width": 0.6,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 13.5,
+  "evolutions": [
+    {
+      "level": 25,
+      "to": {
+        "name": "Boltund"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "BallFetch",
+    null,
+    "Rattled"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Tackle",
+      "Tail Whip"
+    ],
+    "5": [
+      "Nuzzle"
+    ],
+    "10": [
+      "Bite"
+    ],
+    "15": [
+      "Roar"
+    ],
+    "20": [
+      "Spark"
+    ],
+    "26": [
+      "Charm"
+    ],
+    "30": [
+      "Crunch"
+    ],
+    "35": [
+      "Charge"
+    ],
+    "40": [
+      "Wild Charge"
+    ],
+    "45": [
+      "Play Rough"
+    ]
+  },
+  "tutorMoves": [
+    "Rising Voltage"
+  ],
+  "eggMoves": [
+    "Double-Edge",
+    "Sand Attack",
+    "Flame Charge",
+    "Discharge",
+    "Howl"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    14,
+    15,
+    21,
+    24,
+    25,
+    29,
+    31,
+    39,
+    40,
+    41,
+    66,
+    68,
+    76,
+    80,
+    85
+  ],
+  "trMoves": [
+    8,
+    9,
+    20,
+    26,
+    27,
+    32,
+    35,
+    80,
+    86,
+    90
+  ]
+}

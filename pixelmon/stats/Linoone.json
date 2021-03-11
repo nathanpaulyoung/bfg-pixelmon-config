@@ -1,0 +1,286 @@
+{
+  "pixelmonName": "Linoone",
+  "pokemon": "Linoone",
+  "form": 0,
+  "stats": {
+    "HP": 78,
+    "Attack": 70,
+    "Defence": 61,
+    "Speed": 100,
+    "SpecialAttack": 50,
+    "SpecialDefence": 61
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 21,
+  "spawnLevelRange": 10,
+  "baseExp": 128,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Zigzagoon"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 32.5,
+  "evolutions": [],
+  "abilities": [
+    "Pickup",
+    "Gluttony",
+    "QuickFeet"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Slash",
+      "Switcheroo",
+      "Pin Missile",
+      "Baby-Doll Eyes",
+      "Tackle",
+      "Growl",
+      "Sand Attack",
+      "Tail Whip"
+    ],
+    "9": [
+      "Covet"
+    ],
+    "12": [
+      "Headbutt"
+    ],
+    "15": [
+      "Hone Claws"
+    ],
+    "18": [
+      "Fury Swipes"
+    ],
+    "23": [
+      "Rest"
+    ],
+    "28": [
+      "Take Down"
+    ],
+    "33": [
+      "Fling"
+    ],
+    "38": [
+      "Flail"
+    ],
+    "43": [
+      "Belly Drum"
+    ],
+    "48": [
+      "Double-Edge"
+    ]
+  },
+  "eggMoves": [
+    "Extreme Speed",
+    "Simple Beam",
+    "Lash Out"
+  ],
+  "tmMoves8": [
+    7,
+    8,
+    9,
+    14,
+    15,
+    21,
+    23,
+    24,
+    25,
+    27,
+    29,
+    31,
+    33,
+    34,
+    36,
+    39,
+    40,
+    41,
+    53,
+    59,
+    65,
+    76,
+    79,
+    84,
+    98
+  ],
+  "trMoves": [
+    1,
+    4,
+    5,
+    6,
+    8,
+    9,
+    20,
+    26,
+    27,
+    31,
+    33,
+    38,
+    42,
+    59,
+    73,
+    77,
+    85,
+    90,
+    95
+  ],
+  "tmMoves": [],
+  "tutorMoves": [],
+  "forms": {
+    "2": {
+      "types": [
+        "Dark",
+        "Normal"
+      ],
+      "height": 0.5,
+      "width": 0.7,
+      "length": 2.0,
+      "preEvolutions": [
+        "Zigzagoon f:2"
+      ],
+      "evolutions": [
+        {
+          "level": 35,
+          "to": {
+            "name": "Obstagoon"
+          },
+          "conditions": [
+            {
+              "evoConditionType": "time",
+              "time": "NIGHT"
+            }
+          ],
+          "evoType": "leveling",
+          "moves": [
+            "Obstruct"
+          ]
+        }
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Night Slash",
+          "Switcheroo",
+          "Pin Missile",
+          "Baby-Doll Eyes",
+          "Tackle",
+          "Leer",
+          "Sand Attack",
+          "Lick"
+        ],
+        "9": [
+          "Snarl"
+        ],
+        "12": [
+          "Headbutt"
+        ],
+        "15": [
+          "Hone Claws"
+        ],
+        "18": [
+          "Fury Swipes"
+        ],
+        "23": [
+          "Rest"
+        ],
+        "28": [
+          "Take Down"
+        ],
+        "33": [
+          "Scary Face"
+        ],
+        "38": [
+          "Counter"
+        ],
+        "43": [
+          "Taunt"
+        ],
+        "48": [
+          "Double-Edge"
+        ]
+      },
+      "tutorMoves": [
+        "Lash Out"
+      ],
+      "eggMoves": [
+        "Knock Off",
+        "Parting Shot",
+        "Quick Guard"
+      ],
+      "tmMoves8": [
+        7,
+        8,
+        9,
+        14,
+        15,
+        16,
+        21,
+        23,
+        24,
+        25,
+        26,
+        27,
+        31,
+        33,
+        34,
+        36,
+        39,
+        40,
+        41,
+        47,
+        53,
+        57,
+        58,
+        59,
+        65,
+        76,
+        79,
+        85,
+        98
+      ],
+      "trMoves": [
+        1,
+        4,
+        5,
+        6,
+        8,
+        9,
+        20,
+        26,
+        27,
+        31,
+        33,
+        37,
+        38,
+        42,
+        59,
+        73,
+        77,
+        85,
+        95,
+        99
+      ]
+    }
+  }
+}

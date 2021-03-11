@@ -1,0 +1,159 @@
+{
+  "pixelmonName": "Perrserker",
+  "pokemon": "Perrserker",
+  "form": 0,
+  "stats": {
+    "HP": 70,
+    "Attack": 110,
+    "Defence": 100,
+    "SpecialAttack": 50,
+    "SpecialDefence": 60,
+    "Speed": 50
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 37,
+  "spawnLevelRange": 15,
+  "baseExp": 154,
+  "baseFriendship": 50,
+  "types": [
+    "Steel"
+  ],
+  "height": 1.0,
+  "width": 0.8,
+  "length": 0.9,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Meowth f:2"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 28.0,
+  "evolutions": [],
+  "abilities": [
+    "BattleArmour",
+    null,
+    "SteelySpirit"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Iron Head"
+    ],
+    "1": [
+      "Iron Head",
+      "Metal Burst",
+      "Iron Defense",
+      "Fake Out",
+      "Growl",
+      "Hone Claws",
+      "Scratch"
+    ],
+    "12": [
+      "Pay Day"
+    ],
+    "16": [
+      "Metal Claw"
+    ],
+    "20": [
+      "Taunt"
+    ],
+    "24": [
+      "Swagger"
+    ],
+    "31": [
+      "Fury Swipes"
+    ],
+    "36": [
+      "Screech"
+    ],
+    "42": [
+      "Slash"
+    ],
+    "48": [
+      "Metal Sound"
+    ],
+    "54": [
+      "Thrash"
+    ]
+  },
+  "tutorMoves": [
+    "Lash Out",
+    "Steel Beam"
+  ],
+  "eggMoves": [
+    "Covet",
+    "Curse",
+    "Double-Edge",
+    "Flail",
+    "Night Slash",
+    "Spite"
+  ],
+  "tmMoves8": [
+    2,
+    8,
+    9,
+    15,
+    16,
+    21,
+    23,
+    24,
+    25,
+    31,
+    33,
+    34,
+    39,
+    56,
+    57,
+    58,
+    59,
+    65,
+    76,
+    79
+  ],
+  "trMoves": [
+    0,
+    1,
+    8,
+    9,
+    17,
+    20,
+    26,
+    27,
+    29,
+    31,
+    32,
+    33,
+    35,
+    37,
+    42,
+    46,
+    52,
+    53,
+    58,
+    59,
+    68,
+    73,
+    74,
+    79,
+    81,
+    85,
+    90,
+    95
+  ]
+}

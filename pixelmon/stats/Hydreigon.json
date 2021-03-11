@@ -1,0 +1,223 @@
+{
+  "pixelmonName": "Hydreigon",
+  "pokemon": "Hydreigon",
+  "stats": {
+    "HP": 92,
+    "Attack": 105,
+    "Defence": 90,
+    "Speed": 98,
+    "SpecialAttack": 125,
+    "SpecialDefence": 90
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 65,
+  "spawnLevelRange": 6,
+  "baseExp": 270,
+  "baseFriendship": 35,
+  "types": [
+    "Dark",
+    "Dragon"
+  ],
+  "height": 1.8,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Zweilous",
+    "Deino"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 20,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.35,
+      "z": -0.2
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.5,
+      "z": -0.2
+    }
+  },
+  "weight": 160.0,
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "1": [
+      "Tackle",
+      "Double Hit",
+      "Tri Attack",
+      "Focus Energy",
+      "Dragon Breath",
+      "Bite"
+    ],
+    "12": [
+      "Roar"
+    ],
+    "16": [
+      "Assurance"
+    ],
+    "20": [
+      "Headbutt"
+    ],
+    "24": [
+      "Work Up"
+    ],
+    "28": [
+      "Slam"
+    ],
+    "32": [
+      "Crunch"
+    ],
+    "36": [
+      "Scary Face"
+    ],
+    "40": [
+      "Dragon Pulse"
+    ],
+    "44": [
+      "Body Slam"
+    ],
+    "48": [
+      "Hyper Voice"
+    ],
+    "54": [
+      "Dragon Rush"
+    ],
+    "60": [
+      "Nasty Plot"
+    ],
+    "68": [
+      "Outrage"
+    ],
+    "76": [
+      "Hyper Beam"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Draco Meteor",
+    "Earth Power",
+    "Heat Wave",
+    "Hyper Voice",
+    "Outrage",
+    "Signal Beam",
+    "Spite",
+    "Superpower",
+    "Tailwind",
+    "Uproar",
+    "Zen Headbutt",
+    "Bite",
+    "Scary Face",
+    "Focus Energy",
+    "Tackle",
+    "Screech",
+    "Defog",
+    "Throat Chop"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    6,
+    8,
+    9,
+    13,
+    14,
+    16,
+    18,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    30,
+    31,
+    33,
+    34,
+    37,
+    39,
+    41,
+    48,
+    56,
+    57,
+    58,
+    66,
+    67,
+    68,
+    76,
+    78,
+    81,
+    85,
+    97,
+    99
+  ],
+  "trMoves": [
+    1,
+    2,
+    3,
+    4,
+    10,
+    13,
+    15,
+    19,
+    20,
+    24,
+    26,
+    27,
+    31,
+    32,
+    35,
+    36,
+    37,
+    39,
+    42,
+    51,
+    58,
+    62,
+    64,
+    67,
+    68,
+    69,
+    70,
+    75,
+    85,
+    95
+  ]
+}

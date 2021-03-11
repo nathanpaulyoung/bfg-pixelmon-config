@@ -1,0 +1,189 @@
+{
+  "pixelmonName": "Golisopod",
+  "pokemon": "Golisopod",
+  "stats": {
+    "HP": 75,
+    "Attack": 125,
+    "Defence": 140,
+    "Speed": 40,
+    "SpecialAttack": 60,
+    "SpecialDefence": 90
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 20,
+  "baseExp": 186,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Water"
+  ],
+  "height": 2.0,
+  "width": 2.0,
+  "length": 2.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Wimpod"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": 0.0
+    }
+  },
+  "weight": 108.0,
+  "evolutions": [],
+  "abilities": [
+    "EmergencyExit",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Bug",
+    "Water3"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "First Impression"
+    ],
+    "1": [
+      "First Impression",
+      "Struggle Bug",
+      "Sand Attack",
+      "Defense Curl",
+      "Spite"
+    ],
+    "4": [
+      "Rock Smash"
+    ],
+    "8": [
+      "Fury Cutter"
+    ],
+    "12": [
+      "Mud Shot"
+    ],
+    "16": [
+      "Bug Bite"
+    ],
+    "20": [
+      "Iron Defense"
+    ],
+    "24": [
+      "Sucker Punch"
+    ],
+    "28": [
+      "Slash"
+    ],
+    "32": [
+      "Razor Shell"
+    ],
+    "36": [
+      "Pin Missile"
+    ],
+    "40": [
+      "Swords Dance"
+    ],
+    "44": [
+      "Liquidation"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bug Bite",
+    "Dual Chop",
+    "Iron Head",
+    "Drill Run",
+    "Iron Defense",
+    "Icy Wind",
+    "Snore",
+    "Knock Off",
+    "Pain Split",
+    "Water Pulse",
+    "Spite",
+    "Endeavor",
+    "Liquidation",
+    "Throat Chop",
+    "Laser Focus"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    7,
+    8,
+    9,
+    16,
+    21,
+    22,
+    24,
+    25,
+    27,
+    31,
+    33,
+    35,
+    39,
+    40,
+    43,
+    45,
+    48,
+    53,
+    57,
+    58,
+    59,
+    65,
+    74,
+    76,
+    83,
+    85,
+    94
+  ],
+  "trMoves": [
+    0,
+    4,
+    5,
+    6,
+    16,
+    18,
+    20,
+    22,
+    23,
+    26,
+    27,
+    37,
+    45,
+    46,
+    48,
+    53,
+    57,
+    58,
+    60,
+    61,
+    64,
+    74,
+    78,
+    84,
+    87,
+    95,
+    98
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "pixelmonName": "Terrakion",
+  "pokemon": "Terrakion",
+  "stats": {
+    "HP": 91,
+    "Attack": 129,
+    "Defence": 90,
+    "Speed": 108,
+    "SpecialAttack": 72,
+    "SpecialDefence": 90
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 261,
+  "baseFriendship": 35,
+  "types": [
+    "Rock",
+    "Fighting"
+  ],
+  "height": 1.9,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.3,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.3,
+      "z": -0.3
+    }
+  },
+  "weight": 260.0,
+  "evolutions": [],
+  "abilities": [
+    "Justified",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "1": [
+      "Quick Attack",
+      "Leer",
+      "Helping Hand",
+      "Work Up"
+    ],
+    "7": [
+      "Smack Down"
+    ],
+    "14": [
+      "Quick Guard"
+    ],
+    "21": [
+      "Double Kick"
+    ],
+    "28": [
+      "Retaliate"
+    ],
+    "35": [
+      "Rock Slide"
+    ],
+    "42": [
+      "Take Down"
+    ],
+    "49": [
+      "Sacred Sword"
+    ],
+    "56": [
+      "Swords Dance"
+    ],
+    "63": [
+      "Stone Edge"
+    ],
+    "70": [
+      "Close Combat"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Block",
+    "Earth Power",
+    "Helping Hand",
+    "Iron Head",
+    "Superpower",
+    "Zen Headbutt",
+    "Leer",
+    "Laser Focus",
+    "Stomping Tantrum"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": [],
+  "tmMoves8": [
+    8,
+    9,
+    18,
+    19,
+    21,
+    22,
+    24,
+    25,
+    26,
+    32,
+    39,
+    40,
+    41,
+    42,
+    43,
+    48,
+    54,
+    76,
+    79,
+    81,
+    94,
+    95,
+    96,
+    98
+  ],
+  "trMoves": [
+    0,
+    10,
+    20,
+    21,
+    26,
+    27,
+    28,
+    37,
+    39,
+    49,
+    53,
+    57,
+    60,
+    64,
+    67,
+    69,
+    74,
+    75,
+    76,
+    85
+  ]
+}

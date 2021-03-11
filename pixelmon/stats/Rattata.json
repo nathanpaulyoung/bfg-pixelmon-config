@@ -1,0 +1,241 @@
+{
+  "pixelmonName": "Rattata",
+  "pokemon": "Rattata",
+  "stats": {
+    "HP": 30,
+    "Attack": 56,
+    "Defence": 35,
+    "Speed": 72,
+    "SpecialAttack": 25,
+    "SpecialDefence": 35
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 2,
+  "spawnLevelRange": 18,
+  "baseExp": 51,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.3,
+  "width": 0.3,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 3.5,
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Raticate",
+        "form": 0
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Scary Face"
+      ]
+    }
+  ],
+  "abilities": [
+    "RunAway",
+    "Guts",
+    "Hustle"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Tail Whip"
+    ],
+    "4": [
+      "Quick Attack"
+    ],
+    "7": [
+      "Focus Energy"
+    ],
+    "10": [
+      "Bite"
+    ],
+    "13": [
+      "Pursuit"
+    ],
+    "16": [
+      "Hyper Fang"
+    ],
+    "19": [
+      "Assurance"
+    ],
+    "22": [
+      "Crunch"
+    ],
+    "25": [
+      "Sucker Punch"
+    ],
+    "28": [
+      "Super Fang"
+    ],
+    "31": [
+      "Double-Edge"
+    ],
+    "34": [
+      "Endeavor"
+    ]
+  },
+  "tmMoves": [
+    "Ice Beam",
+    "Blizzard",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Shadow Ball",
+    "Facade",
+    "Taunt",
+    "U-Turn",
+    "Grass Knot",
+    "Charge Beam",
+    "Round",
+    "Work Up",
+    "Wild Charge",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Endeavor",
+    "Icy Wind",
+    "Iron Tail",
+    "Last Resort",
+    "Shock Wave",
+    "Snatch",
+    "Snore",
+    "Super Fang",
+    "Uproar",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Bite",
+    "Counter",
+    "Screech",
+    "Fury Swipes",
+    "Flame Wheel",
+    "Reversal",
+    "Uproar",
+    "Revenge",
+    "Me First",
+    "Last Resort",
+    "Final Gambit"
+  ],
+  "forms": {
+    "1": {
+      "types": [
+        "Dark",
+        "Normal"
+      ],
+      "weight": 3.8,
+      "evolutions": [
+        {
+          "level": 20,
+          "to": {
+            "name": "Raticate",
+            "form": 1
+          },
+          "conditions": [
+            {
+              "time": "NIGHT",
+              "evoConditionType": "time"
+            }
+          ],
+          "evoType": "leveling",
+          "moves": [
+            "Scary Face"
+          ]
+        }
+      ],
+      "abilities": [
+        "Gluttony",
+        "Hustle",
+        "ThickFat"
+      ],
+      "tmMoves": [
+        "Toxic",
+        "Hidden Power",
+        "Sunny Day",
+        "Taunt",
+        "Ice Beam",
+        "Blizzard",
+        "Protect",
+        "Rain Dance",
+        "Frustration",
+        "Return",
+        "Dig",
+        "Shadow Ball",
+        "Double Team",
+        "Sludge Bomb",
+        "Torment",
+        "Facade",
+        "Rest",
+        "Attract",
+        "Thief",
+        "Round",
+        "Quash",
+        "Embargo",
+        "Shadow Claw",
+        "Grass Knot",
+        "Swagger",
+        "Sleep Talk",
+        "U-Turn",
+        "Substitute",
+        "Snarl",
+        "Dark Pulse",
+        "Confide"
+      ],
+      "eggMoves": [
+        "Counter",
+        "Final Gambit",
+        "Fury Swipes",
+        "Me First",
+        "Revenge",
+        "Reversal",
+        "Snatch",
+        "Stockpile",
+        "Swallow",
+        "Switcheroo",
+        "Uproar"
+      ],
+      "form": 1
+    }
+  },
+  "form": 0
+}

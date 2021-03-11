@@ -1,0 +1,182 @@
+{
+  "pixelmonName": "Sigilyph",
+  "pokemon": "Sigilyph",
+  "stats": {
+    "HP": 72,
+    "Attack": 58,
+    "Defence": 80,
+    "Speed": 97,
+    "SpecialAttack": 103,
+    "SpecialDefence": 80
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 15,
+  "baseExp": 172,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic",
+    "Flying"
+  ],
+  "height": 2.7,
+  "width": 1.0,
+  "length": 0.5,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.3,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.3,
+      "z": -0.3
+    }
+  },
+  "hoverHeight": 1.0,
+  "weight": 14.0,
+  "evolutions": [],
+  "abilities": [
+    "WonderSkin",
+    "MagicGuard",
+    "TintedLens"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Gust",
+      "Confusion"
+    ],
+    "5": [
+      "Gravity"
+    ],
+    "10": [
+      "Hypnosis"
+    ],
+    "15": [
+      "Air Cutter"
+    ],
+    "20": [
+      "Psybeam"
+    ],
+    "25": [
+      "Whirlwind"
+    ],
+    "30": [
+      "Cosmic Power"
+    ],
+    "35": [
+      "Air Slash"
+    ],
+    "40": [
+      "Psychic"
+    ],
+    "45": [
+      "Tailwind"
+    ],
+    "50": [
+      "Light Screen",
+      "Reflect"
+    ],
+    "55": [
+      "Sky Attack"
+    ],
+    "60": [
+      "Skill Swap"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Air Cutter",
+    "Ancient Power",
+    "Gravity",
+    "Heat Wave",
+    "Magic Coat",
+    "Magic Room",
+    "Signal Beam",
+    "Tailwind",
+    "Trick",
+    "Zen Headbutt",
+    "Air Slash",
+    "Gust",
+    "Hypnosis",
+    "Defog",
+    "Telekinesis"
+  ],
+  "eggMoves": [
+    "Psycho Shift",
+    "Ancient Power",
+    "Roost"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    6,
+    8,
+    9,
+    11,
+    14,
+    17,
+    18,
+    19,
+    21,
+    23,
+    24,
+    25,
+    27,
+    30,
+    31,
+    33,
+    39,
+    40,
+    44,
+    60,
+    62,
+    69,
+    70,
+    72,
+    76,
+    95
+  ],
+  "trMoves": [
+    5,
+    11,
+    20,
+    25,
+    26,
+    27,
+    33,
+    34,
+    36,
+    38,
+    40,
+    44,
+    49,
+    58,
+    65,
+    69,
+    70,
+    82,
+    92
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "pixelmonName": "Doublade",
+  "pokemon": "Doublade",
+  "stats": {
+    "HP": 59,
+    "Attack": 110,
+    "Defence": 150,
+    "Speed": 35,
+    "SpecialAttack": 45,
+    "SpecialDefence": 49
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 36,
+  "spawnLevelRange": 13,
+  "baseExp": 157,
+  "baseFriendship": 0,
+  "types": [
+    "Steel",
+    "Ghost"
+  ],
+  "height": 0.8,
+  "width": 0.8,
+  "length": 0.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Honedge"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 4.5,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:dusk_stone"
+      },
+      "to": {
+        "name": "Aegislash"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "NoGuard",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Tackle",
+      "Fury Cutter",
+      "Shadow Sneak",
+      "Autotomize"
+    ],
+    "12": [
+      "Aerial Ace"
+    ],
+    "16": [
+      "Metal Sound"
+    ],
+    "20": [
+      "Slash"
+    ],
+    "24": [
+      "Night Slash"
+    ],
+    "28": [
+      "Retaliate"
+    ],
+    "32": [
+      "Iron Defense"
+    ],
+    "38": [
+      "Iron Head"
+    ],
+    "44": [
+      "Power Trick"
+    ],
+    "50": [
+      "Swords Dance"
+    ],
+    "56": [
+      "Sacred Sword"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "After You",
+    "Iron Defense",
+    "Iron Head",
+    "Magnet Rise",
+    "Spite",
+    "Laser Focus"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    12,
+    16,
+    18,
+    21,
+    22,
+    24,
+    25,
+    31,
+    33,
+    39,
+    43,
+    65,
+    69,
+    76,
+    79,
+    94,
+    97
+  ],
+  "trMoves": [
+    0,
+    20,
+    21,
+    26,
+    27,
+    46,
+    52,
+    53,
+    70,
+    74
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "pixelmonName": "Aurorus",
+  "pokemon": "Aurorus",
+  "stats": {
+    "HP": 123,
+    "Attack": 77,
+    "Defence": 72,
+    "Speed": 58,
+    "SpecialAttack": 99,
+    "SpecialDefence": 92
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 40,
+  "spawnLevelRange": 15,
+  "baseExp": 104,
+  "baseFriendship": 0,
+  "types": [
+    "Rock",
+    "Ice"
+  ],
+  "height": 1.5,
+  "width": 2.5,
+  "length": 2.5,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Amaura"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.8,
+      "z": -0.4
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.8,
+      "z": -0.4
+    }
+  },
+  "weight": 225.0,
+  "evolutions": [],
+  "abilities": [
+    "Refrigerate",
+    null,
+    "SnowWarning"
+  ],
+  "eggGroups": [
+    "Monster"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Powder Snow",
+      "Thunder Wave",
+      "Rock Throw",
+      "Freeze-Dry"
+    ],
+    "5": [
+      "Thunder Wave"
+    ],
+    "10": [
+      "Rock Throw"
+    ],
+    "13": [
+      "Icy Wind"
+    ],
+    "15": [
+      "Take Down"
+    ],
+    "18": [
+      "Mist"
+    ],
+    "20": [
+      "Aurora Beam"
+    ],
+    "26": [
+      "Ancient Power"
+    ],
+    "30": [
+      "Round"
+    ],
+    "34": [
+      "Avalanche"
+    ],
+    "38": [
+      "Hail"
+    ],
+    "43": [
+      "Nature Power"
+    ],
+    "46": [
+      "Encore"
+    ],
+    "50": [
+      "Light Screen"
+    ],
+    "56": [
+      "Ice Beam"
+    ],
+    "63": [
+      "Hyper Beam"
+    ],
+    "74": [
+      "Blizzard"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Earthquake",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Light Screen",
+    "Reflect",
+    "Dream Eater",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Psych Up",
+    "Hail",
+    "Facade",
+    "Nature Power",
+    "Rock Tomb",
+    "Calm Mind",
+    "Rock Polish",
+    "Dark Pulse",
+    "Giga Impact",
+    "Flash Cannon",
+    "Stone Edge",
+    "Charge Beam",
+    "Round",
+    "Echoed Voice",
+    "Bulldoze",
+    "Frost Breath",
+    "Dragon Tail",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Earth Power",
+    "Hyper Voice",
+    "Icy Wind",
+    "Iron Defense",
+    "Iron Head",
+    "Iron Tail",
+    "Magnet Rise",
+    "Outrage",
+    "Snore",
+    "Stealth Rock",
+    "Water Pulse",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Barrier",
+    "Discharge",
+    "Haze",
+    "Magnet Rise",
+    "Mirror Coat"
+  ],
+  "forms": {},
+  "form": 0
+}

@@ -1,0 +1,166 @@
+{
+  "pixelmonName": "Staravia",
+  "pokemon": "Staravia",
+  "stats": {
+    "HP": 55,
+    "Attack": 75,
+    "Defence": 50,
+    "Speed": 80,
+    "SpecialAttack": 40,
+    "SpecialDefence": 40
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 18,
+  "baseExp": 113,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Starly"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 8,
+    "flyHeightMax": 10,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 15.5,
+  "evolutions": [
+    {
+      "level": 34,
+      "to": {
+        "name": "Staraptor"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Close Combat"
+      ]
+    }
+  ],
+  "abilities": [
+    "Intimidate",
+    null,
+    "Reckless"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Growl",
+      "Quick Attack"
+    ],
+    "5": [
+      "Quick Attack"
+    ],
+    "9": [
+      "Wing Attack"
+    ],
+    "13": [
+      "Double Team"
+    ],
+    "18": [
+      "Endeavor"
+    ],
+    "23": [
+      "Whirlwind"
+    ],
+    "28": [
+      "Aerial Ace"
+    ],
+    "33": [
+      "Take Down"
+    ],
+    "38": [
+      "Agility"
+    ],
+    "43": [
+      "Brave Bird"
+    ],
+    "48": [
+      "Final Gambit"
+    ]
+  },
+  "tmMoves": [
+    "Fly",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Steel Wing",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Aerial Ace",
+    "Roost",
+    "U-Turn",
+    "Round",
+    "Echoed Voice",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Defog",
+    "Endeavor",
+    "Heat Wave",
+    "Snore",
+    "Tailwind",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Astonish",
+    "Detect",
+    "Double-Edge",
+    "Feather Dance",
+    "Foresight",
+    "Fury Attack",
+    "Mirror Move",
+    "Pursuit",
+    "Revenge",
+    "Roost",
+    "Sand Attack",
+    "Steel Wing",
+    "Uproar"
+  ],
+  "forms": {},
+  "form": 0
+}

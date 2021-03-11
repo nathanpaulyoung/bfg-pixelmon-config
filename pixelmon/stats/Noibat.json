@@ -1,0 +1,177 @@
+{
+  "pixelmonName": "Noibat",
+  "pokemon": "Noibat",
+  "stats": {
+    "HP": 40,
+    "Attack": 30,
+    "Defence": 35,
+    "Speed": 55,
+    "SpecialAttack": 45,
+    "SpecialDefence": 40
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 31,
+  "spawnLevelRange": 16,
+  "baseExp": 49,
+  "baseFriendship": 0,
+  "types": [
+    "Flying",
+    "Dragon"
+  ],
+  "height": 0.5,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 10,
+    "flySpeedModifier": 0.6,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 200,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 8.0,
+  "evolutions": [
+    {
+      "level": 48,
+      "to": {
+        "name": "Noivern"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Frisk",
+    "Infiltrator",
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Flying",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Absorb",
+      "Tackle"
+    ],
+    "4": [
+      "Gust"
+    ],
+    "8": [
+      "Supersonic"
+    ],
+    "12": [
+      "Double Team"
+    ],
+    "16": [
+      "Wing Attack"
+    ],
+    "20": [
+      "Bite"
+    ],
+    "24": [
+      "Air Cutter"
+    ],
+    "28": [
+      "Whirlwind"
+    ],
+    "32": [
+      "Super Fang"
+    ],
+    "36": [
+      "Air Slash"
+    ],
+    "40": [
+      "Screech"
+    ],
+    "44": [
+      "Roost"
+    ],
+    "49": [
+      "Tailwind"
+    ],
+    "52": [
+      "Hurricane"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Draco Meteor",
+    "Heat Wave",
+    "Hyper Voice",
+    "Outrage",
+    "Super Fang",
+    "Tailwind",
+    "Uproar",
+    "Defog"
+  ],
+  "eggMoves": [
+    "Defog",
+    "Dragon Rush"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    6,
+    11,
+    16,
+    21,
+    23,
+    24,
+    25,
+    30,
+    31,
+    34,
+    39,
+    40,
+    43,
+    56,
+    65,
+    76,
+    78,
+    95
+  ],
+  "trMoves": [
+    11,
+    12,
+    18,
+    20,
+    24,
+    26,
+    27,
+    31,
+    33,
+    35,
+    36,
+    37,
+    42,
+    58,
+    60,
+    62,
+    86,
+    89
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "pixelmonName": "Abra",
+  "pokemon": "Abra",
+  "stats": {
+    "HP": 25,
+    "Attack": 20,
+    "Defence": 15,
+    "Speed": 90,
+    "SpecialAttack": 105,
+    "SpecialDefence": 55
+  },
+  "catchRate": 200,
+  "malePercent": 75,
+  "spawnLevel": 5,
+  "spawnLevelRange": 11,
+  "baseExp": 75,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 0.9,
+  "width": 0.4,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 19.5,
+  "evolutions": [
+    {
+      "level": 16,
+      "to": {
+        "name": "Kadabra"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Kinesis"
+      ]
+    }
+  ],
+  "abilities": [
+    "Synchronize",
+    "InnerFocus",
+    "MagicGuard"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Teleport"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Foul Play",
+    "Gravity",
+    "Knock Off",
+    "Magic Coat",
+    "Magic Room",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Barrier",
+    "Encore",
+    "Foresight",
+    "Ally Switch",
+    "Telekinesis"
+  ],
+  "eggMoves": [
+    "Ally Switch",
+    "Barrier",
+    "Encore",
+    "Fire Punch",
+    "Guard Split",
+    "Guard Swap",
+    "Ice Punch",
+    "Knock Off",
+    "Power Trick",
+    "Psycho Shift",
+    "Skill Swap",
+    "Thunder Punch",
+    "Psychic Terrain"
+  ],
+  "forms": {},
+  "form": 0
+}

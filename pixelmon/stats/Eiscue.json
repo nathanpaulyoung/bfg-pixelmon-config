@@ -1,0 +1,146 @@
+{
+  "pixelmonName": "Eiscue",
+  "pokemon": "Eiscue",
+  "stats": {
+    "HP": 75,
+    "Attack": 80,
+    "Defence": 110,
+    "SpecialAttack": 65,
+    "SpecialDefence": 90,
+    "Speed": 50
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 20,
+  "baseExp": 165,
+  "baseFriendship": 50,
+  "types": [
+    "Ice"
+  ],
+  "height": 1.4,
+  "width": 0.8,
+  "length": 0.8,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.1
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.1
+    }
+  },
+  "weight": 89.0,
+  "evolutions": [],
+  "abilities": [
+    "IceFace",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "1": [
+      "Powder Snow",
+      "Tackle"
+    ],
+    "6": [
+      "Mist"
+    ],
+    "12": [
+      "Weather Ball"
+    ],
+    "18": [
+      "Icy Wind"
+    ],
+    "24": [
+      "Headbutt"
+    ],
+    "30": [
+      "Amnesia"
+    ],
+    "36": [
+      "Freeze-Dry"
+    ],
+    "42": [
+      "Hail"
+    ],
+    "48": [
+      "Aurora Veil"
+    ],
+    "54": [
+      "Surf"
+    ],
+    "60": [
+      "Blizzard"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Aqua Ring",
+    "Belly Drum",
+    "Double-Edge",
+    "Head Smash",
+    "Icicle Crash",
+    "Soak"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    4,
+    18,
+    21,
+    24,
+    25,
+    27,
+    31,
+    35,
+    36,
+    39,
+    45,
+    46,
+    51,
+    55,
+    64,
+    76
+  ],
+  "trMoves": [
+    3,
+    4,
+    5,
+    6,
+    12,
+    16,
+    17,
+    20,
+    21,
+    26,
+    27,
+    46,
+    69,
+    74,
+    98
+  ]
+}

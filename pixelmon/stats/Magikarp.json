@@ -1,0 +1,290 @@
+{
+  "pixelmonName": "Magikarp",
+  "pokemon": "Magikarp",
+  "stats": {
+    "HP": 20,
+    "Attack": 10,
+    "Defence": 55,
+    "Speed": 80,
+    "SpecialAttack": 15,
+    "SpecialDefence": 20
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 15,
+  "baseExp": 20,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.9,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 5,
+    "swimSpeed": 0.6,
+    "decayRate": 0.99,
+    "refreshRate": 100
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 10.0,
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Gyarados"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Bite"
+      ]
+    }
+  ],
+  "abilities": [
+    "SwiftSwim",
+    null,
+    "Rattled"
+  ],
+  "eggGroups": [
+    "Water2",
+    "Dragon"
+  ],
+  "eggCycles": 6,
+  "levelUpMoves": {
+    "1": [
+      "Splash"
+    ],
+    "15": [
+      "Tackle"
+    ],
+    "25": [
+      "Flail"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bounce",
+    "Bubble",
+    "Flail",
+    "Hydro Pump",
+    "Reversal",
+    "Splash",
+    "Tackle",
+    "Celebrate",
+    "Happy Hour"
+  ],
+  "forms": {
+    "2": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 2
+    },
+    "3": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 3
+    },
+    "4": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 4
+    },
+    "5": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 5
+    },
+    "6": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 6
+    },
+    "7": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 7
+    },
+    "8": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 8
+    },
+    "9": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 9
+    },
+    "10": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 10
+    },
+    "11": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 11
+    },
+    "12": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 12
+    },
+    "13": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 13
+    },
+    "14": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 14
+    },
+    "15": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 15
+    },
+    "16": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 16
+    },
+    "17": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 17
+    },
+    "18": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 18
+    },
+    "19": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 19
+    },
+    "20": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 20
+    },
+    "21": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 21
+    },
+    "22": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 22
+    },
+    "23": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 23
+    },
+    "24": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 24
+    },
+    "25": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 25
+    },
+    "26": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 26
+    },
+    "27": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 27
+    },
+    "28": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 28
+    },
+    "29": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 29
+    },
+    "30": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 30
+    },
+    "31": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 31
+    },
+    "32": {
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 32
+    }
+  },
+  "form": 0,
+  "eggMoves": [],
+  "tmMoves8": [
+    52
+  ],
+  "trMoves": [
+    3
+  ]
+}

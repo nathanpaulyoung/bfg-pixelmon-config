@@ -1,0 +1,168 @@
+{
+  "pixelmonName": "Spinarak",
+  "pokemon": "Spinarak",
+  "stats": {
+    "HP": 40,
+    "Attack": 60,
+    "Defence": 40,
+    "Speed": 30,
+    "SpecialAttack": 40,
+    "SpecialDefence": 40
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 16,
+  "baseExp": 54,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "height": 0.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 25,
+    "passive": 42,
+    "aggressive": 33
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 8.5,
+  "evolutions": [
+    {
+      "level": 22,
+      "to": {
+        "name": "Ariados"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Swords Dance"
+      ]
+    }
+  ],
+  "abilities": [
+    "Swarm",
+    "Insomnia",
+    "Sniper"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Poison Sting",
+      "String Shot",
+      "Constrict"
+    ],
+    "5": [
+      "Absorb"
+    ],
+    "8": [
+      "Infestation"
+    ],
+    "12": [
+      "Scary Face"
+    ],
+    "15": [
+      "Night Shade"
+    ],
+    "19": [
+      "Shadow Sneak"
+    ],
+    "22": [
+      "Fury Swipes"
+    ],
+    "26": [
+      "Sucker Punch"
+    ],
+    "29": [
+      "Spider Web"
+    ],
+    "33": [
+      "Agility"
+    ],
+    "36": [
+      "Pin Missile"
+    ],
+    "40": [
+      "Psychic"
+    ],
+    "43": [
+      "Poison Jab"
+    ],
+    "47": [
+      "Cross Poison"
+    ],
+    "50": [
+      "Sticky Web"
+    ],
+    "54": [
+      "Toxic Thread"
+    ]
+  },
+  "tmMoves": [
+    "Solar Beam",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Leech Life",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Sludge Bomb",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Facade",
+    "Poison Jab",
+    "X-Scissor",
+    "Venoshock",
+    "Round",
+    "Confide",
+    "Infestation"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Bug Bite",
+    "Electroweb",
+    "Foul Play",
+    "Giga Drain",
+    "Signal Beam",
+    "Snore"
+  ],
+  "eggMoves": [
+    "Baton Pass",
+    "Disable",
+    "Electroweb",
+    "Lunge",
+    "Megahorn",
+    "Night Slash",
+    "Psybeam",
+    "Pursuit",
+    "Rage Powder",
+    "Signal Beam",
+    "Sonic Boom",
+    "Toxic Spikes",
+    "Twineedle"
+  ],
+  "forms": {},
+  "form": 0
+}

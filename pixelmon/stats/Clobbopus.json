@@ -1,0 +1,146 @@
+{
+  "pixelmonName": "Clobbopus",
+  "pokemon": "Clobbopus",
+  "form": 0,
+  "stats": {
+    "HP": 50,
+    "Attack": 68,
+    "Defence": 60,
+    "SpecialAttack": 50,
+    "SpecialDefence": 50,
+    "Speed": 32
+  },
+  "catchRate": 180,
+  "malePercent": 50,
+  "spawnLevel": 16,
+  "spawnLevelRange": 29,
+  "baseExp": 62,
+  "baseFriendship": 50,
+  "types": [
+    "Fighting"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 4.0,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Grapploct"
+      },
+      "conditions": [
+        {
+          "attackIndex": 225,
+          "evoConditionType": "move"
+        }
+      ],
+      "evoType": "leveling",
+      "moves": [
+        "Octolock"
+      ]
+    }
+  ],
+  "abilities": [
+    "Limber",
+    null,
+    "Technician"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Humanlike"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Rock Smash",
+      "Leer"
+    ],
+    "5": [
+      "Feint"
+    ],
+    "10": [
+      "Bind"
+    ],
+    "15": [
+      "Detect"
+    ],
+    "20": [
+      "Brick Break"
+    ],
+    "25": [
+      "Bulk Up"
+    ],
+    "30": [
+      "Submission"
+    ],
+    "35": [
+      "Taunt"
+    ],
+    "40": [
+      "Reversal"
+    ],
+    "45": [
+      "Superpower"
+    ]
+  },
+  "tutorMoves": [
+    "Coaching"
+  ],
+  "eggMoves": [
+    "Circle Throw",
+    "Pain Split",
+    "Power-Up Punch",
+    "Seismic Toss",
+    "Soak",
+    "Sucker Punch"
+  ],
+  "tmMoves8": [
+    0,
+    4,
+    21,
+    24,
+    25,
+    31,
+    39,
+    42,
+    43,
+    45,
+    53,
+    55,
+    57,
+    76,
+    79
+  ],
+  "trMoves": [
+    1,
+    16,
+    20,
+    21,
+    26,
+    27,
+    37,
+    39,
+    45,
+    48,
+    53,
+    64,
+    85,
+    98
+  ]
+}

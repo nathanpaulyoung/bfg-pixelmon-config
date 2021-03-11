@@ -1,0 +1,180 @@
+{
+  "pixelmonName": "Mamoswine",
+  "pokemon": "Mamoswine",
+  "stats": {
+    "HP": 110,
+    "Attack": 130,
+    "Defence": 80,
+    "Speed": 80,
+    "SpecialAttack": 70,
+    "SpecialDefence": 60
+  },
+  "catchRate": 50,
+  "malePercent": 50,
+  "spawnLevel": 40,
+  "spawnLevelRange": 10,
+  "baseExp": 207,
+  "baseFriendship": 70,
+  "types": [
+    "Ice",
+    "Ground"
+  ],
+  "height": 2.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Piloswine",
+    "Swinub"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.4,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.4,
+      "z": -0.3
+    }
+  },
+  "weight": 291.0,
+  "evolutions": [],
+  "abilities": [
+    "Oblivious",
+    "SnowCloak",
+    "ThickFat"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Double Hit"
+    ],
+    "1": [
+      "Double Hit",
+      "Ice Fang",
+      "Ancient Power",
+      "Tackle",
+      "Mud-Slap",
+      "Powder Snow",
+      "Flail"
+    ],
+    "15": [
+      "Ice Shard"
+    ],
+    "20": [
+      "Mist"
+    ],
+    "25": [
+      "Endure"
+    ],
+    "30": [
+      "Icy Wind"
+    ],
+    "37": [
+      "Amnesia"
+    ],
+    "44": [
+      "Take Down"
+    ],
+    "51": [
+      "Earthquake"
+    ],
+    "58": [
+      "Blizzard"
+    ],
+    "65": [
+      "Thrash"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Ancient Power",
+    "Block",
+    "Earth Power",
+    "Endeavor",
+    "Iron Head",
+    "Knock Off",
+    "Superpower",
+    "Amnesia",
+    "Bite",
+    "Charm",
+    "Flail",
+    "Fury Attack",
+    "Mist",
+    "Mud Sport",
+    "Scary Face",
+    "Thrash",
+    "Peck",
+    "Tackle",
+    "Horn Attack",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    15,
+    17,
+    18,
+    21,
+    22,
+    24,
+    25,
+    26,
+    27,
+    31,
+    32,
+    33,
+    35,
+    39,
+    48,
+    49,
+    51,
+    53,
+    54,
+    64,
+    67,
+    76,
+    81,
+    98
+  ],
+  "trMoves": [
+    1,
+    5,
+    6,
+    10,
+    17,
+    20,
+    26,
+    27,
+    39,
+    67,
+    74,
+    75,
+    76,
+    79,
+    94,
+    99
+  ]
+}

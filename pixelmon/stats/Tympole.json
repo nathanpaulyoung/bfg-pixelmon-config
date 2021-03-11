@@ -1,0 +1,157 @@
+{
+  "pixelmonName": "Tympole",
+  "pokemon": "Tympole",
+  "stats": {
+    "HP": 50,
+    "Attack": 50,
+    "Defence": 40,
+    "Speed": 64,
+    "SpecialAttack": 50,
+    "SpecialDefence": 40
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 9,
+  "baseExp": 59,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 4.5,
+  "evolutions": [
+    {
+      "level": 25,
+      "to": {
+        "name": "Palpitoad"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SwiftSwim",
+    "Hydration",
+    "WaterAbsorb"
+  ],
+  "eggGroups": [
+    "Water1"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Echoed Voice",
+      "Growl"
+    ],
+    "4": [
+      "Acid"
+    ],
+    "8": [
+      "Supersonic"
+    ],
+    "12": [
+      "Mud Shot"
+    ],
+    "16": [
+      "Round"
+    ],
+    "20": [
+      "Bubble Beam"
+    ],
+    "24": [
+      "Flail"
+    ],
+    "28": [
+      "Uproar"
+    ],
+    "32": [
+      "Aqua Ring"
+    ],
+    "36": [
+      "Hyper Voice"
+    ],
+    "40": [
+      "Muddy Water"
+    ],
+    "44": [
+      "Rain Dance"
+    ],
+    "48": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bounce",
+    "Earth Power",
+    "Endeavor",
+    "Hyper Voice",
+    "Uproar",
+    "After You",
+    "Aqua Ring",
+    "Bubble",
+    "Flail",
+    "Hydro Pump",
+    "Mist",
+    "Mud Sport",
+    "Refresh",
+    "After You"
+  ],
+  "eggMoves": [
+    "Water Pulse",
+    "Mist",
+    "Toxic",
+    "Mud-Slap"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    16,
+    21,
+    24,
+    25,
+    27,
+    31,
+    33,
+    35,
+    39,
+    46,
+    52,
+    53,
+    76
+  ],
+  "trMoves": [
+    3,
+    4,
+    20,
+    22,
+    26,
+    27,
+    35,
+    42,
+    45,
+    67,
+    78,
+    84,
+    91
+  ]
+}

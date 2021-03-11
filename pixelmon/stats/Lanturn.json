@@ -1,0 +1,175 @@
+{
+  "pixelmonName": "Lanturn",
+  "pokemon": "Lanturn",
+  "stats": {
+    "HP": 125,
+    "Attack": 58,
+    "Defence": 58,
+    "Speed": 67,
+    "SpecialAttack": 76,
+    "SpecialDefence": 76
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 27,
+  "spawnLevelRange": 23,
+  "baseExp": 156,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Electric"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Chinchou"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 20,
+    "depthRangeEnd": 100,
+    "swimSpeed": 1.5,
+    "decayRate": 0.99,
+    "refreshRate": 100
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.3,
+      "z": -0.27
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.3,
+      "z": -0.27
+    }
+  },
+  "weight": 22.5,
+  "evolutions": [],
+  "abilities": [
+    "VoltAbsorb",
+    "Illuminate",
+    "WaterAbsorb"
+  ],
+  "eggGroups": [
+    "Water2"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Stockpile",
+      "Swallow",
+      "Spit Up"
+    ],
+    "1": [
+      "Stockpile",
+      "Swallow",
+      "Spit Up",
+      "Eerie Impulse",
+      "Water Gun",
+      "Supersonic",
+      "Electro Ball",
+      "Thunder Wave"
+    ],
+    "12": [
+      "Bubble Beam"
+    ],
+    "16": [
+      "Confuse Ray"
+    ],
+    "20": [
+      "Spark"
+    ],
+    "24": [
+      "Charge"
+    ],
+    "30": [
+      "Discharge"
+    ],
+    "36": [
+      "Aqua Ring"
+    ],
+    "42": [
+      "Flail"
+    ],
+    "48": [
+      "Take Down"
+    ],
+    "54": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bounce",
+    "Heal Bell",
+    "Signal Beam",
+    "Sucker Punch",
+    "Agility",
+    "Aqua Ring",
+    "Amnesia",
+    "Bubble",
+    "Flail",
+    "Hydro Pump",
+    "Mist",
+    "Screech"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    14,
+    16,
+    21,
+    24,
+    25,
+    27,
+    31,
+    33,
+    35,
+    36,
+    39,
+    45,
+    52,
+    55,
+    76,
+    80,
+    93
+  ],
+  "trMoves": [
+    3,
+    4,
+    5,
+    6,
+    8,
+    9,
+    12,
+    16,
+    17,
+    20,
+    26,
+    27,
+    80,
+    84,
+    86,
+    92
+  ]
+}

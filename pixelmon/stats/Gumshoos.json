@@ -1,0 +1,159 @@
+{
+  "pixelmonName": "Gumshoos",
+  "pokemon": "Gumshoos",
+  "stats": {
+    "HP": 88,
+    "Attack": 110,
+    "Defence": 60,
+    "Speed": 45,
+    "SpecialAttack": 55,
+    "SpecialDefence": 60
+  },
+  "catchRate": 127,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 20,
+  "baseExp": 146,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.7,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Yungoos"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 14.2,
+  "evolutions": [],
+  "abilities": [
+    "Stakeout",
+    "StrongJaw",
+    "Adaptability"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Sand Attack",
+      "Leer",
+      "Pursuit"
+    ],
+    "3": [
+      "Leer"
+    ],
+    "7": [
+      "Pursuit"
+    ],
+    "10": [
+      "Sand Attack"
+    ],
+    "13": [
+      "Odor Sleuth"
+    ],
+    "16": [
+      "Bide"
+    ],
+    "19": [
+      "Bite"
+    ],
+    "23": [
+      "Mud-Slap"
+    ],
+    "27": [
+      "Super Fang"
+    ],
+    "31": [
+      "Take Down"
+    ],
+    "35": [
+      "Scary Face"
+    ],
+    "39": [
+      "Crunch"
+    ],
+    "43": [
+      "Hyper Fang"
+    ],
+    "47": [
+      "Yawn"
+    ],
+    "51": [
+      "Thrash"
+    ],
+    "55": [
+      "Rest"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Torment",
+    "Facade",
+    "Taunt",
+    "Rock Tomb",
+    "U-Turn",
+    "Payback",
+    "Fling",
+    "Round",
+    "Echoed Voice",
+    "Bulldoze",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Dual Chop",
+    "Endeavor",
+    "Fire Punch",
+    "Ice Punch",
+    "Iron Head",
+    "Iron Tail",
+    "Last Resort",
+    "Shock Wave",
+    "Snore",
+    "Stomping Tantrum",
+    "Super Fang",
+    "Thunder Punch",
+    "Uproar",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Fire Fang",
+    "Ice Fang",
+    "Last Resort",
+    "Revenge",
+    "Thunder Fang"
+  ],
+  "forms": {},
+  "form": -1
+}

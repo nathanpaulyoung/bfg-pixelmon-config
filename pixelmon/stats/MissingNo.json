@@ -1,0 +1,251 @@
+{
+  "pixelmonName": "MissingNo",
+  "pokemon": "MissingNo",
+  "form": 0,
+  "stats": {
+    "HP": 33,
+    "Attack": 136,
+    "Defence": 0,
+    "Speed": 29,
+    "SpecialAttack": 6,
+    "SpecialDefence": 6
+  },
+  "catchRate": 1,
+  "malePercent": -1,
+  "spawnLevel": 10,
+  "spawnLevelRange": 6,
+  "baseExp": 64,
+  "baseFriendship": 70,
+  "types": [
+    "Flying",
+    "Normal"
+  ],
+  "height": 3.0,
+  "width": 1.2,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {},
+  "weight": 1590.8,
+  "evolutions": [],
+  "abilities": [
+    "Error",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Water Gun",
+      "Sky Attack",
+      "Pay Day",
+      "Bind"
+    ]
+  },
+  "tmMoves": [
+    "Razor Wind",
+    "Swords Dance",
+    "Mega Kick",
+    "Toxic",
+    "Take Down",
+    "Double-Edge",
+    "Bubble Beam",
+    "Ice Beam",
+    "Blizzard",
+    "Submission",
+    "Seismic Toss",
+    "Rage",
+    "Thunder",
+    "Earthquake",
+    "Fissure",
+    "Psychic",
+    "Teleport",
+    "Sky Attack",
+    "Rest",
+    "Thunder Wave",
+    "Tri Attack",
+    "Substitute",
+    "Cut",
+    "Fly"
+  ],
+  "tutorMoves": [],
+  "eggMoves": [],
+  "forms": {
+    "80": {
+      "pixelmonName": "Regidrago",
+      "stats": {
+        "HP": 80,
+        "Attack": 75,
+        "Defence": 150,
+        "Speed": 50,
+        "SpecialAttack": 150,
+        "SpecialDefence": 75
+      },
+      "catchRate": 3,
+      "malePercent": -1,
+      "spawnLevel": 10,
+      "spawnLevelRange": 6,
+      "baseExp": 261,
+      "baseFriendship": 70,
+      "types": [
+        "Dragon"
+      ],
+      "height": 2.7,
+      "width": 3.0,
+      "length": 2.2,
+      "isRideable": false,
+      "canFly": false,
+      "canSurf": false,
+      "preEvolutions": [],
+      "evYields": {
+        "SpecialAttack": 3
+      },
+      "weight": 440.9,
+      "evolutions": [],
+      "abilities": [
+        "DragonsMaw",
+        null,
+        null
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Explosion",
+          "Stomp",
+          "Dragon Breath",
+          "Charge Beam",
+          "Bulldoze"
+        ],
+        "25": [
+          "Curse"
+        ],
+        "31": [
+          "Ancient Power"
+        ],
+        "37": [
+          "Iron Defense"
+        ],
+        "43": [
+          "Dragon Pulse"
+        ],
+        "39": [
+          "Hammer Arm"
+        ],
+        "55": [
+          "Lock-On",
+          "Zap Cannon"
+        ],
+        "61": [
+          "Superpower"
+        ],
+        "67": [
+          "Hyper Beam"
+        ],
+        "80": [
+          "Dragon Energy"
+        ]
+      },
+      "tutorMoves": [],
+      "tmMoves8": [],
+      "trMoves": []
+    },
+    "81": {
+      "pixelmonName": "Regieleki",
+      "stats": {
+        "HP": 80,
+        "Attack": 50,
+        "Defence": 75,
+        "Speed": 150,
+        "SpecialAttack": 150,
+        "SpecialDefence": 75
+      },
+      "catchRate": 3,
+      "malePercent": -1,
+      "spawnLevel": 10,
+      "spawnLevelRange": 6,
+      "baseExp": 261,
+      "baseFriendship": 70,
+      "types": [
+        "Electric"
+      ],
+      "height": 2.7,
+      "width": 3.0,
+      "length": 2.2,
+      "isRideable": false,
+      "canFly": false,
+      "canSurf": false,
+      "preEvolutions": [],
+      "evYields": {
+        "SpecialAttack": 3
+      },
+      "weight": 319.7,
+      "evolutions": [],
+      "abilities": [
+        "Transistor",
+        null,
+        null
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Explosion",
+          "Stomp",
+          "Charge Beam",
+          "Bulldoze",
+          "Electroweb"
+        ],
+        "7": [
+          "Charge Beam"
+        ],
+        "13": [
+          "Electroweb"
+        ],
+        "19": [
+          "Bulldoze"
+        ],
+        "25": [
+          "Curse"
+        ],
+        "31": [
+          "Ancient Power"
+        ],
+        "37": [
+          "Amnesia"
+        ],
+        "43": [
+          "Thunderbolt"
+        ],
+        "49": [
+          "Hammer Arm"
+        ],
+        "55": [
+          "Lock-On"
+        ],
+        "61": [
+          "Superpower"
+        ],
+        "67": [
+          "Hyper Beam"
+        ],
+        "80": [
+          "Thunder Cage"
+        ]
+      },
+      "tutorMoves": [],
+      "tmMoves8": [],
+      "trMoves": []
+    }
+  }
+}

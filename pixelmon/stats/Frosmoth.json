@@ -1,0 +1,162 @@
+{
+  "pixelmonName": "Frosmoth",
+  "pokemon": "Frosmoth",
+  "form": 0,
+  "stats": {
+    "HP": 70,
+    "Attack": 65,
+    "Defence": 60,
+    "SpecialAttack": 125,
+    "SpecialDefence": 90,
+    "Speed": 65
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 16,
+  "spawnLevelRange": 16,
+  "baseExp": 168,
+  "baseFriendship": 50,
+  "types": [
+    "Ice",
+    "Bug"
+  ],
+  "height": 1.0,
+  "width": 0.8,
+  "length": 0.9,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Snom"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 5,
+    "flyHeightMax": 15,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 42.0,
+  "evolutions": [],
+  "abilities": [
+    "ShieldDust",
+    null,
+    "IceScales"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Icy Wind",
+      "Powder Snow",
+      "Struggle Bug",
+      "Helping Hand",
+      "Attract"
+    ],
+    "4": [
+      "Stun Spore"
+    ],
+    "8": [
+      "Infestation"
+    ],
+    "12": [
+      "Mist"
+    ],
+    "16": [
+      "Defog"
+    ],
+    "21": [
+      "Feather Dance"
+    ],
+    "24": [
+      "Aurora Beam"
+    ],
+    "28": [
+      "Hail"
+    ],
+    "32": [
+      "Bug Buzz"
+    ],
+    "36": [
+      "Aurora Veil"
+    ],
+    "40": [
+      "Blizzard"
+    ],
+    "44": [
+      "Tailwind"
+    ],
+    "48": [
+      "Wide Guard"
+    ],
+    "52": [
+      "Quiver Dance"
+    ]
+  },
+  "tutorMoves": [
+    "Dual Wingbeat",
+    "Skitter Smack",
+    "Triple Axel"
+  ],
+  "eggMoves": [
+    "Bug Bite",
+    "Fairy Wind",
+    "Mirror Coat"
+  ],
+  "tmMoves8": [
+    8,
+    9,
+    17,
+    18,
+    19,
+    21,
+    24,
+    25,
+    27,
+    28,
+    31,
+    35,
+    39,
+    41,
+    44,
+    46,
+    51,
+    56,
+    64,
+    76,
+    78,
+    95
+  ],
+  "trMoves": [
+    5,
+    6,
+    18,
+    20,
+    26,
+    27,
+    49,
+    61,
+    89,
+    90,
+    92
+  ]
+}

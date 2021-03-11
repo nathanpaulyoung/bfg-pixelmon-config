@@ -1,0 +1,168 @@
+{
+  "pixelmonName": "Escavalier",
+  "pokemon": "Escavalier",
+  "stats": {
+    "HP": 70,
+    "Attack": 135,
+    "Defence": 105,
+    "Speed": 20,
+    "SpecialAttack": 60,
+    "SpecialDefence": 105
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 12,
+  "baseExp": 173,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Steel"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Karrablast"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 33.0,
+  "evolutions": [],
+  "abilities": [
+    "Swarm",
+    "ShellArmour",
+    "Overcoat"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "1": [
+      "Fell Stinger",
+      "Endure",
+      "Flail",
+      "Scary Face",
+      "Take Down",
+      "Double-Edge",
+      "Peck",
+      "Leer",
+      "Fury Cutter",
+      "Quick Guard"
+    ],
+    "12": [
+      "False Swipe"
+    ],
+    "16": [
+      "Acid Spray"
+    ],
+    "20": [
+      "Headbutt"
+    ],
+    "24": [
+      "Reversal"
+    ],
+    "28": [
+      "Iron Defense"
+    ],
+    "32": [
+      "X-Scissor"
+    ],
+    "36": [
+      "Swords Dance"
+    ],
+    "40": [
+      "Iron Head"
+    ],
+    "44": [
+      "Bug Buzz"
+    ],
+    "48": [
+      "Giga Impact"
+    ],
+    "52": [
+      "Metal Burst"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bug Bite",
+    "Iron Defense",
+    "Iron Head",
+    "Knock Off",
+    "Signal Beam",
+    "Drill Run",
+    "Feint Attack",
+    "Flail",
+    "Fury Attack",
+    "Pursuit",
+    "Reversal",
+    "Scary Face",
+    "Peck",
+    "Horn Attack",
+    "Slash",
+    "Leer",
+    "Screech",
+    "Drill Run",
+    "Signal Beam",
+    "Scary Face",
+    "Flail",
+    "Laser Focus"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    16,
+    21,
+    24,
+    25,
+    26,
+    28,
+    31,
+    33,
+    39,
+    42,
+    76,
+    83,
+    94,
+    96,
+    97
+  ],
+  "trMoves": [
+    0,
+    12,
+    20,
+    21,
+    26,
+    27,
+    28,
+    30,
+    37,
+    46,
+    53,
+    57,
+    60,
+    61,
+    64,
+    65,
+    74,
+    87
+  ]
+}

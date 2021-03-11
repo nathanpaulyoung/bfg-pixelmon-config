@@ -1,0 +1,179 @@
+{
+  "pixelmonName": "Archen",
+  "pokemon": "Archen",
+  "stats": {
+    "HP": 55,
+    "Attack": 112,
+    "Defence": 45,
+    "Speed": 70,
+    "SpecialAttack": 74,
+    "SpecialDefence": 45
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 20,
+  "spawnLevelRange": 17,
+  "baseExp": 71,
+  "baseFriendship": 70,
+  "types": [
+    "Rock",
+    "Flying"
+  ],
+  "height": 0.6,
+  "width": 0.3,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 9.5,
+  "evolutions": [
+    {
+      "level": 37,
+      "to": {
+        "name": "Archeops"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Defeatist",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Flying",
+    "Water3"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "0": [
+      "Quick Attack",
+      "Leer",
+      "Wing Attack"
+    ],
+    "5": [
+      "Rock Throw"
+    ],
+    "8": [
+      "Double Team"
+    ],
+    "11": [
+      "Scary Face"
+    ],
+    "15": [
+      "Pluck"
+    ],
+    "18": [
+      "Ancient Power"
+    ],
+    "21": [
+      "Agility"
+    ],
+    "25": [
+      "Quick Guard"
+    ],
+    "28": [
+      "Acrobatics"
+    ],
+    "31": [
+      "Dragon Breath"
+    ],
+    "35": [
+      "Crunch"
+    ],
+    "38": [
+      "Endeavor"
+    ],
+    "41": [
+      "U-Turn"
+    ],
+    "45": [
+      "Rock Slide"
+    ],
+    "48": [
+      "Dragon Claw"
+    ],
+    "50": [
+      "Thrash"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Steel Wing",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Torment",
+    "Facade",
+    "Taunt",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Dragon Claw",
+    "Roost",
+    "U-Turn",
+    "Rock Polish",
+    "Shadow Claw",
+    "Stone Edge",
+    "Smack Down",
+    "Round",
+    "Acrobatics",
+    "Bulldoze",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Ally Switch",
+    "Aqua Tail",
+    "Bounce",
+    "Defog",
+    "Dragon Pulse",
+    "Earth Power",
+    "Endeavor",
+    "Heat Wave",
+    "Iron Defense",
+    "Iron Tail",
+    "Knock Off",
+    "Snore",
+    "Stealth Rock",
+    "Tailwind",
+    "Uproar",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Ally Switch",
+    "Bite",
+    "Defog",
+    "Dragon Pulse",
+    "Earth Power",
+    "Head Smash",
+    "Knock Off",
+    "Steel Wing",
+    "Switcheroo"
+  ],
+  "forms": {},
+  "form": 0
+}

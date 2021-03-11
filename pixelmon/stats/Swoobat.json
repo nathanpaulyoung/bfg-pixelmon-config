@@ -1,0 +1,198 @@
+{
+  "pixelmonName": "Swoobat",
+  "pokemon": "Swoobat",
+  "stats": {
+    "HP": 67,
+    "Attack": 57,
+    "Defence": 55,
+    "Speed": 114,
+    "SpecialAttack": 77,
+    "SpecialDefence": 55
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 27,
+  "spawnLevelRange": 12,
+  "baseExp": 149,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic",
+    "Flying"
+  ],
+  "height": 1.4,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Woobat"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 10,
+    "flySpeedModifier": 0.8,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 200,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.225,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.225,
+      "z": -0.3
+    }
+  },
+  "weight": 10.5,
+  "evolutions": [],
+  "abilities": [
+    "Unaware",
+    "Klutz",
+    "Simple"
+  ],
+  "eggGroups": [
+    "Field",
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "1": [
+      "Gust",
+      "Attract",
+      "Confusion",
+      "Endeavor"
+    ],
+    "15": [
+      "Air Cutter"
+    ],
+    "20": [
+      "Imprison"
+    ],
+    "25": [
+      "Assurance"
+    ],
+    "30": [
+      "Amnesia"
+    ],
+    "35": [
+      "Air Slash"
+    ],
+    "40": [
+      "Psychic"
+    ],
+    "45": [
+      "Calm Mind"
+    ],
+    "50": [
+      "Future Sight"
+    ],
+    "55": [
+      "Simple Beam"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "After You",
+    "Air Cutter",
+    "Endeavor",
+    "Heat Wave",
+    "Helping Hand",
+    "Knock Off",
+    "Magic Coat",
+    "Signal Beam",
+    "Super Fang",
+    "Tailwind",
+    "Trick",
+    "Uproar",
+    "Zen Headbutt",
+    "Air Slash",
+    "Amnesia",
+    "Charm",
+    "Gust",
+    "Laser Focus",
+    "Defog",
+    "Ally Switch",
+    "Telekinesis"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    6,
+    8,
+    9,
+    14,
+    17,
+    18,
+    19,
+    21,
+    23,
+    24,
+    25,
+    28,
+    29,
+    30,
+    31,
+    33,
+    39,
+    40,
+    41,
+    44,
+    47,
+    56,
+    58,
+    62,
+    69,
+    70,
+    76,
+    78,
+    95
+  ],
+  "trMoves": [
+    11,
+    17,
+    20,
+    25,
+    26,
+    27,
+    29,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    40,
+    49,
+    52,
+    65,
+    68,
+    69,
+    82,
+    83,
+    91,
+    97
+  ]
+}

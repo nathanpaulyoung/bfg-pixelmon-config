@@ -1,0 +1,160 @@
+{
+  "pixelmonName": "Seedot",
+  "pokemon": "Seedot",
+  "stats": {
+    "HP": 40,
+    "Attack": 40,
+    "Defence": 50,
+    "Speed": 30,
+    "SpecialAttack": 30,
+    "SpecialDefence": 30
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 2,
+  "spawnLevelRange": 11,
+  "baseExp": 74,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 4.0,
+  "evolutions": [
+    {
+      "level": 14,
+      "to": {
+        "name": "Nuzleaf"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Chlorophyll",
+    "EarlyBird",
+    "Pickpocket"
+  ],
+  "eggGroups": [
+    "Field",
+    "Grass"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "1": [
+      "Tackle",
+      "Harden"
+    ],
+    "3": [
+      "Absorb"
+    ],
+    "6": [
+      "Astonish"
+    ],
+    "9": [
+      "Growth"
+    ],
+    "12": [
+      "Rollout"
+    ],
+    "15": [
+      "Mega Drain"
+    ],
+    "18": [
+      "Payback"
+    ],
+    "21": [
+      "Nature Power"
+    ],
+    "24": [
+      "Sunny Day"
+    ],
+    "27": [
+      "Synthesis"
+    ],
+    "30": [
+      "Sucker Punch"
+    ],
+    "33": [
+      "Explosion"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Foul Play",
+    "Seed Bomb",
+    "Spite",
+    "Synthesis",
+    "Worry Seed",
+    "Amnesia",
+    "Beat Up",
+    "Growth",
+    "Leech Seed",
+    "Nasty Plot",
+    "Refresh",
+    "Harden",
+    "Defog"
+  ],
+  "eggMoves": [
+    "Leech Seed",
+    "Quick Attack",
+    "Take Down",
+    "Worry Seed",
+    "Defog",
+    "Night Slash"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    11,
+    15,
+    20,
+    21,
+    24,
+    25,
+    28,
+    31,
+    34,
+    37,
+    39,
+    50,
+    57,
+    60,
+    76,
+    79,
+    88,
+    94
+  ],
+  "trMoves": [
+    0,
+    1,
+    17,
+    20,
+    26,
+    27,
+    33,
+    59,
+    65,
+    68,
+    77,
+    81
+  ]
+}

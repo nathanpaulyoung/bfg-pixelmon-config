@@ -1,0 +1,161 @@
+{
+  "pixelmonName": "Lampent",
+  "pokemon": "Lampent",
+  "stats": {
+    "HP": 60,
+    "Attack": 40,
+    "Defence": 60,
+    "Speed": 55,
+    "SpecialAttack": 95,
+    "SpecialDefence": 60
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 41,
+  "spawnLevelRange": 14,
+  "baseExp": 130,
+  "baseFriendship": 70,
+  "types": [
+    "Ghost",
+    "Fire"
+  ],
+  "height": 2.0,
+  "width": 0.6,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Litwick"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "hoverHeight": 1.0,
+  "weight": 13.0,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:dusk_stone"
+      },
+      "to": {
+        "name": "Chandelure"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "FlashFire",
+    "FlameBody",
+    "Infiltrator"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Astonish",
+      "Smog",
+      "Ember",
+      "Minimize"
+    ],
+    "12": [
+      "Confuse Ray"
+    ],
+    "16": [
+      "Hex"
+    ],
+    "20": [
+      "Will-O-Wisp"
+    ],
+    "24": [
+      "Fire Spin"
+    ],
+    "28": [
+      "Night Shade"
+    ],
+    "32": [
+      "Curse"
+    ],
+    "36": [
+      "Shadow Ball"
+    ],
+    "40": [
+      "Inferno"
+    ],
+    "46": [
+      "Imprison"
+    ],
+    "52": [
+      "Pain Split"
+    ],
+    "58": [
+      "Overheat"
+    ],
+    "64": [
+      "Memento"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Heat Wave",
+    "Pain Split",
+    "Spite",
+    "Trick",
+    "Haze",
+    "Night Shade",
+    "Inferno",
+    "Ally Switch",
+    "Telekinesis"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    11,
+    13,
+    19,
+    21,
+    23,
+    24,
+    25,
+    31,
+    34,
+    38,
+    39,
+    44,
+    57,
+    70,
+    76,
+    77,
+    92
+  ],
+  "trMoves": [
+    2,
+    11,
+    15,
+    20,
+    26,
+    27,
+    33,
+    36,
+    37,
+    38,
+    43,
+    49,
+    58,
+    65,
+    83
+  ]
+}

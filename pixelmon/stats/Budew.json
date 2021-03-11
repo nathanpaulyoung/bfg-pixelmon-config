@@ -1,0 +1,128 @@
+{
+  "pixelmonName": "Budew",
+  "pokemon": "Budew",
+  "stats": {
+    "HP": 40,
+    "Attack": 30,
+    "Defence": 35,
+    "Speed": 55,
+    "SpecialAttack": 50,
+    "SpecialDefence": 70
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 10,
+  "baseExp": 68,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "height": 0.2,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 1.2,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Roselia"
+      },
+      "conditions": [
+        {
+          "friendship": 220,
+          "evoConditionType": "friendship"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "NaturalCure",
+    "PoisonPoint",
+    "LeafGuard"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Absorb",
+      "Growth",
+      "Stun Spore",
+      "Worry Seed"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Seed Bomb",
+    "Synthesis",
+    "Uproar",
+    "Worry Seed",
+    "Absorb",
+    "Extrasensory",
+    "Growth",
+    "Mind Reader",
+    "Water Sport"
+  ],
+  "eggMoves": [
+    "Synthesis",
+    "Cotton Spore",
+    "Sleep Powder",
+    "Razor Leaf",
+    "Extrasensory",
+    "Life Dew"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    7,
+    11,
+    21,
+    24,
+    25,
+    28,
+    31,
+    33,
+    34,
+    39,
+    40,
+    46,
+    50,
+    74,
+    76
+  ],
+  "trMoves": [
+    0,
+    20,
+    22,
+    23,
+    26,
+    27,
+    33,
+    35,
+    59,
+    65,
+    71,
+    77,
+    92
+  ]
+}

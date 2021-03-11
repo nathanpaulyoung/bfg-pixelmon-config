@@ -1,0 +1,208 @@
+{
+  "pixelmonName": "Medicham",
+  "pokemon": "Medicham",
+  "stats": {
+    "HP": 60,
+    "Attack": 60,
+    "Defence": 75,
+    "Speed": 80,
+    "SpecialAttack": 60,
+    "SpecialDefence": 75
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 38,
+  "spawnLevelRange": 7,
+  "baseExp": 153,
+  "baseFriendship": 70,
+  "types": [
+    "Fighting",
+    "Psychic"
+  ],
+  "height": 1.3,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Meditite"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 31.5,
+  "evolutions": [],
+  "abilities": [
+    "PurePower",
+    null,
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Zen Headbutt",
+      "Fire Punch",
+      "Thunder Punch",
+      "Ice Punch",
+      "Bide",
+      "Meditate",
+      "Confusion",
+      "Detect"
+    ],
+    "4": [
+      "Meditate"
+    ],
+    "7": [
+      "Confusion"
+    ],
+    "9": [
+      "Detect"
+    ],
+    "12": [
+      "Endure"
+    ],
+    "15": [
+      "Feint"
+    ],
+    "17": [
+      "Force Palm"
+    ],
+    "20": [
+      "Hidden Power"
+    ],
+    "23": [
+      "Calm Mind"
+    ],
+    "25": [
+      "Mind Reader"
+    ],
+    "28": [
+      "High Jump Kick"
+    ],
+    "31": [
+      "Psych Up"
+    ],
+    "33": [
+      "Acupressure"
+    ],
+    "36": [
+      "Power Trick"
+    ],
+    "42": [
+      "Reversal"
+    ],
+    "47": [
+      "Recover"
+    ],
+    "53": [
+      "Counter"
+    ]
+  },
+  "tmMoves": [
+    "Hyper Beam",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Light Screen",
+    "Reflect",
+    "Dream Eater",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Shadow Ball",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Bulk Up",
+    "Calm Mind",
+    "Fling",
+    "Poison Jab",
+    "Focus Blast",
+    "Energy Ball",
+    "Giga Impact",
+    "Grass Knot",
+    "Psyshock",
+    "Low Sweep",
+    "Round",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Drain Punch",
+    "Fire Punch",
+    "Focus Punch",
+    "Gravity",
+    "Helping Hand",
+    "Ice Punch",
+    "Laser Focus",
+    "Low Kick",
+    "Magic Coat",
+    "Pain Split",
+    "Recycle",
+    "Role Play",
+    "Signal Beam",
+    "Snore",
+    "Telekinesis",
+    "Thunder Punch",
+    "Trick",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Baton Pass",
+    "Bullet Punch",
+    "Drain Punch",
+    "Dynamic Punch",
+    "Fake Out",
+    "Fire Punch",
+    "Foresight",
+    "Guard Swap",
+    "Ice Punch",
+    "Power Swap",
+    "Psycho Cut",
+    "Quick Guard",
+    "Secret Power",
+    "Thunder Punch"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 60,
+        "Attack": 100,
+        "Defence": 85,
+        "Speed": 100,
+        "SpecialAttack": 80,
+        "SpecialDefence": 85
+      },
+      "abilities": [
+        "PurePower",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": 0
+}

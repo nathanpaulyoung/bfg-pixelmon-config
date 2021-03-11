@@ -1,0 +1,168 @@
+{
+  "pixelmonName": "Melmetal",
+  "pokemon": "Melmetal",
+  "stats": {
+    "HP": 135,
+    "Attack": 143,
+    "Defence": 143,
+    "Speed": 34,
+    "SpecialAttack": 80,
+    "SpecialDefence": 65
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 270,
+  "baseFriendship": 0,
+  "types": [
+    "Steel"
+  ],
+  "height": 2.5,
+  "width": 2.5,
+  "length": 2.5,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Meltan"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 100,
+    "passive": 0,
+    "aggressive": 0
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": 0.2
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": 0.2
+    }
+  },
+  "weight": 800.0,
+  "evolutions": [],
+  "abilities": [
+    "IronFist",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Thunder Punch"
+    ],
+    "1": [
+      "Thunder Punch",
+      "Thunder Shock",
+      "Harden",
+      "Tail Whip",
+      "Headbutt"
+    ],
+    "24": [
+      "Thunder Wave"
+    ],
+    "32": [
+      "Acid Armor"
+    ],
+    "40": [
+      "Flash Cannon"
+    ],
+    "48": [
+      "Mega Punch"
+    ],
+    "56": [
+      "Protect"
+    ],
+    "64": [
+      "Discharge"
+    ],
+    "72": [
+      "Dynamic Punch"
+    ],
+    "80": [
+      "Superpower"
+    ],
+    "88": [
+      "Double Iron Bash"
+    ],
+    "96": [
+      "Hyper Beam"
+    ]
+  },
+  "tmMoves": [
+    "Headbutt",
+    "Rest",
+    "Protect",
+    "Substitute",
+    "Facade",
+    "Thunder Wave",
+    "Rock Slide",
+    "Toxic",
+    "Ice Punch",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Self-Destruct",
+    "Solar Beam",
+    "Hyper Beam",
+    "Superpower",
+    "Flash Cannon",
+    "Ice Beam"
+  ],
+  "tutorMoves": [],
+  "forms": {},
+  "form": -1,
+  "eggMoves": [],
+  "tmMoves8": [
+    0,
+    1,
+    4,
+    5,
+    8,
+    9,
+    11,
+    14,
+    20,
+    21,
+    22,
+    24,
+    25,
+    39,
+    43,
+    48,
+    76,
+    90,
+    97
+  ],
+  "trMoves": [
+    1,
+    5,
+    8,
+    9,
+    20,
+    26,
+    27,
+    39,
+    46,
+    52,
+    70,
+    74,
+    79,
+    93,
+    94,
+    99
+  ]
+}

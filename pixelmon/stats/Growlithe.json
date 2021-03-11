@@ -1,0 +1,174 @@
+{
+  "pixelmonName": "Growlithe",
+  "pokemon": "Growlithe",
+  "stats": {
+    "HP": 55,
+    "Attack": 70,
+    "Defence": 45,
+    "Speed": 60,
+    "SpecialAttack": 70,
+    "SpecialDefence": 50
+  },
+  "catchRate": 190,
+  "malePercent": 75,
+  "spawnLevel": 5,
+  "spawnLevelRange": 12,
+  "baseExp": 91,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.7,
+  "width": 0.3,
+  "length": 0.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 19.0,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:fire_stone"
+      },
+      "to": {
+        "name": "Arcanine"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "Intimidate",
+    "FlashFire",
+    "Justified"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Ember",
+      "Leer"
+    ],
+    "4": [
+      "Howl"
+    ],
+    "8": [
+      "Bite"
+    ],
+    "12": [
+      "Flame Wheel"
+    ],
+    "16": [
+      "Helping Hand"
+    ],
+    "20": [
+      "Agility"
+    ],
+    "24": [
+      "Fire Fang"
+    ],
+    "28": [
+      "Retaliate"
+    ],
+    "32": [
+      "Crunch"
+    ],
+    "36": [
+      "Take Down"
+    ],
+    "40": [
+      "Flamethrower"
+    ],
+    "44": [
+      "Roar"
+    ],
+    "48": [
+      "Play Rough"
+    ],
+    "52": [
+      "Reversal"
+    ],
+    "56": [
+      "Flare Blitz"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Heat Wave",
+    "Helping Hand",
+    "Outrage",
+    "Agility",
+    "Bite",
+    "Charm",
+    "Flare Blitz",
+    "Howl",
+    "Morning Sun",
+    "Reversal",
+    "Thrash",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Thrash",
+    "Double-Edge",
+    "Morning Sun",
+    "Covet",
+    "Double Kick"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    13,
+    15,
+    19,
+    21,
+    23,
+    24,
+    25,
+    31,
+    34,
+    38,
+    39,
+    40,
+    41,
+    68,
+    76,
+    79,
+    85
+  ],
+  "trMoves": [
+    1,
+    2,
+    12,
+    15,
+    20,
+    21,
+    24,
+    26,
+    27,
+    31,
+    32,
+    36,
+    43,
+    53,
+    55,
+    86,
+    90,
+    97
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "pixelmonName": "Kartana",
+  "pokemon": "Kartana",
+  "stats": {
+    "HP": 59,
+    "Attack": 181,
+    "Defence": 131,
+    "Speed": 109,
+    "SpecialAttack": 59,
+    "SpecialDefence": 31
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 114,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Steel"
+  ],
+  "height": 0.3,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 3
+  },
+  "weight": 0.1,
+  "evolutions": [],
+  "abilities": [
+    "BeastBoost",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Sacred Sword",
+      "Defog",
+      "Vacuum Wave",
+      "Air Cutter",
+      "Fury Cutter",
+      "Cut"
+    ],
+    "7": [
+      "False Swipe"
+    ],
+    "13": [
+      "Razor Leaf"
+    ],
+    "19": [
+      "Synthesis"
+    ],
+    "23": [
+      "Aerial Ace"
+    ],
+    "29": [
+      "Laser Focus"
+    ],
+    "31": [
+      "Night Slash"
+    ],
+    "37": [
+      "Swords Dance"
+    ],
+    "43": [
+      "Leaf Blade"
+    ],
+    "47": [
+      "X-Scissor"
+    ],
+    "53": [
+      "Detect"
+    ],
+    "59": [
+      "Air Slash"
+    ],
+    "67": [
+      "Psycho Cut"
+    ],
+    "73": [
+      "Guillotine"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "False Swipe",
+    "Swagger",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Brick Break",
+    "Aerial Ace",
+    "Calm Mind",
+    "X-Scissor",
+    "Giga Impact",
+    "Round",
+    "Confide",
+    "Smart Strike"
+  ],
+  "tutorMoves": [
+    "Defog",
+    "Giga Drain",
+    "Iron Defense",
+    "Knock Off",
+    "Laser Focus",
+    "Last Resort",
+    "Snore",
+    "Synthesis",
+    "Tailwind"
+  ],
+  "forms": {},
+  "form": -1,
+  "eggMoves": []
+}

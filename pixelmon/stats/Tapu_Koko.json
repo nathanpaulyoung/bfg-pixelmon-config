@@ -1,0 +1,163 @@
+{
+  "pixelmonName": "TapuKoko",
+  "pokemon": "Tapu_Koko",
+  "stats": {
+    "HP": 70,
+    "Attack": 115,
+    "Defence": 85,
+    "Speed": 130,
+    "SpecialAttack": 95,
+    "SpecialDefence": 75
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 50,
+  "spawnLevelRange": 0,
+  "baseExp": 114,
+  "baseFriendship": 70,
+  "types": [
+    "Electric",
+    "Fairy"
+  ],
+  "height": 1.8,
+  "width": 1.8,
+  "length": 1.8,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Speed": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.6,
+      "y": 0.0,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.6,
+      "y": 0.0,
+      "z": -0.3
+    }
+  },
+  "weight": 20.5,
+  "evolutions": [],
+  "abilities": [
+    "ElectricSurge",
+    null,
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Electric Terrain",
+      "Brave Bird",
+      "Power Swap",
+      "Mean Look",
+      "Quick Attack",
+      "False Swipe",
+      "Withdraw",
+      "Thunder Shock"
+    ],
+    "8": [
+      "Spark"
+    ],
+    "14": [
+      "Shock Wave"
+    ],
+    "20": [
+      "Screech"
+    ],
+    "26": [
+      "Charge"
+    ],
+    "32": [
+      "Wild Charge"
+    ],
+    "38": [
+      "Mirror Move"
+    ],
+    "43": [
+      "Natures Madness"
+    ],
+    "48": [
+      "Discharge"
+    ],
+    "53": [
+      "Agility"
+    ],
+    "58": [
+      "Electro Ball"
+    ]
+  },
+  "tmMoves": [
+    "Fly",
+    "Roar",
+    "Hyper Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Toxic",
+    "Double Team",
+    "Light Screen",
+    "Reflect",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "False Swipe",
+    "Swagger",
+    "Steel Wing",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Psych Up",
+    "Torment",
+    "Facade",
+    "Nature Power",
+    "Taunt",
+    "Aerial Ace",
+    "Calm Mind",
+    "Roost",
+    "U-Turn",
+    "Giga Impact",
+    "Grass Knot",
+    "Round",
+    "Echoed Voice",
+    "Sky Drop",
+    "Acrobatics",
+    "Volt Switch",
+    "Work Up",
+    "Wild Charge",
+    "Confide",
+    "Dazzling Gleam"
+  ],
+  "tutorMoves": [
+    "Defog",
+    "Electroweb",
+    "Hyper Voice",
+    "Iron Defense",
+    "Iron Head",
+    "Shock Wave",
+    "Sky Attack",
+    "Snore",
+    "Telekinesis",
+    "Thunder Punch"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": []
+}

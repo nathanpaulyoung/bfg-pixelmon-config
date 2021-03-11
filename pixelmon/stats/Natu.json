@@ -1,0 +1,192 @@
+{
+  "pixelmonName": "Natu",
+  "pokemon": "Natu",
+  "stats": {
+    "HP": 40,
+    "Attack": 50,
+    "Defence": 45,
+    "Speed": 70,
+    "SpecialAttack": 70,
+    "SpecialDefence": 45
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 19,
+  "baseExp": 73,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic",
+    "Flying"
+  ],
+  "height": 0.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 10,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 2.0,
+  "evolutions": [
+    {
+      "level": 25,
+      "to": {
+        "name": "Xatu"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Air Slash"
+      ]
+    }
+  ],
+  "abilities": [
+    "Synchronize",
+    "EarlyBird",
+    "MagicBounce"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Peck",
+      "Leer"
+    ],
+    "5": [
+      "Stored Power"
+    ],
+    "10": [
+      "Teleport"
+    ],
+    "15": [
+      "Confuse Ray"
+    ],
+    "20": [
+      "Night Shade"
+    ],
+    "26": [
+      "Psycho Shift"
+    ],
+    "30": [
+      "Power Swap"
+    ],
+    "35": [
+      "Guard Swap",
+      "Psychic"
+    ],
+    "40": [
+      "Wish"
+    ],
+    "45": [
+      "Future Sight"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Air Cutter",
+    "Heat Wave",
+    "Magic Coat",
+    "Magic Room",
+    "Ominous Wind",
+    "Pain Split",
+    "Signal Beam",
+    "Sucker Punch",
+    "Tailwind",
+    "Trick",
+    "Twister",
+    "Zen Headbutt",
+    "Baton Pass",
+    "Feint Attack",
+    "Feather Dance",
+    "Haze",
+    "Night Shade",
+    "Refresh",
+    "Wish",
+    "Peck",
+    "Leer",
+    "Sky Attack",
+    "Ally Switch",
+    "Telekinesis"
+  ],
+  "eggMoves": [
+    "Drill Peck",
+    "Quick Attack",
+    "Feather Dance",
+    "Sucker Punch",
+    "Roost",
+    "Simple Beam"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    11,
+    14,
+    17,
+    18,
+    21,
+    23,
+    24,
+    25,
+    28,
+    30,
+    31,
+    33,
+    34,
+    39,
+    40,
+    44,
+    56,
+    60,
+    61,
+    70,
+    72,
+    76,
+    95
+  ],
+  "trMoves": [
+    11,
+    20,
+    25,
+    26,
+    27,
+    29,
+    33,
+    34,
+    36,
+    38,
+    40,
+    44,
+    49,
+    69,
+    77,
+    82,
+    83,
+    92
+  ]
+}

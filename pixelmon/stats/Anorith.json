@@ -1,0 +1,155 @@
+{
+  "pixelmonName": "Anorith",
+  "pokemon": "Anorith",
+  "stats": {
+    "HP": 45,
+    "Attack": 95,
+    "Defence": 50,
+    "Speed": 75,
+    "SpecialAttack": 40,
+    "SpecialDefence": 50
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 20,
+  "spawnLevelRange": 20,
+  "baseExp": 99,
+  "baseFriendship": 70,
+  "types": [
+    "Rock",
+    "Bug"
+  ],
+  "height": 0.7,
+  "width": 0.4,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 12.5,
+  "evolutions": [
+    {
+      "level": 40,
+      "to": {
+        "name": "Armaldo"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "BattleArmour",
+    null,
+    "SwiftSwim"
+  ],
+  "eggGroups": [
+    "Water3"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Harden"
+    ],
+    "4": [
+      "Mud Sport"
+    ],
+    "7": [
+      "Water Gun"
+    ],
+    "10": [
+      "Fury Cutter"
+    ],
+    "13": [
+      "Smack Down"
+    ],
+    "17": [
+      "Metal Claw"
+    ],
+    "21": [
+      "Ancient Power"
+    ],
+    "25": [
+      "Bug Bite"
+    ],
+    "29": [
+      "Brine"
+    ],
+    "34": [
+      "Slash"
+    ],
+    "39": [
+      "Crush Claw"
+    ],
+    "44": [
+      "X-Scissor"
+    ],
+    "49": [
+      "Protect"
+    ],
+    "55": [
+      "Rock Blast"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "False Swipe",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Rock Polish",
+    "X-Scissor",
+    "Smack Down",
+    "Round",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Earth Power",
+    "Iron Defense",
+    "Knock Off",
+    "Snore",
+    "Stealth Rock",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Aqua Jet",
+    "Cross Poison",
+    "Curse",
+    "Iron Defense",
+    "Knock Off",
+    "Rapid Spin",
+    "Sand Attack",
+    "Screech",
+    "Water Pulse"
+  ],
+  "forms": {},
+  "form": 0
+}

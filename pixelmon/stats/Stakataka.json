@@ -1,0 +1,154 @@
+{
+  "pixelmonName": "Stakataka",
+  "pokemon": "Stakataka",
+  "stats": {
+    "HP": 61,
+    "Attack": 131,
+    "Defence": 211,
+    "Speed": 13,
+    "SpecialAttack": 53,
+    "SpecialDefence": 101
+  },
+  "catchRate": 30,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 257,
+  "baseFriendship": 70,
+  "types": [
+    "Rock",
+    "Steel"
+  ],
+  "height": 5.0,
+  "width": 5.0,
+  "length": 5.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Defence": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.3,
+      "z": 1.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.3,
+      "z": 1.0
+    }
+  },
+  "weight": 820.0,
+  "evolutions": [],
+  "abilities": [
+    "BeastBoost",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Protect",
+      "Tackle"
+    ],
+    "5": [
+      "Rock Slide"
+    ],
+    "11": [
+      "Stealth Rock"
+    ],
+    "17": [
+      "Bide"
+    ],
+    "19": [
+      "Take Down"
+    ],
+    "23": [
+      "Rock Throw"
+    ],
+    "31": [
+      "Autotomize"
+    ],
+    "37": [
+      "Iron Defense"
+    ],
+    "43": [
+      "Iron Head"
+    ],
+    "47": [
+      "Rock Blast"
+    ],
+    "53": [
+      "Wide Guard"
+    ],
+    "61": [
+      "Double-Edge"
+    ]
+  },
+  "tmMoves": [
+    "Earthquake",
+    "Toxic",
+    "Light Screen",
+    "Reflect",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Facade",
+    "Rock Tomb",
+    "Gyro Ball",
+    "Rock Polish",
+    "Giga Impact",
+    "Flash Cannon",
+    "Trick Room",
+    "Stone Edge",
+    "Smack Down",
+    "Round",
+    "Bulldoze",
+    "Infestation",
+    "Brutal Swing"
+  ],
+  "tutorMoves": [
+    "Ally Switch",
+    "Bind",
+    "Block",
+    "Gravity",
+    "Iron Defense",
+    "Iron Head",
+    "Magic Coat",
+    "Magic Room",
+    "Magnet Rise",
+    "Recycle",
+    "Role Play",
+    "Skill Swap",
+    "Snore",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Superpower",
+    "Telekinesis",
+    "Wonder Room",
+    "Zen Headbutt"
+  ],
+  "forms": {},
+  "form": -1,
+  "eggMoves": []
+}

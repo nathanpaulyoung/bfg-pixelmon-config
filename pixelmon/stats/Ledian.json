@@ -1,0 +1,173 @@
+{
+  "pixelmonName": "Ledian",
+  "pokemon": "Ledian",
+  "stats": {
+    "HP": 55,
+    "Attack": 35,
+    "Defence": 50,
+    "Speed": 85,
+    "SpecialAttack": 55,
+    "SpecialDefence": 110
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 18,
+  "spawnLevelRange": 12,
+  "baseExp": 134,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "height": 1.4,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Ledyba"
+  ],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 5,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "weight": 35.6,
+  "evolutions": [],
+  "abilities": [
+    "Swarm",
+    "EarlyBird",
+    "IronFist"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Supersonic",
+      "Comet Punch",
+      "Swift"
+    ],
+    "5": [
+      "Supersonic"
+    ],
+    "8": [
+      "Swift"
+    ],
+    "12": [
+      "Light Screen",
+      "Reflect",
+      "Safeguard"
+    ],
+    "15": [
+      "Mach Punch"
+    ],
+    "20": [
+      "Silver Wind"
+    ],
+    "24": [
+      "Comet Punch"
+    ],
+    "29": [
+      "Baton Pass"
+    ],
+    "33": [
+      "Agility"
+    ],
+    "38": [
+      "Bug Buzz"
+    ],
+    "42": [
+      "Air Slash"
+    ],
+    "47": [
+      "Double-Edge"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Hyper Beam",
+    "Solar Beam",
+    "Toxic",
+    "Double Team",
+    "Light Screen",
+    "Reflect",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Sunny Day",
+    "Facade",
+    "Brick Break",
+    "Aerial Ace",
+    "Roost",
+    "U-Turn",
+    "Fling",
+    "Focus Blast",
+    "Giga Impact",
+    "Round",
+    "Acrobatics",
+    "Confide",
+    "Infestation"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Defog",
+    "Drain Punch",
+    "Focus Punch",
+    "Giga Drain",
+    "Ice Punch",
+    "Knock Off",
+    "Snore",
+    "Tailwind",
+    "Thunder Punch",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Bide",
+    "Bug Bite",
+    "Bug Buzz",
+    "Counter",
+    "Dizzy Punch",
+    "Drain Punch",
+    "Encore",
+    "Endure",
+    "Focus Punch",
+    "Knock Off",
+    "Psybeam",
+    "Screech",
+    "Silver Wind",
+    "Tailwind"
+  ],
+  "forms": {},
+  "form": 0
+}

@@ -1,0 +1,343 @@
+{
+  "pixelmonName": "Vulpix",
+  "pokemon": "Vulpix",
+  "stats": {
+    "HP": 38,
+    "Attack": 41,
+    "Defence": 40,
+    "Speed": 65,
+    "SpecialAttack": 50,
+    "SpecialDefence": 65
+  },
+  "catchRate": 190,
+  "malePercent": 25,
+  "spawnLevel": 10,
+  "spawnLevelRange": 9,
+  "baseExp": 63,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.5,
+  "width": 0.4,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 9.9,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:fire_stone"
+      },
+      "to": {
+        "name": "Ninetales",
+        "form": 0
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "FlashFire",
+    null,
+    "Drought"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Ember",
+      "Tail Whip"
+    ],
+    "4": [
+      "Disable"
+    ],
+    "8": [
+      "Quick Attack"
+    ],
+    "12": [
+      "Spite"
+    ],
+    "16": [
+      "Incinerate"
+    ],
+    "20": [
+      "Confuse Ray"
+    ],
+    "24": [
+      "Will-O-Wisp"
+    ],
+    "28": [
+      "Extrasensory"
+    ],
+    "32": [
+      "Flamethrower"
+    ],
+    "36": [
+      "Imprison"
+    ],
+    "40": [
+      "Fire Spin"
+    ],
+    "44": [
+      "Safeguard"
+    ],
+    "48": [
+      "Inferno"
+    ],
+    "52": [
+      "Grudge"
+    ],
+    "56": [
+      "Fire Blast"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Foul Play",
+    "Heat Wave",
+    "Ominous Wind",
+    "Pain Split",
+    "Role Play",
+    "Spite",
+    "Zen Headbutt",
+    "Charm",
+    "Extrasensory",
+    "Feint Attack",
+    "Flail",
+    "Flare Blitz",
+    "Howl",
+    "Hypnosis",
+    "Inferno"
+  ],
+  "eggMoves": [
+    "Hypnosis",
+    "Flail",
+    "Howl",
+    "Memento",
+    "Baby-Doll Eyes",
+    "Roar",
+    "Flame Charge"
+  ],
+  "forms": {
+    "1": {
+      "types": [
+        "Ice"
+      ],
+      "weight": 3.8,
+      "evolutions": [
+        {
+          "item": {
+            "itemID": "pixelmon:ice_stone"
+          },
+          "to": {
+            "name": "Ninetales",
+            "form": 1
+          },
+          "conditions": [],
+          "evoType": "interact",
+          "moves": [
+            "Dazzling Gleam"
+          ]
+        }
+      ],
+      "abilities": [
+        "SnowCloak",
+        null,
+        "SnowWarning"
+      ],
+      "levelUpMoves": {
+        "1": [
+          "Powder Snow",
+          "Tail Whip"
+        ],
+        "4": [
+          "Disable"
+        ],
+        "8": [
+          "Ice Shard"
+        ],
+        "12": [
+          "Spite"
+        ],
+        "16": [
+          "Icy Wind"
+        ],
+        "20": [
+          "Confuse Ray"
+        ],
+        "24": [
+          "Aurora Beam"
+        ],
+        "28": [
+          "Extrasensory"
+        ],
+        "32": [
+          "Ice Beam"
+        ],
+        "36": [
+          "Imprison"
+        ],
+        "40": [
+          "Mist"
+        ],
+        "44": [
+          "Aurora Veil"
+        ],
+        "48": [
+          "Sheer Cold"
+        ],
+        "52": [
+          "Grudge"
+        ],
+        "56": [
+          "Blizzard"
+        ]
+      },
+      "tmMoves": [
+        "Roar",
+        "Toxic",
+        "Hail",
+        "Hidden Power",
+        "Ice Beam",
+        "Blizzard",
+        "Protect",
+        "Rain Dance",
+        "Safeguard",
+        "Frustration",
+        "Return",
+        "Double Team",
+        "Facade",
+        "Rest",
+        "Attract",
+        "Round",
+        "Payback",
+        "Aurora Veil",
+        "Psych Up",
+        "Frost Breath",
+        "Swagger",
+        "Sleep Talk",
+        "Substitute",
+        "Dark Pulse",
+        "Confide"
+      ],
+      "tutorMoves": [
+        "Covet",
+        "Foul Play",
+        "Zen Headbutt",
+        "Iron Tail",
+        "Snore",
+        "Role Play",
+        "Pain Split",
+        "Spite",
+        "Icy Wind",
+        "Aqua Tail",
+        "Heal Bell",
+        "Celebrate"
+      ],
+      "eggMoves": [
+        "Freeze-Dry",
+        "Hypnosis",
+        "Flail",
+        "Howl",
+        "Moonblast",
+        "Baby-Doll Eyes",
+        "Roar"
+      ],
+      "form": 1,
+      "tmMoves8": [
+        15,
+        19,
+        21,
+        24,
+        25,
+        27,
+        29,
+        31,
+        33,
+        35,
+        39,
+        40,
+        44,
+        46,
+        57,
+        60,
+        76,
+        77,
+        84,
+        87
+      ],
+      "trMoves": [
+        1,
+        5,
+        6,
+        12,
+        20,
+        26,
+        27,
+        30,
+        31,
+        58,
+        69,
+        81
+      ]
+    }
+  },
+  "form": 0,
+  "tmMoves8": [
+    13,
+    15,
+    19,
+    21,
+    24,
+    25,
+    31,
+    34,
+    38,
+    39,
+    40,
+    44,
+    46,
+    57,
+    60,
+    76,
+    77,
+    84,
+    92
+  ],
+  "trMoves": [
+    1,
+    2,
+    12,
+    15,
+    20,
+    26,
+    27,
+    30,
+    31,
+    36,
+    43,
+    55,
+    58,
+    65,
+    69,
+    81
+  ]
+}

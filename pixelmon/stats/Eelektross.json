@@ -1,0 +1,149 @@
+{
+  "pixelmonName": "Eelektross",
+  "pokemon": "Eelektross",
+  "stats": {
+    "HP": 85,
+    "Attack": 115,
+    "Defence": 80,
+    "Speed": 50,
+    "SpecialAttack": 105,
+    "SpecialDefence": 80
+  },
+  "catchRate": 30,
+  "malePercent": 50,
+  "spawnLevel": 53,
+  "spawnLevelRange": 11,
+  "baseExp": 232,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 2.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Eelektrik",
+    "Tynamo"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 25,
+    "swimSpeed": 0.5,
+    "decayRate": 0.99,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.55,
+      "z": 0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.6,
+      "z": 0.2
+    }
+  },
+  "weight": 80.5,
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Thrash",
+      "Zap Cannon",
+      "Gastro Acid",
+      "Coil",
+      "Ion Deluge",
+      "Crush Claw",
+      "Headbutt",
+      "Acid",
+      "Discharge",
+      "Crunch"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Flamethrower",
+    "Hyper Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Toxic",
+    "Double Team",
+    "Light Screen",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Dragon Claw",
+    "U-Turn",
+    "Giga Impact",
+    "Flash Cannon",
+    "Grass Knot",
+    "Charge Beam",
+    "Round",
+    "Acrobatics",
+    "Volt Switch",
+    "Dragon Tail",
+    "Wild Charge",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bind",
+    "Bounce",
+    "Dragon Pulse",
+    "Drain Punch",
+    "Fire Punch",
+    "Focus Punch",
+    "Gastro Acid",
+    "Giga Drain",
+    "Iron Tail",
+    "Knock Off",
+    "Magnet Rise",
+    "Outrage",
+    "Shock Wave",
+    "Signal Beam",
+    "Snore",
+    "Super Fang",
+    "Superpower",
+    "Throat Chop",
+    "Thunder Punch"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": []
+}

@@ -1,0 +1,134 @@
+{
+  "pixelmonName": "Comfey",
+  "pokemon": "Comfey",
+  "stats": {
+    "HP": 51,
+    "Attack": 52,
+    "Defence": 90,
+    "Speed": 100,
+    "SpecialAttack": 82,
+    "SpecialDefence": 110
+  },
+  "catchRate": 60,
+  "malePercent": 25,
+  "spawnLevel": 20,
+  "spawnLevelRange": 40,
+  "baseExp": 170,
+  "baseFriendship": 70,
+  "types": [
+    "Fairy"
+  ],
+  "height": 0.5,
+  "width": 0.5,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "weight": 0.3,
+  "evolutions": [],
+  "abilities": [
+    "FlowerVeil",
+    "Triage",
+    "NaturalCure"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Helping Hand",
+      "Vine Whip",
+      "Flower Shield"
+    ],
+    "4": [
+      "Leech Seed"
+    ],
+    "7": [
+      "Draining Kiss"
+    ],
+    "10": [
+      "Magical Leaf"
+    ],
+    "13": [
+      "Growth"
+    ],
+    "16": [
+      "Wrap"
+    ],
+    "19": [
+      "Sweet Kiss"
+    ],
+    "22": [
+      "Natural Gift"
+    ],
+    "25": [
+      "Petal Blizzard"
+    ],
+    "28": [
+      "Synthesis"
+    ],
+    "31": [
+      "Sweet Scent"
+    ],
+    "34": [
+      "Grass Knot"
+    ],
+    "37": [
+      "Floral Healing"
+    ],
+    "40": [
+      "Petal Dance"
+    ],
+    "43": [
+      "Aromatherapy"
+    ],
+    "46": [
+      "Grassy Terrain"
+    ],
+    "49": [
+      "Play Rough"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Seed Bomb",
+    "Magic Coat",
+    "Bind",
+    "Snore",
+    "Synthesis",
+    "Role Play",
+    "Heal Bell",
+    "Tailwind",
+    "Pain Split",
+    "Giga Drain",
+    "Worry Seed",
+    "After You",
+    "Helping Hand",
+    "Trick",
+    "Telekinesis",
+    "Ally Switch",
+    "Defog",
+    "Celebrate"
+  ],
+  "eggMoves": [
+    "Endure",
+    "Amnesia",
+    "After You",
+    "Lucky Chant"
+  ],
+  "forms": {},
+  "form": -1
+}

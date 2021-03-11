@@ -1,0 +1,174 @@
+{
+  "pixelmonName": "Corviknight",
+  "pokemon": "Corviknight",
+  "stats": {
+    "HP": 98,
+    "Attack": 87,
+    "Defence": 105,
+    "SpecialAttack": 53,
+    "SpecialDefence": 85,
+    "Speed": 67
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 36,
+  "spawnLevelRange": 14,
+  "baseExp": 248,
+  "baseFriendship": 50,
+  "types": [
+    "Flying",
+    "Steel"
+  ],
+  "height": 2.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Corvisquire",
+    "Rookidee"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 5,
+    "flyHeightMax": 15,
+    "flySpeedModifier": 0.6,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Defence": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.2,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.4,
+      "z": -0.1
+    }
+  },
+  "weight": 75.0,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    "Unnerve",
+    "MirrorArmor"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Steel Wing"
+    ],
+    "1": [
+      "Steel Wing",
+      "Iron Defense",
+      "Metal Sound",
+      "Peck",
+      "Leer",
+      "Power Trip",
+      "Hone Claws"
+    ],
+    "12": [
+      "Fury Attack"
+    ],
+    "16": [
+      "Pluck"
+    ],
+    "22": [
+      "Taunt"
+    ],
+    "28": [
+      "Scary Face"
+    ],
+    "34": [
+      "Drill Peck"
+    ],
+    "42": [
+      "Swagger"
+    ],
+    "50": [
+      "Brave Bird"
+    ]
+  },
+  "tutorMoves": [
+    "Dual Wingbeat",
+    "Steel Beam"
+  ],
+  "eggMoves": [
+    "Defog",
+    "Rock Smash",
+    "Roost",
+    "Sand Attack",
+    "Sky Attack",
+    "Spite",
+    "Tailwind"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    6,
+    8,
+    9,
+    16,
+    17,
+    18,
+    21,
+    23,
+    24,
+    25,
+    26,
+    30,
+    31,
+    39,
+    40,
+    42,
+    47,
+    56,
+    57,
+    58,
+    76,
+    79,
+    95
+  ],
+  "trMoves": [
+    1,
+    12,
+    13,
+    20,
+    21,
+    26,
+    27,
+    37,
+    46,
+    48,
+    66,
+    68,
+    70,
+    74,
+    79,
+    85,
+    89,
+    99
+  ]
+}

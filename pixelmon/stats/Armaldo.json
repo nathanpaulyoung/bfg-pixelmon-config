@@ -1,0 +1,176 @@
+{
+  "pixelmonName": "Armaldo",
+  "pokemon": "Armaldo",
+  "stats": {
+    "HP": 75,
+    "Attack": 125,
+    "Defence": 100,
+    "Speed": 45,
+    "SpecialAttack": 70,
+    "SpecialDefence": 80
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 40,
+  "spawnLevelRange": 10,
+  "baseExp": 199,
+  "baseFriendship": 70,
+  "types": [
+    "Rock",
+    "Bug"
+  ],
+  "height": 1.5,
+  "width": 0.6,
+  "length": 0.9,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Anorith"
+  ],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.15,
+      "z": -0.13
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.15,
+      "z": -0.13
+    }
+  },
+  "weight": 68.2,
+  "evolutions": [],
+  "abilities": [
+    "BattleArmour",
+    null,
+    "SwiftSwim"
+  ],
+  "eggGroups": [
+    "Water3"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Harden",
+      "Mud Sport",
+      "Water Gun"
+    ],
+    "4": [
+      "Mud Sport"
+    ],
+    "7": [
+      "Water Gun"
+    ],
+    "10": [
+      "Fury Cutter"
+    ],
+    "13": [
+      "Smack Down"
+    ],
+    "17": [
+      "Metal Claw"
+    ],
+    "21": [
+      "Ancient Power"
+    ],
+    "25": [
+      "Bug Bite"
+    ],
+    "29": [
+      "Brine"
+    ],
+    "34": [
+      "Slash"
+    ],
+    "39": [
+      "Crush Claw"
+    ],
+    "46": [
+      "X-Scissor"
+    ],
+    "53": [
+      "Protect"
+    ],
+    "61": [
+      "Rock Blast"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Hyper Beam",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "False Swipe",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Rock Polish",
+    "X-Scissor",
+    "Giga Impact",
+    "Flash Cannon",
+    "Stone Edge",
+    "Smack Down",
+    "Round",
+    "Bulldoze",
+    "Confide",
+    "Brutal Swing"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Block",
+    "Bug Bite",
+    "Earth Power",
+    "Iron Defense",
+    "Iron Tail",
+    "Knock Off",
+    "Liquidation",
+    "Low Kick",
+    "Snore",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Superpower",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Aqua Jet",
+    "Cross Poison",
+    "Curse",
+    "Iron Defense",
+    "Knock Off",
+    "Rapid Spin",
+    "Sand Attack",
+    "Screech",
+    "Water Pulse"
+  ],
+  "forms": {},
+  "form": 0
+}

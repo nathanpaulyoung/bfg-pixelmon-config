@@ -1,0 +1,139 @@
+{
+  "pixelmonName": "Bouffalant",
+  "pokemon": "Bouffalant",
+  "stats": {
+    "HP": 95,
+    "Attack": 110,
+    "Defence": 95,
+    "Speed": 55,
+    "SpecialAttack": 40,
+    "SpecialDefence": 95
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 46,
+  "spawnLevelRange": 12,
+  "baseExp": 172,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.6,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.3,
+      "z": -0.4
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.3,
+      "z": -0.4
+    }
+  },
+  "weight": 94.5,
+  "evolutions": [],
+  "abilities": [
+    "Reckless",
+    "SapSipper",
+    "Soundproof"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Pursuit",
+      "Leer"
+    ],
+    "6": [
+      "Rage"
+    ],
+    "11": [
+      "Fury Attack"
+    ],
+    "16": [
+      "Horn Attack"
+    ],
+    "21": [
+      "Scary Face"
+    ],
+    "26": [
+      "Revenge"
+    ],
+    "31": [
+      "Head Charge"
+    ],
+    "36": [
+      "Focus Energy"
+    ],
+    "41": [
+      "Megahorn"
+    ],
+    "46": [
+      "Reversal"
+    ],
+    "50": [
+      "Thrash"
+    ],
+    "56": [
+      "Swords Dance"
+    ],
+    "61": [
+      "Giga Impact"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Endeavor",
+    "Iron Head",
+    "Outrage",
+    "Superpower",
+    "Uproar",
+    "Zen Headbutt",
+    "Amnesia",
+    "Fury Attack",
+    "Pursuit",
+    "Reversal",
+    "Scary Face",
+    "Thrash",
+    "Stomp",
+    "Focus Energy",
+    "Horn Attack",
+    "Leer",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Headbutt",
+    "Iron Head",
+    "Mud Shot",
+    "Mud-Slap",
+    "Rock Climb",
+    "Skull Bash",
+    "Stomp",
+    "Belch",
+    "Cotton Guard"
+  ],
+  "forms": {},
+  "form": 0
+}

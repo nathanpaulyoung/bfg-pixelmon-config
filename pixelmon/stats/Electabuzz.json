@@ -1,0 +1,174 @@
+{
+  "pixelmonName": "Electabuzz",
+  "pokemon": "Electabuzz",
+  "stats": {
+    "HP": 65,
+    "Attack": 83,
+    "Defence": 57,
+    "Speed": 105,
+    "SpecialAttack": 95,
+    "SpecialDefence": 85
+  },
+  "catchRate": 45,
+  "malePercent": 75,
+  "spawnLevel": 25,
+  "spawnLevelRange": 9,
+  "baseExp": 156,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Elekid"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 30.0,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Electivire"
+      },
+      "conditions": [
+        {
+          "item": {
+            "itemID": "pixelmon:electirizer"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "trade"
+    }
+  ],
+  "abilities": [
+    "Static",
+    null,
+    "VitalSpirit"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Quick Attack",
+      "Leer",
+      "Thunder Shock"
+    ],
+    "5": [
+      "Thunder Shock"
+    ],
+    "8": [
+      "Low Kick"
+    ],
+    "12": [
+      "Swift"
+    ],
+    "15": [
+      "Shock Wave"
+    ],
+    "19": [
+      "Thunder Wave"
+    ],
+    "22": [
+      "Electro Ball"
+    ],
+    "26": [
+      "Light Screen"
+    ],
+    "29": [
+      "Thunder Punch"
+    ],
+    "36": [
+      "Discharge"
+    ],
+    "42": [
+      "Screech"
+    ],
+    "49": [
+      "Thunderbolt"
+    ],
+    "55": [
+      "Thunder"
+    ]
+  },
+  "tmMoves": [
+    "Hyper Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Light Screen",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Facade",
+    "Brick Break",
+    "Fling",
+    "Focus Blast",
+    "Giga Impact",
+    "Charge Beam",
+    "Low Sweep",
+    "Round",
+    "Volt Switch",
+    "Wild Charge",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Dual Chop",
+    "Electroweb",
+    "Fire Punch",
+    "Focus Punch",
+    "Helping Hand",
+    "Ice Punch",
+    "Iron Tail",
+    "Low Kick",
+    "Magnet Rise",
+    "Shock Wave",
+    "Signal Beam",
+    "Snore",
+    "Thunder Punch"
+  ],
+  "eggMoves": [
+    "Barrier",
+    "Cross Chop",
+    "Dynamic Punch",
+    "Feint",
+    "Fire Punch",
+    "Focus Punch",
+    "Hammer Arm",
+    "Ice Punch",
+    "Karate Chop",
+    "Meditate",
+    "Rolling Kick"
+  ],
+  "forms": {},
+  "form": 0
+}

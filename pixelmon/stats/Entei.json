@@ -1,0 +1,156 @@
+{
+  "pixelmonName": "Entei",
+  "pokemon": "Entei",
+  "stats": {
+    "HP": 115,
+    "Attack": 115,
+    "Defence": 85,
+    "Speed": 100,
+    "SpecialAttack": 90,
+    "SpecialDefence": 75
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 217,
+  "baseFriendship": 35,
+  "types": [
+    "Fire"
+  ],
+  "height": 2.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 100,
+    "passive": 0,
+    "aggressive": 0
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1,
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.5,
+      "z": -0.9
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.5,
+      "z": -0.9
+    }
+  },
+  "weight": 198.0,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    "InnerFocus"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "0": [
+      "Sacred Fire",
+      "Eruption",
+      "Extrasensory",
+      "Lava Plume",
+      "Bite",
+      "Leer"
+    ],
+    "8": [
+      "Ember"
+    ],
+    "15": [
+      "Roar"
+    ],
+    "22": [
+      "Fire Spin"
+    ],
+    "29": [
+      "Stomp"
+    ],
+    "36": [
+      "Flamethrower"
+    ],
+    "43": [
+      "Swagger"
+    ],
+    "50": [
+      "Fire Fang"
+    ],
+    "57": [
+      "Lava Plume"
+    ],
+    "64": [
+      "Extrasensory"
+    ],
+    "71": [
+      "Fire Blast"
+    ],
+    "78": [
+      "Calm Mind"
+    ],
+    "85": [
+      "Eruption"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Flamethrower",
+    "Hyper Beam",
+    "Solar Beam",
+    "Toxic",
+    "Double Team",
+    "Reflect",
+    "Fire Blast",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Shadow Ball",
+    "Will-O-Wisp",
+    "Facade",
+    "Overheat",
+    "Calm Mind",
+    "Giga Impact",
+    "Stone Edge",
+    "Flame Charge",
+    "Round",
+    "Quash",
+    "Bulldoze",
+    "Snarl",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Heat Wave",
+    "Iron Head",
+    "Iron Tail",
+    "Laser Focus",
+    "Snore",
+    "Stomping Tantrum"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": []
+}

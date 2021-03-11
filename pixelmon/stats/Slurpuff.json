@@ -1,0 +1,146 @@
+{
+  "pixelmonName": "Slurpuff",
+  "pokemon": "Slurpuff",
+  "stats": {
+    "HP": 82,
+    "Attack": 80,
+    "Defence": 86,
+    "Speed": 72,
+    "SpecialAttack": 85,
+    "SpecialDefence": 75
+  },
+  "catchRate": 140,
+  "malePercent": 50,
+  "spawnLevel": 36,
+  "spawnLevelRange": 12,
+  "baseExp": 168,
+  "baseFriendship": 0,
+  "types": [
+    "Fairy"
+  ],
+  "height": 0.8,
+  "width": 0.8,
+  "length": 0.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Swirlix"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 5.0,
+  "evolutions": [],
+  "abilities": [
+    "SweetVeil",
+    null,
+    "Unburden"
+  ],
+  "eggGroups": [
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Tackle",
+      "Sweet Scent",
+      "Play Nice",
+      "Fairy Wind"
+    ],
+    "9": [
+      "Aromatherapy"
+    ],
+    "12": [
+      "Draining Kiss"
+    ],
+    "15": [
+      "Fake Tears"
+    ],
+    "18": [
+      "Round"
+    ],
+    "21": [
+      "String Shot"
+    ],
+    "24": [
+      "Cotton Spore"
+    ],
+    "27": [
+      "Energy Ball"
+    ],
+    "30": [
+      "Wish"
+    ],
+    "33": [
+      "Play Rough"
+    ],
+    "36": [
+      "Cotton Guard"
+    ],
+    "39": [
+      "Endeavor"
+    ],
+    "42": [
+      "Sticky Web"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "After You",
+    "Covet",
+    "Endeavor",
+    "Gastro Acid",
+    "Heal Bell",
+    "Helping Hand",
+    "Magic Coat"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    17,
+    19,
+    21,
+    23,
+    24,
+    25,
+    29,
+    31,
+    33,
+    34,
+    39,
+    41,
+    47,
+    63,
+    76,
+    87
+  ],
+  "trMoves": [
+    2,
+    4,
+    8,
+    9,
+    11,
+    14,
+    17,
+    20,
+    26,
+    27,
+    49,
+    65,
+    90,
+    92
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "pixelmonName": "Beedrill",
+  "pokemon": "Beedrill",
+  "stats": {
+    "HP": 65,
+    "Attack": 90,
+    "Defence": 40,
+    "Speed": 75,
+    "SpecialAttack": 45,
+    "SpecialDefence": 80
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 40,
+  "baseExp": 173,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "height": 1.7,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Kakuna",
+    "Weedle"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 5,
+    "flyHeightMax": 15,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "mountedFlying": {
+    "upperAngleLimit": 30,
+    "lowerAngleLimit": -35,
+    "maxFlySpeed": 1.6,
+    "decelerationRate": 0.2,
+    "hoverDecelerationRate": 0.1,
+    "accelerationRate": 0.10,
+    "strafeAccelerationRate": 0.9,
+    "strafeRollConversion": 30,
+    "turnRate": 1.2,
+    "pitchRate": 1,
+    "stayshorizontalflying": true
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "Attack": 2,
+    "SpecialDefence": 1
+  },
+  "hoverHeight": 1.0,
+  "weight": 29.5,
+  "evolutions": [],
+  "abilities": [
+    "Swarm",
+    null,
+    "Sniper"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 11,
+  "levelUpMoves": {
+    "0": [
+      "Fury Attack",
+      "Twineedle"
+    ],
+    "11": [
+      "Fury Attack"
+    ],
+    "14": [
+      "Rage"
+    ],
+    "17": [
+      "Pursuit"
+    ],
+    "20": [
+      "Focus Energy"
+    ],
+    "23": [
+      "Venoshock"
+    ],
+    "26": [
+      "Assurance"
+    ],
+    "29": [
+      "Toxic Spikes"
+    ],
+    "32": [
+      "Pin Missile"
+    ],
+    "35": [
+      "Poison Jab"
+    ],
+    "38": [
+      "Agility"
+    ],
+    "41": [
+      "Endeavor"
+    ],
+    "44": [
+      "Fell Stinger"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Hyper Beam",
+    "Solar Beam",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Sludge Bomb",
+    "False Swipe",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Facade",
+    "Brick Break",
+    "Aerial Ace",
+    "Roost",
+    "U-Turn",
+    "Payback",
+    "Poison Jab",
+    "X-Scissor",
+    "Giga Impact",
+    "Venoshock",
+    "Round",
+    "Acrobatics",
+    "Confide",
+    "Infestation",
+    "Brutal Swing"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Defog",
+    "Drill Run",
+    "Electroweb",
+    "Endeavor",
+    "Giga Drain",
+    "Knock Off",
+    "Laser Focus",
+    "Snore",
+    "Tailwind",
+    "Throat Chop"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 65,
+        "Attack": 150,
+        "Defence": 40,
+        "Speed": 145,
+        "SpecialAttack": 15,
+        "SpecialDefence": 80
+      },
+      "height": 1.4,
+      "weight": 40.5,
+      "abilities": [
+        "Adaptability",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": -1,
+  "eggMoves": []
+}

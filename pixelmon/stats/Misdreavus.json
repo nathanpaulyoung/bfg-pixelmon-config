@@ -1,0 +1,179 @@
+{
+  "pixelmonName": "Misdreavus",
+  "pokemon": "Misdreavus",
+  "stats": {
+    "HP": 60,
+    "Attack": 60,
+    "Defence": 60,
+    "Speed": 85,
+    "SpecialAttack": 85,
+    "SpecialDefence": 85
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 20,
+  "baseExp": 147,
+  "baseFriendship": 35,
+  "types": [
+    "Ghost"
+  ],
+  "height": 0.7,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "hoverHeight": 1.0,
+  "weight": 1.0,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:dusk_stone"
+      },
+      "to": {
+        "name": "Mismagius"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Psywave"
+    ],
+    "5": [
+      "Spite"
+    ],
+    "10": [
+      "Astonish"
+    ],
+    "14": [
+      "Confuse Ray"
+    ],
+    "19": [
+      "Mean Look"
+    ],
+    "23": [
+      "Hex"
+    ],
+    "28": [
+      "Psybeam"
+    ],
+    "32": [
+      "Pain Split"
+    ],
+    "37": [
+      "Payback"
+    ],
+    "41": [
+      "Shadow Ball"
+    ],
+    "46": [
+      "Perish Song"
+    ],
+    "50": [
+      "Grudge"
+    ],
+    "55": [
+      "Power Gem"
+    ]
+  },
+  "tmMoves": [
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Dream Eater",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Shadow Ball",
+    "Torment",
+    "Will-O-Wisp",
+    "Facade",
+    "Taunt",
+    "Aerial Ace",
+    "Calm Mind",
+    "Payback",
+    "Embargo",
+    "Dark Pulse",
+    "Trick Room",
+    "Charge Beam",
+    "Round",
+    "Echoed Voice",
+    "Confide",
+    "Dazzling Gleam"
+  ],
+  "tutorMoves": [
+    "Ally Switch",
+    "Foul Play",
+    "Heal Bell",
+    "Hyper Voice",
+    "Icy Wind",
+    "Magic Coat",
+    "Magic Room",
+    "Pain Split",
+    "Shock Wave",
+    "Skill Swap",
+    "Snatch",
+    "Snore",
+    "Spite",
+    "Telekinesis",
+    "Trick",
+    "Uproar",
+    "Wonder Room"
+  ],
+  "eggMoves": [
+    "Curse",
+    "Destiny Bond",
+    "Imprison",
+    "Me First",
+    "Memento",
+    "Nasty Plot",
+    "Ominous Wind",
+    "Screech",
+    "Shadow Sneak",
+    "Skill Swap",
+    "Spite",
+    "Sucker Punch",
+    "Wonder Room"
+  ],
+  "forms": {},
+  "form": 0
+}

@@ -1,0 +1,155 @@
+{
+  "pixelmonName": "Cherubi",
+  "pokemon": "Cherubi",
+  "stats": {
+    "HP": 45,
+    "Attack": 35,
+    "Defence": 45,
+    "Speed": 35,
+    "SpecialAttack": 62,
+    "SpecialDefence": 53
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 10,
+  "baseExp": 68,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.4,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 3.3,
+  "evolutions": [
+    {
+      "level": 25,
+      "to": {
+        "name": "Cherrim"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Petal Dance"
+      ]
+    }
+  ],
+  "abilities": [
+    "Chlorophyll",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Fairy",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Morning Sun",
+      "Tackle"
+    ],
+    "5": [
+      "Leafage"
+    ],
+    "10": [
+      "Growth"
+    ],
+    "15": [
+      "Helping Hand"
+    ],
+    "20": [
+      "Magical Leaf"
+    ],
+    "26": [
+      "Leech Seed"
+    ],
+    "30": [
+      "Take Down"
+    ],
+    "35": [
+      "Petal Blizzard"
+    ],
+    "40": [
+      "Worry Seed"
+    ],
+    "45": [
+      "Solar Beam"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Helping Hand",
+    "Seed Bomb",
+    "Synthesis",
+    "Worry Seed",
+    "Aromatherapy",
+    "Growth",
+    "Heal Pulse",
+    "Leech Seed",
+    "Morning Sun",
+    "Tickle",
+    "Weather Ball",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Razor Leaf",
+    "Sweet Scent",
+    "Tickle",
+    "Nature Power",
+    "Aromatherapy",
+    "Heal Pulse",
+    "Healing Wish",
+    "Defense Curl",
+    "Flower Shield",
+    "Rollout"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    10,
+    11,
+    19,
+    21,
+    24,
+    25,
+    28,
+    31,
+    34,
+    39,
+    41,
+    46,
+    50,
+    76,
+    87,
+    88
+  ],
+  "trMoves": [
+    0,
+    20,
+    26,
+    27,
+    59,
+    65,
+    77,
+    92,
+    96
+  ]
+}

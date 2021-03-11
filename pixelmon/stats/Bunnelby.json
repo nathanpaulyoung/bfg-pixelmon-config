@@ -1,0 +1,157 @@
+{
+  "pixelmonName": "Bunnelby",
+  "pokemon": "Bunnelby",
+  "stats": {
+    "HP": 38,
+    "Attack": 36,
+    "Defence": 38,
+    "Speed": 57,
+    "SpecialAttack": 32,
+    "SpecialDefence": 36
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 14,
+  "baseExp": 47,
+  "baseFriendship": 0,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.4,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 5.0,
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Diggersby"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Pickup",
+    "CheekPouch",
+    "HugePower"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "1": [
+      "Mud-Slap",
+      "Leer"
+    ],
+    "3": [
+      "Tackle"
+    ],
+    "6": [
+      "Laser Focus"
+    ],
+    "9": [
+      "Quick Attack"
+    ],
+    "12": [
+      "Mud Shot"
+    ],
+    "15": [
+      "Flail"
+    ],
+    "18": [
+      "Double Kick"
+    ],
+    "21": [
+      "Bulldoze"
+    ],
+    "24": [
+      "Dig"
+    ],
+    "27": [
+      "Bounce"
+    ],
+    "30": [
+      "Take Down"
+    ],
+    "33": [
+      "Swords Dance"
+    ],
+    "36": [
+      "Earthquake"
+    ],
+    "39": [
+      "Super Fang"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bounce",
+    "Endeavor",
+    "Iron Head",
+    "Last Resort",
+    "Super Fang"
+  ],
+  "eggMoves": [
+    "Defense Curl",
+    "Rollout"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    15,
+    21,
+    22,
+    23,
+    24,
+    25,
+    31,
+    32,
+    39,
+    43,
+    48,
+    52,
+    53,
+    56,
+    57,
+    59,
+    76,
+    81
+  ],
+  "trMoves": [
+    0,
+    4,
+    10,
+    12,
+    20,
+    22,
+    23,
+    26,
+    27,
+    31,
+    48,
+    74,
+    75,
+    77,
+    85,
+    86
+  ]
+}

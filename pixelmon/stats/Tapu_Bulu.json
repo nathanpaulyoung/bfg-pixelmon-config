@@ -1,0 +1,164 @@
+{
+  "pixelmonName": "TapuBulu",
+  "pokemon": "Tapu_Bulu",
+  "stats": {
+    "HP": 70,
+    "Attack": 130,
+    "Defence": 115,
+    "Speed": 75,
+    "SpecialAttack": 85,
+    "SpecialDefence": 95
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 50,
+  "spawnLevelRange": 0,
+  "baseExp": 114,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Fairy"
+  ],
+  "height": 1.9,
+  "width": 1.9,
+  "length": 1.9,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": -0.7,
+      "y": -0.1,
+      "z": 0.0
+    },
+    "moving": {
+      "x": -0.7,
+      "y": -0.1,
+      "z": 0.0
+    }
+  },
+  "weight": 45.5,
+  "evolutions": [],
+  "abilities": [
+    "GrassySurge",
+    null,
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Grassy Terrain",
+      "Wood Hammer",
+      "Superpower",
+      "Mean Look",
+      "Disable",
+      "Whirlwind",
+      "Withdraw",
+      "Leafage"
+    ],
+    "8": [
+      "Horn Attack"
+    ],
+    "14": [
+      "Giga Drain"
+    ],
+    "20": [
+      "Scary Face"
+    ],
+    "26": [
+      "Leech Seed"
+    ],
+    "32": [
+      "Horn Leech"
+    ],
+    "38": [
+      "Rototiller"
+    ],
+    "43": [
+      "Natures Madness"
+    ],
+    "48": [
+      "Zen Headbutt"
+    ],
+    "53": [
+      "Megahorn"
+    ],
+    "58": [
+      "Skull Bash"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Roar",
+    "Hyper Beam",
+    "Solar Beam",
+    "Toxic",
+    "Light Screen",
+    "Reflect",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "False Swipe",
+    "Swagger",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Sunny Day",
+    "Psych Up",
+    "Torment",
+    "Facade",
+    "Nature Power",
+    "Taunt",
+    "Brick Break",
+    "Rock Tomb",
+    "Bulk Up",
+    "Calm Mind",
+    "Payback",
+    "Fling",
+    "Focus Blast",
+    "Energy Ball",
+    "Giga Impact",
+    "Stone Edge",
+    "Grass Knot",
+    "Round",
+    "Echoed Voice",
+    "Work Up",
+    "Snarl",
+    "Confide",
+    "Dazzling Gleam",
+    "Smart Strike",
+    "Brutal Swing"
+  ],
+  "tutorMoves": [
+    "Dual Chop",
+    "Focus Punch",
+    "Giga Drain",
+    "Iron Defense",
+    "Seed Bomb",
+    "Snore",
+    "Superpower",
+    "Synthesis",
+    "Telekinesis",
+    "Worry Seed",
+    "Zen Headbutt"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": []
+}

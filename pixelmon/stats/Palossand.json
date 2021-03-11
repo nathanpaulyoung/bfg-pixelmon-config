@@ -1,0 +1,136 @@
+{
+  "pixelmonName": "Palossand",
+  "pokemon": "Palossand",
+  "stats": {
+    "HP": 85,
+    "Attack": 75,
+    "Defence": 110,
+    "Speed": 35,
+    "SpecialAttack": 100,
+    "SpecialDefence": 75
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 42,
+  "spawnLevelRange": 20,
+  "baseExp": 168,
+  "baseFriendship": 70,
+  "types": [
+    "Ghost",
+    "Ground"
+  ],
+  "height": 1.3,
+  "width": 1.3,
+  "length": 1.3,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Sandygast"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.15,
+      "z": -0.47
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.15,
+      "z": -0.47
+    }
+  },
+  "weight": 250.0,
+  "evolutions": [],
+  "abilities": [
+    "WaterCompaction",
+    null,
+    "SandVeil"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Harden",
+      "Absorb",
+      "Astonish",
+      "Sand Attack"
+    ],
+    "5": [
+      "Astonish"
+    ],
+    "9": [
+      "Sand Attack"
+    ],
+    "14": [
+      "Sand Tomb"
+    ],
+    "18": [
+      "Mega Drain"
+    ],
+    "23": [
+      "Bulldoze"
+    ],
+    "27": [
+      "Hypnosis"
+    ],
+    "32": [
+      "Iron Defense"
+    ],
+    "36": [
+      "Giga Drain"
+    ],
+    "41": [
+      "Shadow Ball"
+    ],
+    "47": [
+      "Earth Power"
+    ],
+    "54": [
+      "Shore Up"
+    ],
+    "60": [
+      "Sandstorm"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Block",
+    "Earth Power",
+    "Gravity",
+    "Iron Defense",
+    "Snore",
+    "Role Play",
+    "Pain Split",
+    "Giga Drain",
+    "Spite",
+    "After You",
+    "Trick",
+    "Recycle",
+    "Stealth Rock",
+    "Skill Swap"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Destiny Bond",
+    "Ancient Power",
+    "Stockpile",
+    "Swallow",
+    "Spit Up",
+    "Curse"
+  ],
+  "forms": {},
+  "form": -1
+}

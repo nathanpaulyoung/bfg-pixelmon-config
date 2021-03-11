@@ -1,0 +1,207 @@
+{
+  "pixelmonName": "Giratina",
+  "pokemon": "Giratina",
+  "stats": {
+    "HP": 150,
+    "Attack": 100,
+    "Defence": 120,
+    "Speed": 90,
+    "SpecialAttack": 100,
+    "SpecialDefence": 120
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 306,
+  "baseFriendship": 0,
+  "types": [
+    "Ghost",
+    "Dragon"
+  ],
+  "height": 2.5,
+  "width": 2.5,
+  "length": 2.5,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.6
+    }
+  },
+  "weight": 750.0,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Dragon Breath",
+      "Scary Face"
+    ],
+    "6": [
+      "Ominous Wind"
+    ],
+    "10": [
+      "Ancient Power"
+    ],
+    "15": [
+      "Slash"
+    ],
+    "19": [
+      "Shadow Sneak"
+    ],
+    "24": [
+      "Destiny Bond"
+    ],
+    "28": [
+      "Dragon Claw"
+    ],
+    "33": [
+      "Earth Power"
+    ],
+    "37": [
+      "Aura Sphere"
+    ],
+    "42": [
+      "Shadow Claw"
+    ],
+    "46": [
+      "Shadow Force"
+    ],
+    "50": [
+      "Hex"
+    ]
+  },
+  "tmMoves": [
+    "Fly",
+    "Roar",
+    "Hyper Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Earthquake",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Dream Eater",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Steel Wing",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Shadow Ball",
+    "Will-O-Wisp",
+    "Facade",
+    "Aerial Ace",
+    "Dragon Claw",
+    "Calm Mind",
+    "Payback",
+    "Dark Pulse",
+    "Energy Ball",
+    "Giga Impact",
+    "Shadow Claw",
+    "Stone Edge",
+    "Charge Beam",
+    "Round",
+    "Echoed Voice",
+    "Bulldoze",
+    "Dragon Tail",
+    "Confide",
+    "Brutal Swing"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Defog",
+    "Draco Meteor",
+    "Dragon Pulse",
+    "Earth Power",
+    "Gravity",
+    "Hyper Voice",
+    "Icy Wind",
+    "Iron Head",
+    "Iron Tail",
+    "Outrage",
+    "Pain Split",
+    "Shock Wave",
+    "Snore",
+    "Spite",
+    "Telekinesis"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 150,
+        "Attack": 120,
+        "Defence": 100,
+        "Speed": 90,
+        "SpecialAttack": 120,
+        "SpecialDefence": 100
+      },
+      "hoverHeight": 1.0,
+      "weight": 650.0,
+      "abilities": [
+        "Levitate",
+        null,
+        null
+      ],
+      "tutorMoves": [
+        "Aqua Tail",
+        "Defog",
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Earth Power",
+        "Gravity",
+        "Hyper Voice",
+        "Icy Wind",
+        "Iron Head",
+        "Iron Tail",
+        "Magic Coat",
+        "Outrage",
+        "Shock Wave",
+        "Snore",
+        "Spite",
+        "Tailwind",
+        "Telekinesis"
+      ],
+      "form": 1
+    }
+  },
+  "form": 0,
+  "eggMoves": []
+}

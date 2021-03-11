@@ -1,0 +1,207 @@
+{
+  "pixelmonName": "Garchomp",
+  "pokemon": "Garchomp",
+  "stats": {
+    "HP": 108,
+    "Attack": 130,
+    "Defence": 95,
+    "Speed": 102,
+    "SpecialAttack": 80,
+    "SpecialDefence": 85
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 49,
+  "spawnLevelRange": 12,
+  "baseExp": 270,
+  "baseFriendship": 70,
+  "types": [
+    "Dragon",
+    "Ground"
+  ],
+  "height": 1.9,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Gabite",
+    "Gible"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.5,
+      "z": 0.2
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.5,
+      "z": 0.2
+    }
+  },
+  "weight": 95.0,
+  "evolutions": [],
+  "abilities": [
+    "SandVeil",
+    null,
+    "RoughSkin"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Dual Chop",
+      "Fire Fang",
+      "Tackle",
+      "Sand Attack",
+      "Dragon Rage",
+      "Sandstorm",
+      "Crunch"
+    ],
+    "3": [
+      "Sand Attack"
+    ],
+    "7": [
+      "Dragon Rage"
+    ],
+    "13": [
+      "Sandstorm"
+    ],
+    "15": [
+      "Take Down"
+    ],
+    "19": [
+      "Sand Tomb"
+    ],
+    "28": [
+      "Slash"
+    ],
+    "33": [
+      "Dragon Claw"
+    ],
+    "40": [
+      "Dig"
+    ],
+    "55": [
+      "Dragon Rush"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Roar",
+    "Flamethrower",
+    "Surf",
+    "Hyper Beam",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Fire Blast",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "False Swipe",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Dragon Claw",
+    "Fling",
+    "Poison Jab",
+    "Giga Impact",
+    "Shadow Claw",
+    "Stone Edge",
+    "Round",
+    "Bulldoze",
+    "Dragon Tail",
+    "Confide",
+    "Brutal Swing"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Draco Meteor",
+    "Dragon Pulse",
+    "Dual Chop",
+    "Earth Power",
+    "Iron Head",
+    "Iron Tail",
+    "Laser Focus",
+    "Outrage",
+    "Snore",
+    "Stealth Rock",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [
+    "Body Slam",
+    "Double-Edge",
+    "Dragon Breath",
+    "Iron Head",
+    "Iron Tail",
+    "Metal Claw",
+    "Mud Shot",
+    "Outrage",
+    "Rock Climb",
+    "Sand Tomb",
+    "Scary Face",
+    "Thrash",
+    "Twister"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 108,
+        "Attack": 170,
+        "Defence": 115,
+        "Speed": 92,
+        "SpecialAttack": 120,
+        "SpecialDefence": 95
+      },
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -0.6,
+          "z": -0.3
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -0.6,
+          "z": 0.5
+        }
+      },
+      "abilities": [
+        "SandForce",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": 0
+}

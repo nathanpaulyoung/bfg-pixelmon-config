@@ -1,0 +1,153 @@
+{
+  "pixelmonName": "Vanillite",
+  "pokemon": "Vanillite",
+  "stats": {
+    "HP": 36,
+    "Attack": 50,
+    "Defence": 50,
+    "Speed": 44,
+    "SpecialAttack": 65,
+    "SpecialDefence": 60
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 14,
+  "baseExp": 61,
+  "baseFriendship": 70,
+  "types": [
+    "Ice"
+  ],
+  "height": 0.4,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 5.7,
+  "evolutions": [
+    {
+      "level": 35,
+      "to": {
+        "name": "Vanillish"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "IceBody",
+    "SnowCloak",
+    "WeakArmor"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Astonish",
+      "Harden"
+    ],
+    "4": [
+      "Taunt"
+    ],
+    "8": [
+      "Mist"
+    ],
+    "12": [
+      "Icy Wind"
+    ],
+    "16": [
+      "Avalanche"
+    ],
+    "20": [
+      "Hail"
+    ],
+    "24": [
+      "Icicle Spear"
+    ],
+    "28": [
+      "Uproar"
+    ],
+    "32": [
+      "Acid Armor"
+    ],
+    "36": [
+      "Mirror Coat"
+    ],
+    "40": [
+      "Ice Beam"
+    ],
+    "44": [
+      "Blizzard"
+    ],
+    "48": [
+      "Sheer Cold"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Iron Defense",
+    "Magic Coat",
+    "Magnet Rise",
+    "Signal Beam",
+    "Uproar",
+    "Mist",
+    "Sheer Cold",
+    "Harden",
+    "Ally Switch"
+  ],
+  "eggMoves": [
+    "Autotomize",
+    "Magnet Rise",
+    "Ice Shard",
+    "Explosion",
+    "Aurora Veil",
+    "Icicle Crash"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    17,
+    20,
+    21,
+    24,
+    25,
+    27,
+    31,
+    33,
+    35,
+    39,
+    44,
+    51,
+    64,
+    76
+  ],
+  "trMoves": [
+    5,
+    6,
+    20,
+    26,
+    27,
+    35,
+    37,
+    42,
+    46,
+    70,
+    83
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "pixelmonName": "Trapinch",
+  "pokemon": "Trapinch",
+  "stats": {
+    "HP": 45,
+    "Attack": 100,
+    "Defence": 45,
+    "Speed": 10,
+    "SpecialAttack": 45,
+    "SpecialDefence": 45
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 30,
+  "baseExp": 73,
+  "baseFriendship": 70,
+  "types": [
+    "Ground"
+  ],
+  "height": 0.7,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 15.0,
+  "evolutions": [
+    {
+      "level": 35,
+      "to": {
+        "name": "Vibrava"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Dragon Breath"
+      ]
+    }
+  ],
+  "abilities": [
+    "HyperCutter",
+    "ArenaTrap",
+    "SheerForce"
+  ],
+  "eggGroups": [
+    "Bug",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Sand Attack",
+      "Astonish"
+    ],
+    "4": [
+      "Laser Focus"
+    ],
+    "8": [
+      "Bite"
+    ],
+    "12": [
+      "Mud-Slap"
+    ],
+    "16": [
+      "Sand Tomb"
+    ],
+    "20": [
+      "Bulldoze"
+    ],
+    "24": [
+      "Dig"
+    ],
+    "28": [
+      "Crunch"
+    ],
+    "32": [
+      "Sandstorm"
+    ],
+    "36": [
+      "Earth Power"
+    ],
+    "40": [
+      "Earthquake"
+    ],
+    "44": [
+      "Superpower"
+    ],
+    "48": [
+      "Fissure"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bug Bite",
+    "Earth Power",
+    "Signal Beam",
+    "Superpower",
+    "Bite",
+    "Feint Attack",
+    "Flail",
+    "Gust",
+    "Focus Energy"
+  ],
+  "eggMoves": [
+    "Quick Attack",
+    "Gust",
+    "Flail",
+    "Fury Cutter",
+    "Bug Bite",
+    "Feint",
+    "First Impression"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    11,
+    15,
+    21,
+    22,
+    24,
+    25,
+    28,
+    31,
+    32,
+    34,
+    39,
+    48,
+    49,
+    53,
+    76,
+    81
+  ],
+  "trMoves": [
+    1,
+    10,
+    13,
+    20,
+    26,
+    27,
+    32,
+    39,
+    67
+  ]
+}

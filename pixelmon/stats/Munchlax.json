@@ -1,0 +1,242 @@
+{
+  "pixelmonName": "Munchlax",
+  "pokemon": "Munchlax",
+  "stats": {
+    "HP": 135,
+    "Attack": 85,
+    "Defence": 40,
+    "Speed": 5,
+    "SpecialAttack": 40,
+    "SpecialDefence": 85
+  },
+  "catchRate": 50,
+  "malePercent": 87,
+  "spawnLevel": 5,
+  "spawnLevelRange": 15,
+  "baseExp": 94,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 105.0,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Snorlax"
+      },
+      "conditions": [
+        {
+          "friendship": 220,
+          "evoConditionType": "friendship"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Pickup",
+    "ThickFat",
+    "Gluttony"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "1": [
+      "Lick",
+      "Tackle"
+    ],
+    "4": [
+      "Defense Curl"
+    ],
+    "8": [
+      "Recycle"
+    ],
+    "12": [
+      "Covet"
+    ],
+    "16": [
+      "Bite"
+    ],
+    "20": [
+      "Stockpile",
+      "Swallow"
+    ],
+    "24": [
+      "Screech"
+    ],
+    "28": [
+      "Body Slam"
+    ],
+    "32": [
+      "Fling"
+    ],
+    "36": [
+      "Amnesia"
+    ],
+    "40": [
+      "Metronome"
+    ],
+    "44": [
+      "Flail"
+    ],
+    "48": [
+      "Belly Drum"
+    ],
+    "52": [
+      "Last Resort"
+    ]
+  },
+  "tmMoves": [
+    "Flamethrower",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Fire Blast",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Shadow Ball",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Fling",
+    "Round",
+    "Bulldoze",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Covet",
+    "Fire Punch",
+    "Focus Punch",
+    "Gunk Shot",
+    "Hyper Voice",
+    "Ice Punch",
+    "Icy Wind",
+    "Last Resort",
+    "Recycle",
+    "Seed Bomb",
+    "Shock Wave",
+    "Snatch",
+    "Snore",
+    "Stomping Tantrum",
+    "Superpower",
+    "Thunder Punch",
+    "Uproar",
+    "Water Pulse",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "After You",
+    "Belch",
+    "Charm",
+    "Counter",
+    "Curse",
+    "Double-Edge",
+    "Lick",
+    "Natural Gift",
+    "Power-Up Punch",
+    "Pursuit",
+    "Self-Destruct",
+    "Whirlwind",
+    "Zen Headbutt"
+  ],
+  "forms": {},
+  "form": -1,
+  "tmMoves8": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    11,
+    16,
+    20,
+    21,
+    22,
+    24,
+    25,
+    27,
+    29,
+    31,
+    32,
+    33,
+    34,
+    36,
+    39,
+    43,
+    48,
+    59,
+    76,
+    79,
+    81,
+    98
+  ],
+  "trMoves": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    14,
+    15,
+    17,
+    20,
+    26,
+    27,
+    30,
+    33,
+    35,
+    39,
+    42,
+    59,
+    69,
+    73,
+    85
+  ]
+}

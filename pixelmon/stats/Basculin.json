@@ -1,0 +1,174 @@
+{
+  "pixelmonName": "Basculin",
+  "pokemon": "Basculin",
+  "stats": {
+    "HP": 70,
+    "Attack": 92,
+    "Defence": 65,
+    "Speed": 98,
+    "SpecialAttack": 80,
+    "SpecialDefence": 55
+  },
+  "catchRate": 25,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 13,
+  "baseExp": 161,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 5,
+    "swimSpeed": 0.6,
+    "decayRate": 0.99,
+    "refreshRate": 100
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 18.0,
+  "evolutions": [],
+  "abilities": [
+    "Reckless",
+    "Adaptability",
+    "MoldBreaker"
+  ],
+  "eggGroups": [
+    "Water2"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "1": [
+      "Water Gun",
+      "Tail Whip"
+    ],
+    "4": [
+      "Tackle"
+    ],
+    "8": [
+      "Flail"
+    ],
+    "12": [
+      "Aqua Jet"
+    ],
+    "16": [
+      "Bite"
+    ],
+    "20": [
+      "Scary Face"
+    ],
+    "24": [
+      "Headbutt"
+    ],
+    "28": [
+      "Soak"
+    ],
+    "32": [
+      "Crunch"
+    ],
+    "36": [
+      "Take Down"
+    ],
+    "40": [
+      "Final Gambit"
+    ],
+    "44": [
+      "Aqua Tail"
+    ],
+    "48": [
+      "Thrash"
+    ],
+    "52": [
+      "Double-Edge"
+    ],
+    "56": [
+      "Head Smash"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bounce",
+    "Endeavor",
+    "Icy Wind",
+    "Liquidation",
+    "Snore",
+    "Superpower",
+    "Uproar",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Bubble Beam",
+    "Endeavor"
+  ],
+  "forms": {
+    "1": {
+      "abilities": [
+        "RockHead",
+        "Adaptability",
+        "MoldBreaker"
+      ],
+      "form": 1
+    }
+  },
+  "form": 0,
+  "tmMoves8": [
+    21,
+    24,
+    25,
+    26,
+    27,
+    31,
+    33,
+    35,
+    36,
+    39,
+    40,
+    42,
+    45,
+    52,
+    53,
+    55,
+    58,
+    67,
+    76
+  ],
+  "trMoves": [
+    3,
+    4,
+    5,
+    12,
+    16,
+    20,
+    21,
+    26,
+    27,
+    32,
+    35,
+    37,
+    39,
+    45,
+    69,
+    84,
+    97,
+    98
+  ]
+}

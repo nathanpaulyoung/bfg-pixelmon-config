@@ -1,0 +1,189 @@
+{
+  "pixelmonName": "Ho-Oh",
+  "pokemon": "Hooh",
+  "stats": {
+    "HP": 106,
+    "Attack": 130,
+    "Defence": 90,
+    "Speed": 90,
+    "SpecialAttack": 110,
+    "SpecialDefence": 154
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 220,
+  "baseFriendship": 0,
+  "types": [
+    "Fire",
+    "Flying"
+  ],
+  "height": 3.8,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 30,
+    "flyHeightMax": 50,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 400,
+    "flyRefreshRateSpeed": 400,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "SpecialDefence": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -2.7,
+      "z": -0.55
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -2.5,
+      "z": 0.6
+    }
+  },
+  "weight": 199.0,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    "Regenerator"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Whirlwind",
+      "Weather Ball"
+    ],
+    "9": [
+      "Gust"
+    ],
+    "15": [
+      "Brave Bird"
+    ],
+    "23": [
+      "Extrasensory"
+    ],
+    "29": [
+      "Sunny Day"
+    ],
+    "37": [
+      "Fire Blast"
+    ],
+    "43": [
+      "Sacred Fire"
+    ],
+    "50": [
+      "Punishment"
+    ],
+    "57": [
+      "Ancient Power"
+    ],
+    "65": [
+      "Safeguard"
+    ],
+    "71": [
+      "Recover"
+    ],
+    "79": [
+      "Future Sight"
+    ],
+    "85": [
+      "Natural Gift"
+    ],
+    "93": [
+      "Calm Mind"
+    ],
+    "99": [
+      "Sky Attack"
+    ]
+  },
+  "tmMoves": [
+    "Fly",
+    "Roar",
+    "Flamethrower",
+    "Hyper Beam",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Earthquake",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Light Screen",
+    "Reflect",
+    "Fire Blast",
+    "Dream Eater",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Steel Wing",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Shadow Ball",
+    "Will-O-Wisp",
+    "Facade",
+    "Overheat",
+    "Aerial Ace",
+    "Calm Mind",
+    "Roost",
+    "Giga Impact",
+    "Charge Beam",
+    "Flame Charge",
+    "Round",
+    "Echoed Voice",
+    "Sky Drop",
+    "Bulldoze",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Defog",
+    "Earth Power",
+    "Giga Drain",
+    "Heat Wave",
+    "Hyper Voice",
+    "Iron Head",
+    "Laser Focus",
+    "Shock Wave",
+    "Signal Beam",
+    "Sky Attack",
+    "Snore",
+    "Tailwind",
+    "Zen Headbutt"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": []
+}

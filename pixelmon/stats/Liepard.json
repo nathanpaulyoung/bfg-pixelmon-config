@@ -1,0 +1,168 @@
+{
+  "pixelmonName": "Liepard",
+  "pokemon": "Liepard",
+  "stats": {
+    "HP": 64,
+    "Attack": 88,
+    "Defence": 50,
+    "Speed": 106,
+    "SpecialAttack": 88,
+    "SpecialDefence": 50
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 21,
+  "spawnLevelRange": 13,
+  "baseExp": 156,
+  "baseFriendship": 70,
+  "types": [
+    "Dark"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Purrloin"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.85,
+      "z": -0.1
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.85,
+      "z": 0.1
+    }
+  },
+  "weight": 37.5,
+  "evolutions": [],
+  "abilities": [
+    "Limber",
+    "Unburden",
+    "Prankster"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Scratch",
+      "Growl",
+      "Sand Attack",
+      "Fake Out"
+    ],
+    "12": [
+      "Fury Swipes"
+    ],
+    "16": [
+      "Torment"
+    ],
+    "23": [
+      "Assurance"
+    ],
+    "28": [
+      "Hone Claws"
+    ],
+    "34": [
+      "Sucker Punch"
+    ],
+    "40": [
+      "Nasty Plot"
+    ],
+    "46": [
+      "Night Slash"
+    ],
+    "52": [
+      "Play Rough"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Foul Play",
+    "Gunk Shot",
+    "Hyper Voice",
+    "Knock Off",
+    "Role Play",
+    "Seed Bomb",
+    "Spite",
+    "Sucker Punch",
+    "Trick",
+    "Charm",
+    "Encore",
+    "Feint Attack",
+    "Fake Out",
+    "Nasty Plot",
+    "Pursuit",
+    "Yawn",
+    "Slash",
+    "Laser Focus",
+    "Throat Chop"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    2,
+    8,
+    9,
+    14,
+    16,
+    21,
+    23,
+    24,
+    25,
+    29,
+    31,
+    33,
+    34,
+    39,
+    40,
+    47,
+    56,
+    57,
+    58,
+    65,
+    69,
+    76,
+    85
+  ],
+  "trMoves": [
+    20,
+    26,
+    27,
+    29,
+    30,
+    31,
+    33,
+    37,
+    38,
+    42,
+    58,
+    59,
+    68,
+    73,
+    77,
+    81,
+    90,
+    95
+  ]
+}

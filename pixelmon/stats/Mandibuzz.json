@@ -1,0 +1,180 @@
+{
+  "pixelmonName": "Mandibuzz",
+  "pokemon": "Mandibuzz",
+  "stats": {
+    "HP": 110,
+    "Attack": 65,
+    "Defence": 105,
+    "Speed": 80,
+    "SpecialAttack": 55,
+    "SpecialDefence": 95
+  },
+  "catchRate": 60,
+  "malePercent": 0,
+  "spawnLevel": 55,
+  "spawnLevelRange": 8,
+  "baseExp": 179,
+  "baseFriendship": 35,
+  "types": [
+    "Dark",
+    "Flying"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Vullaby"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 5,
+    "flyHeightMax": 25,
+    "flySpeedModifier": 1.4,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.35,
+      "z": -0.2
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.9,
+      "z": -0.1
+    }
+  },
+  "weight": 39.5,
+  "evolutions": [],
+  "abilities": [
+    "BigPecks",
+    "Overcoat",
+    "WeakArmor"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Bone Rush"
+    ],
+    "1": [
+      "Bone Rush",
+      "Sky Attack",
+      "Toxic",
+      "Gust",
+      "Leer",
+      "Flatter",
+      "Pluck"
+    ],
+    "18": [
+      "Tailwind"
+    ],
+    "24": [
+      "Knock Off"
+    ],
+    "30": [
+      "Iron Defense"
+    ],
+    "36": [
+      "Whirlwind"
+    ],
+    "42": [
+      "Air Slash"
+    ],
+    "48": [
+      "Dark Pulse"
+    ],
+    "57": [
+      "Nasty Plot"
+    ],
+    "64": [
+      "Defog"
+    ],
+    "72": [
+      "Attract"
+    ],
+    "80": [
+      "Brave Bird"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Block",
+    "Foul Play",
+    "Heat Wave",
+    "Iron Defense",
+    "Knock Off",
+    "Tailwind",
+    "Air Slash",
+    "Feint Attack",
+    "Fury Attack",
+    "Gust",
+    "Nasty Plot",
+    "Scary Face",
+    "Leer",
+    "Defog"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    6,
+    8,
+    9,
+    21,
+    23,
+    24,
+    25,
+    26,
+    30,
+    31,
+    33,
+    34,
+    39,
+    40,
+    47,
+    48,
+    56,
+    57,
+    58,
+    76,
+    79,
+    85,
+    95
+  ],
+  "trMoves": [
+    20,
+    26,
+    27,
+    33,
+    36,
+    37,
+    46,
+    58,
+    66,
+    68,
+    81
+  ]
+}

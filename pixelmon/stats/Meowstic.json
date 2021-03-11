@@ -1,0 +1,281 @@
+{
+  "pixelmonName": "Meowstic",
+  "pokemon": "Meowstic",
+  "stats": {
+    "HP": 74,
+    "Attack": 48,
+    "Defence": 76,
+    "Speed": 104,
+    "SpecialAttack": 83,
+    "SpecialDefence": 81
+  },
+  "catchRate": 75,
+  "malePercent": 100,
+  "spawnLevel": 26,
+  "spawnLevelRange": 12,
+  "baseExp": 163,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 0.6,
+  "width": 0.6,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Espurr"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 8.5,
+  "evolutions": [],
+  "abilities": [
+    "KeenEye",
+    "Infiltrator",
+    "Prankster"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Mean Look",
+      "Scratch",
+      "Leer",
+      "Fake Out",
+      "Disarming Voice"
+    ],
+    "9": [
+      "Confusion"
+    ],
+    "12": [
+      "Helping Hand"
+    ],
+    "15": [
+      "Charm"
+    ],
+    "18": [
+      "Covet"
+    ],
+    "21": [
+      "Psybeam"
+    ],
+    "24": [
+      "Sucker Punch"
+    ],
+    "29": [
+      "Role Play"
+    ],
+    "34": [
+      "Light Screen",
+      "Reflect"
+    ],
+    "39": [
+      "Psyshock"
+    ],
+    "44": [
+      "Imprison"
+    ],
+    "49": [
+      "Quick Guard"
+    ],
+    "54": [
+      "Psychic"
+    ],
+    "59": [
+      "Misty Terrain"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Gravity",
+    "Heal Bell",
+    "Helping Hand",
+    "Magic Coat",
+    "Magic Room",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Ally Switch",
+    "Telekinesis"
+  ],
+  "eggMoves": [],
+  "forms": {
+    "1": {
+      "malePercent": 0,
+      "abilities": [
+        "KeenEye",
+        "Infiltrator",
+        "Competitive"
+      ],
+      "levelUpMoves": {
+        "1": [
+          "Magical Leaf",
+          "Scratch",
+          "Leer",
+          "Fake Out",
+          "Disarming Voice"
+        ],
+        "9": [
+          "Confusion"
+        ],
+        "12": [
+          "Stored Power"
+        ],
+        "15": [
+          "Charge Beam"
+        ],
+        "18": [
+          "Covet"
+        ],
+        "21": [
+          "Psybeam"
+        ],
+        "24": [
+          "Sucker Punch"
+        ],
+        "29": [
+          "Role Play"
+        ],
+        "34": [
+          "Light Screen",
+          "Reflect"
+        ],
+        "39": [
+          "Psyshock"
+        ],
+        "44": [
+          "Extrasensory"
+        ],
+        "49": [
+          "Shadow Ball"
+        ],
+        "54": [
+          "Psychic"
+        ],
+        "59": [
+          "Future Sight"
+        ]
+      },
+      "form": 1,
+      "tmMoves8": [
+        2,
+        8,
+        9,
+        10,
+        14,
+        15,
+        17,
+        18,
+        19,
+        21,
+        24,
+        25,
+        29,
+        31,
+        33,
+        34,
+        39,
+        40,
+        41,
+        47,
+        57,
+        70,
+        71,
+        72,
+        76,
+        84,
+        91
+      ],
+      "trMoves": [
+        8,
+        11,
+        20,
+        25,
+        26,
+        27,
+        31,
+        33,
+        34,
+        38,
+        40,
+        49,
+        58,
+        65,
+        68,
+        69,
+        82,
+        83,
+        85,
+        90
+      ]
+    }
+  },
+  "form": 0,
+  "tmMoves8": [
+    2,
+    8,
+    9,
+    14,
+    15,
+    17,
+    18,
+    19,
+    21,
+    24,
+    25,
+    29,
+    31,
+    33,
+    34,
+    39,
+    40,
+    41,
+    44,
+    47,
+    57,
+    70,
+    71,
+    72,
+    76,
+    84,
+    89,
+    91
+  ],
+  "trMoves": [
+    8,
+    11,
+    20,
+    25,
+    26,
+    27,
+    31,
+    33,
+    38,
+    40,
+    49,
+    58,
+    65,
+    68,
+    69,
+    83,
+    85,
+    90
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "pixelmonName": "Gyarados",
+  "pokemon": "Gyarados",
+  "stats": {
+    "HP": 95,
+    "Attack": 125,
+    "Defence": 79,
+    "Speed": 81,
+    "SpecialAttack": 60,
+    "SpecialDefence": 100
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 30,
+  "baseExp": 189,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Flying"
+  ],
+  "height": 4.0,
+  "width": 3.0,
+  "length": 6.5,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Magikarp"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 10,
+    "depthRangeEnd": 100,
+    "swimSpeed": 3.0,
+    "decayRate": 0.99,
+    "refreshRate": 100
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -1.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -3.6,
+      "z": 2.0
+    }
+  },
+  "weight": 235.0,
+  "evolutions": [],
+  "abilities": [
+    "Intimidate",
+    null,
+    "Moxie"
+  ],
+  "eggGroups": [
+    "Water2",
+    "Dragon"
+  ],
+  "eggCycles": 6,
+  "levelUpMoves": {
+    "0": [
+      "Bite"
+    ],
+    "1": [
+      "Bite",
+      "Flail",
+      "Splash",
+      "Tackle",
+      "Leer",
+      "Twister"
+    ],
+    "4": [
+      "Whirlpool"
+    ],
+    "8": [
+      "Ice Fang"
+    ],
+    "12": [
+      "Brine"
+    ],
+    "16": [
+      "Scary Face"
+    ],
+    "21": [
+      "Waterfall"
+    ],
+    "24": [
+      "Crunch"
+    ],
+    "28": [
+      "Rain Dance"
+    ],
+    "32": [
+      "Aqua Tail"
+    ],
+    "36": [
+      "Dragon Dance"
+    ],
+    "40": [
+      "Hydro Pump"
+    ],
+    "44": [
+      "Hurricane"
+    ],
+    "48": [
+      "Thrash"
+    ],
+    "52": [
+      "Hyper Beam"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bounce",
+    "Iron Head",
+    "Outrage",
+    "Spite",
+    "Twister",
+    "Uproar",
+    "Bite",
+    "Bubble",
+    "Flail",
+    "Hydro Pump",
+    "Reversal",
+    "Splash",
+    "Thrash",
+    "Tackle",
+    "Leer",
+    "Celebrate",
+    "Happy Hour"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 95,
+        "Attack": 155,
+        "Defence": 109,
+        "Speed": 81,
+        "SpecialAttack": 70,
+        "SpecialDefence": 130
+      },
+      "types": [
+        "Water",
+        "Dark"
+      ],
+      "height": 2.0,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -2.1,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -2.1,
+          "z": -0.6
+        }
+      },
+      "weight": 305.0,
+      "abilities": [
+        "MoldBreaker",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": 0,
+  "eggMoves": [],
+  "tmMoves8": [
+    8,
+    9,
+    14,
+    21,
+    24,
+    25,
+    26,
+    27,
+    31,
+    32,
+    33,
+    35,
+    36,
+    39,
+    45,
+    52,
+    55,
+    57,
+    64,
+    67,
+    76,
+    81,
+    97
+  ],
+  "trMoves": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    9,
+    10,
+    15,
+    16,
+    20,
+    24,
+    26,
+    27,
+    31,
+    32,
+    35,
+    37,
+    45,
+    51,
+    58,
+    62,
+    72,
+    74,
+    75,
+    84,
+    89
+  ]
+}

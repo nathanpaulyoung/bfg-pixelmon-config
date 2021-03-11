@@ -1,0 +1,170 @@
+{
+  "pixelmonName": "Charmeleon",
+  "pokemon": "Charmeleon",
+  "stats": {
+    "HP": 58,
+    "Attack": 64,
+    "Defence": 58,
+    "Speed": 80,
+    "SpecialAttack": 80,
+    "SpecialDefence": 65
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 16,
+  "spawnLevelRange": 20,
+  "baseExp": 142,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 1.1,
+  "width": 0.6,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Charmander"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1,
+    "Speed": 1
+  },
+  "weight": 19.0,
+  "evolutions": [
+    {
+      "level": 36,
+      "to": {
+        "name": "Charizard"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Wing Attack"
+      ]
+    }
+  ],
+  "abilities": [
+    "Blaze",
+    null,
+    "SolarPower"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Scratch",
+      "Growl",
+      "Ember",
+      "Smokescreen"
+    ],
+    "12": [
+      "Dragon Breath"
+    ],
+    "19": [
+      "Fire Fang"
+    ],
+    "24": [
+      "Slash"
+    ],
+    "30": [
+      "Flamethrower"
+    ],
+    "37": [
+      "Scary Face"
+    ],
+    "42": [
+      "Fire Spin"
+    ],
+    "48": [
+      "Inferno"
+    ],
+    "54": [
+      "Flare Blitz"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Blast Burn",
+    "Block",
+    "Fire Pledge",
+    "Heat Wave",
+    "Air Cutter",
+    "Beat Up",
+    "Belly Drum",
+    "Bite",
+    "Flare Blitz",
+    "Howl",
+    "Scary Face",
+    "Slash",
+    "Inferno",
+    "Leer",
+    "Dragon Pulse",
+    "Quick Attack",
+    "Celebrate"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": -1,
+  "tmMoves8": [
+    0,
+    1,
+    3,
+    5,
+    13,
+    15,
+    21,
+    22,
+    24,
+    25,
+    26,
+    31,
+    34,
+    37,
+    38,
+    39,
+    40,
+    41,
+    43,
+    46,
+    48,
+    59,
+    65,
+    68,
+    76,
+    78,
+    94
+  ],
+  "trMoves": [
+    0,
+    1,
+    2,
+    15,
+    20,
+    24,
+    26,
+    27,
+    31,
+    32,
+    36,
+    43,
+    47,
+    51,
+    55,
+    62,
+    85
+  ]
+}

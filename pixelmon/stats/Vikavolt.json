@@ -1,0 +1,162 @@
+{
+  "pixelmonName": "Vikavolt",
+  "pokemon": "Vikavolt",
+  "stats": {
+    "HP": 77,
+    "Attack": 70,
+    "Defence": 90,
+    "Speed": 43,
+    "SpecialAttack": 145,
+    "SpecialDefence": 75
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 20,
+  "baseExp": 225,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Electric"
+  ],
+  "height": 1.5,
+  "width": 1.5,
+  "length": 1.5,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Charjabug",
+    "Grubbin"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.3
+    }
+  },
+  "hoverHeight": 1.0,
+  "weight": 45.0,
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Thunderbolt"
+    ],
+    "1": [
+      "Thunderbolt",
+      "Charge",
+      "X-Scissor",
+      "Crunch",
+      "Dig",
+      "Iron Defense",
+      "Discharge",
+      "Vise Grip",
+      "Mud-Slap",
+      "String Shot",
+      "Bug Bite"
+    ],
+    "15": [
+      "Bite"
+    ],
+    "23": [
+      "Spark"
+    ],
+    "29": [
+      "Sticky Web"
+    ],
+    "36": [
+      "Bug Buzz"
+    ],
+    "43": [
+      "Guillotine"
+    ],
+    "50": [
+      "Fly"
+    ],
+    "57": [
+      "Agility"
+    ],
+    "64": [
+      "Zap Cannon"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bug Bite",
+    "Signal Beam",
+    "Magnet Rise",
+    "Iron Defense",
+    "Electroweb",
+    "Snore",
+    "Shock Wave",
+    "Laser Focus"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": -1,
+  "tmMoves8": [
+    6,
+    8,
+    9,
+    11,
+    14,
+    15,
+    16,
+    17,
+    21,
+    24,
+    25,
+    31,
+    33,
+    39,
+    53,
+    76,
+    78,
+    80,
+    82,
+    93,
+    95
+  ],
+  "trMoves": [
+    8,
+    9,
+    12,
+    20,
+    26,
+    27,
+    32,
+    46,
+    57,
+    60,
+    61,
+    65,
+    70,
+    80,
+    86
+  ]
+}

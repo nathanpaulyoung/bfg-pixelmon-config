@@ -1,0 +1,179 @@
+{
+  "pixelmonName": "Chatot",
+  "pokemon": "Chatot",
+  "stats": {
+    "HP": 76,
+    "Attack": 65,
+    "Defence": 45,
+    "Speed": 91,
+    "SpecialAttack": 92,
+    "SpecialDefence": 42
+  },
+  "catchRate": 30,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 25,
+  "baseExp": 107,
+  "baseFriendship": 35,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 10,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -2.1,
+      "z": 0.0
+    }
+  },
+  "weight": 1.9,
+  "evolutions": [],
+  "abilities": [
+    "KeenEye",
+    "TangledFeet",
+    "BigPecks"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Hyper Voice",
+      "Chatter",
+      "Confide",
+      "Taunt",
+      "Peck"
+    ],
+    "5": [
+      "Growl"
+    ],
+    "9": [
+      "Mirror Move"
+    ],
+    "13": [
+      "Sing"
+    ],
+    "17": [
+      "Fury Attack"
+    ],
+    "21": [
+      "Chatter"
+    ],
+    "25": [
+      "Taunt"
+    ],
+    "29": [
+      "Round"
+    ],
+    "33": [
+      "Mimic"
+    ],
+    "37": [
+      "Echoed Voice"
+    ],
+    "41": [
+      "Roost"
+    ],
+    "45": [
+      "Uproar"
+    ],
+    "49": [
+      "Synchronoise"
+    ],
+    "50": [
+      "Feather Dance"
+    ],
+    "57": [
+      "Hyper Voice"
+    ]
+  },
+  "tmMoves": [
+    "Fly",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Steel Wing",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Torment",
+    "Facade",
+    "Taunt",
+    "Aerial Ace",
+    "Roost",
+    "U-Turn",
+    "Round",
+    "Echoed Voice",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Defog",
+    "Heat Wave",
+    "Hyper Voice",
+    "Role Play",
+    "Sky Attack",
+    "Snore",
+    "Tailwind",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Air Cutter",
+    "Boomburst",
+    "Defog",
+    "Encore",
+    "Nasty Plot",
+    "Night Shade",
+    "Sleep Talk",
+    "Steel Wing",
+    "Supersonic"
+  ],
+  "forms": {},
+  "form": 0
+}

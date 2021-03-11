@@ -1,0 +1,167 @@
+{
+  "pixelmonName": "Jigglypuff",
+  "pokemon": "Jigglypuff",
+  "stats": {
+    "HP": 115,
+    "Attack": 45,
+    "Defence": 20,
+    "Speed": 20,
+    "SpecialAttack": 45,
+    "SpecialDefence": 25
+  },
+  "catchRate": 170,
+  "malePercent": 25,
+  "spawnLevel": 10,
+  "spawnLevelRange": 40,
+  "baseExp": 95,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Fairy"
+  ],
+  "height": 0.5,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Igglybuff"
+  ],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 5.5,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:moon_stone"
+      },
+      "to": {
+        "name": "Wigglytuff"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "CuteCharm",
+    "Competitive",
+    "FriendGuard"
+  ],
+  "eggGroups": [
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Sing"
+    ],
+    "3": [
+      "Defense Curl"
+    ],
+    "5": [
+      "Pound"
+    ],
+    "9": [
+      "Play Nice"
+    ],
+    "11": [
+      "Disarming Voice"
+    ],
+    "14": [
+      "Disable"
+    ],
+    "17": [
+      "Double Slap"
+    ],
+    "20": [
+      "Rollout"
+    ],
+    "22": [
+      "Round"
+    ],
+    "25": [
+      "Stockpile",
+      "Swallow",
+      "Spit Up"
+    ],
+    "27": [
+      "Wake-Up Slap"
+    ],
+    "30": [
+      "Rest"
+    ],
+    "32": [
+      "Body Slam"
+    ],
+    "35": [
+      "Gyro Ball"
+    ],
+    "38": [
+      "Mimic"
+    ],
+    "41": [
+      "Hyper Voice"
+    ],
+    "45": [
+      "Double-Edge"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bounce",
+    "Covet",
+    "Endeavor",
+    "Gravity",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Knock Off",
+    "Last Resort",
+    "Magic Coat",
+    "Pain Split",
+    "Role Play",
+    "Uproar",
+    "Charm",
+    "Dizzy Punch",
+    "Double Slap",
+    "Feint Attack",
+    "Heal Pulse",
+    "Petal Dance",
+    "Scary Face",
+    "Sing",
+    "Sweet Kiss",
+    "Tickle",
+    "Wish",
+    "Ally Switch",
+    "Telekinesis"
+  ],
+  "eggMoves": [
+    "Captivate",
+    "Covet",
+    "Fake Tears",
+    "Gravity",
+    "Heal Pulse",
+    "Last Resort",
+    "Perish Song",
+    "Present",
+    "Punishment",
+    "Sleep Talk",
+    "Wish",
+    "Feint Attack",
+    "Misty Terrain"
+  ],
+  "forms": {},
+  "form": 0
+}

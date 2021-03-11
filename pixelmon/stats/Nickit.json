@@ -1,0 +1,136 @@
+{
+  "pixelmonName": "Nickit",
+  "pokemon": "Nickit",
+  "stats": {
+    "HP": 40,
+    "Attack": 28,
+    "Defence": 28,
+    "SpecialAttack": 47,
+    "SpecialDefence": 52,
+    "Speed": 50
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 12,
+  "spawnLevelRange": 6,
+  "baseExp": 49,
+  "baseFriendship": 50,
+  "types": [
+    "Dark"
+  ],
+  "height": 0.6,
+  "width": 0.8,
+  "length": 0.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 8.9,
+  "evolutions": [
+    {
+      "level": 18,
+      "to": {
+        "name": "Thievul"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Thief"
+      ]
+    }
+  ],
+  "abilities": [
+    "RunAway",
+    "Unburden",
+    "Stakeout"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "1": [
+      "Quick Attack",
+      "Tail Whip"
+    ],
+    "4": [
+      "Beat Up"
+    ],
+    "8": [
+      "Hone Claws"
+    ],
+    "12": [
+      "Snarl"
+    ],
+    "16": [
+      "Assurance"
+    ],
+    "20": [
+      "Nasty Plot"
+    ],
+    "24": [
+      "Sucker Punch"
+    ],
+    "28": [
+      "Night Slash"
+    ],
+    "32": [
+      "Tail Slap"
+    ],
+    "36": [
+      "Foul Play"
+    ]
+  },
+  "tutorMoves": [
+    "Lash Out"
+  ],
+  "eggMoves": [
+    "Howl",
+    "Knock Off",
+    "Quick Guard",
+    "Torment"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    15,
+    16,
+    21,
+    23,
+    24,
+    25,
+    31,
+    37,
+    39,
+    40,
+    47,
+    53,
+    58,
+    76,
+    84,
+    85
+  ],
+  "trMoves": [
+    12,
+    20,
+    26,
+    27,
+    29,
+    37,
+    68,
+    81,
+    90
+  ]
+}

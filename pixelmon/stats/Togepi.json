@@ -1,0 +1,197 @@
+{
+  "pixelmonName": "Togepi",
+  "pokemon": "Togepi",
+  "stats": {
+    "HP": 35,
+    "Attack": 20,
+    "Defence": 65,
+    "Speed": 20,
+    "SpecialAttack": 40,
+    "SpecialDefence": 65
+  },
+  "catchRate": 190,
+  "malePercent": 87,
+  "spawnLevel": 5,
+  "spawnLevelRange": 10,
+  "baseExp": 74,
+  "baseFriendship": 70,
+  "types": [
+    "Fairy"
+  ],
+  "height": 0.3,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 1.5,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Togetic"
+      },
+      "conditions": [
+        {
+          "friendship": 220,
+          "evoConditionType": "friendship"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Hustle",
+    "SereneGrace",
+    "SuperLuck"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 11,
+  "levelUpMoves": {
+    "1": [
+      "Growl",
+      "Pound"
+    ],
+    "4": [
+      "Sweet Kiss"
+    ],
+    "8": [
+      "Life Dew"
+    ],
+    "12": [
+      "Charm"
+    ],
+    "16": [
+      "Ancient Power"
+    ],
+    "20": [
+      "Yawn"
+    ],
+    "24": [
+      "Metronome"
+    ],
+    "28": [
+      "After You"
+    ],
+    "32": [
+      "Double-Edge"
+    ],
+    "36": [
+      "Safeguard"
+    ],
+    "40": [
+      "Follow Me"
+    ],
+    "44": [
+      "Baton Pass"
+    ],
+    "48": [
+      "Last Resort"
+    ],
+    "52": [
+      "Wish"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "After You",
+    "Ancient Power",
+    "Covet",
+    "Endeavor",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Last Resort",
+    "Magic Coat",
+    "Signal Beam",
+    "Trick",
+    "Uproar",
+    "Zen Headbutt",
+    "Baton Pass",
+    "Charm",
+    "Encore",
+    "Extrasensory",
+    "Follow Me",
+    "Foresight",
+    "Morning Sun",
+    "Nasty Plot",
+    "Sweet Kiss",
+    "Wish",
+    "Yawn",
+    "Peck",
+    "Telekinesis"
+  ],
+  "eggMoves": [
+    "Present",
+    "Peck",
+    "Psycho Shift",
+    "Extrasensory",
+    "Morning Sun",
+    "Aerial Ace"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    0,
+    1,
+    11,
+    14,
+    17,
+    18,
+    19,
+    21,
+    24,
+    25,
+    29,
+    31,
+    33,
+    34,
+    39,
+    40,
+    41,
+    59,
+    76,
+    87,
+    92
+  ],
+  "trMoves": [
+    1,
+    2,
+    11,
+    14,
+    15,
+    19,
+    20,
+    25,
+    26,
+    27,
+    29,
+    30,
+    33,
+    34,
+    35,
+    38,
+    42,
+    68,
+    69,
+    77,
+    82,
+    85,
+    90,
+    92
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "pixelmonName": "Weezing",
+  "pokemon": "Weezing",
+  "form": 0,
+  "stats": {
+    "HP": 65,
+    "Attack": 90,
+    "Defence": 120,
+    "Speed": 60,
+    "SpecialAttack": 85,
+    "SpecialDefence": 70
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 15,
+  "baseExp": 173,
+  "baseFriendship": 70,
+  "types": [
+    "Poison"
+  ],
+  "height": 2.0,
+  "width": 1.5,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Koffing"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": -0.47,
+      "y": -1.0,
+      "z": -0.1
+    },
+    "moving": {
+      "x": -0.47,
+      "y": -1.0,
+      "z": -0.1
+    }
+  },
+  "hoverHeight": 1.0,
+  "weight": 9.5,
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    "NeutralizingGas",
+    "Stench"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Double Hit",
+      "Heat Wave",
+      "Poison Gas",
+      "Tackle",
+      "Smog",
+      "Smokescreen"
+    ],
+    "12": [
+      "Clear Smog"
+    ],
+    "16": [
+      "Assurance"
+    ],
+    "20": [
+      "Sludge"
+    ],
+    "24": [
+      "Haze"
+    ],
+    "28": [
+      "Self-Destruct"
+    ],
+    "32": [
+      "Sludge Bomb"
+    ],
+    "38": [
+      "Toxic"
+    ],
+    "44": [
+      "Belch"
+    ],
+    "50": [
+      "Explosion"
+    ],
+    "56": [
+      "Memento"
+    ],
+    "62": [
+      "Destiny Bond"
+    ]
+  },
+  "tutorMoves": [
+    "Corrosive Gas"
+  ],
+  "eggMoves": [
+    "Curse",
+    "Grudge",
+    "Pain Split",
+    "Psybeam",
+    "Spit Up",
+    "Spite",
+    "Stockpile",
+    "Swallow"
+  ],
+  "tmMoves8": [
+    8,
+    9,
+    16,
+    20,
+    21,
+    23,
+    24,
+    25,
+    31,
+    33,
+    34,
+    38,
+    39,
+    57,
+    58,
+    74,
+    76
+  ],
+  "trMoves": [
+    2,
+    8,
+    9,
+    15,
+    20,
+    22,
+    26,
+    27,
+    33,
+    35,
+    36,
+    37,
+    52,
+    54,
+    58,
+    78,
+    91
+  ],
+  "forms": {
+    "2": {
+      "types": [
+        "Poison",
+        "Fairy"
+      ],
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.45,
+          "y": -1.35,
+          "z": -0.15
+        },
+        "moving": {
+          "x": 0.45,
+          "y": -1.35,
+          "z": -0.15
+        }
+      },
+      "height": 2.0,
+      "width": 1.5,
+      "length": 1.0,
+      "hoverHeight": 0.5,
+      "weight": 16.0,
+      "abilities": [
+        "Levitate",
+        "NeutralizingGas",
+        "Misty Surge"
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Double Hit",
+          "Strange Steam",
+          "Defog",
+          "Heat Wave",
+          "Smog",
+          "Smokescreen",
+          "Haze",
+          "Poison Gas",
+          "Tackle",
+          "Fairy Wind",
+          "Aromatic Mist"
+        ],
+        "12": [
+          "Clear Smog"
+        ],
+        "16": [
+          "Assurance"
+        ],
+        "20": [
+          "Sludge"
+        ],
+        "24": [
+          "Aromatherapy"
+        ],
+        "28": [
+          "Self-Destruct"
+        ],
+        "32": [
+          "Sludge Bomb"
+        ],
+        "38": [
+          "Toxic"
+        ],
+        "44": [
+          "Belch"
+        ],
+        "50": [
+          "Explosion"
+        ],
+        "56": [
+          "Memento"
+        ],
+        "62": [
+          "Destiny Bond"
+        ],
+        "68": [
+          "Misty Terrain"
+        ]
+      },
+      "tutorMoves": [
+        "Corrosive Gas",
+        "Misty Explosion"
+      ],
+      "tmMoves8": [
+        8,
+        9,
+        16,
+        20,
+        21,
+        23,
+        24,
+        25,
+        31,
+        33,
+        34,
+        38,
+        39,
+        57,
+        58,
+        71,
+        74,
+        76,
+        89,
+        97
+      ],
+      "trMoves": [
+        2,
+        8,
+        9,
+        15,
+        20,
+        22,
+        26,
+        27,
+        33,
+        35,
+        36,
+        37,
+        43,
+        52,
+        54,
+        58,
+        78,
+        90,
+        91,
+        92
+      ]
+    }
+  },
+  "tmMoves": []
+}

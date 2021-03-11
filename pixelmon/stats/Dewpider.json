@@ -1,0 +1,156 @@
+{
+  "pixelmonName": "Dewpider",
+  "pokemon": "Dewpider",
+  "stats": {
+    "HP": 38,
+    "Attack": 40,
+    "Defence": 52,
+    "Speed": 27,
+    "SpecialAttack": 40,
+    "SpecialDefence": 72
+  },
+  "catchRate": 200,
+  "malePercent": 50,
+  "spawnLevel": 8,
+  "spawnLevelRange": 25,
+  "baseExp": 54,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Bug"
+  ],
+  "height": 0.3,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 4.0,
+  "evolutions": [
+    {
+      "level": 22,
+      "to": {
+        "name": "Araquanid"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "WaterBubble",
+    null,
+    "WaterAbsorb"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Bug"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "1": [
+      "Water Gun",
+      "Infestation"
+    ],
+    "4": [
+      "Bug Bite"
+    ],
+    "8": [
+      "Bite"
+    ],
+    "12": [
+      "Bubble Beam"
+    ],
+    "16": [
+      "Aqua Ring"
+    ],
+    "20": [
+      "Headbutt"
+    ],
+    "24": [
+      "Crunch"
+    ],
+    "28": [
+      "Soak"
+    ],
+    "32": [
+      "Entrainment"
+    ],
+    "36": [
+      "Lunge"
+    ],
+    "40": [
+      "Liquidation"
+    ],
+    "44": [
+      "Leech Life"
+    ],
+    "48": [
+      "Mirror Coat"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bug Bite",
+    "Signal Beam",
+    "Magic Coat",
+    "Iron Defense",
+    "Icy Wind",
+    "Snore",
+    "Giga Drain",
+    "Water Pulse",
+    "Magic Room",
+    "Wonder Room",
+    "Liquidation"
+  ],
+  "eggMoves": [
+    "Power Split",
+    "Stockpile",
+    "Spit Up",
+    "Sticky Web"
+  ],
+  "forms": {},
+  "form": -1,
+  "tmMoves8": [
+    21,
+    24,
+    25,
+    27,
+    28,
+    31,
+    33,
+    39,
+    71,
+    72,
+    76
+  ],
+  "trMoves": [
+    4,
+    5,
+    6,
+    16,
+    18,
+    20,
+    26,
+    27,
+    32,
+    46,
+    57,
+    60,
+    61,
+    84,
+    98
+  ]
+}

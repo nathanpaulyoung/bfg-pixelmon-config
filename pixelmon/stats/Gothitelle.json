@@ -1,0 +1,172 @@
+{
+  "pixelmonName": "Gothitelle",
+  "pokemon": "Gothitelle",
+  "stats": {
+    "HP": 70,
+    "Attack": 55,
+    "Defence": 95,
+    "Speed": 65,
+    "SpecialAttack": 95,
+    "SpecialDefence": 110
+  },
+  "catchRate": 50,
+  "malePercent": 25,
+  "spawnLevel": 42,
+  "spawnLevelRange": 12,
+  "baseExp": 221,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 1.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Gothorita",
+    "Gothita"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 3
+  },
+  "weight": 44.0,
+  "evolutions": [],
+  "abilities": [
+    "Frisk",
+    "Competitive",
+    "ShadowTag"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Pound",
+      "Confusion",
+      "Play Nice",
+      "Tickle"
+    ],
+    "12": [
+      "Psybeam"
+    ],
+    "16": [
+      "Charm"
+    ],
+    "20": [
+      "Psyshock"
+    ],
+    "24": [
+      "Hypnosis"
+    ],
+    "28": [
+      "Fake Tears"
+    ],
+    "35": [
+      "Psych Up"
+    ],
+    "40": [
+      "Psychic"
+    ],
+    "48": [
+      "Flatter"
+    ],
+    "56": [
+      "Future Sight"
+    ],
+    "64": [
+      "Magic Room"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Foul Play",
+    "Gravity",
+    "Heal Bell",
+    "Helping Hand",
+    "Magic Coat",
+    "Magic Room",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Uproar",
+    "Zen Headbutt",
+    "Charm",
+    "Double Slap",
+    "Feint Attack",
+    "Heal Pulse",
+    "Tickle",
+    "Imprison",
+    "Ally Switch",
+    "Telekinesis",
+    "Laser Focus"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    14,
+    17,
+    18,
+    19,
+    21,
+    22,
+    23,
+    24,
+    25,
+    29,
+    31,
+    33,
+    39,
+    41,
+    43,
+    44,
+    47,
+    48,
+    57,
+    59,
+    61,
+    70,
+    72,
+    75,
+    76
+  ],
+  "trMoves": [
+    8,
+    11,
+    20,
+    25,
+    26,
+    27,
+    33,
+    34,
+    35,
+    37,
+    38,
+    40,
+    44,
+    49,
+    58,
+    65,
+    68,
+    69,
+    77,
+    81,
+    82,
+    83
+  ]
+}

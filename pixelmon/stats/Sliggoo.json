@@ -1,0 +1,141 @@
+{
+  "pixelmonName": "Sliggoo",
+  "pokemon": "Sliggoo",
+  "stats": {
+    "HP": 68,
+    "Attack": 75,
+    "Defence": 53,
+    "Speed": 60,
+    "SpecialAttack": 83,
+    "SpecialDefence": 113
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 41,
+  "spawnLevelRange": 8,
+  "baseExp": 158,
+  "baseFriendship": 0,
+  "types": [
+    "Dragon"
+  ],
+  "height": 0.8,
+  "width": 0.8,
+  "length": 0.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Goomy"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "weight": 17.5,
+  "evolutions": [
+    {
+      "level": 50,
+      "to": {
+        "name": "Goodra"
+      },
+      "conditions": [
+        {
+          "weather": "RAIN",
+          "evoConditionType": "weather"
+        }
+      ],
+      "evoType": "leveling",
+      "moves": [
+        "Aqua Tail"
+      ]
+    }
+  ],
+  "abilities": [
+    "SapSipper",
+    "Hydration",
+    "Gooey"
+  ],
+  "eggGroups": [
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Acid Spray"
+    ],
+    "1": [
+      "Acid Spray",
+      "Absorb",
+      "Tackle",
+      "Water Gun",
+      "Dragon Breath"
+    ],
+    "15": [
+      "Protect"
+    ],
+    "20": [
+      "Flail"
+    ],
+    "25": [
+      "Water Pulse"
+    ],
+    "30": [
+      "Rain Dance"
+    ],
+    "35": [
+      "Dragon Pulse"
+    ],
+    "43": [
+      "Curse"
+    ],
+    "49": [
+      "Body Slam"
+    ],
+    "56": [
+      "Muddy Water"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Draco Meteor",
+    "Outrage"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    21,
+    22,
+    24,
+    25,
+    31,
+    33,
+    34,
+    39,
+    53,
+    76
+  ],
+  "trMoves": [
+    1,
+    5,
+    6,
+    8,
+    20,
+    22,
+    24,
+    26,
+    27,
+    31,
+    45,
+    62,
+    78
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "pixelmonName": "Gourgeist",
+  "pokemon": "Gourgeist",
+  "stats": {
+    "HP": 55,
+    "Attack": 85,
+    "Defence": 122,
+    "Speed": 99,
+    "SpecialAttack": 58,
+    "SpecialDefence": 75
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 12,
+  "baseExp": 173,
+  "baseFriendship": 0,
+  "types": [
+    "Ghost",
+    "Grass"
+  ],
+  "height": 0.7,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Pumpkaboo"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 9.5,
+  "evolutions": [],
+  "abilities": [
+    "Pickup",
+    "Frisk",
+    "Insomnia"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Explosion",
+      "Moonblast",
+      "Trick-or-Treat",
+      "Astonish",
+      "Shadow Sneak",
+      "Confuse Ray"
+    ],
+    "12": [
+      "Trick-or-Treat",
+      "Razor Leaf"
+    ],
+    "16": [
+      "Leech Seed"
+    ],
+    "20": [
+      "Bullet Seed"
+    ],
+    "24": [
+      "Trick-or-Treat",
+      "Scary Face"
+    ],
+    "28": [
+      "Worry Seed"
+    ],
+    "32": [
+      "Seed Bomb"
+    ],
+    "36": [
+      "Trick-or-Treat",
+      "Shadow Ball"
+    ],
+    "40": [
+      "Trick"
+    ],
+    "44": [
+      "Pain Split"
+    ],
+    "48": [
+      "Phantom Force"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Foul Play",
+    "Magic Coat",
+    "Pain Split",
+    "Role Play",
+    "Seed Bomb",
+    "Spite",
+    "Synthesis",
+    "Trick",
+    "Worry Seed",
+    "Ally Switch",
+    "Telekinesis"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    11,
+    17,
+    19,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    28,
+    31,
+    34,
+    38,
+    39,
+    44,
+    50,
+    70,
+    76,
+    77,
+    86,
+    92,
+    97
+  ],
+  "trMoves": [
+    2,
+    11,
+    15,
+    20,
+    22,
+    26,
+    27,
+    33,
+    38,
+    40,
+    52,
+    58,
+    59,
+    64,
+    65,
+    68,
+    72,
+    77,
+    81,
+    83
+  ]
+}

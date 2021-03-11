@@ -1,0 +1,178 @@
+{
+  "pixelmonName": "Cleffa",
+  "pokemon": "Cleffa",
+  "stats": {
+    "HP": 50,
+    "Attack": 25,
+    "Defence": 28,
+    "Speed": 15,
+    "SpecialAttack": 45,
+    "SpecialDefence": 55
+  },
+  "catchRate": 150,
+  "malePercent": 25,
+  "spawnLevel": 5,
+  "spawnLevelRange": 10,
+  "baseExp": 37,
+  "baseFriendship": 140,
+  "types": [
+    "Fairy"
+  ],
+  "height": 0.3,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 3.0,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Clefairy"
+      },
+      "conditions": [
+        {
+          "friendship": 220,
+          "evoConditionType": "friendship"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "CuteCharm",
+    "MagicGuard",
+    "FriendGuard"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Splash",
+      "Pound",
+      "Copycat"
+    ],
+    "4": [
+      "Sing"
+    ],
+    "8": [
+      "Sweet Kiss"
+    ],
+    "12": [
+      "Disarming Voice"
+    ],
+    "16": [
+      "Encore"
+    ],
+    "20": [
+      "Charm"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "After You",
+    "Covet",
+    "Endeavor",
+    "Gravity",
+    "Helping Hand",
+    "Hyper Voice",
+    "Last Resort",
+    "Magic Coat",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Uproar",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Amnesia",
+    "Aromatherapy",
+    "Belly Drum",
+    "Charm",
+    "Dizzy Punch",
+    "Encore",
+    "Heal Pulse",
+    "Petal Dance",
+    "Scary Face",
+    "Sing",
+    "Splash",
+    "Sweet Kiss",
+    "Tickle",
+    "Wish",
+    "Telekinesis"
+  ],
+  "eggMoves": [
+    "Present",
+    "Wish",
+    "Aromatherapy",
+    "Tickle",
+    "Heal Pulse"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    0,
+    1,
+    10,
+    11,
+    14,
+    15,
+    17,
+    18,
+    19,
+    21,
+    24,
+    25,
+    27,
+    29,
+    31,
+    33,
+    34,
+    39,
+    41,
+    47,
+    59,
+    71,
+    76,
+    87,
+    89
+  ],
+  "trMoves": [
+    1,
+    2,
+    11,
+    14,
+    15,
+    17,
+    20,
+    25,
+    26,
+    27,
+    30,
+    31,
+    33,
+    35,
+    38,
+    42,
+    69,
+    77,
+    82,
+    85,
+    90
+  ]
+}

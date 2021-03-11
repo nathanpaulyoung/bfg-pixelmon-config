@@ -1,0 +1,150 @@
+{
+  "pixelmonName": "Blitzle",
+  "pokemon": "Blitzle",
+  "stats": {
+    "HP": 45,
+    "Attack": 60,
+    "Defence": 32,
+    "Speed": 76,
+    "SpecialAttack": 50,
+    "SpecialDefence": 32
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 16,
+  "spawnLevelRange": 10,
+  "baseExp": 59,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 0.8,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 29.8,
+  "evolutions": [
+    {
+      "level": 27,
+      "to": {
+        "name": "Zebstrika"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "LightningRod",
+    "MotorDrive",
+    "SapSipper"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Quick Attack"
+    ],
+    "4": [
+      "Tail Whip"
+    ],
+    "8": [
+      "Charge"
+    ],
+    "11": [
+      "Shock Wave"
+    ],
+    "15": [
+      "Thunder Wave"
+    ],
+    "18": [
+      "Flame Charge"
+    ],
+    "22": [
+      "Pursuit"
+    ],
+    "25": [
+      "Spark"
+    ],
+    "29": [
+      "Stomp"
+    ],
+    "32": [
+      "Discharge"
+    ],
+    "36": [
+      "Agility"
+    ],
+    "39": [
+      "Wild Charge"
+    ],
+    "43": [
+      "Thrash"
+    ]
+  },
+  "tmMoves": [
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Toxic",
+    "Double Team",
+    "Light Screen",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Facade",
+    "Charge Beam",
+    "Flame Charge",
+    "Round",
+    "Volt Switch",
+    "Wild Charge",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Low Kick",
+    "Magnet Rise",
+    "Shock Wave",
+    "Signal Beam",
+    "Snatch",
+    "Snore"
+  ],
+  "eggMoves": [
+    "Double-Edge",
+    "Double Kick",
+    "Endure",
+    "Feint",
+    "Me First",
+    "Rage",
+    "Sand Attack",
+    "Screech",
+    "Shock Wave",
+    "Snatch",
+    "Take Down"
+  ],
+  "forms": {},
+  "form": 0
+}

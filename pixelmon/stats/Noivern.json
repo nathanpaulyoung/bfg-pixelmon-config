@@ -1,0 +1,189 @@
+{
+  "pixelmonName": "Noivern",
+  "pokemon": "Noivern",
+  "stats": {
+    "HP": 85,
+    "Attack": 70,
+    "Defence": 80,
+    "Speed": 123,
+    "SpecialAttack": 97,
+    "SpecialDefence": 80
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 49,
+  "spawnLevelRange": 13,
+  "baseExp": 187,
+  "baseFriendship": 0,
+  "types": [
+    "Flying",
+    "Dragon"
+  ],
+  "height": 1.5,
+  "width": 1.5,
+  "length": 1.5,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Noibat"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 20,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 10,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.7,
+      "z": -0.2
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.7,
+      "z": -0.1
+    }
+  },
+  "weight": 85.0,
+  "evolutions": [],
+  "abilities": [
+    "Frisk",
+    "Infiltrator",
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Flying",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Dragon Pulse"
+    ],
+    "1": [
+      "Dragon Pulse",
+      "Moonlight",
+      "Absorb",
+      "Tackle",
+      "Gust",
+      "Supersonic"
+    ],
+    "12": [
+      "Double Team"
+    ],
+    "16": [
+      "Wing Attack"
+    ],
+    "20": [
+      "Bite"
+    ],
+    "24": [
+      "Air Cutter"
+    ],
+    "28": [
+      "Whirlwind"
+    ],
+    "32": [
+      "Super Fang"
+    ],
+    "36": [
+      "Air Slash"
+    ],
+    "40": [
+      "Screech"
+    ],
+    "44": [
+      "Roost"
+    ],
+    "51": [
+      "Tailwind"
+    ],
+    "56": [
+      "Hurricane"
+    ],
+    "62": [
+      "Boomburst"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Draco Meteor",
+    "Heat Wave",
+    "Hyper Voice",
+    "Outrage",
+    "Super Fang",
+    "Tailwind",
+    "Uproar",
+    "Defog",
+    "Laser Focus"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    6,
+    8,
+    9,
+    11,
+    16,
+    21,
+    23,
+    24,
+    25,
+    30,
+    31,
+    34,
+    39,
+    40,
+    43,
+    56,
+    65,
+    76,
+    78,
+    95
+  ],
+  "trMoves": [
+    2,
+    11,
+    12,
+    18,
+    20,
+    24,
+    26,
+    27,
+    31,
+    33,
+    35,
+    36,
+    37,
+    42,
+    47,
+    51,
+    58,
+    60,
+    62,
+    64,
+    86,
+    89
+  ]
+}

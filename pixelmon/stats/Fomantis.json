@@ -1,0 +1,122 @@
+{
+  "pixelmonName": "Fomantis",
+  "pokemon": "Fomantis",
+  "stats": {
+    "HP": 40,
+    "Attack": 55,
+    "Defence": 35,
+    "Speed": 35,
+    "SpecialAttack": 50,
+    "SpecialDefence": 35
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 35,
+  "baseExp": 50,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.3,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 1.5,
+  "evolutions": [
+    {
+      "level": 34,
+      "to": {
+        "name": "Lurantis"
+      },
+      "conditions": [
+        {
+          "time": "DAY",
+          "evoConditionType": "time"
+        }
+      ],
+      "evoType": "leveling",
+      "moves": [
+        "Petal Blizzard"
+      ]
+    }
+  ],
+  "abilities": [
+    "LeafGuard",
+    null,
+    "Contrary"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Fury Cutter"
+    ],
+    "5": [
+      "Leafage"
+    ],
+    "10": [
+      "Razor Leaf"
+    ],
+    "14": [
+      "Growth"
+    ],
+    "19": [
+      "Ingrain"
+    ],
+    "23": [
+      "Leaf Blade"
+    ],
+    "28": [
+      "Synthesis"
+    ],
+    "32": [
+      "Slash"
+    ],
+    "37": [
+      "Sweet Scent"
+    ],
+    "41": [
+      "Solar Beam"
+    ],
+    "46": [
+      "Sunny Day"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bug Bite",
+    "Dual Chop",
+    "Signal Beam",
+    "Seed Bomb",
+    "Snore",
+    "Synthesis",
+    "Giga Drain",
+    "Worry Seed",
+    "Defog"
+  ],
+  "eggMoves": [
+    "Weather Ball",
+    "Giga Drain",
+    "Aromatherapy",
+    "Defog",
+    "Leaf Storm"
+  ],
+  "forms": {},
+  "form": -1
+}

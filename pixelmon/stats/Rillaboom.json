@@ -1,0 +1,180 @@
+{
+  "pixelmonName": "Rillaboom",
+  "pokemon": "Rillaboom",
+  "stats": {
+    "HP": 100,
+    "Attack": 125,
+    "Defence": 90,
+    "SpecialAttack": 60,
+    "SpecialDefence": 70,
+    "Speed": 85
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 35,
+  "spawnLevelRange": 14,
+  "baseExp": 265,
+  "baseFriendship": 50,
+  "types": [
+    "Grass"
+  ],
+  "height": 2.1,
+  "width": 1.3,
+  "length": 1.3,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Thwackey",
+    "Grookey"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.5,
+      "z": -0.2
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.5,
+      "z": 0.3
+    }
+  },
+  "weight": 90.0,
+  "evolutions": [],
+  "abilities": [
+    "Overgrow",
+    null,
+    "GrassySurge"
+  ],
+  "eggGroups": [
+    "Field",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Drum Beating"
+    ],
+    "1": [
+      "Drum Beating",
+      "Double Hit",
+      "Grassy Terrain",
+      "Noble Roar",
+      "Scratch",
+      "Growl",
+      "Branch Poke",
+      "Taunt"
+    ],
+    "12": [
+      "Razor Leaf"
+    ],
+    "19": [
+      "Screech"
+    ],
+    "24": [
+      "Knock Off"
+    ],
+    "30": [
+      "Slam"
+    ],
+    "38": [
+      "Uproar"
+    ],
+    "46": [
+      "Wood Hammer"
+    ],
+    "54": [
+      "Endeavor"
+    ],
+    "62": [
+      "Boomburst"
+    ]
+  },
+  "tutorMoves": [
+    "Frenzy Plant",
+    "Grass Pledge",
+    "Grassy Glide"
+  ],
+  "eggMoves": [
+    "Fake Out",
+    "Growth",
+    "Hammer Arm",
+    "Leech Seed",
+    "Nature Power",
+    "Strength",
+    "Worry Seed"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    0,
+    1,
+    8,
+    9,
+    10,
+    11,
+    12,
+    16,
+    21,
+    24,
+    25,
+    26,
+    28,
+    31,
+    34,
+    39,
+    40,
+    43,
+    50,
+    53,
+    56,
+    58,
+    59,
+    63,
+    76,
+    78,
+    81,
+    85,
+    88,
+    94,
+    97,
+    98
+  ],
+  "trMoves": [
+    0,
+    1,
+    7,
+    10,
+    13,
+    20,
+    26,
+    27,
+    35,
+    37,
+    39,
+    42,
+    48,
+    64,
+    65,
+    67,
+    71,
+    77,
+    85,
+    93,
+    94,
+    99
+  ]
+}

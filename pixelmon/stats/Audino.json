@@ -1,0 +1,219 @@
+{
+  "pixelmonName": "Audino",
+  "pokemon": "Audino",
+  "stats": {
+    "HP": 103,
+    "Attack": 60,
+    "Defence": 86,
+    "Speed": 50,
+    "SpecialAttack": 60,
+    "SpecialDefence": 86
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 28,
+  "spawnLevelRange": 18,
+  "baseExp": 390,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 31.0,
+  "evolutions": [],
+  "abilities": [
+    "Healer",
+    "Regenerator",
+    "Klutz"
+  ],
+  "eggGroups": [
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Last Resort",
+      "Misty Terrain",
+      "Play Nice",
+      "Pound",
+      "Growl",
+      "Helping Hand",
+      "Hyper Voice"
+    ],
+    "5": [
+      "Baby-Doll Eyes"
+    ],
+    "9": [
+      "Refresh"
+    ],
+    "13": [
+      "Disarming Voice"
+    ],
+    "17": [
+      "Double Slap"
+    ],
+    "21": [
+      "Attract"
+    ],
+    "25": [
+      "Secret Power"
+    ],
+    "29": [
+      "Entrainment"
+    ],
+    "33": [
+      "Take Down"
+    ],
+    "37": [
+      "Heal Pulse"
+    ],
+    "41": [
+      "After You"
+    ],
+    "45": [
+      "Simple Beam"
+    ],
+    "49": [
+      "Double-Edge"
+    ],
+    "53": [
+      "Hyper Voice"
+    ],
+    "57": [
+      "Last Resort"
+    ]
+  },
+  "tmMoves": [
+    "Flamethrower",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Light Screen",
+    "Reflect",
+    "Fire Blast",
+    "Dream Eater",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Shadow Ball",
+    "Facade",
+    "Calm Mind",
+    "Fling",
+    "Trick Room",
+    "Grass Knot",
+    "Charge Beam",
+    "Psyshock",
+    "Round",
+    "Echoed Voice",
+    "Work Up",
+    "Wild Charge",
+    "Confide",
+    "Dazzling Gleam"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Ally Switch",
+    "Covet",
+    "Drain Punch",
+    "Fire Punch",
+    "Focus Punch",
+    "Gravity",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Ice Punch",
+    "Icy Wind",
+    "Iron Tail",
+    "Knock Off",
+    "Laser Focus",
+    "Last Resort",
+    "Low Kick",
+    "Magic Coat",
+    "Pain Split",
+    "Role Play",
+    "Signal Beam",
+    "Skill Swap",
+    "Snatch",
+    "Snore",
+    "Stomping Tantrum",
+    "Telekinesis",
+    "Throat Chop",
+    "Thunder Punch",
+    "Uproar",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Bestow",
+    "Draining Kiss",
+    "Encore",
+    "Heal Bell",
+    "Healing Wish",
+    "Lucky Chant",
+    "Sleep Talk",
+    "Sweet Kiss",
+    "Wish",
+    "Yawn"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 103,
+        "Attack": 60,
+        "Defence": 126,
+        "Speed": 50,
+        "SpecialAttack": 80,
+        "SpecialDefence": 126
+      },
+      "types": [
+        "Normal",
+        "Fairy"
+      ],
+      "height": 1.5,
+      "weight": 32.0,
+      "abilities": [
+        "Healer",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": 0
+}

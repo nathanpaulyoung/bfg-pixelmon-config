@@ -1,0 +1,166 @@
+{
+  "pixelmonName": "Binacle",
+  "pokemon": "Binacle",
+  "stats": {
+    "HP": 42,
+    "Attack": 52,
+    "Defence": 67,
+    "Speed": 50,
+    "SpecialAttack": 39,
+    "SpecialDefence": 56
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 16,
+  "baseExp": 61,
+  "baseFriendship": 0,
+  "types": [
+    "Rock",
+    "Water"
+  ],
+  "height": 0.5,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 31.0,
+  "evolutions": [
+    {
+      "level": 39,
+      "to": {
+        "name": "Barbaracle"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Sniper",
+    "ToughClaws",
+    "Pickpocket"
+  ],
+  "eggGroups": [
+    "Water3"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Mud-Slap",
+      "Scratch"
+    ],
+    "4": [
+      "Withdraw"
+    ],
+    "8": [
+      "Water Gun"
+    ],
+    "12": [
+      "Fury Cutter"
+    ],
+    "16": [
+      "Fury Swipes"
+    ],
+    "20": [
+      "Ancient Power"
+    ],
+    "24": [
+      "Rock Polish"
+    ],
+    "28": [
+      "Slash"
+    ],
+    "32": [
+      "Hone Claws"
+    ],
+    "36": [
+      "Razor Shell"
+    ],
+    "40": [
+      "Shell Smash"
+    ],
+    "44": [
+      "Cross Chop"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Dual Chop",
+    "Endeavor",
+    "Helping Hand",
+    "Iron Defense",
+    "Liquidation"
+  ],
+  "eggMoves": [
+    "Switcheroo",
+    "Night Slash",
+    "Sand Attack"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    15,
+    16,
+    19,
+    21,
+    22,
+    23,
+    24,
+    25,
+    27,
+    31,
+    32,
+    33,
+    37,
+    39,
+    41,
+    43,
+    48,
+    53,
+    54,
+    57,
+    58,
+    59,
+    65,
+    76,
+    81,
+    83,
+    94
+  ],
+  "trMoves": [
+    0,
+    4,
+    5,
+    6,
+    10,
+    20,
+    22,
+    26,
+    27,
+    35,
+    37,
+    46,
+    57,
+    60,
+    75,
+    76,
+    77,
+    78,
+    84,
+    98
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "pixelmonName": "Charjabug",
+  "pokemon": "Charjabug",
+  "stats": {
+    "HP": 57,
+    "Attack": 82,
+    "Defence": 95,
+    "Speed": 36,
+    "SpecialAttack": 55,
+    "SpecialDefence": 75
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 15,
+  "baseExp": 140,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Electric"
+  ],
+  "height": 0.5,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Grubbin"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 10.5,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Vikavolt"
+      },
+      "conditions": [
+        {
+          "biomes": [
+            "minecraft:extreme_hills",
+            "minecraft:smaller_extreme_hills",
+            "minecraft:extreme_hills_with_trees",
+            "minecraft:mutated_extreme_hills",
+            "minecraft:mutated_extreme_hills_with_trees"
+          ],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "leveling",
+      "moves": [
+        "Thunderbolt"
+      ]
+    }
+  ],
+  "abilities": [
+    "Battery",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Charge"
+    ],
+    "1": [
+      "Charge",
+      "Vise Grip",
+      "Mud-Slap",
+      "String Shot",
+      "Bug Bite"
+    ],
+    "15": [
+      "Bite"
+    ],
+    "23": [
+      "Spark"
+    ],
+    "29": [
+      "Sticky Web"
+    ],
+    "36": [
+      "X-Scissor"
+    ],
+    "43": [
+      "Crunch"
+    ],
+    "50": [
+      "Dig"
+    ],
+    "57": [
+      "Iron Defense"
+    ],
+    "64": [
+      "Discharge"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bug Bite",
+    "Magnet Rise",
+    "Iron Defense",
+    "Electroweb",
+    "Snore",
+    "Shock Wave"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": -1,
+  "tmMoves8": [
+    14,
+    15,
+    16,
+    17,
+    21,
+    24,
+    25,
+    31,
+    33,
+    39,
+    53,
+    76,
+    78,
+    80,
+    82,
+    93
+  ],
+  "trMoves": [
+    8,
+    20,
+    26,
+    27,
+    32,
+    46,
+    57,
+    60,
+    80,
+    86
+  ]
+}

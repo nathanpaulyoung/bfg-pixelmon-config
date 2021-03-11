@@ -1,0 +1,140 @@
+{
+  "pixelmonName": "Feebas",
+  "pokemon": "Feebas",
+  "stats": {
+    "HP": 20,
+    "Attack": 15,
+    "Defence": 20,
+    "Speed": 80,
+    "SpecialAttack": 10,
+    "SpecialDefence": 55
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 15,
+  "baseExp": 61,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 10,
+    "swimSpeed": 1.0,
+    "decayRate": 0.99,
+    "refreshRate": 150
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 7.4,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Milotic"
+      },
+      "conditions": [
+        {
+          "item": {
+            "itemID": "pixelmon:prism_scale"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "trade",
+      "moves": [
+        "Water Pulse"
+      ]
+    }
+  ],
+  "abilities": [
+    "SwiftSwim",
+    "Oblivious",
+    "Adaptability"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Splash"
+    ],
+    "15": [
+      "Tackle"
+    ],
+    "25": [
+      "Flail"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Flail",
+    "Haze",
+    "Hypnosis",
+    "Mist",
+    "Mud Sport",
+    "Splash",
+    "Tickle",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Mirror Coat",
+    "Dragon Breath",
+    "Hypnosis",
+    "Confuse Ray",
+    "Mist",
+    "Haze",
+    "Tickle"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    17,
+    21,
+    24,
+    25,
+    27,
+    31,
+    33,
+    35,
+    36,
+    39,
+    40,
+    45,
+    53,
+    55,
+    76
+  ],
+  "trMoves": [
+    4,
+    5,
+    6,
+    16,
+    20,
+    26,
+    27,
+    31,
+    45,
+    62,
+    84
+  ]
+}

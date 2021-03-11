@@ -1,0 +1,188 @@
+{
+  "pixelmonName": "Glalie",
+  "pokemon": "Glalie",
+  "stats": {
+    "HP": 80,
+    "Attack": 80,
+    "Defence": 80,
+    "Speed": 80,
+    "SpecialAttack": 80,
+    "SpecialDefence": 80
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 40,
+  "spawnLevelRange": 20,
+  "baseExp": 187,
+  "baseFriendship": 70,
+  "types": [
+    "Ice"
+  ],
+  "height": 1.5,
+  "width": 1.5,
+  "length": 1.5,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Snorunt"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 0,
+    "passive": 30,
+    "aggressive": 70
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.3,
+      "z": -0.1
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.3,
+      "z": -0.1
+    }
+  },
+  "hoverHeight": 1.0,
+  "weight": 256.5,
+  "evolutions": [],
+  "abilities": [
+    "InnerFocus",
+    "IceBody",
+    "Moody"
+  ],
+  "eggGroups": [
+    "Fairy",
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Freeze-Dry"
+    ],
+    "1": [
+      "Freeze-Dry",
+      "Sheer Cold",
+      "Powder Snow",
+      "Astonish",
+      "Leer",
+      "Double Team"
+    ],
+    "15": [
+      "Ice Shard"
+    ],
+    "20": [
+      "Protect"
+    ],
+    "25": [
+      "Icy Wind"
+    ],
+    "30": [
+      "Frost Breath"
+    ],
+    "35": [
+      "Bite"
+    ],
+    "40": [
+      "Ice Fang"
+    ],
+    "47": [
+      "Hail"
+    ],
+    "54": [
+      "Headbutt"
+    ],
+    "61": [
+      "Crunch"
+    ],
+    "68": [
+      "Blizzard"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Block",
+    "Iron Head",
+    "Signal Beam",
+    "Spite",
+    "Super Fang",
+    "Bite",
+    "Sheer Cold",
+    "Sing",
+    "Weather Ball",
+    "Leer",
+    "Sing",
+    "Laser Focus"
+  ],
+  "eggMoves": [],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 80,
+        "Attack": 120,
+        "Defence": 80,
+        "Speed": 100,
+        "SpecialAttack": 120,
+        "SpecialDefence": 80
+      },
+      "height": 2.1,
+      "weight": 350.2,
+      "abilities": [
+        "Refrigerate",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    17,
+    19,
+    20,
+    21,
+    24,
+    25,
+    26,
+    27,
+    31,
+    33,
+    35,
+    39,
+    46,
+    47,
+    51,
+    57,
+    64,
+    67,
+    76,
+    77,
+    81
+  ],
+  "trMoves": [
+    1,
+    5,
+    6,
+    10,
+    20,
+    23,
+    26,
+    27,
+    32,
+    33,
+    37,
+    52,
+    58,
+    74
+  ]
+}

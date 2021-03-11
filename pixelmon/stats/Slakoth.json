@@ -1,0 +1,155 @@
+{
+  "pixelmonName": "Slakoth",
+  "pokemon": "Slakoth",
+  "stats": {
+    "HP": 60,
+    "Attack": 60,
+    "Defence": 60,
+    "Speed": 30,
+    "SpecialAttack": 35,
+    "SpecialDefence": 35
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 5,
+  "baseExp": 83,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.8,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 24.0,
+  "evolutions": [
+    {
+      "level": 18,
+      "to": {
+        "name": "Vigoroth"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Truant",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Yawn"
+    ],
+    "6": [
+      "Encore"
+    ],
+    "9": [
+      "Slack Off"
+    ],
+    "14": [
+      "Feint Attack"
+    ],
+    "17": [
+      "Amnesia"
+    ],
+    "22": [
+      "Covet"
+    ],
+    "25": [
+      "Chip Away"
+    ],
+    "30": [
+      "Counter"
+    ],
+    "33": [
+      "Flail"
+    ],
+    "38": [
+      "Play Rough"
+    ]
+  },
+  "tmMoves": [
+    "Flamethrower",
+    "Ice Beam",
+    "Blizzard",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Toxic",
+    "Double Team",
+    "Fire Blast",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Shadow Ball",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Bulk Up",
+    "Fling",
+    "Shadow Claw",
+    "Round",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Covet",
+    "Fire Punch",
+    "Focus Punch",
+    "Gunk Shot",
+    "Ice Punch",
+    "Icy Wind",
+    "Shock Wave",
+    "Snore",
+    "Thunder Punch",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "After You",
+    "Body Slam",
+    "Crush Claw",
+    "Curse",
+    "Hammer Arm",
+    "Night Slash",
+    "Pursuit",
+    "Slash",
+    "Sleep Talk",
+    "Snore",
+    "Tickle"
+  ],
+  "forms": {},
+  "form": 0
+}

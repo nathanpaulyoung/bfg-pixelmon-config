@@ -1,0 +1,139 @@
+{
+  "pixelmonName": "Blacephalon",
+  "pokemon": "Blacephalon",
+  "stats": {
+    "HP": 53,
+    "Attack": 127,
+    "Defence": 53,
+    "Speed": 107,
+    "SpecialAttack": 151,
+    "SpecialDefence": 79
+  },
+  "catchRate": 30,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 257,
+  "baseFriendship": 70,
+  "types": [
+    "Fire",
+    "Ghost"
+  ],
+  "height": 7.2,
+  "width": 1.8,
+  "length": 1.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "weight": 13.0,
+  "evolutions": [],
+  "abilities": [
+    "BeastBoost",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Ember",
+      "Astonish"
+    ],
+    "7": [
+      "Magic Coat"
+    ],
+    "13": [
+      "Stored Power"
+    ],
+    "17": [
+      "Flame Burst"
+    ],
+    "23": [
+      "Night Shade"
+    ],
+    "29": [
+      "Light Screen"
+    ],
+    "31": [
+      "Calm Mind"
+    ],
+    "37": [
+      "Fire Blast"
+    ],
+    "41": [
+      "Shadow Ball"
+    ],
+    "47": [
+      "Trick"
+    ],
+    "59": [
+      "Mind Blown"
+    ]
+  },
+  "tmMoves": [
+    "Flamethrower",
+    "Hyper Beam",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Light Screen",
+    "Fire Blast",
+    "Explosion",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Shadow Ball",
+    "Torment",
+    "Will-O-Wisp",
+    "Facade",
+    "Taunt",
+    "Overheat",
+    "Calm Mind",
+    "Payback",
+    "Fling",
+    "Dark Pulse",
+    "Shadow Claw",
+    "Psyshock",
+    "Smack Down",
+    "Flame Charge",
+    "Round",
+    "Quash",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Foul Play",
+    "Heat Wave",
+    "Knock Off",
+    "Last Resort",
+    "Pain Split",
+    "Recycle",
+    "Snore",
+    "Spite",
+    "Trick",
+    "Uproar"
+  ],
+  "forms": {},
+  "form": -1,
+  "eggMoves": []
+}

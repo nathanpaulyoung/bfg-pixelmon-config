@@ -1,0 +1,171 @@
+{
+  "pixelmonName": "Rufflet",
+  "pokemon": "Rufflet",
+  "stats": {
+    "HP": 70,
+    "Attack": 83,
+    "Defence": 50,
+    "Speed": 60,
+    "SpecialAttack": 37,
+    "SpecialDefence": 50
+  },
+  "catchRate": 190,
+  "malePercent": 100,
+  "spawnLevel": 10,
+  "spawnLevelRange": 44,
+  "baseExp": 70,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 1.0,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 5,
+    "passive": 70,
+    "aggressive": 25
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 10,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 10.5,
+  "evolutions": [
+    {
+      "level": 54,
+      "to": {
+        "name": "Braviary"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Superpower"
+      ]
+    }
+  ],
+  "abilities": [
+    "KeenEye",
+    "SheerForce",
+    "Hustle"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Peck",
+      "Leer"
+    ],
+    "6": [
+      "Hone Claws"
+    ],
+    "12": [
+      "Wing Attack"
+    ],
+    "18": [
+      "Tailwind"
+    ],
+    "24": [
+      "Scary Face"
+    ],
+    "30": [
+      "Aerial Ace"
+    ],
+    "36": [
+      "Slash"
+    ],
+    "42": [
+      "Whirlwind"
+    ],
+    "48": [
+      "Crush Claw"
+    ],
+    "55": [
+      "Air Slash"
+    ],
+    "60": [
+      "Defog"
+    ],
+    "66": [
+      "Thrash"
+    ],
+    "72": [
+      "Brave Bird"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Heat Wave",
+    "Superpower",
+    "Tailwind",
+    "Air Slash",
+    "Crush Claw",
+    "Fury Attack",
+    "Scary Face",
+    "Thrash",
+    "Peck",
+    "Slash",
+    "Leer",
+    "Defog"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": [],
+  "tmMoves8": [
+    6,
+    21,
+    22,
+    24,
+    25,
+    26,
+    30,
+    31,
+    33,
+    34,
+    39,
+    40,
+    48,
+    56,
+    58,
+    65,
+    76,
+    79,
+    95
+  ],
+  "trMoves": [
+    12,
+    20,
+    26,
+    27,
+    36,
+    39,
+    48,
+    53,
+    66,
+    69,
+    85,
+    89
+  ]
+}

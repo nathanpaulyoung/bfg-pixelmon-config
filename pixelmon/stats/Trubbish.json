@@ -1,0 +1,160 @@
+{
+  "pixelmonName": "Trubbish",
+  "pokemon": "Trubbish",
+  "stats": {
+    "HP": 50,
+    "Attack": 50,
+    "Defence": 62,
+    "Speed": 65,
+    "SpecialAttack": 40,
+    "SpecialDefence": 62
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 23,
+  "spawnLevelRange": 12,
+  "baseExp": 66,
+  "baseFriendship": 70,
+  "types": [
+    "Poison"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 31.0,
+  "evolutions": [
+    {
+      "level": 36,
+      "to": {
+        "name": "Garbodor"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Stench",
+    "StickyHold",
+    "Aftermath"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Pound",
+      "Poison Gas"
+    ],
+    "3": [
+      "Recycle"
+    ],
+    "6": [
+      "Acid Spray"
+    ],
+    "9": [
+      "Amnesia"
+    ],
+    "12": [
+      "Clear Smog"
+    ],
+    "15": [
+      "Toxic Spikes"
+    ],
+    "18": [
+      "Sludge"
+    ],
+    "21": [
+      "Stockpile",
+      "Swallow"
+    ],
+    "24": [
+      "Take Down"
+    ],
+    "27": [
+      "Sludge Bomb"
+    ],
+    "30": [
+      "Toxic"
+    ],
+    "33": [
+      "Belch"
+    ],
+    "37": [
+      "Pain Split"
+    ],
+    "39": [
+      "Gunk Shot"
+    ],
+    "42": [
+      "Explosion"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Gunk Shot",
+    "Pain Split",
+    "Seed Bomb",
+    "Spite",
+    "Amnesia",
+    "Double Slap",
+    "Haze",
+    "Mud Sport"
+  ],
+  "eggMoves": [
+    "Haze",
+    "Curse",
+    "Sand Attack",
+    "Autotomize",
+    "Rollout"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    20,
+    21,
+    23,
+    24,
+    25,
+    28,
+    31,
+    33,
+    34,
+    39,
+    54,
+    57,
+    63,
+    74,
+    76
+  ],
+  "trMoves": [
+    17,
+    20,
+    22,
+    23,
+    26,
+    27,
+    54,
+    58,
+    59,
+    73,
+    78,
+    91
+  ]
+}

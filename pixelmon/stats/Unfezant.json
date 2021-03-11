@@ -1,0 +1,162 @@
+{
+  "pixelmonName": "Unfezant",
+  "pokemon": "Unfezant",
+  "stats": {
+    "HP": 80,
+    "Attack": 115,
+    "Defence": 80,
+    "Speed": 93,
+    "SpecialAttack": 65,
+    "SpecialDefence": 55
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 33,
+  "spawnLevelRange": 14,
+  "baseExp": 215,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Tranquill",
+    "Pidove"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 5,
+    "flyHeightMax": 25,
+    "flySpeedModifier": 1.4,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.35,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.25,
+      "z": 0.0
+    }
+  },
+  "weight": 29.0,
+  "evolutions": [],
+  "abilities": [
+    "BigPecks",
+    "SuperLuck",
+    "Rivalry"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "1": [
+      "Gust",
+      "Growl",
+      "Leer",
+      "Quick Attack"
+    ],
+    "12": [
+      "Taunt"
+    ],
+    "16": [
+      "Air Cutter"
+    ],
+    "20": [
+      "Swagger"
+    ],
+    "26": [
+      "Feather Dance"
+    ],
+    "36": [
+      "Detect"
+    ],
+    "42": [
+      "Air Slash"
+    ],
+    "50": [
+      "Roost"
+    ],
+    "58": [
+      "Tailwind"
+    ],
+    "66": [
+      "Sky Attack"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Air Cutter",
+    "Heat Wave",
+    "Tailwind",
+    "Uproar",
+    "Air Slash",
+    "Feather Dance",
+    "Gust",
+    "Hypnosis",
+    "Morning Sun",
+    "Wish",
+    "Leer",
+    "Defog"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    6,
+    8,
+    9,
+    21,
+    24,
+    25,
+    30,
+    31,
+    33,
+    34,
+    39,
+    40,
+    56,
+    76,
+    95
+  ],
+  "trMoves": [
+    12,
+    13,
+    20,
+    26,
+    27,
+    35,
+    36,
+    37,
+    66,
+    85,
+    89
+  ]
+}

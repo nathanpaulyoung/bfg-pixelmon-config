@@ -1,0 +1,153 @@
+{
+  "pixelmonName": "Cloyster",
+  "pokemon": "Cloyster",
+  "stats": {
+    "HP": 50,
+    "Attack": 95,
+    "Defence": 180,
+    "Speed": 70,
+    "SpecialAttack": 85,
+    "SpecialDefence": 45
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 15,
+  "baseExp": 203,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Ice"
+  ],
+  "height": 1.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Shellder"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.38,
+      "z": -0.5
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.38,
+      "z": -0.5
+    }
+  },
+  "weight": 132.5,
+  "evolutions": [],
+  "abilities": [
+    "ShellArmour",
+    "SkillLink",
+    "Overcoat"
+  ],
+  "eggGroups": [
+    "Water3"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Icicle Spear"
+    ],
+    "1": [
+      "Icicle Spear",
+      "Icicle Crash",
+      "Toxic Spikes",
+      "Spikes",
+      "Leer",
+      "Whirlpool",
+      "Supersonic",
+      "Aurora Beam",
+      "Protect",
+      "Razor Shell",
+      "Iron Defense",
+      "Ice Beam",
+      "Shell Smash",
+      "Hydro Pump",
+      "Tackle",
+      "Water Gun",
+      "Withdraw",
+      "Ice Shard"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Iron Defense",
+    "Signal Beam",
+    "Aqua Ring",
+    "Barrier",
+    "Hydro Pump",
+    "Rapid Spin",
+    "Refresh",
+    "Tackle",
+    "Spike Cannon",
+    "Screech",
+    "Liquidation"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    7,
+    8,
+    9,
+    16,
+    17,
+    20,
+    21,
+    24,
+    25,
+    27,
+    31,
+    33,
+    35,
+    36,
+    39,
+    40,
+    45,
+    46,
+    51,
+    53,
+    54,
+    55,
+    57,
+    64,
+    76,
+    83,
+    96
+  ],
+  "trMoves": [
+    3,
+    4,
+    5,
+    6,
+    19,
+    20,
+    23,
+    26,
+    27,
+    46,
+    54,
+    57,
+    98
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "pixelmonName": "Ninetales",
+  "pokemon": "Ninetales",
+  "stats": {
+    "HP": 73,
+    "Attack": 76,
+    "Defence": 75,
+    "Speed": 100,
+    "SpecialAttack": 81,
+    "SpecialDefence": 100
+  },
+  "catchRate": 75,
+  "malePercent": 25,
+  "spawnLevel": 20,
+  "spawnLevelRange": 30,
+  "baseExp": 178,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 1.1,
+  "width": 0.4,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Vulpix"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1,
+    "Speed": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.9,
+      "z": -0.17
+    }
+  },
+  "weight": 19.9,
+  "evolutions": [],
+  "abilities": [
+    "FlashFire",
+    null,
+    "Drought"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Nasty Plot",
+      "Incinerate",
+      "Spite",
+      "Incinerate",
+      "Confuse Ray",
+      "Will-O-Wisp",
+      "Extrasensory",
+      "Flamethrower",
+      "Imprison",
+      "Fire Spin",
+      "Safeguard",
+      "Inferno",
+      "Grudge",
+      "Fire Blast",
+      "Ember",
+      "Tail Whip",
+      "Disable",
+      "Quick Attack"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Foul Play",
+    "Heat Wave",
+    "Ominous Wind",
+    "Pain Split",
+    "Role Play",
+    "Spite",
+    "Zen Headbutt",
+    "Charm",
+    "Extrasensory",
+    "Feint Attack",
+    "Flail",
+    "Flare Blitz",
+    "Howl",
+    "Hypnosis",
+    "Nasty Plot",
+    "Laser Focus"
+  ],
+  "eggMoves": [],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 73,
+        "Attack": 67,
+        "Defence": 75,
+        "Speed": 109,
+        "SpecialAttack": 81,
+        "SpecialDefence": 100
+      },
+      "types": [
+        "Ice",
+        "Fairy"
+      ],
+      "preEvolutions": [
+        "Vulpix"
+      ],
+      "evYields": {
+        "Speed": 2
+      },
+      "weight": 3.8,
+      "abilities": [
+        "SnowCloak",
+        null,
+        "SnowWarning"
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Dazzling Gleam"
+        ],
+        "1": [
+          "Dazzling Gleam",
+          "Nasty Plot",
+          "Spite",
+          "Icy Wind",
+          "Confuse Ray",
+          "Aurora Beam",
+          "Extrasensory",
+          "Ice Beam",
+          "Imprison",
+          "Mist",
+          "Aurora Veil",
+          "Sheer Cold",
+          "Grudge",
+          "Blizzard",
+          "Powder Snow",
+          "Tail Whip",
+          "Disable",
+          "Ice Shard"
+        ]
+      },
+      "tmMoves": [
+        "Psyshock",
+        "Calm Mind",
+        "Roar",
+        "Toxic",
+        "Hail",
+        "Hidden Power",
+        "Ice Beam",
+        "Blizzard",
+        "Hyper Beam",
+        "Protect",
+        "Rain Dance",
+        "Safeguard",
+        "Frustration",
+        "Return",
+        "Double Team",
+        "Facade",
+        "Rest",
+        "Attract",
+        "Round",
+        "Payback",
+        "Giga Impact",
+        "Aurora Veil",
+        "Psych Up",
+        "Frost Breath",
+        "Dream Eater",
+        "Swagger",
+        "Sleep Talk",
+        "Substitute",
+        "Dark Pulse",
+        "Dazzling Gleam",
+        "Confide"
+      ],
+      "tutorMoves": [
+        "Covet",
+        "Foul Play",
+        "Zen Headbutt",
+        "Iron Tail",
+        "Snore",
+        "Role Play",
+        "Pain Split",
+        "Spite",
+        "Laser Focus",
+        "Icy Wind",
+        "Aqua Tail",
+        "Heal Bell",
+        "Wonder Room",
+        "Celebrate"
+      ],
+      "eggMoves": [
+        "Agility",
+        "Charm",
+        "Disable",
+        "Encore",
+        "Extrasensory",
+        "Flail",
+        "Freeze-Dry",
+        "Howl",
+        "Hypnosis",
+        "Moonblast",
+        "Power Swap",
+        "Secret Power",
+        "Spite",
+        "Tail Slap"
+      ],
+      "form": 1,
+      "tmMoves8": [
+        8,
+        9,
+        11,
+        15,
+        19,
+        21,
+        24,
+        25,
+        27,
+        29,
+        31,
+        33,
+        35,
+        39,
+        40,
+        44,
+        46,
+        47,
+        57,
+        60,
+        64,
+        71,
+        76,
+        77,
+        84,
+        87,
+        89
+      ],
+      "trMoves": [
+        1,
+        5,
+        6,
+        12,
+        20,
+        25,
+        26,
+        27,
+        30,
+        31,
+        49,
+        58,
+        68,
+        69,
+        81,
+        82,
+        92
+      ]
+    }
+  },
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    11,
+    13,
+    15,
+    19,
+    21,
+    24,
+    25,
+    31,
+    34,
+    38,
+    39,
+    40,
+    44,
+    46,
+    47,
+    57,
+    60,
+    76,
+    77,
+    84,
+    92
+  ],
+  "trMoves": [
+    1,
+    2,
+    12,
+    15,
+    20,
+    25,
+    26,
+    27,
+    30,
+    31,
+    33,
+    36,
+    43,
+    49,
+    55,
+    58,
+    65,
+    68,
+    69,
+    81,
+    82
+  ]
+}

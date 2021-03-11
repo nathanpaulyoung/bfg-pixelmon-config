@@ -1,0 +1,134 @@
+{
+  "pixelmonName": "Delcatty",
+  "pokemon": "Delcatty",
+  "stats": {
+    "HP": 70,
+    "Attack": 65,
+    "Defence": 65,
+    "Speed": 90,
+    "SpecialAttack": 55,
+    "SpecialDefence": 55
+  },
+  "catchRate": 60,
+  "malePercent": 25,
+  "spawnLevel": 31,
+  "spawnLevelRange": 24,
+  "baseExp": 138,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Skitty"
+  ],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1,
+    "Speed": 1
+  },
+  "weight": 32.6,
+  "evolutions": [],
+  "abilities": [
+    "CuteCharm",
+    "Normalize",
+    "WonderSkin"
+  ],
+  "eggGroups": [
+    "Field",
+    "Fairy"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Fake Out",
+      "Attract",
+      "Sing",
+      "Double Slap"
+    ]
+  },
+  "tmMoves": [
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Toxic",
+    "Double Team",
+    "Dream Eater",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Shadow Ball",
+    "Facade",
+    "Calm Mind",
+    "Payback",
+    "Giga Impact",
+    "Grass Knot",
+    "Charge Beam",
+    "Round",
+    "Echoed Voice",
+    "Work Up",
+    "Wild Charge",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Icy Wind",
+    "Iron Tail",
+    "Laser Focus",
+    "Last Resort",
+    "Shock Wave",
+    "Snore",
+    "Stomping Tantrum",
+    "Uproar",
+    "Water Pulse",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Baton Pass",
+    "Captivate",
+    "Cosmic Power",
+    "Fake Out",
+    "Fake Tears",
+    "Helping Hand",
+    "Last Resort",
+    "Mud Bomb",
+    "Simple Beam",
+    "Sucker Punch",
+    "Tickle",
+    "Uproar",
+    "Wish",
+    "Zen Headbutt"
+  ],
+  "forms": {},
+  "form": 0
+}

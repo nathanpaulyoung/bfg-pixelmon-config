@@ -1,0 +1,282 @@
+{
+   "pixelmonName":"Farfetchd",
+   "pokemon":"Farfetchd",
+   "form":0,
+   "stats":{
+      "HP":52,
+      "Attack":90,
+      "Defence":55,
+      "Speed":60,
+      "SpecialAttack":58,
+      "SpecialDefence":62
+   },
+   "catchRate":45,
+   "malePercent":50,
+   "spawnLevel":24,
+   "spawnLevelRange":26,
+   "baseExp":132,
+   "baseFriendship":70,
+   "types":[
+      "Normal",
+      "Flying"
+   ],
+   "height":0.8,
+   "width":1.0,
+   "length":1.0,
+   "isRideable":false,
+   "canFly":true,
+   "canSurf":false,
+   "preEvolutions":[
+      
+   ],
+   "experienceGroup":"MediumFast",
+   "aggression":{
+      "timid":80,
+      "passive":0,
+      "aggressive":20
+   },
+   "spawnLocations":[
+      "Air"
+   ],
+   "evYields":{
+      "Attack":1
+   },
+   "weight":15.0,
+   "evolutions":[
+      
+   ],
+   "abilities":[
+      "KeenEye",
+      "InnerFocus",
+      "Defiant"
+   ],
+   "eggGroups":[
+      "Flying",
+      "Field"
+   ],
+   "eggCycles":21,
+   "levelUpMoves":{
+      "0":[
+         "Peck",
+         "Sand Attack"
+      ],
+      "5":[
+         "Leer"
+      ],
+      "10":[
+         "Fury Cutter"
+      ],
+      "15":[
+         "Cut"
+      ],
+      "20":[
+         "Aerial Ace"
+      ],
+      "25":[
+         "Air Cutter"
+      ],
+      "30":[
+         "Knock Off"
+      ],
+      "35":[
+         "False Swipe"
+      ],
+      "40":[
+         "Slash"
+      ],
+      "45":[
+         "Swords Dance"
+      ],
+      "50":[
+         "Air Slash"
+      ],
+      "55":[
+         "Leaf Blade"
+      ],
+      "60":[
+         "Agility"
+      ],
+      "65":[
+         "Brave Bird"
+      ]
+   },
+   "tutorMoves":[
+      "Dual Wingbeat"
+   ],
+   "eggMoves":[
+      "Covet",
+      "Curse",
+      "Feather Dance",
+      "Feint",
+      "First Impression",
+      "Final Gambit",
+      "Flail",
+      "Gust",
+      "Night Slash",
+      "Quick Attack",
+      "Roost",
+      "Simple Beam",
+      "Sky Attack"
+   ],
+   "tmMoves8":[
+      6,
+      12,
+      21,
+      23,
+      24,
+      25,
+      30,
+      31,
+      34,
+      39,
+      40,
+      41,
+      42,
+      56,
+      76,
+      78,
+      79,
+      94,
+      95,
+      97
+   ],
+   "trMoves":[
+      0,
+      1,
+      12,
+      13,
+      20,
+      26,
+      27,
+      29,
+      31,
+      35,
+      36,
+      50,
+      53,
+      57,
+      66,
+      85,
+      95
+   ],
+   "forms":{
+      "2":{
+         "types":[
+            "Fighting"
+         ],
+         "evolutions":[
+            {
+               "to":{
+                  "name":"Sirfetchd"
+               },
+               "conditions":[
+                  {
+                     "critical":3.0,
+                     "evoConditionType":"critical"
+                  }
+               ],
+               "evoType":"ticking",
+               "moves": [
+                  "Iron Defense"
+               ]
+            }
+         ],
+         "levelUpMoves":{
+            "0":[
+               "Peck",
+               "Sand Attack"
+            ],
+            "5":[
+               "Leer"
+            ],
+            "10":[
+               "Fury Cutter"
+            ],
+            "15":[
+               "Rock Smash"
+            ],
+            "20":[
+               "Brutal Swing"
+            ],
+            "25":[
+               "Detect"
+            ],
+            "30":[
+               "Knock Off"
+            ],
+            "35":[
+               "Defog"
+            ],
+            "40":[
+               "Brick Break"
+            ],
+            "45":[
+               "Swords Dance"
+            ],
+            "50":[
+               "Slam"
+            ],
+            "55":[
+               "Leaf Blade"
+            ],
+            "60":[
+               "Final Gambit"
+            ],
+            "65":[
+               "Brave Bird"
+            ]
+         },
+         "tutorMoves":[
+            "Dual Wingbeat"
+         ],
+         "eggMoves":[
+            "Counter",
+            "Covet",
+            "Curse",
+            "Double-Edge",
+            "Feint",
+            "Flail",
+            "Night Slash",
+            "Quick Attack",
+            "Quick Guard",
+            "Simple Beam",
+            "Sky Attack"
+         ],
+         "tmMoves8":[
+            12,
+            21,
+            24,
+            25,
+            30,
+            31,
+            34,
+            39,
+            41,
+            42,
+            43,
+            58,
+            76,
+            79,
+            97
+         ],
+         "trMoves":[
+            0,
+            1,
+            13,
+            20,
+            26,
+            27,
+            39,
+            50,
+            53,
+            57,
+            66,
+            85,
+            95
+         ]
+      }
+   },
+   "tmMoves":[
+      
+   ]
+}

@@ -1,0 +1,148 @@
+{
+  "pixelmonName": "Shelmet",
+  "pokemon": "Shelmet",
+  "stats": {
+    "HP": 50,
+    "Attack": 40,
+    "Defence": 85,
+    "Speed": 25,
+    "SpecialAttack": 40,
+    "SpecialDefence": 65
+  },
+  "catchRate": 200,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 9,
+  "baseExp": 61,
+  "baseFriendship": 70,
+  "types": [
+    "Bug"
+  ],
+  "height": 0.4,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 7.7,
+  "evolutions": [
+    {
+      "with": "Karrablast",
+      "to": {
+        "name": "Accelgor"
+      },
+      "conditions": [],
+      "evoType": "trade"
+    }
+  ],
+  "abilities": [
+    "Hydration",
+    "ShellArmour",
+    "Overcoat"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "1": [
+      "Absorb",
+      "Protect"
+    ],
+    "4": [
+      "Acid"
+    ],
+    "8": [
+      "Curse"
+    ],
+    "12": [
+      "Mega Drain"
+    ],
+    "16": [
+      "Struggle Bug"
+    ],
+    "20": [
+      "Yawn"
+    ],
+    "24": [
+      "Acid Armor"
+    ],
+    "28": [
+      "Giga Drain"
+    ],
+    "32": [
+      "Guard Swap"
+    ],
+    "36": [
+      "Body Slam"
+    ],
+    "40": [
+      "Recover"
+    ],
+    "44": [
+      "Bug Buzz"
+    ],
+    "48": [
+      "Final Gambit"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bug Bite",
+    "Gastro Acid",
+    "Signal Beam",
+    "Baton Pass",
+    "Encore",
+    "Mind Reader",
+    "Pursuit",
+    "Yawn"
+  ],
+  "eggMoves": [
+    "Double-Edge",
+    "Guard Split",
+    "Mind Reader",
+    "Feint"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    21,
+    24,
+    25,
+    28,
+    31,
+    33,
+    39,
+    53,
+    61,
+    74,
+    76
+  ],
+  "trMoves": [
+    1,
+    18,
+    20,
+    22,
+    23,
+    26,
+    27,
+    29,
+    30,
+    54,
+    61,
+    65
+  ]
+}

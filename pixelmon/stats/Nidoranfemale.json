@@ -1,0 +1,155 @@
+{
+  "pixelmonName": "Nidoranfemale",
+  "pokemon": "Nidoranfemale",
+  "stats": {
+    "HP": 55,
+    "Attack": 47,
+    "Defence": 52,
+    "Speed": 41,
+    "SpecialAttack": 40,
+    "SpecialDefence": 40
+  },
+  "catchRate": 235,
+  "malePercent": 0,
+  "spawnLevel": 3,
+  "spawnLevelRange": 13,
+  "baseExp": 59,
+  "baseFriendship": 70,
+  "types": [
+    "Poison"
+  ],
+  "height": 0.4,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 7.0,
+  "evolutions": [
+    {
+      "level": 16,
+      "to": {
+        "name": "Nidorina"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "PoisonPoint",
+    "Rivalry",
+    "Hustle"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Scratch"
+    ],
+    "7": [
+      "Tail Whip"
+    ],
+    "9": [
+      "Double Kick"
+    ],
+    "13": [
+      "Poison Sting"
+    ],
+    "19": [
+      "Fury Swipes"
+    ],
+    "21": [
+      "Bite"
+    ],
+    "25": [
+      "Helping Hand"
+    ],
+    "31": [
+      "Toxic Spikes"
+    ],
+    "33": [
+      "Flatter"
+    ],
+    "37": [
+      "Crunch"
+    ],
+    "43": [
+      "Captivate"
+    ],
+    "45": [
+      "Poison Fang"
+    ]
+  },
+  "tmMoves": [
+    "Ice Beam",
+    "Blizzard",
+    "Thunderbolt",
+    "Thunder",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Sludge Bomb",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Aerial Ace",
+    "Poison Jab",
+    "Shadow Claw",
+    "Venoshock",
+    "Round",
+    "Echoed Voice",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Helping Hand",
+    "Iron Tail",
+    "Shock Wave",
+    "Snore",
+    "Super Fang",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Beat Up",
+    "Charm",
+    "Chip Away",
+    "Counter",
+    "Disable",
+    "Endure",
+    "Focus Energy",
+    "Iron Tail",
+    "Poison Tail",
+    "Pursuit",
+    "Skull Bash",
+    "Supersonic",
+    "Take Down",
+    "Venom Drench"
+  ],
+  "forms": {},
+  "form": 0
+}

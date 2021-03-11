@@ -1,0 +1,146 @@
+{
+  "pixelmonName": "Mismagius",
+  "pokemon": "Mismagius",
+  "stats": {
+    "HP": 60,
+    "Attack": 60,
+    "Defence": 60,
+    "Speed": 105,
+    "SpecialAttack": 105,
+    "SpecialDefence": 105
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 31,
+  "spawnLevelRange": 24,
+  "baseExp": 187,
+  "baseFriendship": 35,
+  "types": [
+    "Ghost"
+  ],
+  "height": 0.9,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Misdreavus"
+  ],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1,
+    "SpecialDefence": 1
+  },
+  "hoverHeight": 1.0,
+  "weight": 4.4,
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Mystical Fire",
+      "Power Gem",
+      "Phantom Force",
+      "Lucky Chant",
+      "Magical Leaf",
+      "Growl",
+      "Psywave",
+      "Spite",
+      "Astonish"
+    ]
+  },
+  "tmMoves": [
+    "Hyper Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Dream Eater",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Shadow Ball",
+    "Torment",
+    "Will-O-Wisp",
+    "Facade",
+    "Taunt",
+    "Aerial Ace",
+    "Calm Mind",
+    "Payback",
+    "Embargo",
+    "Dark Pulse",
+    "Energy Ball",
+    "Giga Impact",
+    "Trick Room",
+    "Charge Beam",
+    "Round",
+    "Echoed Voice",
+    "Confide",
+    "Dazzling Gleam"
+  ],
+  "tutorMoves": [
+    "Ally Switch",
+    "Foul Play",
+    "Heal Bell",
+    "Hyper Voice",
+    "Icy Wind",
+    "Laser Focus",
+    "Magic Coat",
+    "Magic Room",
+    "Pain Split",
+    "Shock Wave",
+    "Skill Swap",
+    "Snatch",
+    "Snore",
+    "Spite",
+    "Telekinesis",
+    "Trick",
+    "Uproar",
+    "Wonder Room"
+  ],
+  "eggMoves": [
+    "Curse",
+    "Destiny Bond",
+    "Imprison",
+    "Me First",
+    "Memento",
+    "Nasty Plot",
+    "Ominous Wind",
+    "Screech",
+    "Shadow Sneak",
+    "Skill Swap",
+    "Spite",
+    "Sucker Punch",
+    "Wonder Room"
+  ],
+  "forms": {},
+  "form": 0
+}

@@ -1,0 +1,153 @@
+{
+  "pixelmonName": "Mudsdale",
+  "pokemon": "Mudsdale",
+  "stats": {
+    "HP": 100,
+    "Attack": 125,
+    "Defence": 100,
+    "Speed": 35,
+    "SpecialAttack": 55,
+    "SpecialDefence": 85
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 30,
+  "baseExp": 175,
+  "baseFriendship": 70,
+  "types": [
+    "Ground"
+  ],
+  "height": 2.5,
+  "width": 2.5,
+  "length": 2.5,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Mudbray"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": 0.0
+    }
+  },
+  "weight": 920.0,
+  "evolutions": [],
+  "abilities": [
+    "OwnTempo",
+    "Stamina",
+    "InnerFocus"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "1": [
+      "Mud-Slap",
+      "Rock Smash",
+      "Iron Defense",
+      "Double Kick"
+    ],
+    "12": [
+      "Bulldoze"
+    ],
+    "16": [
+      "Stomp"
+    ],
+    "20": [
+      "Strength"
+    ],
+    "24": [
+      "Counter"
+    ],
+    "28": [
+      "High Horsepower"
+    ],
+    "34": [
+      "Heavy Slam"
+    ],
+    "40": [
+      "Earthquake"
+    ],
+    "46": [
+      "Mega Kick"
+    ],
+    "52": [
+      "Superpower"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Iron Head",
+    "Low Kick",
+    "Earth Power",
+    "Iron Defense",
+    "Superpower",
+    "Snore",
+    "Endeavor",
+    "Stealth Rock",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": -1,
+  "tmMoves8": [
+    1,
+    8,
+    9,
+    21,
+    22,
+    24,
+    25,
+    26,
+    31,
+    32,
+    39,
+    42,
+    48,
+    49,
+    53,
+    57,
+    75,
+    76,
+    81,
+    98
+  ],
+  "trMoves": [
+    1,
+    7,
+    10,
+    20,
+    26,
+    27,
+    39,
+    46,
+    53,
+    64,
+    67,
+    74,
+    76,
+    79,
+    94,
+    99
+  ]
+}

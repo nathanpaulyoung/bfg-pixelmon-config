@@ -1,0 +1,162 @@
+{
+  "pixelmonName": "Grimmsnarl",
+  "pokemon": "Grimmsnarl",
+  "form": 0,
+  "stats": {
+    "HP": 95,
+    "Attack": 120,
+    "Defence": 65,
+    "SpecialAttack": 95,
+    "SpecialDefence": 75,
+    "Speed": 60
+  },
+  "catchRate": 45,
+  "malePercent": 100,
+  "spawnLevel": 50,
+  "spawnLevelRange": 15,
+  "baseExp": 255,
+  "baseFriendship": 50,
+  "types": [
+    "Dark",
+    "Fairy"
+  ],
+  "height": 1.0,
+  "width": 0.8,
+  "length": 0.9,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Morgrem",
+    "Impidimp"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "weight": 61.0,
+  "evolutions": [],
+  "abilities": [
+    "Prankster",
+    "Frisk",
+    "Pickpocket"
+  ],
+  "eggGroups": [
+    "Fairy",
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Spirit Break",
+      "False Surrender",
+      "Bulk Up",
+      "Power-Up Punch",
+      "Fake Out",
+      "Confide",
+      "Bite",
+      "Flatter"
+    ],
+    "12": [
+      "Fake Tears"
+    ],
+    "16": [
+      "Assurance"
+    ],
+    "20": [
+      "Swagger"
+    ],
+    "24": [
+      "Sucker Punch"
+    ],
+    "28": [
+      "Torment"
+    ],
+    "35": [
+      "Dark Pulse"
+    ],
+    "40": [
+      "Nasty Plot"
+    ],
+    "48": [
+      "Play Rough"
+    ],
+    "56": [
+      "Foul Play"
+    ],
+    "64": [
+      "Hammer Arm"
+    ]
+  },
+  "tutorMoves": [
+    "Burning Jealousy",
+    "Lash Out"
+  ],
+  "eggMoves": [],
+  "tmMoves8": [
+    0,
+    1,
+    3,
+    4,
+    5,
+    8,
+    9,
+    14,
+    17,
+    18,
+    21,
+    23,
+    24,
+    25,
+    26,
+    31,
+    39,
+    42,
+    43,
+    47,
+    58,
+    60,
+    63,
+    65,
+    71,
+    75,
+    76,
+    79,
+    87,
+    98
+  ],
+  "trMoves": [
+    1,
+    7,
+    13,
+    14,
+    18,
+    20,
+    26,
+    27,
+    32,
+    35,
+    37,
+    38,
+    39,
+    48,
+    58,
+    64,
+    68,
+    72,
+    81,
+    90,
+    92,
+    93,
+    95,
+    99
+  ]
+}

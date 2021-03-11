@@ -1,0 +1,166 @@
+{
+  "pixelmonName": "Golduck",
+  "pokemon": "Golduck",
+  "stats": {
+    "HP": 80,
+    "Attack": 82,
+    "Defence": 78,
+    "Speed": 85,
+    "SpecialAttack": 95,
+    "SpecialDefence": 80
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 33,
+  "spawnLevelRange": 17,
+  "baseExp": 174,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Psyduck"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.4,
+      "z": -0.5
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.4,
+      "z": -0.5
+    }
+  },
+  "weight": 61.5,
+  "evolutions": [],
+  "abilities": [
+    "Damp",
+    "CloudNine",
+    "SwiftSwim"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Me First",
+      "Aqua Jet",
+      "Water Sport",
+      "Scratch",
+      "Tail Whip",
+      "Water Gun"
+    ],
+    "4": [
+      "Tail Whip"
+    ],
+    "7": [
+      "Water Gun"
+    ],
+    "10": [
+      "Confusion"
+    ],
+    "13": [
+      "Fury Swipes"
+    ],
+    "16": [
+      "Water Pulse"
+    ],
+    "19": [
+      "Disable"
+    ],
+    "22": [
+      "Screech"
+    ],
+    "25": [
+      "Zen Headbutt"
+    ],
+    "28": [
+      "Aqua Tail"
+    ],
+    "31": [
+      "Soak"
+    ],
+    "36": [
+      "Psych Up"
+    ],
+    "41": [
+      "Amnesia"
+    ],
+    "46": [
+      "Hydro Pump"
+    ],
+    "51": [
+      "Wonder Room"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Low Kick",
+    "Role Play",
+    "Signal Beam",
+    "Wonder Room",
+    "Worry Seed",
+    "Zen Headbutt",
+    "Amnesia",
+    "Charm",
+    "Encore",
+    "Foresight",
+    "Hydro Pump",
+    "Hypnosis",
+    "Mud Sport",
+    "Petal Dance",
+    "Refresh",
+    "Water Sport",
+    "Yawn",
+    "Screech",
+    "Encore",
+    "Hydro Pump",
+    "Laser Focus",
+    "Liquidation",
+    "Protect",
+    "Scald",
+    "Telekinesis"
+  ],
+  "eggMoves": [
+    "Clear Smog",
+    "Confuse Ray",
+    "Cross Chop",
+    "Encore",
+    "Foresight",
+    "Future Sight",
+    "Hypnosis",
+    "Mud Bomb",
+    "Psybeam",
+    "Refresh",
+    "Secret Power",
+    "Simple Beam",
+    "Sleep Talk",
+    "Synchronoise",
+    "Yawn"
+  ],
+  "forms": {},
+  "form": 0
+}

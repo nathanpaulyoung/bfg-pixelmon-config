@@ -1,0 +1,188 @@
+{
+  "pixelmonName": "Hoppip",
+  "pokemon": "Hoppip",
+  "stats": {
+    "HP": 35,
+    "Attack": 35,
+    "Defence": 40,
+    "Speed": 50,
+    "SpecialAttack": 35,
+    "SpecialDefence": 55
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 12,
+  "baseExp": 74,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Flying"
+  ],
+  "height": 0.4,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 15,
+    "flySpeedModifier": 0.3,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 400,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "hoverHeight": 1.0,
+  "weight": 0.5,
+  "evolutions": [
+    {
+      "level": 18,
+      "to": {
+        "name": "Skiploom"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Chlorophyll",
+    "LeafGuard",
+    "Infiltrator"
+  ],
+  "eggGroups": [
+    "Fairy",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Splash",
+      "Absorb"
+    ],
+    "4": [
+      "Synthesis"
+    ],
+    "6": [
+      "Tail Whip"
+    ],
+    "8": [
+      "Tackle"
+    ],
+    "10": [
+      "Fairy Wind"
+    ],
+    "12": [
+      "Poison Powder"
+    ],
+    "14": [
+      "Stun Spore"
+    ],
+    "16": [
+      "Sleep Powder"
+    ],
+    "19": [
+      "Bullet Seed"
+    ],
+    "22": [
+      "Leech Seed"
+    ],
+    "25": [
+      "Mega Drain"
+    ],
+    "28": [
+      "Acrobatics"
+    ],
+    "31": [
+      "Rage Powder"
+    ],
+    "34": [
+      "Cotton Spore"
+    ],
+    "37": [
+      "U-Turn"
+    ],
+    "40": [
+      "Worry Seed"
+    ],
+    "43": [
+      "Giga Drain"
+    ],
+    "46": [
+      "Bounce"
+    ],
+    "49": [
+      "Memento"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Solar Beam",
+    "Toxic",
+    "Double Team",
+    "Reflect",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Psych Up",
+    "Facade",
+    "Aerial Ace",
+    "U-Turn",
+    "Energy Ball",
+    "Grass Knot",
+    "Round",
+    "Acrobatics",
+    "Confide",
+    "Dazzling Gleam",
+    "Infestation"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Giga Drain",
+    "Helping Hand",
+    "Seed Bomb",
+    "Snore",
+    "Synthesis",
+    "Worry Seed"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Aromatherapy",
+    "Confusion",
+    "Cotton Guard",
+    "Double-Edge",
+    "Encore",
+    "Endure",
+    "Grassy Terrain",
+    "Helping Hand",
+    "Seed Bomb",
+    "Strength Sap",
+    "Worry Seed"
+  ],
+  "forms": {},
+  "form": 0
+}

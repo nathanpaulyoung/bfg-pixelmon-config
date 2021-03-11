@@ -1,0 +1,172 @@
+{
+  "pixelmonName": "Froslass",
+  "pokemon": "Froslass",
+  "stats": {
+    "HP": 70,
+    "Attack": 80,
+    "Defence": 70,
+    "Speed": 110,
+    "SpecialAttack": 80,
+    "SpecialDefence": 70
+  },
+  "catchRate": 75,
+  "malePercent": 0,
+  "spawnLevel": 25,
+  "spawnLevelRange": 15,
+  "baseExp": 187,
+  "baseFriendship": 70,
+  "types": [
+    "Ice",
+    "Ghost"
+  ],
+  "height": 2.2,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Snorunt"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 0,
+    "passive": 30,
+    "aggressive": 70
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "hoverHeight": 1.0,
+  "weight": 26.6,
+  "evolutions": [],
+  "abilities": [
+    "SnowCloak",
+    null,
+    "CursedBody"
+  ],
+  "eggGroups": [
+    "Fairy",
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Hex"
+    ],
+    "1": [
+      "Hex",
+      "Destiny Bond",
+      "Protect",
+      "Bite",
+      "Ice Fang",
+      "Headbutt",
+      "Crunch",
+      "Powder Snow",
+      "Astonish",
+      "Leer",
+      "Double Team"
+    ],
+    "15": [
+      "Ice Shard"
+    ],
+    "20": [
+      "Draining Kiss"
+    ],
+    "25": [
+      "Icy Wind"
+    ],
+    "30": [
+      "Frost Breath"
+    ],
+    "35": [
+      "Confuse Ray"
+    ],
+    "40": [
+      "Hail"
+    ],
+    "47": [
+      "Will-O-Wisp"
+    ],
+    "54": [
+      "Aurora Veil"
+    ],
+    "61": [
+      "Shadow Ball"
+    ],
+    "68": [
+      "Blizzard"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Block",
+    "Ominous Wind",
+    "Pain Split",
+    "Signal Beam",
+    "Spite",
+    "Sucker Punch",
+    "Trick",
+    "Bite",
+    "Sing",
+    "Weather Ball",
+    "Leer",
+    "Bite",
+    "Sing",
+    "Laser Focus",
+    "Ally Switch"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    4,
+    8,
+    9,
+    14,
+    17,
+    18,
+    19,
+    21,
+    24,
+    25,
+    27,
+    29,
+    31,
+    33,
+    35,
+    38,
+    39,
+    44,
+    46,
+    47,
+    51,
+    57,
+    59,
+    64,
+    67,
+    76,
+    77,
+    87
+  ],
+  "trMoves": [
+    1,
+    5,
+    6,
+    8,
+    9,
+    11,
+    20,
+    23,
+    26,
+    27,
+    32,
+    33,
+    37,
+    38,
+    83
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "pixelmonName": "Croagunk",
+  "pokemon": "Croagunk",
+  "stats": {
+    "HP": 48,
+    "Attack": 61,
+    "Defence": 40,
+    "Speed": 50,
+    "SpecialAttack": 61,
+    "SpecialDefence": 40
+  },
+  "catchRate": 140,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 11,
+  "baseExp": 83,
+  "baseFriendship": 100,
+  "types": [
+    "Poison",
+    "Fighting"
+  ],
+  "height": 0.7,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 23.0,
+  "evolutions": [
+    {
+      "level": 37,
+      "to": {
+        "name": "Toxicroak"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Anticipation",
+    "DrySkin",
+    "PoisonTouch"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 11,
+  "levelUpMoves": {
+    "1": [
+      "Poison Sting",
+      "Mud-Slap"
+    ],
+    "4": [
+      "Astonish"
+    ],
+    "8": [
+      "Taunt"
+    ],
+    "12": [
+      "Flatter"
+    ],
+    "16": [
+      "Revenge"
+    ],
+    "20": [
+      "Venoshock"
+    ],
+    "24": [
+      "Sucker Punch"
+    ],
+    "28": [
+      "Swagger"
+    ],
+    "32": [
+      "Poison Jab"
+    ],
+    "36": [
+      "Toxic"
+    ],
+    "40": [
+      "Nasty Plot"
+    ],
+    "44": [
+      "Sludge Bomb"
+    ],
+    "48": [
+      "Belch"
+    ]
+  },
+  "tmMoves": [
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Sludge Bomb",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Shadow Ball",
+    "Torment",
+    "Facade",
+    "Taunt",
+    "Brick Break",
+    "Rock Tomb",
+    "Bulk Up",
+    "Payback",
+    "Embargo",
+    "Fling",
+    "Poison Jab",
+    "Dark Pulse",
+    "X-Scissor",
+    "Focus Blast",
+    "Venoshock",
+    "Sludge Wave",
+    "Low Sweep",
+    "Round",
+    "Bulldoze",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Drain Punch",
+    "Dual Chop",
+    "Focus Punch",
+    "Foul Play",
+    "Gunk Shot",
+    "Helping Hand",
+    "Ice Punch",
+    "Icy Wind",
+    "Knock Off",
+    "Low Kick",
+    "Role Play",
+    "Snatch",
+    "Snore",
+    "Spite",
+    "Super Fang",
+    "Thunder Punch"
+  ],
+  "eggMoves": [
+    "Acupressure",
+    "Bullet Punch",
+    "Counter",
+    "Cross Chop",
+    "Drain Punch",
+    "Dynamic Punch",
+    "Fake Out",
+    "Feint",
+    "Headbutt",
+    "Me First",
+    "Meditate",
+    "Quick Guard",
+    "Smelling Salts",
+    "Vacuum Wave",
+    "Wake-Up Slap"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    0,
+    1,
+    4,
+    5,
+    15,
+    16,
+    21,
+    22,
+    23,
+    24,
+    25,
+    27,
+    31,
+    33,
+    34,
+    39,
+    41,
+    42,
+    43,
+    48,
+    52,
+    57,
+    58,
+    59,
+    63,
+    74,
+    75,
+    76,
+    79,
+    81
+  ],
+  "trMoves": [
+    7,
+    10,
+    20,
+    22,
+    26,
+    27,
+    29,
+    30,
+    33,
+    37,
+    48,
+    57,
+    58,
+    60,
+    64,
+    68,
+    73,
+    78,
+    81,
+    85,
+    91
+  ]
+}

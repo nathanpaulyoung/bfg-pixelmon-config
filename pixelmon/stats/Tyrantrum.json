@@ -1,0 +1,182 @@
+{
+  "pixelmonName": "Tyrantrum",
+  "pokemon": "Tyrantrum",
+  "stats": {
+    "HP": 82,
+    "Attack": 121,
+    "Defence": 119,
+    "Speed": 71,
+    "SpecialAttack": 69,
+    "SpecialDefence": 59
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 40,
+  "spawnLevelRange": 15,
+  "baseExp": 182,
+  "baseFriendship": 0,
+  "types": [
+    "Rock",
+    "Dragon"
+  ],
+  "height": 2.5,
+  "width": 2.5,
+  "length": 2.5,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Tyrunt"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.2,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.05,
+      "z": 0.0
+    }
+  },
+  "weight": 270.0,
+  "evolutions": [],
+  "abilities": [
+    "StrongJaw",
+    null,
+    "RockHead"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "0": [
+      "Head Smash",
+      "Tail Whip",
+      "Tackle",
+      "Roar",
+      "Stomp",
+      "Rock Slide"
+    ],
+    "6": [
+      "Roar"
+    ],
+    "10": [
+      "Stomp"
+    ],
+    "12": [
+      "Bide"
+    ],
+    "15": [
+      "Stealth Rock"
+    ],
+    "17": [
+      "Bite"
+    ],
+    "20": [
+      "Charm"
+    ],
+    "26": [
+      "Ancient Power"
+    ],
+    "30": [
+      "Dragon Tail"
+    ],
+    "34": [
+      "Crunch"
+    ],
+    "37": [
+      "Dragon Claw"
+    ],
+    "42": [
+      "Thrash"
+    ],
+    "47": [
+      "Earthquake"
+    ],
+    "53": [
+      "Horn Drill"
+    ],
+    "58": [
+      "Head Smash"
+    ],
+    "68": [
+      "Giga Impact"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Hyper Beam",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Dragon Claw",
+    "Rock Polish",
+    "Dark Pulse",
+    "Giga Impact",
+    "Stone Edge",
+    "Round",
+    "Bulldoze",
+    "Dragon Tail",
+    "Confide",
+    "Brutal Swing"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Draco Meteor",
+    "Dragon Pulse",
+    "Earth Power",
+    "Hyper Voice",
+    "Iron Defense",
+    "Iron Head",
+    "Iron Tail",
+    "Outrage",
+    "Snore",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Superpower",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Curse",
+    "Dragon Dance",
+    "Fire Fang",
+    "Ice Fang",
+    "Poison Fang",
+    "Rock Polish",
+    "Thunder Fang"
+  ],
+  "forms": {},
+  "form": 0
+}

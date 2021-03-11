@@ -1,0 +1,248 @@
+{
+  "pixelmonName": "Exeggutor",
+  "pokemon": "Exeggutor",
+  "stats": {
+    "HP": 95,
+    "Attack": 95,
+    "Defence": 85,
+    "Speed": 55,
+    "SpecialAttack": 125,
+    "SpecialDefence": 75
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 38,
+  "spawnLevelRange": 12,
+  "baseExp": 212,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Psychic"
+  ],
+  "height": 3.0,
+  "width": 1.5,
+  "length": 1.5,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Exeggcute"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.5,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.5,
+      "z": 0.0
+    }
+  },
+  "weight": 120.0,
+  "evolutions": [],
+  "abilities": [
+    "Chlorophyll",
+    null,
+    "Harvest"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Seed Bomb",
+      "Barrage",
+      "Hypnosis",
+      "Confusion",
+      "Stomp"
+    ],
+    "17": [
+      "Psyshock"
+    ],
+    "27": [
+      "Egg Bomb"
+    ],
+    "37": [
+      "Wood Hammer"
+    ],
+    "47": [
+      "Leaf Storm"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Ancient Power",
+    "Block",
+    "Gravity",
+    "Low Kick",
+    "Seed Bomb",
+    "Synthesis",
+    "Worry Seed",
+    "Zen Headbutt",
+    "Extrasensory",
+    "Hypnosis",
+    "Leech Seed",
+    "Moonlight",
+    "Refresh",
+    "Wish",
+    "Stomp",
+    "Telekinesis",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [
+    "Block",
+    "Curse",
+    "Giga Drain",
+    "Ingrain",
+    "Leaf Storm",
+    "Lucky Chant",
+    "Moonlight",
+    "Natural Gift",
+    "Nature Power",
+    "Power Swap",
+    "Skill Swap",
+    "Synthesis",
+    "Ancient Power",
+    "Grassy Terrain"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 95,
+        "Attack": 105,
+        "Defence": 85,
+        "Speed": 45,
+        "SpecialAttack": 125,
+        "SpecialDefence": 75
+      },
+      "types": [
+        "Grass",
+        "Dragon"
+      ],
+      "preEvolutions": [
+        "Exeggcute"
+      ],
+      "abilities": [
+        "Frisk",
+        null,
+        "Harvest"
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Seed Bomb",
+          "Barrage",
+          "Hypnosis",
+          "Dragon Hammer",
+          "Confusion"
+        ],
+        "17": [
+          "Psyshock"
+        ],
+        "27": [
+          "Egg Bomb"
+        ],
+        "37": [
+          "Wood Hammer"
+        ],
+        "47": [
+          "Leaf Storm"
+        ]
+      },
+      "tmMoves": [
+        "Psyshock",
+        "Toxic",
+        "Hidden Power",
+        "Sunny Day",
+        "Hyper Beam",
+        "Light Screen",
+        "Protect",
+        "Frustration",
+        "Solar Beam",
+        "Earthquake",
+        "Return",
+        "Psychic",
+        "Brick Break",
+        "Double Team",
+        "Reflect",
+        "Flamethrower",
+        "Sludge Bomb",
+        "Facade",
+        "Rest",
+        "Attract",
+        "Thief",
+        "Round",
+        "Energy Ball",
+        "Brutal Swing",
+        "Explosion",
+        "Giga Impact",
+        "Swords Dance",
+        "Psych Up",
+        "Bulldoze",
+        "Dragon Tail",
+        "Infestation",
+        "Dream Eater",
+        "Grass Knot",
+        "Swagger",
+        "Sleep Talk",
+        "Substitute",
+        "Trick Room",
+        "Nature Power",
+        "Confide"
+      ],
+      "tutorMoves": [
+        "Draco Meteor",
+        "Seed Bomb",
+        "Low Kick",
+        "Block",
+        "Gravity",
+        "Zen Headbutt",
+        "Snore",
+        "Synthesis",
+        "Giga Drain",
+        "Worry Seed",
+        "Skill Swap",
+        "Telekinesis",
+        "Stomping Tantrum",
+        "Iron Head",
+        "Superpower",
+        "Dragon Pulse",
+        "Iron Tail",
+        "Knock Off",
+        "Outrage"
+      ],
+      "eggMoves": [
+        "Synthesis",
+        "Moonlight",
+        "Ancient Power",
+        "Ingrain",
+        "Curse",
+        "Nature Power",
+        "Lucky Chant",
+        "Leaf Storm",
+        "Power Swap",
+        "Giga Drain",
+        "Skill Swap",
+        "Natural Gift",
+        "Block",
+        "Grassy Terrain"
+      ],
+      "form": 1
+    }
+  },
+  "form": 0
+}

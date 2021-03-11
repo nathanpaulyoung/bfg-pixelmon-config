@@ -1,0 +1,172 @@
+{
+  "pixelmonName": "Krabby",
+  "pokemon": "Krabby",
+  "stats": {
+    "HP": 30,
+    "Attack": 105,
+    "Defence": 90,
+    "Speed": 50,
+    "SpecialAttack": 25,
+    "SpecialDefence": 25
+  },
+  "catchRate": 225,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 13,
+  "baseExp": 115,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 6.5,
+  "evolutions": [
+    {
+      "level": 28,
+      "to": {
+        "name": "Kingler"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "HyperCutter",
+    "ShellArmour",
+    "SheerForce"
+  ],
+  "eggGroups": [
+    "Water3"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Water Gun",
+      "Leer"
+    ],
+    "4": [
+      "Harden"
+    ],
+    "8": [
+      "Metal Claw"
+    ],
+    "12": [
+      "Mud Shot"
+    ],
+    "16": [
+      "Protect"
+    ],
+    "20": [
+      "Bubble Beam"
+    ],
+    "24": [
+      "Stomp"
+    ],
+    "29": [
+      "Flail"
+    ],
+    "32": [
+      "Razor Shell"
+    ],
+    "36": [
+      "Slam"
+    ],
+    "40": [
+      "Swords Dance"
+    ],
+    "44": [
+      "Crabhammer"
+    ],
+    "48": [
+      "Guillotine"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Ancient Power",
+    "Iron Defense",
+    "Knock Off",
+    "Superpower",
+    "Agility",
+    "Amnesia",
+    "Bubble",
+    "Flail",
+    "Haze",
+    "Mud Sport",
+    "Tickle",
+    "Stomp",
+    "Harden",
+    "Leer",
+    "Ally Switch",
+    "Liquidation"
+  ],
+  "eggMoves": [
+    "Knock Off",
+    "Ancient Power",
+    "Hammer Arm",
+    "Slash",
+    "Night Slash"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    15,
+    21,
+    22,
+    23,
+    24,
+    25,
+    27,
+    31,
+    33,
+    35,
+    36,
+    39,
+    43,
+    45,
+    48,
+    53,
+    55,
+    59,
+    76,
+    83,
+    94
+  ],
+  "trMoves": [
+    0,
+    1,
+    4,
+    5,
+    6,
+    12,
+    17,
+    20,
+    26,
+    27,
+    39,
+    46,
+    60,
+    83,
+    84,
+    98
+  ]
+}

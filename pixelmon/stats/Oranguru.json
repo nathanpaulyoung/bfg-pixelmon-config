@@ -1,0 +1,184 @@
+{
+  "pixelmonName": "Oranguru",
+  "pokemon": "Oranguru",
+  "stats": {
+    "HP": 90,
+    "Attack": 60,
+    "Defence": 80,
+    "Speed": 60,
+    "SpecialAttack": 90,
+    "SpecialDefence": 110
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 35,
+  "baseExp": 172,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Psychic"
+  ],
+  "height": 1.5,
+  "width": 1.5,
+  "length": 1.5,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.4,
+      "z": -0.05
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.4,
+      "z": -0.05
+    }
+  },
+  "weight": 76.0,
+  "evolutions": [],
+  "abilities": [
+    "InnerFocus",
+    "Telepathy",
+    "Symbiosis"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "1": [
+      "Confusion",
+      "Taunt"
+    ],
+    "5": [
+      "After You"
+    ],
+    "10": [
+      "Calm Mind"
+    ],
+    "15": [
+      "Stored Power"
+    ],
+    "20": [
+      "Psych Up"
+    ],
+    "25": [
+      "Quash"
+    ],
+    "30": [
+      "Nasty Plot"
+    ],
+    "35": [
+      "Zen Headbutt"
+    ],
+    "40": [
+      "Trick Room"
+    ],
+    "45": [
+      "Psychic"
+    ],
+    "50": [
+      "Instruct"
+    ],
+    "55": [
+      "Foul Play"
+    ],
+    "60": [
+      "Future Sight"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Magic Coat",
+    "Block",
+    "Foul Play",
+    "Gravity",
+    "Zen Headbutt",
+    "Snore",
+    "Knock Off",
+    "Pain Split",
+    "Spite",
+    "After You",
+    "Trick",
+    "Magic Room",
+    "Wonder Room",
+    "Snatch",
+    "Telekinesis",
+    "Ally Switch"
+  ],
+  "eggMoves": [
+    "Extrasensory",
+    "Yawn",
+    "Last Resort",
+    "Dream Eater"
+  ],
+  "forms": {},
+  "form": -1,
+  "tmMoves8": [
+    0,
+    1,
+    8,
+    9,
+    17,
+    18,
+    19,
+    21,
+    22,
+    24,
+    25,
+    31,
+    33,
+    34,
+    39,
+    43,
+    44,
+    57,
+    59,
+    70,
+    71,
+    72,
+    76,
+    81,
+    91,
+    97
+  ],
+  "trMoves": [
+    8,
+    9,
+    10,
+    11,
+    20,
+    25,
+    26,
+    27,
+    30,
+    33,
+    34,
+    37,
+    38,
+    49,
+    64,
+    65,
+    68,
+    69,
+    81,
+    82,
+    83,
+    85
+  ]
+}

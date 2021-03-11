@@ -1,0 +1,172 @@
+{
+  "pixelmonName": "Salandit",
+  "pokemon": "Salandit",
+  "stats": {
+    "HP": 48,
+    "Attack": 44,
+    "Defence": 40,
+    "Speed": 77,
+    "SpecialAttack": 71,
+    "SpecialDefence": 40
+  },
+  "catchRate": 120,
+  "malePercent": 87,
+  "spawnLevel": 10,
+  "spawnLevelRange": 35,
+  "baseExp": 64,
+  "baseFriendship": 70,
+  "types": [
+    "Poison",
+    "Fire"
+  ],
+  "height": 0.6,
+  "width": 0.6,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 4.8,
+  "evolutions": [
+    {
+      "level": 33,
+      "to": {
+        "name": "Salazzle"
+      },
+      "conditions": [
+        {
+          "genders": [
+            "Female"
+          ],
+          "evoConditionType": "gender"
+        }
+      ],
+      "evoType": "leveling",
+      "moves": [
+        "Captivate"
+      ]
+    }
+  ],
+  "abilities": [
+    "Corrosion",
+    null,
+    "Oblivious"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "1": [
+      "Scratch",
+      "Poison Gas"
+    ],
+    "5": [
+      "Smog"
+    ],
+    "10": [
+      "Ember"
+    ],
+    "15": [
+      "Poison Fang"
+    ],
+    "20": [
+      "Sweet Scent"
+    ],
+    "25": [
+      "Nasty Plot"
+    ],
+    "30": [
+      "Incinerate"
+    ],
+    "35": [
+      "Venoshock"
+    ],
+    "40": [
+      "Dragon Pulse"
+    ],
+    "45": [
+      "Venom Drench"
+    ],
+    "50": [
+      "Flamethrower"
+    ],
+    "55": [
+      "Toxic"
+    ],
+    "60": [
+      "Endeavor"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Gunk Shot",
+    "Foul Play",
+    "Dragon Pulse",
+    "Iron Tail",
+    "Snore",
+    "Knock Off",
+    "Heat Wave",
+    "Helping Hand",
+    "Snatch"
+  ],
+  "eggMoves": [
+    "Belch",
+    "Sand Attack",
+    "Fake Out",
+    "Mud-Slap"
+  ],
+  "forms": {},
+  "form": -1,
+  "tmMoves8": [
+    14,
+    21,
+    23,
+    24,
+    25,
+    31,
+    37,
+    38,
+    39,
+    40,
+    41,
+    57,
+    59,
+    65,
+    74,
+    76
+  ],
+  "trMoves": [
+    2,
+    15,
+    18,
+    20,
+    22,
+    26,
+    27,
+    31,
+    36,
+    37,
+    43,
+    47,
+    57,
+    62,
+    68,
+    73,
+    78,
+    81,
+    91
+  ]
+}

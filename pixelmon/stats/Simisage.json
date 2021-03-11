@@ -1,0 +1,135 @@
+{
+  "pixelmonName": "Simisage",
+  "pokemon": "Simisage",
+  "stats": {
+    "HP": 75,
+    "Attack": 98,
+    "Defence": 63,
+    "Speed": 101,
+    "SpecialAttack": 98,
+    "SpecialDefence": 63
+  },
+  "catchRate": 75,
+  "malePercent": 87,
+  "spawnLevel": 27,
+  "spawnLevelRange": 9,
+  "baseExp": 174,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Pansage"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 30.5,
+  "evolutions": [],
+  "abilities": [
+    "Gluttony",
+    null,
+    "Overgrow"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Lick",
+      "Fury Swipes",
+      "Seed Bomb"
+    ]
+  },
+  "tmMoves": [
+    "Hyper Beam",
+    "Solar Beam",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Torment",
+    "Facade",
+    "Nature Power",
+    "Taunt",
+    "Brick Break",
+    "Rock Tomb",
+    "Payback",
+    "Fling",
+    "Focus Blast",
+    "Energy Ball",
+    "Giga Impact",
+    "Shadow Claw",
+    "Grass Knot",
+    "Low Sweep",
+    "Round",
+    "Acrobatics",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Endeavor",
+    "Focus Punch",
+    "Gastro Acid",
+    "Giga Drain",
+    "Grass Pledge",
+    "Gunk Shot",
+    "Helping Hand",
+    "Iron Tail",
+    "Knock Off",
+    "Low Kick",
+    "Recycle",
+    "Role Play",
+    "Seed Bomb",
+    "Snore",
+    "Superpower",
+    "Synthesis",
+    "Throat Chop",
+    "Uproar",
+    "Worry Seed"
+  ],
+  "eggMoves": [
+    "Astonish",
+    "Bullet Seed",
+    "Covet",
+    "Disarming Voice",
+    "Grass Whistle",
+    "Leaf Storm",
+    "Low Kick",
+    "Magical Leaf",
+    "Nasty Plot",
+    "Role Play",
+    "Spiky Shield",
+    "Tickle"
+  ],
+  "forms": {},
+  "form": 0
+}

@@ -1,0 +1,183 @@
+{
+  "pixelmonName": "Zubat",
+  "pokemon": "Zubat",
+  "stats": {
+    "HP": 40,
+    "Attack": 45,
+    "Defence": 35,
+    "Speed": 55,
+    "SpecialAttack": 30,
+    "SpecialDefence": 40
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 17,
+  "baseExp": 54,
+  "baseFriendship": 70,
+  "types": [
+    "Poison",
+    "Flying"
+  ],
+  "height": 0.8,
+  "width": 0.2,
+  "length": 0.2,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 10,
+    "flySpeedModifier": 0.6,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 200,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "hoverHeight": 1.0,
+  "weight": 7.5,
+  "evolutions": [
+    {
+      "level": 22,
+      "to": {
+        "name": "Golbat"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "InnerFocus",
+    null,
+    "Infiltrator"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Absorb"
+    ],
+    "5": [
+      "Supersonic"
+    ],
+    "7": [
+      "Astonish"
+    ],
+    "11": [
+      "Bite"
+    ],
+    "13": [
+      "Wing Attack"
+    ],
+    "17": [
+      "Confuse Ray"
+    ],
+    "19": [
+      "Air Cutter"
+    ],
+    "23": [
+      "Swift"
+    ],
+    "25": [
+      "Poison Fang"
+    ],
+    "29": [
+      "Mean Look"
+    ],
+    "31": [
+      "Leech Life"
+    ],
+    "35": [
+      "Haze"
+    ],
+    "37": [
+      "Venoshock"
+    ],
+    "41": [
+      "Air Slash"
+    ],
+    "43": [
+      "Quick Guard"
+    ]
+  },
+  "tmMoves": [
+    "Fly",
+    "Toxic",
+    "Double Team",
+    "Leech Life",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Sludge Bomb",
+    "Swagger",
+    "Steel Wing",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Shadow Ball",
+    "Torment",
+    "Facade",
+    "Taunt",
+    "Aerial Ace",
+    "Roost",
+    "U-Turn",
+    "Payback",
+    "Venoshock",
+    "Round",
+    "Acrobatics",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Defog",
+    "Giga Drain",
+    "Heat Wave",
+    "Snatch",
+    "Snore",
+    "Super Fang",
+    "Tailwind",
+    "Uproar",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Brave Bird",
+    "Curse",
+    "Defog",
+    "Feint Attack",
+    "Giga Drain",
+    "Gust",
+    "Hypnosis",
+    "Nasty Plot",
+    "Pursuit",
+    "Quick Attack",
+    "Steel Wing",
+    "Venom Drench",
+    "Whirlwind",
+    "Zen Headbutt"
+  ],
+  "forms": {},
+  "form": 0
+}

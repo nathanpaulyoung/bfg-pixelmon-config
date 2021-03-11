@@ -1,0 +1,177 @@
+{
+  "pixelmonName": "Sharpedo",
+  "pokemon": "Sharpedo",
+  "stats": {
+    "HP": 70,
+    "Attack": 120,
+    "Defence": 40,
+    "Speed": 95,
+    "SpecialAttack": 95,
+    "SpecialDefence": 40
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 15,
+  "baseExp": 175,
+  "baseFriendship": 35,
+  "types": [
+    "Water",
+    "Dark"
+  ],
+  "height": 1.8,
+  "width": 1.5,
+  "length": 1.5,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Carvanha"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 1,
+    "depthRangeEnd": 10,
+    "swimSpeed": 1.0,
+    "decayRate": 0.99,
+    "refreshRate": 100
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 88.8,
+  "evolutions": [],
+  "abilities": [
+    "RoughSkin",
+    null,
+    "SpeedBoost"
+  ],
+  "eggGroups": [
+    "Water2"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Night Slash",
+      "Feint",
+      "Leer",
+      "Bite",
+      "Rage",
+      "Focus Energy",
+      "Slash"
+    ],
+    "4": [
+      "Rage"
+    ],
+    "8": [
+      "Focus Energy"
+    ],
+    "11": [
+      "Aqua Jet"
+    ],
+    "15": [
+      "Assurance"
+    ],
+    "18": [
+      "Screech"
+    ],
+    "22": [
+      "Swagger"
+    ],
+    "25": [
+      "Ice Fang"
+    ],
+    "29": [
+      "Scary Face"
+    ],
+    "34": [
+      "Poison Fang"
+    ],
+    "40": [
+      "Crunch"
+    ],
+    "45": [
+      "Agility"
+    ],
+    "51": [
+      "Skull Bash"
+    ],
+    "56": [
+      "Taunt"
+    ],
+    "62": [
+      "Night Slash"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Ancient Power",
+    "Bounce",
+    "Spite",
+    "Super Fang",
+    "Uproar",
+    "Zen Headbutt",
+    "Agility",
+    "Bite",
+    "Hydro Pump",
+    "Refresh",
+    "Scary Face",
+    "Thrash",
+    "Focus Energy",
+    "Slash",
+    "Leer",
+    "Screech",
+    "Liquidation"
+  ],
+  "eggMoves": [
+    "Brine",
+    "Destiny Bond",
+    "Double-Edge",
+    "Hydro Pump",
+    "Swift",
+    "Thrash",
+    "Ancient Power",
+    "Psychic Fangs"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 70,
+        "Attack": 140,
+        "Defence": 70,
+        "Speed": 105,
+        "SpecialAttack": 110,
+        "SpecialDefence": 65
+      },
+      "height": 2.5,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -0.1,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -0.1,
+          "z": -0.6
+        }
+      },
+      "weight": 130.3,
+      "abilities": [
+        "StrongJaw",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": 0
+}

@@ -1,0 +1,169 @@
+{
+  "pixelmonName": "Donphan",
+  "pokemon": "Donphan",
+  "stats": {
+    "HP": 90,
+    "Attack": 120,
+    "Defence": 120,
+    "Speed": 50,
+    "SpecialAttack": 60,
+    "SpecialDefence": 60
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 25,
+  "baseExp": 189,
+  "baseFriendship": 70,
+  "types": [
+    "Ground"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Phanpy"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "Defence": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.32,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.32,
+      "z": -0.3
+    }
+  },
+  "weight": 120.0,
+  "evolutions": [],
+  "abilities": [
+    "Sturdy",
+    null,
+    "SandVeil"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Fire Fang",
+      "Thunder Fang",
+      "Horn Attack",
+      "Bulldoze",
+      "Growl",
+      "Defense Curl",
+      "Fury Attack"
+    ],
+    "6": [
+      "Rapid Spin"
+    ],
+    "10": [
+      "Rollout"
+    ],
+    "15": [
+      "Assurance"
+    ],
+    "19": [
+      "Knock Off"
+    ],
+    "24": [
+      "Slam"
+    ],
+    "30": [
+      "Magnitude"
+    ],
+    "37": [
+      "Scary Face"
+    ],
+    "43": [
+      "Earthquake"
+    ],
+    "50": [
+      "Giga Impact"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Hyper Beam",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Facade",
+    "Rock Tomb",
+    "Gyro Ball",
+    "Rock Polish",
+    "Poison Jab",
+    "Giga Impact",
+    "Stone Edge",
+    "Round",
+    "Echoed Voice",
+    "Bulldoze",
+    "Confide",
+    "Brutal Swing"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Bounce",
+    "Earth Power",
+    "Endeavor",
+    "Gunk Shot",
+    "Hyper Voice",
+    "Iron Defense",
+    "Iron Tail",
+    "Knock Off",
+    "Last Resort",
+    "Seed Bomb",
+    "Snore",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Superpower"
+  ],
+  "eggMoves": [
+    "Ancient Power",
+    "Body Slam",
+    "Counter",
+    "Endeavor",
+    "Fissure",
+    "Focus Energy",
+    "Head Smash",
+    "Heavy Slam",
+    "High Horsepower",
+    "Ice Shard",
+    "Mud-Slap",
+    "Play Rough",
+    "Snore"
+  ],
+  "forms": {},
+  "form": 0
+}

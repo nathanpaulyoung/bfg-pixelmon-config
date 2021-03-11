@@ -1,0 +1,168 @@
+{
+  "pixelmonName": "Drakloak",
+  "pokemon": "Drakloak",
+  "form": 0,
+  "stats": {
+    "HP": 68,
+    "Attack": 80,
+    "Defence": 50,
+    "SpecialAttack": 60,
+    "SpecialDefence": 50,
+    "Speed": 102
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 50,
+  "spawnLevelRange": 6,
+  "baseExp": 144,
+  "baseFriendship": 50,
+  "types": [
+    "Dragon",
+    "Ghost"
+  ],
+  "height": 1.0,
+  "width": 0.8,
+  "length": 0.9,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Dreepy"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 11.0,
+  "evolutions": [
+    {
+      "level": 60,
+      "to": {
+        "name": "Dragapult"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Dragon Darts"
+      ]
+    }
+  ],
+  "abilities": [
+    "ClearBody",
+    "Infiltrator",
+    "CursedBody"
+  ],
+  "eggGroups": [
+    "Amorphous",
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Dragon Pulse",
+      "Astonish",
+      "Infestation",
+      "Quick Attack",
+      "Bite"
+    ],
+    "6": [
+      "Lock-On"
+    ],
+    "12": [
+      "Assurance"
+    ],
+    "18": [
+      "Hex"
+    ],
+    "24": [
+      "Agility"
+    ],
+    "30": [
+      "Double Hit"
+    ],
+    "36": [
+      "U-turn"
+    ],
+    "42": [
+      "Dragon Dance"
+    ],
+    "48": [
+      "Phantom Force"
+    ],
+    "54": [
+      "Take Down"
+    ],
+    "61": [
+      "Dragon Rush"
+    ],
+    "66": [
+      "Double-Edge"
+    ],
+    "72": [
+      "Last Resort"
+    ]
+  },
+  "tutorMoves": [
+    "Draco Meteor"
+  ],
+  "eggMoves": [
+    "Confuse Ray",
+    "Curse",
+    "Disable",
+    "Double Team",
+    "Dragon Tail",
+    "Grudge",
+    "Sucker Punch"
+  ],
+  "tmMoves8": [
+    14,
+    21,
+    23,
+    24,
+    25,
+    30,
+    31,
+    37,
+    38,
+    39,
+    40,
+    41,
+    45,
+    55,
+    56,
+    58,
+    76,
+    77,
+    78,
+    86,
+    99
+  ],
+  "trMoves": [
+    2,
+    3,
+    4,
+    8,
+    9,
+    12,
+    15,
+    20,
+    24,
+    26,
+    27,
+    29,
+    33,
+    51,
+    62,
+    83,
+    84,
+    97
+  ]
+}

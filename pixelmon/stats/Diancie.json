@@ -1,0 +1,179 @@
+{
+  "pixelmonName": "Diancie",
+  "pokemon": "Diancie",
+  "stats": {
+    "HP": 50,
+    "Attack": 100,
+    "Defence": 150,
+    "Speed": 50,
+    "SpecialAttack": 100,
+    "SpecialDefence": 150
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 270,
+  "baseFriendship": 0,
+  "types": [
+    "Rock",
+    "Fairy"
+  ],
+  "height": 0.7,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1,
+    "SpecialDefence": 2
+  },
+  "weight": 8.8,
+  "evolutions": [],
+  "abilities": [
+    "ClearBody",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Harden",
+      "Rock Throw"
+    ],
+    "5": [
+      "Sharpen"
+    ],
+    "8": [
+      "Smack Down"
+    ],
+    "12": [
+      "Reflect"
+    ],
+    "18": [
+      "Stealth Rock"
+    ],
+    "21": [
+      "Guard Split"
+    ],
+    "27": [
+      "Ancient Power"
+    ],
+    "31": [
+      "Flail"
+    ],
+    "35": [
+      "Skill Swap"
+    ],
+    "40": [
+      "Power Gem"
+    ],
+    "46": [
+      "Trick Room"
+    ],
+    "49": [
+      "Stone Edge"
+    ],
+    "50": [
+      "Moonblast",
+      "Diamond Storm"
+    ],
+    "60": [
+      "Light Screen"
+    ],
+    "70": [
+      "Safeguard"
+    ]
+  },
+  "tmMoves": [
+    "Hyper Beam",
+    "Toxic",
+    "Psychic",
+    "Double Team",
+    "Light Screen",
+    "Reflect",
+    "Explosion",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Sunny Day",
+    "Psych Up",
+    "Hail",
+    "Facade",
+    "Nature Power",
+    "Rock Tomb",
+    "Calm Mind",
+    "Gyro Ball",
+    "Rock Polish",
+    "Giga Impact",
+    "Trick Room",
+    "Stone Edge",
+    "Psyshock",
+    "Smack Down",
+    "Round",
+    "Confide",
+    "Dazzling Gleam"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Covet",
+    "Earth Power",
+    "Endeavor",
+    "Gravity",
+    "Heal Bell",
+    "Helping Hand",
+    "Iron Defense",
+    "Last Resort",
+    "Magnet Rise",
+    "Skill Swap",
+    "Snore",
+    "Stealth Rock",
+    "Telekinesis",
+    "Wonder Room"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 50,
+        "Attack": 160,
+        "Defence": 110,
+        "Speed": 110,
+        "SpecialAttack": 160,
+        "SpecialDefence": 110
+      },
+      "height": 1.1,
+      "weight": 27.8,
+      "abilities": [
+        "MagicBounce",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": 0,
+  "eggMoves": []
+}

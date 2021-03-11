@@ -1,0 +1,166 @@
+{
+  "pixelmonName": "Rowlet",
+  "pokemon": "Rowlet",
+  "stats": {
+    "HP": 68,
+    "Attack": 55,
+    "Defence": 55,
+    "Speed": 42,
+    "SpecialAttack": 50,
+    "SpecialDefence": 50
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 5,
+  "spawnLevelRange": 15,
+  "baseExp": 64,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Flying"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 10,
+    "flySpeedModifier": 0.6,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 1.5,
+  "evolutions": [
+    {
+      "level": 17,
+      "to": {
+        "name": "Dartrix"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Overgrow",
+    null,
+    "LongReach"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "1": [
+      "Tackle",
+      "Growl"
+    ],
+    "3": [
+      "Leafage"
+    ],
+    "6": [
+      "Astonish"
+    ],
+    "9": [
+      "Peck"
+    ],
+    "12": [
+      "Shadow Sneak"
+    ],
+    "15": [
+      "Razor Leaf"
+    ],
+    "18": [
+      "Synthesis"
+    ],
+    "21": [
+      "Pluck"
+    ],
+    "24": [
+      "Nasty Plot"
+    ],
+    "27": [
+      "Sucker Punch"
+    ],
+    "30": [
+      "Leaf Blade"
+    ],
+    "33": [
+      "Feather Dance"
+    ],
+    "36": [
+      "Brave Bird"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Grass Pledge",
+    "Covet",
+    "Seed Bomb",
+    "Snore",
+    "Synthesis",
+    "Sky Attack",
+    "Giga Drain",
+    "Worry Seed",
+    "Defog"
+  ],
+  "eggMoves": [
+    "Confuse Ray",
+    "Defog",
+    "Knock Off",
+    "Double Team"
+  ],
+  "forms": {},
+  "form": -1,
+  "tmMoves8": [
+    11,
+    17,
+    19,
+    21,
+    24,
+    25,
+    28,
+    30,
+    31,
+    34,
+    39,
+    40,
+    65,
+    76,
+    94
+  ],
+  "trMoves": [
+    0,
+    20,
+    26,
+    27,
+    29,
+    50,
+    59,
+    65,
+    66,
+    68,
+    77,
+    85
+  ]
+}

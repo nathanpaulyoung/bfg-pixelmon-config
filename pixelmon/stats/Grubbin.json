@@ -1,0 +1,132 @@
+{
+  "pixelmonName": "Grubbin",
+  "pokemon": "Grubbin",
+  "stats": {
+    "HP": 47,
+    "Attack": 62,
+    "Defence": 45,
+    "Speed": 46,
+    "SpecialAttack": 55,
+    "SpecialDefence": 45
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 2,
+  "spawnLevelRange": 20,
+  "baseExp": 60,
+  "baseFriendship": 70,
+  "types": [
+    "Bug"
+  ],
+  "height": 0.4,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 4.4,
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Charjabug"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Charge"
+      ]
+    }
+  ],
+  "abilities": [
+    "Swarm",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "1": [
+      "Vise Grip",
+      "Mud-Slap"
+    ],
+    "5": [
+      "String Shot"
+    ],
+    "10": [
+      "Bug Bite"
+    ],
+    "15": [
+      "Bite"
+    ],
+    "21": [
+      "Spark"
+    ],
+    "25": [
+      "Sticky Web"
+    ],
+    "30": [
+      "X-Scissor"
+    ],
+    "35": [
+      "Crunch"
+    ],
+    "40": [
+      "Dig"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bug Bite",
+    "Magnet Rise",
+    "Electroweb",
+    "Snore",
+    "Shock Wave"
+  ],
+  "eggMoves": [
+    "Harden",
+    "Discharge"
+  ],
+  "forms": {},
+  "form": -1,
+  "tmMoves8": [
+    14,
+    15,
+    16,
+    17,
+    21,
+    24,
+    25,
+    31,
+    33,
+    39,
+    53,
+    76,
+    78,
+    80,
+    82
+  ],
+  "trMoves": [
+    8,
+    20,
+    26,
+    27,
+    32,
+    57,
+    60,
+    86
+  ]
+}

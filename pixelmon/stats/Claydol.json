@@ -1,0 +1,196 @@
+{
+  "pixelmonName": "Claydol",
+  "pokemon": "Claydol",
+  "stats": {
+    "HP": 60,
+    "Attack": 70,
+    "Defence": 105,
+    "Speed": 75,
+    "SpecialAttack": 70,
+    "SpecialDefence": 120
+  },
+  "catchRate": 90,
+  "malePercent": -1,
+  "spawnLevel": 40,
+  "spawnLevelRange": 10,
+  "baseExp": 189,
+  "baseFriendship": 70,
+  "types": [
+    "Ground",
+    "Psychic"
+  ],
+  "height": 1.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Baltoy"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.4,
+      "z": -0.1
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.4,
+      "z": -0.1
+    }
+  },
+  "weight": 107.9,
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Hyper Beam"
+    ],
+    "1": [
+      "Hyper Beam",
+      "Teleport",
+      "Harden",
+      "Mud-Slap",
+      "Rapid Spin",
+      "Confusion"
+    ],
+    "9": [
+      "Rock Tomb"
+    ],
+    "12": [
+      "Power Trick"
+    ],
+    "15": [
+      "Psybeam"
+    ],
+    "18": [
+      "Ancient Power"
+    ],
+    "21": [
+      "Imprison"
+    ],
+    "24": [
+      "Cosmic Power"
+    ],
+    "27": [
+      "Extrasensory"
+    ],
+    "30": [
+      "Earth Power"
+    ],
+    "33": [
+      "Self-Destruct"
+    ],
+    "38": [
+      "Guard Split",
+      "Power Split"
+    ],
+    "43": [
+      "Sandstorm"
+    ],
+    "48": [
+      "Explosion"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Ancient Power",
+    "Drill Run",
+    "Earth Power",
+    "Gravity",
+    "Magic Coat",
+    "Signal Beam",
+    "Trick",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Extrasensory",
+    "Rapid Spin",
+    "Refresh",
+    "Harden",
+    "Refresh",
+    "Ally Switch",
+    "Telekinesis"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": [],
+  "tmMoves8": [
+    8,
+    9,
+    11,
+    15,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    24,
+    25,
+    32,
+    33,
+    34,
+    39,
+    44,
+    48,
+    49,
+    60,
+    61,
+    70,
+    71,
+    76,
+    77,
+    81,
+    91,
+    93
+  ],
+  "trMoves": [
+    5,
+    10,
+    11,
+    20,
+    25,
+    26,
+    27,
+    33,
+    34,
+    38,
+    40,
+    44,
+    46,
+    49,
+    52,
+    67,
+    68,
+    69,
+    75,
+    76,
+    77,
+    82,
+    83,
+    87,
+    92,
+    99
+  ]
+}

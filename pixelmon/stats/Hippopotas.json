@@ -1,0 +1,185 @@
+{
+  "pixelmonName": "Hippopotas",
+  "pokemon": "Hippopotas",
+  "stats": {
+    "HP": 68,
+    "Attack": 72,
+    "Defence": 78,
+    "Speed": 32,
+    "SpecialAttack": 38,
+    "SpecialDefence": 42
+  },
+  "catchRate": 140,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 11,
+  "baseExp": 95,
+  "baseFriendship": 70,
+  "types": [
+    "Ground"
+  ],
+  "height": 0.8,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 49.5,
+  "evolutions": [
+    {
+      "level": 34,
+      "to": {
+        "name": "Hippowdon"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SandStream",
+    null,
+    "SandForce"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "1": [
+      "Tackle",
+      "Sand Attack"
+    ],
+    "4": [
+      "Bite"
+    ],
+    "8": [
+      "Yawn"
+    ],
+    "12": [
+      "Sand Tomb"
+    ],
+    "16": [
+      "Dig"
+    ],
+    "20": [
+      "Crunch"
+    ],
+    "24": [
+      "Sandstorm"
+    ],
+    "28": [
+      "Take Down"
+    ],
+    "32": [
+      "Roar"
+    ],
+    "36": [
+      "Rest"
+    ],
+    "40": [
+      "Earthquake"
+    ],
+    "44": [
+      "Double-Edge"
+    ],
+    "48": [
+      "Fissure"
+    ],
+    "52": [
+      "Slack Off"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Sunny Day",
+    "Facade",
+    "Rock Tomb",
+    "Round",
+    "Bulldoze",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Earth Power",
+    "Iron Tail",
+    "Snore",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Superpower",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Body Slam",
+    "Curse",
+    "Revenge",
+    "Sand Tomb",
+    "Slack Off",
+    "Sleep Talk",
+    "Spit Up",
+    "Stockpile",
+    "Swallow",
+    "Whirlwind"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    15,
+    21,
+    22,
+    24,
+    25,
+    31,
+    32,
+    34,
+    39,
+    42,
+    46,
+    48,
+    49,
+    53,
+    76,
+    81,
+    98
+  ],
+  "trMoves": [
+    1,
+    10,
+    17,
+    20,
+    26,
+    27,
+    31,
+    32,
+    39,
+    45,
+    67,
+    76,
+    94
+  ]
+}

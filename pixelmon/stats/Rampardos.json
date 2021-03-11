@@ -1,0 +1,183 @@
+{
+  "pixelmonName": "Rampardos",
+  "pokemon": "Rampardos",
+  "stats": {
+    "HP": 97,
+    "Attack": 165,
+    "Defence": 60,
+    "Speed": 58,
+    "SpecialAttack": 65,
+    "SpecialDefence": 50
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 30,
+  "spawnLevelRange": 20,
+  "baseExp": 199,
+  "baseFriendship": 70,
+  "types": [
+    "Rock"
+  ],
+  "height": 1.6,
+  "width": 0.8,
+  "length": 1.1,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Cranidos"
+  ],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.8,
+      "z": -0.4
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.4
+    }
+  },
+  "weight": 102.5,
+  "evolutions": [],
+  "abilities": [
+    "MoldBreaker",
+    null,
+    "SheerForce"
+  ],
+  "eggGroups": [
+    "Monster"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "0": [
+      "Headbutt",
+      "Leer",
+      "Focus Energy",
+      "Pursuit",
+      "Endeavor"
+    ],
+    "6": [
+      "Focus Energy"
+    ],
+    "10": [
+      "Pursuit"
+    ],
+    "15": [
+      "Take Down"
+    ],
+    "19": [
+      "Scary Face"
+    ],
+    "24": [
+      "Assurance"
+    ],
+    "28": [
+      "Chip Away"
+    ],
+    "36": [
+      "Ancient Power"
+    ],
+    "43": [
+      "Zen Headbutt"
+    ],
+    "51": [
+      "Screech"
+    ],
+    "58": [
+      "Head Smash"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Roar",
+    "Flamethrower",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Fire Blast",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Payback",
+    "Fling",
+    "Rock Polish",
+    "Focus Blast",
+    "Giga Impact",
+    "Stone Edge",
+    "Smack Down",
+    "Round",
+    "Bulldoze",
+    "Dragon Tail",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Dragon Pulse",
+    "Earth Power",
+    "Endeavor",
+    "Fire Punch",
+    "Focus Punch",
+    "Iron Head",
+    "Iron Tail",
+    "Laser Focus",
+    "Outrage",
+    "Pain Split",
+    "Shock Wave",
+    "Snore",
+    "Spite",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Superpower",
+    "Thunder Punch",
+    "Uproar",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Crunch",
+    "Curse",
+    "Double-Edge",
+    "Hammer Arm",
+    "Iron Head",
+    "Iron Tail",
+    "Leer",
+    "Slam",
+    "Stomp",
+    "Thrash",
+    "Whirlwind"
+  ],
+  "forms": {},
+  "form": 0
+}

@@ -1,0 +1,110 @@
+{
+  "pixelmonName": "Politoed",
+  "pokemon": "Politoed",
+  "stats": {
+    "HP": 90,
+    "Attack": 75,
+    "Defence": 75,
+    "Speed": 70,
+    "SpecialAttack": 90,
+    "SpecialDefence": 100
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 10,
+  "baseExp": 185,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.1,
+  "width": 0.6,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Poliwhirl",
+    "Poliwag"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 3
+  },
+  "weight": 33.9,
+  "evolutions": [],
+  "abilities": [
+    "WaterAbsorb",
+    "Damp",
+    "Drizzle"
+  ],
+  "eggGroups": [
+    "Water1"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Bubble Beam",
+      "Hypnosis",
+      "Double Slap",
+      "Perish Song"
+    ],
+    "27": [
+      "Swagger"
+    ],
+    "37": [
+      "Bounce"
+    ],
+    "48": [
+      "Hyper Voice"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bounce",
+    "Endeavor",
+    "Helping Hand",
+    "Hyper Voice",
+    "Amnesia",
+    "Bubble",
+    "Double Slap",
+    "Encore",
+    "Growth",
+    "Haze",
+    "Hydro Pump",
+    "Hypnosis",
+    "Lovely Kiss",
+    "Mind Reader",
+    "Mist",
+    "Refresh",
+    "Splash",
+    "Sweet Kiss",
+    "Water Sport"
+  ],
+  "eggMoves": [
+    "Encore",
+    "Endeavor",
+    "Endure",
+    "Haze",
+    "Ice Ball",
+    "Mind Reader",
+    "Mist",
+    "Mud Shot",
+    "Refresh",
+    "Splash",
+    "Water Pulse",
+    "Water Sport",
+    "Bubble Beam"
+  ],
+  "forms": {},
+  "form": 0
+}

@@ -1,0 +1,240 @@
+{
+  "pixelmonName": "Sandslash",
+  "pokemon": "Sandslash",
+  "stats": {
+    "HP": 75,
+    "Attack": 100,
+    "Defence": 110,
+    "Speed": 65,
+    "SpecialAttack": 45,
+    "SpecialDefence": 55
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 28,
+  "baseExp": 163,
+  "baseFriendship": 70,
+  "types": [
+    "Ground"
+  ],
+  "height": 1.0,
+  "width": 0.9,
+  "length": 0.9,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Sandshrew"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 29.5,
+  "evolutions": [],
+  "abilities": [
+    "SandVeil",
+    null,
+    "SandRush"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Defense Curl",
+      "Sand Attack",
+      "Poison Sting",
+      "Crush Claw"
+    ],
+    "3": [
+      "Sand Attack"
+    ],
+    "5": [
+      "Poison Sting"
+    ],
+    "7": [
+      "Rollout"
+    ],
+    "9": [
+      "Rapid Spin"
+    ],
+    "11": [
+      "Fury Cutter"
+    ],
+    "14": [
+      "Magnitude"
+    ],
+    "17": [
+      "Swift"
+    ],
+    "20": [
+      "Fury Swipes"
+    ],
+    "24": [
+      "Sand Tomb"
+    ],
+    "28": [
+      "Slash"
+    ],
+    "33": [
+      "Dig"
+    ],
+    "38": [
+      "Gyro Ball"
+    ],
+    "43": [
+      "Swords Dance"
+    ],
+    "48": [
+      "Sandstorm"
+    ],
+    "53": [
+      "Earthquake"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Earth Power",
+    "Knock Off",
+    "Super Fang",
+    "Crush Claw",
+    "Flail",
+    "Rapid Spin",
+    "Slash",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [
+    "Chip Away",
+    "Counter",
+    "Crush Claw",
+    "Endure",
+    "Flail",
+    "Metal Claw",
+    "Mud Shot",
+    "Night Slash",
+    "Rapid Spin",
+    "Rock Climb",
+    "Rototiller",
+    "Hone Claws"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 75,
+        "Attack": 100,
+        "Defence": 120,
+        "Speed": 65,
+        "SpecialAttack": 25,
+        "SpecialDefence": 65
+      },
+      "types": [
+        "Ice",
+        "Steel"
+      ],
+      "preEvolutions": [
+        "Sandshrew"
+      ],
+      "weight": 3.8,
+      "abilities": [
+        "SnowCloak",
+        null,
+        "SlushRush"
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Metal Burst",
+          "Icicle Crash",
+          "Icicle Spear",
+          "Slash",
+          "Defense Curl",
+          "Ice Ball",
+          "Metal Claw"
+        ]
+      },
+      "tmMoves": [
+        "Work Up",
+        "Toxic",
+        "Hail",
+        "Hidden Power",
+        "Sunny Day",
+        "Blizzard",
+        "Hyper Beam",
+        "Protect",
+        "Safeguard",
+        "Frustration",
+        "Earthquake",
+        "Return",
+        "Leech Life",
+        "Brick Break",
+        "Double Team",
+        "Aerial Ace",
+        "Facade",
+        "Rest",
+        "Attract",
+        "Thief",
+        "Round",
+        "Focus Blast",
+        "Fling",
+        "Shadow Claw",
+        "Giga Impact",
+        "Aurora Veil",
+        "Gyro Ball",
+        "Swords Dance",
+        "Bulldoze",
+        "Frost Breath",
+        "Rock Slide",
+        "X-Scissor",
+        "Poison Jab",
+        "Swagger",
+        "Sleep Talk",
+        "Substitute",
+        "Confide"
+      ],
+      "tutorMoves": [
+        "Covet",
+        "Super Fang",
+        "Iron Tail",
+        "Snore",
+        "Knock Off",
+        "Focus Punch",
+        "Stealth Rock",
+        "Iron Head",
+        "Drill Run",
+        "Ice Punch",
+        "Iron Defense",
+        "Icy Wind",
+        "Aqua Tail",
+        "Throat Chop"
+      ],
+      "eggMoves": [
+        "Flail",
+        "Counter",
+        "Metal Claw",
+        "Crush Claw",
+        "Night Slash",
+        "Endure",
+        "Chip Away",
+        "Hone Claws",
+        "Icicle Spear",
+        "Icicle Crash",
+        "Curse",
+        "Amnesia"
+      ],
+      "form": 1
+    }
+  },
+  "form": 0
+}

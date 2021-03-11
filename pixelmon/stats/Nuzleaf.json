@@ -1,0 +1,183 @@
+{
+  "pixelmonName": "Nuzleaf",
+  "pokemon": "Nuzleaf",
+  "stats": {
+    "HP": 70,
+    "Attack": 70,
+    "Defence": 40,
+    "Speed": 60,
+    "SpecialAttack": 60,
+    "SpecialDefence": 40
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 14,
+  "spawnLevelRange": 36,
+  "baseExp": 141,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Dark"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Seedot"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 28.0,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:leaf_stone"
+      },
+      "to": {
+        "name": "Shiftry"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "Chlorophyll",
+    "EarlyBird",
+    "Pickpocket"
+  ],
+  "eggGroups": [
+    "Field",
+    "Grass"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Razor Leaf"
+    ],
+    "1": [
+      "Razor Leaf",
+      "Air Cutter",
+      "Torment",
+      "Fake Out",
+      "Swagger",
+      "Synthesis",
+      "Explosion",
+      "Tackle",
+      "Harden",
+      "Absorb",
+      "Astonish"
+    ],
+    "9": [
+      "Growth"
+    ],
+    "12": [
+      "Rollout"
+    ],
+    "18": [
+      "Mega Drain"
+    ],
+    "24": [
+      "Payback"
+    ],
+    "30": [
+      "Nature Power"
+    ],
+    "36": [
+      "Sunny Day"
+    ],
+    "43": [
+      "Extrasensory"
+    ],
+    "50": [
+      "Sucker Punch"
+    ],
+    "57": [
+      "Leaf Blade"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Foul Play",
+    "Low Kick",
+    "Seed Bomb",
+    "Spite",
+    "Synthesis",
+    "Worry Seed",
+    "Amnesia",
+    "Beat Up",
+    "Extrasensory",
+    "Feint Attack",
+    "Fake Out",
+    "Growth",
+    "Leech Seed",
+    "Nasty Plot",
+    "Refresh",
+    "Harden",
+    "Defog"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    1,
+    8,
+    11,
+    12,
+    15,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    28,
+    31,
+    34,
+    37,
+    39,
+    40,
+    43,
+    48,
+    50,
+    57,
+    58,
+    59,
+    60,
+    75,
+    76,
+    79,
+    85,
+    88,
+    94
+  ],
+  "trMoves": [
+    0,
+    1,
+    7,
+    17,
+    20,
+    26,
+    27,
+    33,
+    50,
+    58,
+    59,
+    65,
+    68,
+    77,
+    81
+  ]
+}

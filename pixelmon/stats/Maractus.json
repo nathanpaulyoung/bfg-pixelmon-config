@@ -1,0 +1,167 @@
+{
+  "pixelmonName": "Maractus",
+  "pokemon": "Maractus",
+  "stats": {
+    "HP": 75,
+    "Attack": 86,
+    "Defence": 67,
+    "Speed": 60,
+    "SpecialAttack": 106,
+    "SpecialDefence": 67
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 14,
+  "spawnLevelRange": 14,
+  "baseExp": 161,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 28.0,
+  "evolutions": [],
+  "abilities": [
+    "WaterAbsorb",
+    "Chlorophyll",
+    "StormDrain"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Spiky Shield",
+      "Peck",
+      "Absorb",
+      "After You",
+      "Ingrain"
+    ],
+    "4": [
+      "Growth"
+    ],
+    "8": [
+      "Mega Drain"
+    ],
+    "12": [
+      "Leech Seed"
+    ],
+    "16": [
+      "Sucker Punch"
+    ],
+    "20": [
+      "Pin Missile"
+    ],
+    "24": [
+      "Giga Drain"
+    ],
+    "28": [
+      "Sweet Scent"
+    ],
+    "32": [
+      "Synthesis"
+    ],
+    "36": [
+      "Petal Blizzard"
+    ],
+    "40": [
+      "Cotton Spore"
+    ],
+    "44": [
+      "Sunny Day"
+    ],
+    "48": [
+      "Solar Beam"
+    ],
+    "52": [
+      "Acupressure"
+    ],
+    "56": [
+      "Petal Dance"
+    ],
+    "60": [
+      "Cotton Guard"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "After You",
+    "Bounce",
+    "Endeavor",
+    "Helping Hand",
+    "Hyper Voice",
+    "Knock Off",
+    "Seed Bomb",
+    "Sucker Punch",
+    "Synthesis",
+    "Uproar",
+    "Worry Seed",
+    "Absorb",
+    "Growth",
+    "Leech Seed",
+    "Petal Dance",
+    "Peck",
+    "Throat Chop"
+  ],
+  "eggMoves": [
+    "Worry Seed",
+    "Wood Hammer"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    7,
+    11,
+    16,
+    19,
+    21,
+    24,
+    25,
+    28,
+    31,
+    33,
+    34,
+    39,
+    41,
+    46,
+    50,
+    52,
+    58,
+    63,
+    76,
+    88
+  ],
+  "trMoves": [
+    20,
+    23,
+    26,
+    27,
+    35,
+    42,
+    57,
+    59,
+    65,
+    71,
+    77,
+    95
+  ]
+}

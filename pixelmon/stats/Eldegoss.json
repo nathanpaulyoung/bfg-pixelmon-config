@@ -1,0 +1,133 @@
+{
+  "pixelmonName": "Eldegoss",
+  "pokemon": "Eldegoss",
+  "stats": {
+    "HP": 60,
+    "Attack": 50,
+    "Defence": 90,
+    "SpecialAttack": 80,
+    "SpecialDefence": 120,
+    "Speed": 60
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 20,
+  "baseExp": 161,
+  "baseFriendship": 50,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.5,
+  "width": 0.8,
+  "length": 0.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Gossifleur"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "weight": 2.5,
+  "evolutions": [],
+  "abilities": [
+    "CottonDown",
+    "Regenerator",
+    "EffectSpore"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Cotton Spore"
+    ],
+    "1": [
+      "Cotton Spore",
+      "Leafage",
+      "Sing",
+      "Rapid Spin",
+      "Sweet Scent"
+    ],
+    "12": [
+      "Razor Leaf"
+    ],
+    "16": [
+      "Round"
+    ],
+    "23": [
+      "Leaf Tornado"
+    ],
+    "28": [
+      "Synthesis"
+    ],
+    "34": [
+      "Hyper Voice"
+    ],
+    "40": [
+      "Aromatherapy"
+    ],
+    "46": [
+      "Leaf Storm"
+    ],
+    "52": [
+      "Cotton Guard"
+    ]
+  },
+  "tutorMoves": [
+    "Grassy Glide"
+  ],
+  "eggMoves": [
+    "Growth",
+    "Leech Seed",
+    "Poison Powder",
+    "Sleep Powder",
+    "Stun Spore",
+    "Worry Seed"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    10,
+    11,
+    17,
+    21,
+    24,
+    25,
+    28,
+    29,
+    31,
+    34,
+    39,
+    41,
+    46,
+    50,
+    76,
+    88
+  ],
+  "trMoves": [
+    20,
+    26,
+    27,
+    42,
+    59,
+    65,
+    71,
+    77,
+    96
+  ]
+}

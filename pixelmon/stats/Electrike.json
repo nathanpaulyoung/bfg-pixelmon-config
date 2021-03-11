@@ -1,0 +1,152 @@
+{
+  "pixelmonName": "Electrike",
+  "pokemon": "Electrike",
+  "stats": {
+    "HP": 40,
+    "Attack": 45,
+    "Defence": 40,
+    "Speed": 65,
+    "SpecialAttack": 65,
+    "SpecialDefence": 40
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 15,
+  "baseExp": 104,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 15.2,
+  "evolutions": [
+    {
+      "level": 26,
+      "to": {
+        "name": "Manectric"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Static",
+    "LightningRod",
+    "Minus"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Tackle",
+      "Thunder Wave"
+    ],
+    "4": [
+      "Leer"
+    ],
+    "8": [
+      "Howl"
+    ],
+    "12": [
+      "Quick Attack"
+    ],
+    "16": [
+      "Shock Wave"
+    ],
+    "20": [
+      "Bite"
+    ],
+    "24": [
+      "Thunder Fang"
+    ],
+    "28": [
+      "Roar"
+    ],
+    "32": [
+      "Discharge"
+    ],
+    "36": [
+      "Charge"
+    ],
+    "40": [
+      "Wild Charge"
+    ],
+    "44": [
+      "Thunder"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Magnet Rise",
+    "Signal Beam",
+    "Uproar",
+    "Bite",
+    "Howl",
+    "Tackle",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Headbutt",
+    "Curse",
+    "Switcheroo",
+    "Spark"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    14,
+    17,
+    21,
+    23,
+    24,
+    25,
+    31,
+    33,
+    39,
+    40,
+    66,
+    67,
+    68,
+    76,
+    80,
+    85,
+    93
+  ],
+  "trMoves": [
+    1,
+    2,
+    8,
+    9,
+    12,
+    20,
+    26,
+    27,
+    31,
+    32,
+    35,
+    80,
+    86,
+    97
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "pixelmonName": "Vanillish",
+  "pokemon": "Vanillish",
+  "stats": {
+    "HP": 51,
+    "Attack": 65,
+    "Defence": 65,
+    "Speed": 59,
+    "SpecialAttack": 80,
+    "SpecialDefence": 75
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 36,
+  "spawnLevelRange": 10,
+  "baseExp": 138,
+  "baseFriendship": 70,
+  "types": [
+    "Ice"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Vanillite"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 41.0,
+  "evolutions": [
+    {
+      "level": 47,
+      "to": {
+        "name": "Vanilluxe"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "IceBody",
+    "SnowCloak",
+    "WeakArmor"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Astonish",
+      "Harden",
+      "Taunt",
+      "Mist"
+    ],
+    "12": [
+      "Icy Wind"
+    ],
+    "16": [
+      "Avalanche"
+    ],
+    "20": [
+      "Hail"
+    ],
+    "24": [
+      "Icicle Spear"
+    ],
+    "28": [
+      "Uproar"
+    ],
+    "32": [
+      "Acid Armor"
+    ],
+    "38": [
+      "Mirror Coat"
+    ],
+    "44": [
+      "Ice Beam"
+    ],
+    "50": [
+      "Blizzard"
+    ],
+    "56": [
+      "Sheer Cold"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Iron Defense",
+    "Magic Coat",
+    "Magnet Rise",
+    "Signal Beam",
+    "Uproar",
+    "Mist",
+    "Sheer Cold",
+    "Harden",
+    "Ally Switch"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    17,
+    20,
+    21,
+    24,
+    25,
+    27,
+    31,
+    33,
+    35,
+    39,
+    44,
+    51,
+    64,
+    76
+  ],
+  "trMoves": [
+    5,
+    6,
+    20,
+    26,
+    27,
+    35,
+    37,
+    42,
+    46,
+    70,
+    83
+  ]
+}

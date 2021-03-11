@@ -1,0 +1,167 @@
+{
+  "pixelmonName": "Cranidos",
+  "pokemon": "Cranidos",
+  "stats": {
+    "HP": 67,
+    "Attack": 125,
+    "Defence": 40,
+    "Speed": 58,
+    "SpecialAttack": 30,
+    "SpecialDefence": 30
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 20,
+  "spawnLevelRange": 10,
+  "baseExp": 99,
+  "baseFriendship": 70,
+  "types": [
+    "Rock"
+  ],
+  "height": 0.9,
+  "width": 0.4,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 31.5,
+  "evolutions": [
+    {
+      "level": 30,
+      "to": {
+        "name": "Rampardos"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Endeavor"
+      ]
+    }
+  ],
+  "abilities": [
+    "MoldBreaker",
+    null,
+    "SheerForce"
+  ],
+  "eggGroups": [
+    "Monster"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "0": [
+      "Headbutt",
+      "Leer"
+    ],
+    "6": [
+      "Focus Energy"
+    ],
+    "10": [
+      "Pursuit"
+    ],
+    "15": [
+      "Take Down"
+    ],
+    "19": [
+      "Scary Face"
+    ],
+    "24": [
+      "Assurance"
+    ],
+    "28": [
+      "Chip Away"
+    ],
+    "33": [
+      "Ancient Power"
+    ],
+    "37": [
+      "Zen Headbutt"
+    ],
+    "42": [
+      "Screech"
+    ],
+    "46": [
+      "Head Smash"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Roar",
+    "Flamethrower",
+    "Ice Beam",
+    "Blizzard",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Fire Blast",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Rock Tomb",
+    "Payback",
+    "Fling",
+    "Rock Polish",
+    "Stone Edge",
+    "Smack Down",
+    "Round",
+    "Bulldoze",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Dragon Pulse",
+    "Earth Power",
+    "Endeavor",
+    "Fire Punch",
+    "Iron Head",
+    "Iron Tail",
+    "Shock Wave",
+    "Snore",
+    "Spite",
+    "Stealth Rock",
+    "Superpower",
+    "Thunder Punch",
+    "Uproar",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Crunch",
+    "Curse",
+    "Double-Edge",
+    "Hammer Arm",
+    "Iron Head",
+    "Iron Tail",
+    "Leer",
+    "Slam",
+    "Stomp",
+    "Thrash",
+    "Whirlwind"
+  ],
+  "forms": {},
+  "form": 0
+}

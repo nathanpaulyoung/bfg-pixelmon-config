@@ -1,0 +1,157 @@
+{
+  "pixelmonName": "Ferroseed",
+  "pokemon": "Ferroseed",
+  "stats": {
+    "HP": 44,
+    "Attack": 50,
+    "Defence": 91,
+    "Speed": 10,
+    "SpecialAttack": 24,
+    "SpecialDefence": 86
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 12,
+  "spawnLevelRange": 12,
+  "baseExp": 61,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Steel"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 18.8,
+  "evolutions": [
+    {
+      "level": 40,
+      "to": {
+        "name": "Ferrothorn"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Power Whip"
+      ]
+    }
+  ],
+  "abilities": [
+    "IronBarbs",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Grass",
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Tackle",
+      "Harden"
+    ],
+    "5": [
+      "Metal Claw"
+    ],
+    "10": [
+      "Pin Missile"
+    ],
+    "15": [
+      "Ingrain"
+    ],
+    "20": [
+      "Flash Cannon"
+    ],
+    "25": [
+      "Iron Head"
+    ],
+    "30": [
+      "Self-Destruct"
+    ],
+    "35": [
+      "Iron Defense"
+    ],
+    "41": [
+      "Curse"
+    ],
+    "45": [
+      "Gyro Ball"
+    ],
+    "50": [
+      "Explosion"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Endeavor",
+    "Gravity",
+    "Iron Defense",
+    "Iron Head",
+    "Magnet Rise",
+    "Seed Bomb",
+    "Worry Seed",
+    "Leech Seed",
+    "Harden",
+    "Tackle",
+    "Knock Off"
+  ],
+  "eggMoves": [
+    "Leech Seed",
+    "Gravity",
+    "Acid Spray",
+    "Toxic",
+    "Knock Off"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    7,
+    11,
+    14,
+    20,
+    21,
+    24,
+    25,
+    28,
+    31,
+    34,
+    39,
+    42,
+    50,
+    57,
+    58,
+    76
+  ],
+  "trMoves": [
+    8,
+    20,
+    23,
+    26,
+    27,
+    46,
+    52,
+    57,
+    59,
+    65,
+    70,
+    74,
+    76
+  ]
+}

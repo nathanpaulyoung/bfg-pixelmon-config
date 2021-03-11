@@ -1,0 +1,74 @@
+{
+  "pixelmonName": "Cosmog",
+  "pokemon": "Cosmog",
+  "stats": {
+    "HP": 43,
+    "Attack": 29,
+    "Defence": 31,
+    "Speed": 37,
+    "SpecialAttack": 29,
+    "SpecialDefence": 31
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 30,
+  "spawnLevelRange": 0,
+  "baseExp": 40,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 0.2,
+  "width": 0.2,
+  "length": 0.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 0.1,
+  "evolutions": [
+    {
+      "level": 43,
+      "to": {
+        "name": "Cosmoem"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Cosmic Power"
+      ]
+    }
+  ],
+  "abilities": [
+    "Unaware",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "1": [
+      "Splash",
+      "Teleport"
+    ]
+  },
+  "forms": {},
+  "form": 0,
+  "eggMoves": [],
+  "tmMoves8": [],
+  "trMoves": [],
+  "tmMoves": [],
+  "tutorMoves": []
+}

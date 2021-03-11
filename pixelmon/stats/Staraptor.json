@@ -1,0 +1,173 @@
+{
+  "pixelmonName": "Staraptor",
+  "pokemon": "Staraptor",
+  "stats": {
+    "HP": 85,
+    "Attack": 120,
+    "Defence": 70,
+    "Speed": 100,
+    "SpecialAttack": 50,
+    "SpecialDefence": 60
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 20,
+  "baseExp": 172,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Staravia",
+    "Starly"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 20,
+    "flyHeightMax": 24,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.4
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.1
+    }
+  },
+  "weight": 24.9,
+  "evolutions": [],
+  "abilities": [
+    "Intimidate",
+    null,
+    "Reckless"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Growl",
+      "Quick Attack",
+      "Wing Attack",
+      "Close Combat"
+    ],
+    "5": [
+      "Quick Attack"
+    ],
+    "9": [
+      "Wing Attack"
+    ],
+    "13": [
+      "Double Team"
+    ],
+    "18": [
+      "Endeavor"
+    ],
+    "23": [
+      "Whirlwind"
+    ],
+    "28": [
+      "Aerial Ace"
+    ],
+    "33": [
+      "Take Down"
+    ],
+    "41": [
+      "Agility"
+    ],
+    "49": [
+      "Brave Bird"
+    ],
+    "57": [
+      "Final Gambit"
+    ]
+  },
+  "tmMoves": [
+    "Fly",
+    "Hyper Beam",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Steel Wing",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Aerial Ace",
+    "Roost",
+    "U-Turn",
+    "Giga Impact",
+    "Round",
+    "Echoed Voice",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Defog",
+    "Endeavor",
+    "Heat Wave",
+    "Laser Focus",
+    "Sky Attack",
+    "Snore",
+    "Tailwind",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Astonish",
+    "Detect",
+    "Double-Edge",
+    "Feather Dance",
+    "Foresight",
+    "Fury Attack",
+    "Mirror Move",
+    "Pursuit",
+    "Revenge",
+    "Roost",
+    "Sand Attack",
+    "Steel Wing",
+    "Uproar"
+  ],
+  "forms": {},
+  "form": 0
+}

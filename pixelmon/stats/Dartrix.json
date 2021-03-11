@@ -1,0 +1,162 @@
+{
+  "pixelmonName": "Dartrix",
+  "pokemon": "Dartrix",
+  "stats": {
+    "HP": 78,
+    "Attack": 75,
+    "Defence": 75,
+    "Speed": 52,
+    "SpecialAttack": 70,
+    "SpecialDefence": 70
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 18,
+  "spawnLevelRange": 20,
+  "baseExp": 147,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Flying"
+  ],
+  "height": 0.7,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Rowlet"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 5,
+    "flyHeightMax": 25,
+    "flySpeedModifier": 1.4,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 16.0,
+  "evolutions": [
+    {
+      "level": 34,
+      "to": {
+        "name": "Decidueye"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Spirit Shackle"
+      ]
+    }
+  ],
+  "abilities": [
+    "Overgrow",
+    null,
+    "LongReach"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "1": [
+      "Tackle",
+      "Growl",
+      "Leafage",
+      "Astonish"
+    ],
+    "9": [
+      "Peck"
+    ],
+    "12": [
+      "Shadow Sneak"
+    ],
+    "15": [
+      "Razor Leaf"
+    ],
+    "20": [
+      "Synthesis"
+    ],
+    "25": [
+      "Pluck"
+    ],
+    "30": [
+      "Nasty Plot"
+    ],
+    "35": [
+      "Sucker Punch"
+    ],
+    "40": [
+      "Leaf Blade"
+    ],
+    "45": [
+      "Feather Dance"
+    ],
+    "50": [
+      "Brave Bird"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Grass Pledge",
+    "Covet",
+    "Seed Bomb",
+    "Snore",
+    "Synthesis",
+    "Sky Attack",
+    "Giga Drain",
+    "Worry Seed",
+    "Defog"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": -1,
+  "tmMoves8": [
+    11,
+    17,
+    19,
+    21,
+    24,
+    25,
+    28,
+    30,
+    31,
+    34,
+    39,
+    40,
+    65,
+    76,
+    94
+  ],
+  "trMoves": [
+    0,
+    20,
+    26,
+    27,
+    29,
+    50,
+    59,
+    65,
+    66,
+    68,
+    77,
+    85
+  ]
+}

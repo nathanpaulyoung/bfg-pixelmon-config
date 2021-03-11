@@ -1,0 +1,157 @@
+{
+  "pixelmonName": "Beheeyem",
+  "pokemon": "Beheeyem",
+  "stats": {
+    "HP": 75,
+    "Attack": 75,
+    "Defence": 75,
+    "Speed": 40,
+    "SpecialAttack": 125,
+    "SpecialDefence": 95
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 43,
+  "spawnLevelRange": 11,
+  "baseExp": 170,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Elgyem"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 34.5,
+  "evolutions": [],
+  "abilities": [
+    "Telepathy",
+    "Synchronize",
+    "Analytic"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Psychic Terrain",
+      "Confusion",
+      "Growl",
+      "Imprison",
+      "Teleport"
+    ],
+    "18": [
+      "Psybeam"
+    ],
+    "24": [
+      "Power Split",
+      "Guard Split"
+    ],
+    "30": [
+      "Headbutt"
+    ],
+    "36": [
+      "Zen Headbutt"
+    ],
+    "45": [
+      "Recover"
+    ],
+    "52": [
+      "Calm Mind"
+    ],
+    "60": [
+      "Wonder Room"
+    ],
+    "68": [
+      "Psychic"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "After You",
+    "Gravity",
+    "Magic Coat",
+    "Pain Split",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Uproar",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Barrier",
+    "Nasty Plot",
+    "Ally Switch",
+    "Telekinesis"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    14,
+    16,
+    17,
+    18,
+    19,
+    21,
+    22,
+    23,
+    24,
+    25,
+    30,
+    31,
+    33,
+    39,
+    44,
+    48,
+    60,
+    61,
+    70,
+    71,
+    76,
+    91
+  ],
+  "trMoves": [
+    8,
+    11,
+    12,
+    19,
+    20,
+    25,
+    26,
+    27,
+    33,
+    34,
+    35,
+    38,
+    40,
+    44,
+    49,
+    58,
+    65,
+    68,
+    69,
+    70,
+    82,
+    83
+  ]
+}

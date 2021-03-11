@@ -1,0 +1,144 @@
+{
+  "pixelmonName": "Klink",
+  "pokemon": "Klink",
+  "stats": {
+    "HP": 40,
+    "Attack": 55,
+    "Defence": 70,
+    "Speed": 30,
+    "SpecialAttack": 45,
+    "SpecialDefence": 60
+  },
+  "catchRate": 130,
+  "malePercent": -1,
+  "spawnLevel": 5,
+  "spawnLevelRange": 33,
+  "baseExp": 60,
+  "baseFriendship": 70,
+  "types": [
+    "Steel"
+  ],
+  "height": 0.3,
+  "width": 0.4,
+  "length": 0.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "hoverHeight": 1.0,
+  "weight": 21.0,
+  "evolutions": [
+    {
+      "level": 38,
+      "to": {
+        "name": "Klang"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Plus",
+    "Minus",
+    "ClearBody"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Thunder Shock",
+      "Vise Grip"
+    ],
+    "4": [
+      "Bind"
+    ],
+    "8": [
+      "Charge"
+    ],
+    "12": [
+      "Charge Beam"
+    ],
+    "16": [
+      "Metal Sound"
+    ],
+    "20": [
+      "Autotomize"
+    ],
+    "24": [
+      "Discharge"
+    ],
+    "28": [
+      "Screech"
+    ],
+    "32": [
+      "Gear Grind"
+    ],
+    "36": [
+      "Lock-On"
+    ],
+    "40": [
+      "Shift Gear"
+    ],
+    "44": [
+      "Zap Cannon"
+    ],
+    "48": [
+      "Hyper Beam"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bind",
+    "Gravity",
+    "Iron Defense",
+    "Magic Coat",
+    "Magnet Rise",
+    "Signal Beam",
+    "Uproar",
+    "Metal Sound",
+    "Screech",
+    "Telekinesis"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": [],
+  "tmMoves8": [
+    8,
+    14,
+    16,
+    21,
+    24,
+    25,
+    32,
+    39,
+    58,
+    76,
+    80
+  ],
+  "trMoves": [
+    8,
+    20,
+    26,
+    27,
+    35,
+    46,
+    63,
+    70,
+    86
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "pixelmonName": "Oshawott",
+  "pokemon": "Oshawott",
+  "stats": {
+    "HP": 55,
+    "Attack": 55,
+    "Defence": 45,
+    "Speed": 45,
+    "SpecialAttack": 63,
+    "SpecialDefence": 45
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 5,
+  "spawnLevelRange": 11,
+  "baseExp": 28,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.5,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 5.9,
+  "evolutions": [
+    {
+      "level": 17,
+      "to": {
+        "name": "Dewott"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Torrent",
+    null,
+    "ShellArmour"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle"
+    ],
+    "5": [
+      "Tail Whip"
+    ],
+    "7": [
+      "Water Gun"
+    ],
+    "11": [
+      "Water Sport"
+    ],
+    "13": [
+      "Focus Energy"
+    ],
+    "17": [
+      "Razor Shell"
+    ],
+    "19": [
+      "Fury Cutter"
+    ],
+    "23": [
+      "Water Pulse"
+    ],
+    "25": [
+      "Revenge"
+    ],
+    "29": [
+      "Aqua Jet"
+    ],
+    "31": [
+      "Encore"
+    ],
+    "35": [
+      "Aqua Tail"
+    ],
+    "37": [
+      "Retaliate"
+    ],
+    "41": [
+      "Swords Dance"
+    ],
+    "43": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Toxic",
+    "Double Team",
+    "Waterfall",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "False Swipe",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Hail",
+    "Facade",
+    "Taunt",
+    "Aerial Ace",
+    "Fling",
+    "X-Scissor",
+    "Grass Knot",
+    "Round",
+    "Scald",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Covet",
+    "Helping Hand",
+    "Icy Wind",
+    "Iron Tail",
+    "Snore",
+    "Water Pledge",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Air Slash",
+    "Assurance",
+    "Brine",
+    "Copycat",
+    "Detect",
+    "Night Slash",
+    "Sacred Sword",
+    "Screech",
+    "Trump Card"
+  ],
+  "forms": {},
+  "form": 0
+}

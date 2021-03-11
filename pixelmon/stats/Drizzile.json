@@ -1,0 +1,139 @@
+{
+  "pixelmonName": "Drizzile",
+  "pokemon": "Drizzile",
+  "stats": {
+    "HP": 65,
+    "Attack": 60,
+    "Defence": 55,
+    "SpecialAttack": 95,
+    "SpecialDefence": 55,
+    "Speed": 90
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 16,
+  "spawnLevelRange": 20,
+  "baseExp": 147,
+  "baseFriendship": 50,
+  "types": [
+    "Water"
+  ],
+  "height": 0.7,
+  "width": 0.6,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Sobble"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 11.5,
+  "evolutions": [
+    {
+      "level": 35,
+      "to": {
+        "name": "Inteleon"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Snipe Shot"
+      ]
+    }
+  ],
+  "abilities": [
+    "Torrent",
+    null,
+    "Sniper"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Pound",
+      "Growl",
+      "Water Gun",
+      "Bind"
+    ],
+    "12": [
+      "Water Pulse"
+    ],
+    "19": [
+      "Tearful Look"
+    ],
+    "24": [
+      "Sucker Punch"
+    ],
+    "30": [
+      "U-turn"
+    ],
+    "36": [
+      "Liquidation"
+    ],
+    "42": [
+      "Soak"
+    ],
+    "48": [
+      "Rain Dance"
+    ]
+  },
+  "tutorMoves": [
+    "Water Pledge"
+  ],
+  "eggMoves": [
+    "Aqua Jet",
+    "Aqua Ring",
+    "Double Team",
+    "Fell Stinger",
+    "Haze",
+    "Ice Shard",
+    "Mist"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    17,
+    18,
+    19,
+    21,
+    24,
+    25,
+    31,
+    33,
+    36,
+    39,
+    40,
+    45,
+    46,
+    52,
+    53,
+    56,
+    59,
+    76
+  ],
+  "trMoves": [
+    4,
+    20,
+    26,
+    27,
+    29,
+    45,
+    85,
+    98
+  ]
+}

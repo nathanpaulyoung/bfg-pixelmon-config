@@ -1,0 +1,153 @@
+{
+  "pixelmonName": "Bagon",
+  "pokemon": "Bagon",
+  "stats": {
+    "HP": 45,
+    "Attack": 75,
+    "Defence": 60,
+    "Speed": 50,
+    "SpecialAttack": 40,
+    "SpecialDefence": 30
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 24,
+  "baseExp": 89,
+  "baseFriendship": 35,
+  "types": [
+    "Dragon"
+  ],
+  "height": 0.6,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 42.1,
+  "evolutions": [
+    {
+      "level": 30,
+      "to": {
+        "name": "Shelgon"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Protect"
+      ]
+    }
+  ],
+  "abilities": [
+    "RockHead",
+    null,
+    "SheerForce"
+  ],
+  "eggGroups": [
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Rage"
+    ],
+    "4": [
+      "Ember"
+    ],
+    "7": [
+      "Leer"
+    ],
+    "10": [
+      "Bite"
+    ],
+    "13": [
+      "Dragon Breath"
+    ],
+    "17": [
+      "Headbutt"
+    ],
+    "21": [
+      "Focus Energy"
+    ],
+    "25": [
+      "Crunch"
+    ],
+    "29": [
+      "Dragon Claw"
+    ],
+    "34": [
+      "Zen Headbutt"
+    ],
+    "39": [
+      "Scary Face"
+    ],
+    "44": [
+      "Flamethrower"
+    ],
+    "49": [
+      "Double-Edge"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Flamethrower",
+    "Toxic",
+    "Double Team",
+    "Fire Blast",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Dragon Claw",
+    "Shadow Claw",
+    "Round",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Draco Meteor",
+    "Dragon Pulse",
+    "Hyper Voice",
+    "Outrage",
+    "Snore",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Defense Curl",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Dragon Rage",
+    "Dragon Rush",
+    "Endure",
+    "Fire Fang",
+    "Hydro Pump",
+    "Thrash",
+    "Twister"
+  ],
+  "forms": {},
+  "form": 0
+}

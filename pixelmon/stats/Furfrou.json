@@ -1,0 +1,152 @@
+{
+  "pixelmonName": "Furfrou",
+  "pokemon": "Furfrou",
+  "stats": {
+    "HP": 75,
+    "Attack": 80,
+    "Defence": 60,
+    "Speed": 102,
+    "SpecialAttack": 65,
+    "SpecialDefence": 90
+  },
+  "catchRate": 160,
+  "malePercent": 50,
+  "spawnLevel": 42,
+  "spawnLevelRange": 14,
+  "baseExp": 165,
+  "baseFriendship": 0,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.2,
+  "width": 1.2,
+  "length": 1.2,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.25
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.25
+    }
+  },
+  "weight": 28.0,
+  "evolutions": [],
+  "abilities": [
+    "FurCoat",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Growl"
+    ],
+    "5": [
+      "Sand Attack"
+    ],
+    "9": [
+      "Baby-Doll Eyes"
+    ],
+    "12": [
+      "Headbutt"
+    ],
+    "15": [
+      "Tail Whip"
+    ],
+    "22": [
+      "Bite"
+    ],
+    "27": [
+      "Odor Sleuth"
+    ],
+    "33": [
+      "Retaliate"
+    ],
+    "35": [
+      "Take Down"
+    ],
+    "38": [
+      "Charm"
+    ],
+    "42": [
+      "Sucker Punch"
+    ],
+    "48": [
+      "Cotton Guard"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Surf",
+    "Thunder Wave",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "U-Turn",
+    "Dark Pulse",
+    "Giga Impact",
+    "Grass Knot",
+    "Charge Beam",
+    "Round",
+    "Echoed Voice",
+    "Work Up",
+    "Wild Charge",
+    "Snarl",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Endeavor",
+    "Helping Hand",
+    "Hyper Voice",
+    "Iron Tail",
+    "Last Resort",
+    "Role Play",
+    "Snore",
+    "Uproar",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Captivate",
+    "Mimic",
+    "Refresh",
+    "Role Play",
+    "Work Up"
+  ],
+  "forms": {},
+  "form": 0
+}

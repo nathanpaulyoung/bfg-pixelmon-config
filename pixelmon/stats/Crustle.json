@@ -1,0 +1,155 @@
+{
+  "pixelmonName": "Crustle",
+  "pokemon": "Crustle",
+  "stats": {
+    "HP": 70,
+    "Attack": 105,
+    "Defence": 125,
+    "Speed": 45,
+    "SpecialAttack": 65,
+    "SpecialDefence": 75
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 10,
+  "baseExp": 166,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Rock"
+  ],
+  "height": 1.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Dwebble"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.2,
+      "z": -0.4
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.2,
+      "z": -0.4
+    }
+  },
+  "weight": 200.0,
+  "evolutions": [],
+  "abilities": [
+    "Sturdy",
+    "ShellArmour",
+    "WeakArmor"
+  ],
+  "eggGroups": [
+    "Bug",
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Fury Cutter",
+      "Sand Attack",
+      "Withdraw",
+      "Smack Down"
+    ],
+    "12": [
+      "Bug Bite"
+    ],
+    "16": [
+      "Flail"
+    ],
+    "20": [
+      "Slash"
+    ],
+    "24": [
+      "Rock Slide"
+    ],
+    "28": [
+      "Stealth Rock"
+    ],
+    "32": [
+      "Rock Blast"
+    ],
+    "38": [
+      "X-Scissor"
+    ],
+    "44": [
+      "Rock Polish"
+    ],
+    "50": [
+      "Shell Smash"
+    ],
+    "56": [
+      "Rock Wrecker"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Block",
+    "Bug Bite",
+    "Iron Defense",
+    "Knock Off",
+    "Feint Attack",
+    "Flail",
+    "Slash",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    11,
+    12,
+    15,
+    21,
+    22,
+    24,
+    25,
+    31,
+    32,
+    39,
+    48,
+    49,
+    54,
+    65,
+    76,
+    81,
+    98
+  ],
+  "trMoves": [
+    0,
+    10,
+    20,
+    23,
+    26,
+    27,
+    46,
+    57,
+    60,
+    75,
+    76,
+    79,
+    99
+  ]
+}

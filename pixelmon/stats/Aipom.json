@@ -1,0 +1,183 @@
+{
+  "pixelmonName": "Aipom",
+  "pokemon": "Aipom",
+  "stats": {
+    "HP": 55,
+    "Attack": 70,
+    "Defence": 55,
+    "Speed": 85,
+    "SpecialAttack": 40,
+    "SpecialDefence": 55
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 25,
+  "baseExp": 94,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.8,
+  "width": 0.6,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 11.5,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Ambipom"
+      },
+      "conditions": [
+        {
+          "attackIndex": 475,
+          "evoConditionType": "move"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "RunAway",
+    "Pickup",
+    "SkillLink"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Tail Whip"
+    ],
+    "4": [
+      "Sand Attack"
+    ],
+    "8": [
+      "Astonish"
+    ],
+    "11": [
+      "Baton Pass"
+    ],
+    "15": [
+      "Tickle"
+    ],
+    "18": [
+      "Fury Swipes"
+    ],
+    "22": [
+      "Swift"
+    ],
+    "25": [
+      "Screech"
+    ],
+    "29": [
+      "Agility"
+    ],
+    "32": [
+      "Double Hit"
+    ],
+    "36": [
+      "Fling"
+    ],
+    "39": [
+      "Nasty Plot"
+    ],
+    "43": [
+      "Last Resort"
+    ]
+  },
+  "tmMoves": [
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Toxic",
+    "Double Team",
+    "Dream Eater",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Shadow Ball",
+    "Facade",
+    "Taunt",
+    "Brick Break",
+    "Aerial Ace",
+    "U-Turn",
+    "Payback",
+    "Fling",
+    "Shadow Claw",
+    "Grass Knot",
+    "Low Sweep",
+    "Round",
+    "Acrobatics",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Covet",
+    "Fire Punch",
+    "Focus Punch",
+    "Foul Play",
+    "Gunk Shot",
+    "Ice Punch",
+    "Iron Tail",
+    "Knock Off",
+    "Last Resort",
+    "Low Kick",
+    "Role Play",
+    "Seed Bomb",
+    "Shock Wave",
+    "Snatch",
+    "Snore",
+    "Spite",
+    "Thunder Punch",
+    "Uproar",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Beat Up",
+    "Bounce",
+    "Counter",
+    "Covet",
+    "Double Slap",
+    "Fake Out",
+    "Pursuit",
+    "Quick Guard",
+    "Revenge",
+    "Screech",
+    "Slam",
+    "Spite",
+    "Switcheroo",
+    "Tail Slap"
+  ],
+  "forms": {},
+  "form": 0
+}

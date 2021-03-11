@@ -1,0 +1,186 @@
+{
+  "pixelmonName": "Slaking",
+  "pokemon": "Slaking",
+  "stats": {
+    "HP": 150,
+    "Attack": 160,
+    "Defence": 100,
+    "Speed": 100,
+    "SpecialAttack": 95,
+    "SpecialDefence": 65
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 40,
+  "spawnLevelRange": 10,
+  "baseExp": 210,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 2.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Vigoroth",
+    "Slakoth"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.8,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.1,
+      "z": -0.5
+    }
+  },
+  "weight": 130.5,
+  "evolutions": [],
+  "abilities": [
+    "Truant",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Hammer Arm",
+      "Punishment",
+      "Fling",
+      "Scratch",
+      "Yawn",
+      "Encore",
+      "Slack Off",
+      "Swagger"
+    ],
+    "6": [
+      "Encore"
+    ],
+    "9": [
+      "Slack Off"
+    ],
+    "14": [
+      "Feint Attack"
+    ],
+    "17": [
+      "Amnesia"
+    ],
+    "23": [
+      "Covet"
+    ],
+    "27": [
+      "Chip Away"
+    ],
+    "33": [
+      "Counter"
+    ],
+    "39": [
+      "Flail"
+    ],
+    "47": [
+      "Fling"
+    ],
+    "53": [
+      "Punishment"
+    ],
+    "61": [
+      "Hammer Arm"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Flamethrower",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Fire Blast",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Shadow Ball",
+    "Facade",
+    "Taunt",
+    "Brick Break",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Bulk Up",
+    "Fling",
+    "Focus Blast",
+    "Giga Impact",
+    "Shadow Claw",
+    "Smack Down",
+    "Low Sweep",
+    "Round",
+    "Quash",
+    "Bulldoze",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Block",
+    "Covet",
+    "Fire Punch",
+    "Focus Punch",
+    "Gunk Shot",
+    "Ice Punch",
+    "Icy Wind",
+    "Low Kick",
+    "Shock Wave",
+    "Snore",
+    "Stomping Tantrum",
+    "Thunder Punch",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "After You",
+    "Body Slam",
+    "Crush Claw",
+    "Curse",
+    "Hammer Arm",
+    "Night Slash",
+    "Pursuit",
+    "Slash",
+    "Sleep Talk",
+    "Snore",
+    "Tickle"
+  ],
+  "forms": {},
+  "form": 0
+}

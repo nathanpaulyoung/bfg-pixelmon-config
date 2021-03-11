@@ -1,0 +1,183 @@
+{
+  "pixelmonName": "Bibarel",
+  "pokemon": "Bibarel",
+  "stats": {
+    "HP": 79,
+    "Attack": 85,
+    "Defence": 60,
+    "Speed": 71,
+    "SpecialAttack": 55,
+    "SpecialDefence": 60
+  },
+  "catchRate": 127,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 10,
+  "baseExp": 116,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Water"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Bidoof"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.4
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.4,
+      "z": -0.5
+    }
+  },
+  "weight": 31.5,
+  "evolutions": [],
+  "abilities": [
+    "Simple",
+    "Unaware",
+    "Moody"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Rototiller",
+      "Tackle",
+      "Growl",
+      "Aqua Jet",
+      "Water Gun"
+    ],
+    "5": [
+      "Defense Curl"
+    ],
+    "9": [
+      "Rollout"
+    ],
+    "13": [
+      "Headbutt"
+    ],
+    "18": [
+      "Hyper Fang"
+    ],
+    "23": [
+      "Yawn"
+    ],
+    "28": [
+      "Crunch"
+    ],
+    "33": [
+      "Take Down"
+    ],
+    "38": [
+      "Super Fang"
+    ],
+    "43": [
+      "Swords Dance"
+    ],
+    "48": [
+      "Amnesia"
+    ],
+    "53": [
+      "Superpower"
+    ],
+    "58": [
+      "Curse"
+    ]
+  },
+  "tmMoves": [
+    "Swords Dance",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Toxic",
+    "Double Team",
+    "Waterfall",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Shadow Ball",
+    "Facade",
+    "Taunt",
+    "Fling",
+    "Giga Impact",
+    "Grass Knot",
+    "Charge Beam",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Bulldoze",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Covet",
+    "Focus Punch",
+    "Icy Wind",
+    "Iron Tail",
+    "Last Resort",
+    "Liquidation",
+    "Shock Wave",
+    "Snore",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Super Fang",
+    "Superpower",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Aqua Tail",
+    "Defense Curl",
+    "Double-Edge",
+    "Endure",
+    "Fury Swipes",
+    "Mud Sport",
+    "Odor Sleuth",
+    "Quick Attack",
+    "Rock Climb",
+    "Rollout",
+    "Skull Bash",
+    "Sleep Talk",
+    "Water Sport"
+  ],
+  "forms": {},
+  "form": 0
+}

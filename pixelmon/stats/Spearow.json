@@ -1,0 +1,160 @@
+{
+  "pixelmonName": "Spearow",
+  "pokemon": "Spearow",
+  "stats": {
+    "HP": 40,
+    "Attack": 60,
+    "Defence": 30,
+    "Speed": 70,
+    "SpecialAttack": 31,
+    "SpecialDefence": 31
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 15,
+  "baseExp": 58,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 0.3,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 10,
+    "flySpeedModifier": 0.6,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 2.0,
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Fearow"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "KeenEye",
+    null,
+    "Sniper"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Peck",
+      "Growl"
+    ],
+    "4": [
+      "Leer"
+    ],
+    "8": [
+      "Pursuit"
+    ],
+    "11": [
+      "Fury Attack"
+    ],
+    "15": [
+      "Aerial Ace"
+    ],
+    "18": [
+      "Mirror Move"
+    ],
+    "22": [
+      "Assurance"
+    ],
+    "25": [
+      "Agility"
+    ],
+    "29": [
+      "Focus Energy"
+    ],
+    "32": [
+      "Roost"
+    ],
+    "36": [
+      "Drill Peck"
+    ]
+  },
+  "tmMoves": [
+    "Fly",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "False Swipe",
+    "Swagger",
+    "Steel Wing",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Aerial Ace",
+    "Roost",
+    "U-Turn",
+    "Round",
+    "Echoed Voice",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Defog",
+    "Drill Run",
+    "Heat Wave",
+    "Sky Attack",
+    "Snore",
+    "Tailwind",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Astonish",
+    "Feather Dance",
+    "Feint Attack",
+    "Quick Attack",
+    "Razor Wind",
+    "Scary Face",
+    "Sky Attack",
+    "Steel Wing",
+    "Tri Attack",
+    "Uproar",
+    "Whirlwind"
+  ],
+  "forms": {},
+  "form": 0
+}

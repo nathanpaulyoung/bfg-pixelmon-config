@@ -1,0 +1,232 @@
+{
+  "pixelmonName": "Steelix",
+  "pokemon": "Steelix",
+  "stats": {
+    "HP": 75,
+    "Attack": 85,
+    "Defence": 200,
+    "Speed": 30,
+    "SpecialAttack": 55,
+    "SpecialDefence": 65
+  },
+  "catchRate": 25,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 30,
+  "baseExp": 196,
+  "baseFriendship": 70,
+  "types": [
+    "Steel",
+    "Ground"
+  ],
+  "height": 1.5,
+  "width": 1.0,
+  "length": 9.2,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Onix"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": -0.6,
+      "y": -0.2,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.6
+    }
+  },
+  "weight": 400.0,
+  "evolutions": [],
+  "abilities": [
+    "RockHead",
+    "Sturdy",
+    "SheerForce"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "1": [
+      "Crunch",
+      "Thunder Fang",
+      "Ice Fang",
+      "Fire Fang",
+      "Rock Polish",
+      "Tackle",
+      "Harden",
+      "Bind",
+      "Rock Throw"
+    ],
+    "4": [
+      "Smack Down"
+    ],
+    "8": [
+      "Autotomize"
+    ],
+    "12": [
+      "Dragon Breath"
+    ],
+    "16": [
+      "Curse"
+    ],
+    "20": [
+      "Rock Slide"
+    ],
+    "24": [
+      "Screech"
+    ],
+    "28": [
+      "Sand Tomb"
+    ],
+    "32": [
+      "Stealth Rock"
+    ],
+    "36": [
+      "Slam"
+    ],
+    "40": [
+      "Sandstorm"
+    ],
+    "44": [
+      "Dig"
+    ],
+    "48": [
+      "Iron Tail"
+    ],
+    "52": [
+      "Stone Edge"
+    ],
+    "56": [
+      "Double-Edge"
+    ],
+    "60": [
+      "Magnet Rise"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Ancient Power",
+    "Aqua Tail",
+    "Bind",
+    "Block",
+    "Earth Power",
+    "Iron Head",
+    "Magnet Rise",
+    "Twister",
+    "Flail",
+    "Mud Sport",
+    "Rock Throw",
+    "Sharpen",
+    "Harden",
+    "Tackle",
+    "Screech",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 75,
+        "Attack": 125,
+        "Defence": 230,
+        "Speed": 30,
+        "SpecialAttack": 55,
+        "SpecialDefence": 95
+      },
+      "height": 3.5,
+      "width": 4.0,
+      "length": 5.0,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        }
+      },
+      "weight": 740.0,
+      "abilities": [
+        "SandForce",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    15,
+    16,
+    20,
+    21,
+    22,
+    24,
+    25,
+    26,
+    31,
+    32,
+    34,
+    39,
+    48,
+    49,
+    54,
+    57,
+    66,
+    67,
+    68,
+    76,
+    81,
+    97,
+    98,
+    99
+  ],
+  "trMoves": [
+    1,
+    10,
+    20,
+    26,
+    27,
+    31,
+    32,
+    37,
+    46,
+    51,
+    52,
+    58,
+    62,
+    67,
+    70,
+    74,
+    75,
+    76,
+    79,
+    87,
+    94,
+    97,
+    99
+  ]
+}

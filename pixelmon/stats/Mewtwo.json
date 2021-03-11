@@ -1,0 +1,297 @@
+{
+  "pixelmonName": "Mewtwo",
+  "pokemon": "Mewtwo",
+  "form": 0,
+  "stats": {
+    "HP": 106,
+    "Attack": 110,
+    "Defence": 90,
+    "Speed": 130,
+    "SpecialAttack": 154,
+    "SpecialDefence": 90
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 80,
+  "spawnLevelRange": 0,
+  "baseExp": 220,
+  "baseFriendship": 0,
+  "types": [
+    "Psychic"
+  ],
+  "height": 2.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 10,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.7,
+      "z": -0.45
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": -0.75
+    }
+  },
+  "weight": 122.0,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    "Unnerve"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "1": [
+      "Life Dew",
+      "Laser Focus",
+      "Disable",
+      "Confusion",
+      "Swift"
+    ],
+    "8": [
+      "Ancient Power"
+    ],
+    "16": [
+      "Psycho Cut"
+    ],
+    "24": [
+      "Safeguard"
+    ],
+    "32": [
+      "Amnesia"
+    ],
+    "40": [
+      "Aura Sphere"
+    ],
+    "48": [
+      "Psychic"
+    ],
+    "56": [
+      "Power Swap",
+      "Guard Swap"
+    ],
+    "64": [
+      "Mist"
+    ],
+    "72": [
+      "Psystrike"
+    ],
+    "80": [
+      "Recover"
+    ],
+    "88": [
+      "Future Sight"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Foul Play",
+    "Gravity",
+    "Low Kick",
+    "Magic Coat",
+    "Magic Room",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Amnesia",
+    "Aura Sphere",
+    "Barrier",
+    "Heal Pulse",
+    "Hurricane",
+    "Mist",
+    "Electro Ball",
+    "Laser Focus",
+    "Telekinesis"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 106,
+        "Attack": 190,
+        "Defence": 100,
+        "Speed": 130,
+        "SpecialAttack": 154,
+        "SpecialDefence": 100
+      },
+      "types": [
+        "Psychic",
+        "Fighting"
+      ],
+      "height": 2.3,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        }
+      },
+      "weight": 127.0,
+      "abilities": [
+        "Steadfast",
+        null,
+        null
+      ]
+    },
+    "2": {
+      "stats": {
+        "HP": 106,
+        "Attack": 150,
+        "Defence": 70,
+        "Speed": 140,
+        "SpecialAttack": 194,
+        "SpecialDefence": 120
+      },
+      "height": 1.5,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        }
+      },
+      "weight": 33.0,
+      "abilities": [
+        "Insomnia",
+        null,
+        null
+      ]
+    },
+    "101": {
+      "pixelmonName": "SlyMewtwo"
+    }
+  },
+  "eggMoves": [],
+  "tmMoves8": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    8,
+    9,
+    11,
+    14,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    24,
+    25,
+    27,
+    32,
+    33,
+    34,
+    35,
+    38,
+    39,
+    40,
+    43,
+    45,
+    48,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    69,
+    70,
+    71,
+    72,
+    75,
+    76,
+    81,
+    91,
+    97
+  ],
+  "trMoves": [
+    1,
+    2,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    14,
+    15,
+    17,
+    19,
+    20,
+    25,
+    26,
+    27,
+    31,
+    33,
+    34,
+    37,
+    38,
+    40,
+    48,
+    49,
+    56,
+    57,
+    64,
+    65,
+    68,
+    69,
+    75,
+    77,
+    80,
+    81,
+    82,
+    83,
+    89
+  ]
+}

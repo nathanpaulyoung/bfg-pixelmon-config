@@ -1,0 +1,137 @@
+{
+  "pixelmonName": "Simipour",
+  "pokemon": "Simipour",
+  "stats": {
+    "HP": 75,
+    "Attack": 98,
+    "Defence": 63,
+    "Speed": 101,
+    "SpecialAttack": 98,
+    "SpecialDefence": 63
+  },
+  "catchRate": 75,
+  "malePercent": 87,
+  "spawnLevel": 27,
+  "spawnLevelRange": 9,
+  "baseExp": 174,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Panpour"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 29.0,
+  "evolutions": [],
+  "abilities": [
+    "Gluttony",
+    null,
+    "Torrent"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Lick",
+      "Fury Swipes",
+      "Scald"
+    ]
+  },
+  "tmMoves": [
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Toxic",
+    "Double Team",
+    "Waterfall",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Hail",
+    "Torment",
+    "Facade",
+    "Taunt",
+    "Brick Break",
+    "Rock Tomb",
+    "Payback",
+    "Fling",
+    "Focus Blast",
+    "Giga Impact",
+    "Shadow Claw",
+    "Grass Knot",
+    "Low Sweep",
+    "Round",
+    "Scald",
+    "Acrobatics",
+    "Work Up",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Covet",
+    "Endeavor",
+    "Focus Punch",
+    "Gastro Acid",
+    "Gunk Shot",
+    "Helping Hand",
+    "Ice Punch",
+    "Icy Wind",
+    "Iron Tail",
+    "Knock Off",
+    "Low Kick",
+    "Recycle",
+    "Role Play",
+    "Snore",
+    "Superpower",
+    "Throat Chop",
+    "Uproar",
+    "Water Pledge",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Aqua Ring",
+    "Aqua Tail",
+    "Astonish",
+    "Covet",
+    "Disarming Voice",
+    "Hydro Pump",
+    "Low Kick",
+    "Mud Sport",
+    "Nasty Plot",
+    "Role Play",
+    "Tickle"
+  ],
+  "forms": {},
+  "form": 0
+}

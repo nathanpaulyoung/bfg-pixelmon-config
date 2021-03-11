@@ -1,0 +1,183 @@
+{
+  "pixelmonName": "Torkoal",
+  "pokemon": "Torkoal",
+  "stats": {
+    "HP": 70,
+    "Attack": 85,
+    "Defence": 140,
+    "Speed": 20,
+    "SpecialAttack": 85,
+    "SpecialDefence": 70
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 10,
+  "baseExp": 161,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.4,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.4,
+      "z": -0.3
+    }
+  },
+  "weight": 80.4,
+  "evolutions": [],
+  "abilities": [
+    "WhiteSmoke",
+    "Drought",
+    "ShellArmour"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Smog",
+      "Ember"
+    ],
+    "4": [
+      "Withdraw"
+    ],
+    "8": [
+      "Rapid Spin"
+    ],
+    "12": [
+      "Smokescreen"
+    ],
+    "16": [
+      "Clear Smog"
+    ],
+    "20": [
+      "Flame Wheel"
+    ],
+    "24": [
+      "Protect"
+    ],
+    "28": [
+      "Lava Plume"
+    ],
+    "32": [
+      "Body Slam"
+    ],
+    "36": [
+      "Iron Defense"
+    ],
+    "40": [
+      "Flamethrower"
+    ],
+    "44": [
+      "Curse"
+    ],
+    "48": [
+      "Heat Wave"
+    ],
+    "52": [
+      "Amnesia"
+    ],
+    "56": [
+      "Inferno"
+    ],
+    "60": [
+      "Shell Smash"
+    ],
+    "64": [
+      "Eruption"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "After You",
+    "Earth Power",
+    "Heat Wave",
+    "Iron Defense",
+    "Superpower",
+    "Amnesia",
+    "Flail",
+    "Rapid Spin",
+    "Yawn",
+    "Inferno",
+    "Superpower",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [
+    "Yawn",
+    "Fissure",
+    "Skull Bash",
+    "Flail",
+    "Ancient Power"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    11,
+    13,
+    20,
+    21,
+    22,
+    24,
+    25,
+    31,
+    34,
+    38,
+    39,
+    46,
+    48,
+    76,
+    81,
+    98
+  ],
+  "trMoves": [
+    1,
+    2,
+    10,
+    15,
+    17,
+    20,
+    22,
+    26,
+    27,
+    31,
+    36,
+    39,
+    43,
+    46,
+    52,
+    67,
+    75,
+    76,
+    88,
+    99
+  ]
+}

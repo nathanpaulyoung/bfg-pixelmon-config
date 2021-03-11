@@ -1,0 +1,169 @@
+{
+  "pixelmonName": "Drednaw",
+  "pokemon": "Drednaw",
+  "stats": {
+    "HP": 90,
+    "Attack": 115,
+    "Defence": 90,
+    "SpecialAttack": 48,
+    "SpecialDefence": 68,
+    "Speed": 74
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 20,
+  "baseExp": 170,
+  "baseFriendship": 50,
+  "types": [
+    "Water",
+    "Rock"
+  ],
+  "height": 1.0,
+  "width": 1.2,
+  "length": 1.2,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Chewtle"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.8,
+      "z": -0.2
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.8,
+      "z": -0.2
+    }
+  },
+  "weight": 115.5,
+  "evolutions": [],
+  "abilities": [
+    "StrongJaw",
+    "ShellArmour",
+    "SwiftSwim"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Water1"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Rock Tomb"
+    ],
+    "1": [
+      "Rock Tomb",
+      "Razor Shell",
+      "Crunch",
+      "Rock Polish",
+      "Tackle",
+      "Water Gun",
+      "Bite",
+      "Protect"
+    ],
+    "21": [
+      "Headbutt"
+    ],
+    "30": [
+      "Counter"
+    ],
+    "39": [
+      "Jaw Lock"
+    ],
+    "48": [
+      "Liquidation"
+    ],
+    "57": [
+      "Body Slam"
+    ],
+    "66": [
+      "Head Smash"
+    ]
+  },
+  "tutorMoves": [
+    "Meteor Beam",
+    "Skitter Smack"
+  ],
+  "eggMoves": [
+    "Dragon Tail",
+    "Gastro Acid",
+    "Skull Bash"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    15,
+    21,
+    22,
+    24,
+    25,
+    26,
+    31,
+    32,
+    33,
+    36,
+    39,
+    42,
+    45,
+    48,
+    49,
+    53,
+    54,
+    57,
+    58,
+    67,
+    76,
+    81,
+    83,
+    94,
+    96,
+    98
+  ],
+  "trMoves": [
+    0,
+    1,
+    3,
+    4,
+    5,
+    6,
+    10,
+    16,
+    20,
+    26,
+    27,
+    28,
+    31,
+    32,
+    39,
+    45,
+    46,
+    57,
+    67,
+    75,
+    76,
+    84,
+    94,
+    95,
+    98,
+    99
+  ]
+}

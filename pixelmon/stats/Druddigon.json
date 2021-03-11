@@ -1,0 +1,146 @@
+{
+  "pixelmonName": "Druddigon",
+  "pokemon": "Druddigon",
+  "stats": {
+    "HP": 77,
+    "Attack": 120,
+    "Defence": 90,
+    "Speed": 48,
+    "SpecialAttack": 60,
+    "SpecialDefence": 90
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 50,
+  "spawnLevelRange": 12,
+  "baseExp": 173,
+  "baseFriendship": 70,
+  "types": [
+    "Dragon"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.1,
+      "z": -0.1
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.1,
+      "z": -0.1
+    }
+  },
+  "weight": 139.0,
+  "evolutions": [],
+  "abilities": [
+    "RoughSkin",
+    "SheerForce",
+    "MoldBreaker"
+  ],
+  "eggGroups": [
+    "Dragon",
+    "Monster"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Scratch"
+    ],
+    "5": [
+      "Hone Claws"
+    ],
+    "9": [
+      "Bite"
+    ],
+    "13": [
+      "Scary Face"
+    ],
+    "18": [
+      "Dragon Rage"
+    ],
+    "21": [
+      "Slash"
+    ],
+    "25": [
+      "Crunch"
+    ],
+    "27": [
+      "Dragon Claw"
+    ],
+    "31": [
+      "Chip Away"
+    ],
+    "35": [
+      "Revenge"
+    ],
+    "40": [
+      "Night Slash"
+    ],
+    "45": [
+      "Dragon Tail"
+    ],
+    "49": [
+      "Rock Climb"
+    ],
+    "55": [
+      "Superpower"
+    ],
+    "62": [
+      "Outrage"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Draco Meteor",
+    "Gunk Shot",
+    "Heat Wave",
+    "Iron Head",
+    "Outrage",
+    "Sucker Punch",
+    "Superpower",
+    "Bite",
+    "Crush Claw",
+    "Feint Attack",
+    "Pursuit",
+    "Scary Face",
+    "Slash",
+    "Leer",
+    "Stomping Tantrum"
+  ],
+  "eggMoves": [
+    "Crush Claw",
+    "Fire Fang",
+    "Glare",
+    "Iron Tail",
+    "Metal Claw",
+    "Poison Tail",
+    "Pursuit",
+    "Snatch",
+    "Sucker Punch",
+    "Thunder Fang",
+    "Feint Attack"
+  ],
+  "forms": {},
+  "form": 0
+}

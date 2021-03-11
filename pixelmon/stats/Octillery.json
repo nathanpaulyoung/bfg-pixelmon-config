@@ -1,0 +1,173 @@
+{
+  "pixelmonName": "Octillery",
+  "pokemon": "Octillery",
+  "stats": {
+    "HP": 75,
+    "Attack": 105,
+    "Defence": 75,
+    "Speed": 45,
+    "SpecialAttack": 105,
+    "SpecialDefence": 75
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 30,
+  "baseExp": 164,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.9,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Remoraid"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 5,
+    "depthRangeEnd": 20,
+    "swimSpeed": 1.2,
+    "decayRate": 0.99,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "SpecialAttack": 1
+  },
+  "weight": 28.5,
+  "evolutions": [],
+  "abilities": [
+    "SuctionCups",
+    "Sniper",
+    "Moody"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Water2"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Octazooka"
+    ],
+    "1": [
+      "Octazooka",
+      "Gunk Shot",
+      "Rock Blast",
+      "Helping Hand",
+      "Water Gun",
+      "Wrap",
+      "Water Pulse",
+      "Focus Energy"
+    ],
+    "12": [
+      "Psybeam"
+    ],
+    "16": [
+      "Aurora Beam"
+    ],
+    "20": [
+      "Bubble Beam"
+    ],
+    "24": [
+      "Lock-On"
+    ],
+    "30": [
+      "Bullet Seed"
+    ],
+    "36": [
+      "Ice Beam"
+    ],
+    "42": [
+      "Hydro Pump"
+    ],
+    "48": [
+      "Soak"
+    ],
+    "54": [
+      "Hyper Beam"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Bind",
+    "Bounce",
+    "Gunk Shot",
+    "Seed Bomb",
+    "Signal Beam",
+    "String Shot",
+    "Amnesia",
+    "Flail",
+    "Haze",
+    "Hydro Pump",
+    "Mist",
+    "Octazooka",
+    "Focus Energy",
+    "Screech"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    8,
+    9,
+    14,
+    16,
+    21,
+    23,
+    24,
+    25,
+    27,
+    31,
+    33,
+    34,
+    36,
+    39,
+    40,
+    41,
+    45,
+    50,
+    52,
+    53,
+    54,
+    55,
+    57,
+    58,
+    76
+  ],
+  "trMoves": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    11,
+    13,
+    15,
+    16,
+    20,
+    22,
+    26,
+    27,
+    59,
+    65,
+    70,
+    73,
+    78,
+    84,
+    98
+  ]
+}

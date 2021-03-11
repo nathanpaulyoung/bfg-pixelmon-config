@@ -1,0 +1,179 @@
+{
+  "pixelmonName": "Roselia",
+  "pokemon": "Roselia",
+  "stats": {
+    "HP": 50,
+    "Attack": 60,
+    "Defence": 45,
+    "Speed": 65,
+    "SpecialAttack": 100,
+    "SpecialDefence": 80
+  },
+  "catchRate": 150,
+  "malePercent": 50,
+  "spawnLevel": 12,
+  "spawnLevelRange": 13,
+  "baseExp": 152,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "height": 0.3,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Budew"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 2.0,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:shiny_stone"
+      },
+      "to": {
+        "name": "Roserade"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "NaturalCure",
+    "PoisonPoint",
+    "LeafGuard"
+  ],
+  "eggGroups": [
+    "Fairy",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Poison Sting"
+    ],
+    "1": [
+      "Poison Sting",
+      "Absorb",
+      "Growth",
+      "Stun Spore",
+      "Worry Seed"
+    ],
+    "5": [
+      "Mega Drain"
+    ],
+    "10": [
+      "Leech Seed"
+    ],
+    "15": [
+      "Magical Leaf"
+    ],
+    "20": [
+      "Toxic Spikes"
+    ],
+    "25": [
+      "Sweet Scent"
+    ],
+    "30": [
+      "Giga Drain"
+    ],
+    "35": [
+      "Synthesis"
+    ],
+    "40": [
+      "Toxic"
+    ],
+    "45": [
+      "Petal Blizzard"
+    ],
+    "50": [
+      "Aromatherapy"
+    ],
+    "55": [
+      "Ingrain"
+    ],
+    "60": [
+      "Petal Dance"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Covet",
+    "Seed Bomb",
+    "Synthesis",
+    "Uproar",
+    "Worry Seed",
+    "Absorb",
+    "Aromatherapy",
+    "Extrasensory",
+    "Growth",
+    "Leech Seed",
+    "Mind Reader",
+    "Petal Dance",
+    "Sweet Kiss",
+    "Water Sport",
+    "Water Sport",
+    "Sweet Kiss"
+  ],
+  "eggMoves": [
+    "Cotton Spore",
+    "Sleep Powder",
+    "Razor Leaf",
+    "Extrasensory",
+    "Life Dew"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    7,
+    10,
+    11,
+    21,
+    24,
+    25,
+    28,
+    31,
+    33,
+    34,
+    39,
+    40,
+    46,
+    50,
+    74,
+    76
+  ],
+  "trMoves": [
+    0,
+    1,
+    20,
+    22,
+    23,
+    26,
+    27,
+    33,
+    35,
+    54,
+    57,
+    59,
+    65,
+    71,
+    72,
+    77,
+    92
+  ]
+}

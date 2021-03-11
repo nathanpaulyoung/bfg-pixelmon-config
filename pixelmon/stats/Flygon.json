@@ -1,0 +1,219 @@
+{
+  "pixelmonName": "Flygon",
+  "pokemon": "Flygon",
+  "stats": {
+    "HP": 80,
+    "Attack": 100,
+    "Defence": 80,
+    "Speed": 100,
+    "SpecialAttack": 80,
+    "SpecialDefence": 80
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 45,
+  "spawnLevelRange": 5,
+  "baseExp": 197,
+  "baseFriendship": 70,
+  "types": [
+    "Ground",
+    "Dragon"
+  ],
+  "height": 2.0,
+  "width": 1.0,
+  "length": 2.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Vibrava",
+    "Trapinch"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 5,
+    "flyHeightMax": 25,
+    "flySpeedModifier": 1.4,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "Speed": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.5,
+      "z": -0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.5,
+      "z": 1.1
+    }
+  },
+  "weight": 82.0,
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    "Levitate",
+    "Levitate"
+  ],
+  "eggGroups": [
+    "Bug",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Dragon Claw"
+    ],
+    "1": [
+      "Dragon Claw",
+      "Dragon Breath",
+      "Dragon Dance",
+      "Feint",
+      "Laser Focus",
+      "Bulldoze",
+      "Dig",
+      "Crunch",
+      "Superpower",
+      "Fissure",
+      "Sand Attack",
+      "Astonish",
+      "Supersonic",
+      "Bite"
+    ],
+    "12": [
+      "Mud-Slap"
+    ],
+    "16": [
+      "Sand Tomb"
+    ],
+    "20": [
+      "Dragon Tail"
+    ],
+    "24": [
+      "Screech"
+    ],
+    "28": [
+      "Bug Buzz"
+    ],
+    "32": [
+      "Sandstorm"
+    ],
+    "38": [
+      "Earth Power"
+    ],
+    "44": [
+      "Earthquake"
+    ],
+    "52": [
+      "Uproar"
+    ],
+    "60": [
+      "Dragon Rush"
+    ],
+    "68": [
+      "Boomburst"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "Air Cutter",
+    "Bug Bite",
+    "Draco Meteor",
+    "Earth Power",
+    "Heat Wave",
+    "Ominous Wind",
+    "Outrage",
+    "Signal Beam",
+    "Superpower",
+    "Tailwind",
+    "Twister",
+    "Bite",
+    "Feint Attack",
+    "Flail",
+    "Gust",
+    "Sonic Boom",
+    "Focus Energy",
+    "Screech",
+    "Uproar",
+    "Laser Focus",
+    "Defog",
+    "Throat Chop"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    0,
+    1,
+    3,
+    5,
+    6,
+    8,
+    9,
+    11,
+    13,
+    15,
+    16,
+    21,
+    22,
+    24,
+    25,
+    28,
+    30,
+    31,
+    32,
+    34,
+    39,
+    40,
+    48,
+    49,
+    53,
+    56,
+    76,
+    81,
+    95,
+    97,
+    99
+  ],
+  "trMoves": [
+    1,
+    2,
+    10,
+    13,
+    15,
+    20,
+    24,
+    26,
+    27,
+    31,
+    32,
+    35,
+    36,
+    39,
+    47,
+    51,
+    61,
+    62,
+    67,
+    75,
+    95
+  ]
+}

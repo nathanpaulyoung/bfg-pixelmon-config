@@ -1,0 +1,210 @@
+{
+  "pixelmonName": "Togetic",
+  "pokemon": "Togetic",
+  "stats": {
+    "HP": 55,
+    "Attack": 40,
+    "Defence": 85,
+    "Speed": 40,
+    "SpecialAttack": 80,
+    "SpecialDefence": 105
+  },
+  "catchRate": 75,
+  "malePercent": 87,
+  "spawnLevel": 15,
+  "spawnLevelRange": 35,
+  "baseExp": 114,
+  "baseFriendship": 70,
+  "types": [
+    "Fairy",
+    "Flying"
+  ],
+  "height": 1.6,
+  "width": 0.8,
+  "length": 0.8,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Togepi"
+  ],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "hoverHeight": 1.0,
+  "weight": 3.2,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:shiny_stone"
+      },
+      "to": {
+        "name": "Togekiss"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "Hustle",
+    "SereneGrace",
+    "SuperLuck"
+  ],
+  "eggGroups": [
+    "Flying",
+    "Fairy"
+  ],
+  "eggCycles": 11,
+  "levelUpMoves": {
+    "0": [
+      "Fairy Wind"
+    ],
+    "1": [
+      "Fairy Wind",
+      "Growl",
+      "Pound",
+      "Sweet Kiss",
+      "Life Dew"
+    ],
+    "12": [
+      "Charm"
+    ],
+    "16": [
+      "Ancient Power"
+    ],
+    "20": [
+      "Yawn"
+    ],
+    "24": [
+      "Metronome"
+    ],
+    "28": [
+      "After You"
+    ],
+    "32": [
+      "Double-Edge"
+    ],
+    "36": [
+      "Safeguard"
+    ],
+    "40": [
+      "Follow Me"
+    ],
+    "44": [
+      "Baton Pass"
+    ],
+    "48": [
+      "Last Resort"
+    ],
+    "52": [
+      "Wish"
+    ]
+  },
+  "tmMoves": [],
+  "tutorMoves": [
+    "After You",
+    "Air Cutter",
+    "Ancient Power",
+    "Covet",
+    "Endeavor",
+    "Heal Bell",
+    "Heat Wave",
+    "Helping Hand",
+    "Hyper Voice",
+    "Last Resort",
+    "Magic Coat",
+    "Ominous Wind",
+    "Signal Beam",
+    "Tailwind",
+    "Trick",
+    "Twister",
+    "Uproar",
+    "Zen Headbutt",
+    "Baton Pass",
+    "Charm",
+    "Encore",
+    "Extrasensory",
+    "Follow Me",
+    "Foresight",
+    "Morning Sun",
+    "Nasty Plot",
+    "Sweet Kiss",
+    "Wish",
+    "Yawn",
+    "Peck",
+    "Defog",
+    "Telekinesis"
+  ],
+  "eggMoves": [],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    0,
+    1,
+    6,
+    8,
+    9,
+    10,
+    11,
+    14,
+    17,
+    18,
+    19,
+    21,
+    24,
+    25,
+    29,
+    30,
+    31,
+    33,
+    34,
+    39,
+    40,
+    41,
+    43,
+    44,
+    59,
+    63,
+    76,
+    79,
+    87,
+    92,
+    96
+  ],
+  "trMoves": [
+    1,
+    2,
+    11,
+    14,
+    15,
+    19,
+    20,
+    25,
+    26,
+    27,
+    29,
+    30,
+    33,
+    34,
+    35,
+    36,
+    38,
+    42,
+    68,
+    69,
+    77,
+    82,
+    85,
+    90,
+    92
+  ]
+}

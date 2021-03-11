@@ -1,0 +1,167 @@
+{
+  "pixelmonName": "Dialga",
+  "pokemon": "Dialga",
+  "stats": {
+    "HP": 100,
+    "Attack": 120,
+    "Defence": 120,
+    "Speed": 90,
+    "SpecialAttack": 150,
+    "SpecialDefence": 100
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 220,
+  "baseFriendship": 0,
+  "types": [
+    "Steel",
+    "Dragon"
+  ],
+  "height": 2.5,
+  "width": 2.5,
+  "length": 2.5,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.5,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.5,
+      "z": -0.1
+    }
+  },
+  "weight": 683.0,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Dragon Breath",
+      "Scary Face"
+    ],
+    "6": [
+      "Metal Claw"
+    ],
+    "10": [
+      "Ancient Power"
+    ],
+    "15": [
+      "Slash"
+    ],
+    "19": [
+      "Power Gem"
+    ],
+    "24": [
+      "Metal Burst"
+    ],
+    "28": [
+      "Dragon Claw"
+    ],
+    "33": [
+      "Earth Power"
+    ],
+    "37": [
+      "Aura Sphere"
+    ],
+    "42": [
+      "Iron Tail"
+    ],
+    "46": [
+      "Roar of Time"
+    ],
+    "50": [
+      "Flash Cannon"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Flamethrower",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Fire Blast",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Facade",
+    "Brick Break",
+    "Overheat",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Dragon Claw",
+    "Bulk Up",
+    "Giga Impact",
+    "Shadow Claw",
+    "Flash Cannon",
+    "Trick Room",
+    "Stone Edge",
+    "Round",
+    "Echoed Voice",
+    "Bulldoze",
+    "Dragon Tail",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Draco Meteor",
+    "Dragon Pulse",
+    "Earth Power",
+    "Gravity",
+    "Hyper Voice",
+    "Iron Defense",
+    "Iron Head",
+    "Iron Tail",
+    "Magnet Rise",
+    "Outrage",
+    "Shock Wave",
+    "Snore",
+    "Stealth Rock",
+    "Stomping Tantrum"
+  ],
+  "forms": {},
+  "form": 0,
+  "eggMoves": []
+}

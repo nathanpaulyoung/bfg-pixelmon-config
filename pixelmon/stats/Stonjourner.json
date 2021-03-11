@@ -1,0 +1,150 @@
+{
+  "pixelmonName": "Stonjourner",
+  "pokemon": "Stonjourner",
+  "stats": {
+    "HP": 100,
+    "Attack": 125,
+    "Defence": 135,
+    "SpecialAttack": 20,
+    "SpecialDefence": 20,
+    "Speed": 70
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 42,
+  "spawnLevelRange": 14,
+  "baseExp": 165,
+  "baseFriendship": 50,
+  "types": [
+    "Rock"
+  ],
+  "height": 2.5,
+  "width": 1.2,
+  "length": 1.2,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.8,
+      "z": -0.2
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.8,
+      "z": -0.2
+    }
+  },
+  "weight": 520.0,
+  "evolutions": [],
+  "abilities": [
+    "PowerSpot",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "1": [
+      "Rock Throw",
+      "Block"
+    ],
+    "6": [
+      "Rock Polish"
+    ],
+    "12": [
+      "Rock Tomb"
+    ],
+    "18": [
+      "Gravity"
+    ],
+    "24": [
+      "Stomp"
+    ],
+    "30": [
+      "Stealth Rock"
+    ],
+    "36": [
+      "Rock Slide"
+    ],
+    "42": [
+      "Body Slam"
+    ],
+    "48": [
+      "Wide Guard"
+    ],
+    "54": [
+      "Heavy Slam"
+    ],
+    "60": [
+      "Stone Edge"
+    ],
+    "66": [
+      "Mega Kick"
+    ]
+  },
+  "tutorMoves": [
+    "Meteor Beam"
+  ],
+  "eggMoves": [
+    "Ancient Power",
+    "Curse"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    1,
+    8,
+    9,
+    19,
+    20,
+    21,
+    22,
+    24,
+    25,
+    31,
+    32,
+    39,
+    44,
+    48,
+    49,
+    54,
+    58,
+    71,
+    76,
+    81,
+    97,
+    98
+  ],
+  "trMoves": [
+    1,
+    10,
+    20,
+    26,
+    27,
+    39,
+    46,
+    67,
+    75,
+    76,
+    79,
+    88,
+    99
+  ]
+}

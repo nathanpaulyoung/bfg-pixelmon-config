@@ -1,0 +1,138 @@
+{
+  "pixelmonName": "Sobble",
+  "pokemon": "Sobble",
+  "stats": {
+    "HP": 50,
+    "Attack": 40,
+    "Defence": 40,
+    "SpecialAttack": 70,
+    "SpecialDefence": 40,
+    "Speed": 70
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 10,
+  "spawnLevelRange": 6,
+  "baseExp": 62,
+  "baseFriendship": 50,
+  "types": [
+    "Water"
+  ],
+  "height": 0.3,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1,
+    "Speed": 1
+  },
+  "weight": 4.0,
+  "evolutions": [
+    {
+      "level": 16,
+      "to": {
+        "name": "Drizzile"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Torrent",
+    null,
+    "Sniper"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Pound",
+      "Growl"
+    ],
+    "6": [
+      "Water Gun"
+    ],
+    "8": [
+      "Bind"
+    ],
+    "12": [
+      "Water Pulse"
+    ],
+    "17": [
+      "Tearful Look"
+    ],
+    "20": [
+      "Sucker Punch"
+    ],
+    "24": [
+      "U-turn"
+    ],
+    "28": [
+      "Liquidation"
+    ],
+    "32": [
+      "Soak"
+    ],
+    "36": [
+      "Rain Dance"
+    ]
+  },
+  "tutorMoves": [
+    "Water Pledge"
+  ],
+  "eggMoves": [
+    "Aqua Jet",
+    "Aqua Ring",
+    "Double Team",
+    "Fell Stinger",
+    "Haze",
+    "Ice Shard",
+    "Mist"
+  ],
+  "forms": {},
+  "form": 0,
+  "tmMoves8": [
+    17,
+    18,
+    19,
+    21,
+    24,
+    25,
+    31,
+    33,
+    36,
+    39,
+    40,
+    45,
+    46,
+    52,
+    53,
+    56,
+    76
+  ],
+  "trMoves": [
+    4,
+    20,
+    26,
+    27,
+    29,
+    45,
+    85,
+    98
+  ]
+}

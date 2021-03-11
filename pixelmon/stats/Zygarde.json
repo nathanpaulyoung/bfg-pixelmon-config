@@ -1,0 +1,212 @@
+{
+  "pixelmonName": "Zygarde",
+  "pokemon": "Zygarde",
+  "stats": {
+    "HP": 108,
+    "Attack": 100,
+    "Defence": 121,
+    "SpecialAttack": 81,
+    "SpecialDefence": 95,
+    "Speed": 95
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 1,
+  "spawnLevelRange": 99,
+  "baseExp": 270,
+  "baseFriendship": 0,
+  "types": [
+    "Dragon",
+    "Ground"
+  ],
+  "height": 2.5,
+  "width": 1.5,
+  "length": 1.5,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.3,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.3,
+      "z": -0.6
+    }
+  },
+  "weight": 305.0,
+  "evolutions": [],
+  "abilities": [
+    "AuraBreak",
+    "PowerConstruct",
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Glare",
+      "Bulldoze",
+      "Dragon Breath",
+      "Bite"
+    ],
+    "5": [
+      "Safeguard"
+    ],
+    "10": [
+      "Dig"
+    ],
+    "18": [
+      "Bind"
+    ],
+    "26": [
+      "Land\u0027s Wrath"
+    ],
+    "35": [
+      "Sandstorm"
+    ],
+    "44": [
+      "Haze"
+    ],
+    "51": [
+      "Crunch"
+    ],
+    "55": [
+      "Earthquake"
+    ],
+    "59": [
+      "Camouflage"
+    ],
+    "63": [
+      "Dragon Pulse"
+    ],
+    "72": [
+      "Coil"
+    ],
+    "80": [
+      "Outrage"
+    ]
+  },
+  "tmMoves": [
+    "Hyper Beam",
+    "Earthquake",
+    "Toxic",
+    "Double Team",
+    "Rest",
+    "Rock Slide",
+    "Substitute",
+    "Protect",
+    "Sandstorm",
+    "Swagger",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Safeguard",
+    "Hidden Power",
+    "Sunny Day",
+    "Facade",
+    "Brick Break",
+    "Focus Blast",
+    "Giga Impact",
+    "Stone Edge",
+    "Grass Knot",
+    "Sludge Wave",
+    "Round",
+    "Bulldoze",
+    "Dragon Tail",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bind",
+    "Block",
+    "Draco Meteor",
+    "Dragon Pulse",
+    "Earth Power",
+    "Hyper Voice",
+    "Iron Tail",
+    "Outrage",
+    "Pain Split",
+    "Shock Wave",
+    "Snore",
+    "Spite",
+    "Stomping Tantrum",
+    "Superpower",
+    "Zen Headbutt"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 54,
+        "Attack": 100,
+        "Defence": 71,
+        "SpecialAttack": 61,
+        "SpecialDefence": 85,
+        "Speed": 115
+      },
+      "height": 1.4,
+      "width": 1.0,
+      "length": 1.0,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -0.6
+        }
+      },
+      "weight": 33.5,
+      "form": 1
+    },
+    "2": {
+      "stats": {
+        "HP": 216,
+        "Attack": 100,
+        "Defence": 121,
+        "SpecialAttack": 91,
+        "SpecialDefence": 95,
+        "Speed": 85
+      },
+      "height": 6.6,
+      "width": 3.0,
+      "length": 3.0,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": 3.7,
+          "z": 0.1
+        },
+        "moving": {
+          "x": 0.0,
+          "y": 3.7,
+          "z": 0.1
+        }
+      },
+      "weight": 610.0,
+      "form": 2
+    }
+  },
+  "form": 0,
+  "eggMoves": []
+}

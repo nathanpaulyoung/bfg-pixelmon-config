@@ -1,0 +1,164 @@
+{
+  "pixelmonName": "Volbeat",
+  "pokemon": "Volbeat",
+  "stats": {
+    "HP": 65,
+    "Attack": 73,
+    "Defence": 75,
+    "Speed": 85,
+    "SpecialAttack": 47,
+    "SpecialDefence": 85
+  },
+  "catchRate": 150,
+  "malePercent": 100,
+  "spawnLevel": 10,
+  "spawnLevelRange": 5,
+  "baseExp": 146,
+  "baseFriendship": 70,
+  "types": [
+    "Bug"
+  ],
+  "height": 1.7,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "hoverHeight": 1.0,
+  "weight": 17.7,
+  "evolutions": [],
+  "abilities": [
+    "Illuminate",
+    "Swarm",
+    "Prankster"
+  ],
+  "eggGroups": [
+    "Bug",
+    "Humanlike"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Flash",
+      "Tackle"
+    ],
+    "5": [
+      "Double Team"
+    ],
+    "8": [
+      "Confuse Ray"
+    ],
+    "12": [
+      "Quick Attack"
+    ],
+    "15": [
+      "Struggle Bug"
+    ],
+    "19": [
+      "Moonlight"
+    ],
+    "22": [
+      "Tail Glow"
+    ],
+    "26": [
+      "Signal Beam"
+    ],
+    "29": [
+      "Protect"
+    ],
+    "33": [
+      "Zen Headbutt"
+    ],
+    "36": [
+      "Helping Hand"
+    ],
+    "40": [
+      "Bug Buzz"
+    ],
+    "43": [
+      "Play Rough"
+    ],
+    "47": [
+      "Double-Edge"
+    ],
+    "50": [
+      "Infestation"
+    ]
+  },
+  "tmMoves": [
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder Wave",
+    "Thunder",
+    "Toxic",
+    "Double Team",
+    "Light Screen",
+    "Rest",
+    "Substitute",
+    "Thief",
+    "Protect",
+    "Swagger",
+    "Attract",
+    "Sleep Talk",
+    "Return",
+    "Frustration",
+    "Hidden Power",
+    "Rain Dance",
+    "Sunny Day",
+    "Psych Up",
+    "Shadow Ball",
+    "Facade",
+    "Brick Break",
+    "Aerial Ace",
+    "Roost",
+    "U-Turn",
+    "Fling",
+    "Charge Beam",
+    "Round",
+    "Acrobatics",
+    "Confide",
+    "Dazzling Gleam",
+    "Infestation"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Defog",
+    "Focus Punch",
+    "Giga Drain",
+    "Helping Hand",
+    "Ice Punch",
+    "Shock Wave",
+    "Signal Beam",
+    "Snore",
+    "Tailwind",
+    "Thunder Punch",
+    "Trick",
+    "Water Pulse",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Baton Pass",
+    "Bug Buzz",
+    "Dizzy Punch",
+    "Encore",
+    "Lunge",
+    "Seismic Toss",
+    "Silver Wind",
+    "Trick"
+  ],
+  "forms": {},
+  "form": 0
+}
