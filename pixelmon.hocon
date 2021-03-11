@@ -197,7 +197,7 @@ General {
     # If enabled, consumable held items will be returned to Pokémon at the end of player vs. player battles.
     returnHeldItems=true
     # Set Legendary shrines to one use (false) or multiple use (true).
-    reusableBirdShrines=false
+    reusableBirdShrines=true
     # Allow Legendary bird shrines to spawn randomly in world.
     spawnBirdShrines=true
     # pixelmon.config.spawnCelebiShrines.comment
@@ -211,7 +211,7 @@ General {
     # The time taken before syncing to the system clock (in seconds).
     systemTimeSyncInterval=30
     # Set traders to one use (false) or multiple use (true).
-    tradersReusable=false
+    tradersReusable=true
     # Whether to display a GUI with Pokémon drops after defeating a regular Pokémon.
     useDropGUI=true
     # Whether the system time is used for berry growth, meaning they will grow even when the game isn't running.
