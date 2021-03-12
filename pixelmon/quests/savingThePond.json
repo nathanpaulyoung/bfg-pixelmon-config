@@ -1,0 +1,54 @@
+{
+   "radiant": false,
+   "rarity": "Common",
+   "type": "Repeatable",
+   "activeStage": 10,
+   "stages": [
+      {
+         "stage": 0,
+         "nextStage": 10,
+         "objectives": [
+            "DIALOGUE 12e9aaba-6602-4970-b0fd-eb8d6ca96f7c name=npcName text=start choice=startYes choice=startNo",
+            "NPC_RESPOND 12e9aaba-6602-4970-b0fd-eb8d6ca96f7c 0 1"
+         ],
+         "actions": [
+            "1 MESSAGE \u00A7eDefeat 5 Magikarp!",
+            "1 SET_STAGE 10"
+         ]
+      },
+      {
+         "stage": 10,
+         "nextStage": 20,
+         "objectives": [
+            "POKEMON_DEFEAT #!Dex,129,any,any,any 5"
+         ],
+         "actions": []
+      },
+      {
+         "stage": 20,
+         "nextStage": -1,
+         "objectives": [
+            "DIALOGUE 12e9aaba-6602-4970-b0fd-eb8d6ca96f7c name=npcName text=end choice=goodbye",
+            "NPC_RESPOND 12e9aaba-6602-4970-b0fd-eb8d6ca96f7c 0 1"
+         ],
+         "actions": [
+            "1 POKEMON_GIVE Magikarp nature:jolly growth:microscopic",
+            "1 COMPLETE_QUEST"
+         ]
+      }
+   ],
+   "strings": {
+      "name": "Save The Pond",
+      "desc-10": "Edward wants you to defeat a bunch of Magikarp.",
+      "desc-20": "Now you have defeated all the Magikarp, you should go and tell Edward!",
+      "desc-X": "You defeated all the Pokémon and were given a super powerful pokemon as a reward!",
+      "npcName": "Edward",
+      "start": "Can you clear the pond of magikarp for me?",
+      "startYes": "Yes, I can!",
+      "startNo": "I'm a little busy...",
+      "stage-10-0": "Defeat 5 magikarp",
+      "stage-20-0": "Return to the Edward",
+      "end": "You have a good eye! Here, take this!",
+      "goodbye": "Goodbye"
+   }
+}
