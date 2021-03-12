@@ -1,5 +1,5 @@
 {
-   "radiant": true,
+   "radiant": false,
    "rarity": "Common",
    "type": "Standard",
    "activeStage": 10,
@@ -9,7 +9,7 @@
          "nextStage": 10,
          "objectives": [
             "DIALOGUE 12e9aaba-6602-4970-b0fd-eb8d6ca96f7c name=npcName text=start choice=startYes choice=startNo",
-            "NPC_RESPOND * 0 1"
+            "NPC_RESPOND 12e9aaba-6602-4970-b0fd-eb8d6ca96f7c 0 1"
          ],
          "actions": [
             "1 MESSAGE \u00A7eDefeat 5 Magikarp!",
@@ -28,8 +28,8 @@
          "stage": 20,
          "nextStage": -1,
          "objectives": [
-            "DIALOGUE NPC0 name=npcName text=end choice=goodbye",
-            "NPC_RESPOND NPC0 0 1"
+            "DIALOGUE 12e9aaba-6602-4970-b0fd-eb8d6ca96f7c name=npcName text=end choice=goodbye",
+            "NPC_RESPOND 12e9aaba-6602-4970-b0fd-eb8d6ca96f7c 0 1"
          ],
          "actions": [
             "1 POKEMON_GIVE Magikarp shiny:false nature:jolly growth:microscopic",
@@ -41,7 +41,7 @@
       "name": "Save The Pond",
       "desc-10": "Edward wants you to defeat a bunch of Magikarp.",
       "desc-20": "Now you have defeated all the Magikarp, you should go and tell Edward!",
-      "desc-X": "You defeated all the Pokémon, and were given a super powerful pokemon as a reward!",
+      "desc-X": "You defeated all the Pokémon and were given a super powerful pokemon as a reward!",
       "npcName": "Edward",
       "start": "Can you clear the pond of magikarp for me?",
       "startYes": "Yes, I can!",
