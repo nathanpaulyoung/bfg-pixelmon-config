@@ -1,0 +1,47 @@
+{
+    "radiant": false,
+    "rarity": "Common",
+    "type": "Repeatable",
+    "activeStage": 20,
+    "stages": [
+        {
+            "stage": 0,
+            "nextStage": 10,
+            "objectives": [
+               "BLOCKER"
+            ],
+            "actions": [
+            ]
+         },
+         {
+          "stage": 10,
+          "nextStage": 20,
+          "objectives": [
+             "ABSOLUTE_POSITION 79 65 75 63 62 71 0"
+          ],
+          "actions": [
+             "0 MESSAGE \u00A76What are you doing leaving your cubicle!",
+             "SET_STAGE 30 theDream.json"
+          ]
+       },
+       {
+        "stage": 20,
+        "nextStage": 0,
+        "objectives": [
+           "DIALOGUE 3f636c0f-cc69-4453-9d51-594fdca470d0 name=npcName text=end choice=goodbye",
+           "NPC_RESPOND 3f636c0f-cc69-4453-9d51-594fdca470d0 0 1"
+        ],
+        "actions": [
+           "1 SET_STAGE 0 theDream.json"
+        ]
+     }
+    ],
+    "strings": {
+       "name": "Failure!",
+       "end": "You left your cubicle! I don't want to see you slacking off again.",
+       "goodbye": "I won't do it again boss!",
+       "desc-10": "Press the button.",
+       "desc-X": "You have done your job. Have a shekil",
+       "stage-10-0": "Press the button."
+    }
+ }
