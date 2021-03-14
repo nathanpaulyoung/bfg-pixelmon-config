@@ -345,7 +345,7 @@ Riding {
     # When mounted, enables steering the Pokémon by looking.
     enablePointToSteer=true
     # Allows riding Pokémon mounts that do not have the ability to fly or surf.
-    landMount=true
+    landMount=false
     # Requires flying and water Pokémon mounts to have HM moves Fly or Surf (respectively) to use those abilities when ridden.
     requireHM=true
     # Multipier for the speed that mounted Pokémon travel at.
@@ -379,7 +379,7 @@ Spawning {
     # Chance that a bell, at dawn, will start to ring. 1 = 100%.
     bellSuccessChance=0.01
     # The rate of boss Pokémon in the wild (1/x) not including mega bosses.
-    bossRate=256
+    bossRate=0
     # Chance that a mega boss spawn attempt will succeed (0-1)
     bossSpawnChance=0.30000001192092896
     # Average number of ticks before spawning a boss Pokémon
