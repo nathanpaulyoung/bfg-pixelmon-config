@@ -2,7 +2,7 @@
     "radiant": false,
     "rarity": "Common",
     "type": "Instantaneous",
-    "activeStage": 10,
+    "activeStage": 0,
     "stages": [
        {
           "stage": 0,
