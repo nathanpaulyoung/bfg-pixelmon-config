@@ -1,0 +1,45 @@
+{
+    "radiant": false,
+    "rarity": "Common",
+    "type": "Repeatable",
+    "activeStage": 10,
+    "stages": [
+       {
+          "stage": 0,
+          "nextStage": 10,
+          "objectives": [
+             "DIALOGUE d3c288be-317b-4b31-956a-bbbdb9d2fcc0 name=npcName text=start choice=startYes choice=startNo",
+             "NPC_RESPOND * 0 1"
+          ],
+          "actions": [
+             "1 MESSAGE \u00A7eReset the fucking quests.",
+             "1 SET_STAGE 0 savingThePond.json",
+             "1 SET_STAGE 0 waystone.json"
+          ]
+       },
+       {
+        "stage": 10,
+        "nextStage": 0,
+        "objectives": [
+           "FOLLOWTHROUGH",
+           "DIALOGUE d3c288be-317b-4b31-956a-bbbdb9d2fcc0 name=npcName text=start choice=startYes choice=startNo"
+        ],
+        "actions": [
+           "1 MESSAGE \u00A7eReset the fucking quests.",
+           "1 SET_STAGE 0"
+        ]
+     }
+    ],
+    "strings": {
+       "name": "Save The Pond",
+       "desc-10": "Edward wants you to defeat a bunch of Magikarp.",
+       "desc-X": "You reset your quests, but fucked up the quests",
+       "npcName": "Dev Reset",
+       "start": "Would you like to reset your quests?",
+       "startYes": "Yes, I fucked up",
+       "startNo": "No, I fucked up by talking to you.",
+       "stage-10-0": "Just here to let you know that this is dicked",
+       "end": "I reset the quests for you.",
+       "goodbye": "Goodbye"
+    }
+ }
