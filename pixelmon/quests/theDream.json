@@ -1,0 +1,62 @@
+{
+    "radiant": false,
+    "rarity": "Common",
+    "type": "Repeatable",
+    "activeStage": 10,
+    "stages": [
+        {
+            "stage": 0,
+            "nextStage": 10,
+            "objectives": [
+               "DIALOGUE 3f636c0f-cc69-4453-9d51-594fdca470d0 name=npcName text=start choice=startYes choice=startNo",
+               "NPC_RESPOND * 0 1"
+            ],
+            "actions": [
+               "1 MESSAGE \u00A7Go upstairs!",
+               "1 SET_STAGE 10"
+            ]
+         },
+         {
+            "stage": 10,
+            "nextStage": 20,
+            "objectives": [
+               "ABSOLUTE_POSITION 79 67 88 63 71 72 0"
+            ],
+            "actions": [
+               "1 MESSAGE \u00A7Get to work!",
+               "1 SET_STAGE 10 theNightmare.json"
+            ]
+         },
+         {
+          "stage": 20,
+          "nextStage": 0,
+          "objectives": [
+             "BLOCK_USE item=minecraft:button count=10"
+          ],
+          "actions": [
+             "0 MESSAGE \u00A76Get out of here! We aren't paying any overtime!",
+             "0 COMMAND givemoney @p 50"
+          ]
+       },
+       {
+        "stage": 30,
+        "nextStage": 0,
+        "objectives": [
+           "BLOCKER"
+        ],
+        "actions": [
+        ]
+     }
+    ],
+    "strings": {
+       "name": "The Dream",
+       "text": "Get to work!",
+       "startYes": "Yes Sir!",
+       "startNo": "I'm worthless",
+       "desc-10": "Go to your station.",
+       "desc-20": "Press the button.",
+       "desc-30": "You are a failure.",
+       "desc-X": "You have done your job. Have a shekil",
+       "stage-10-0": "Press the button."
+    }
+ }
