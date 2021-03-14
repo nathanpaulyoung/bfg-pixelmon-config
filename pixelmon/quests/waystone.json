@@ -13,8 +13,7 @@
           "actions": [
              "0 MESSAGE \u00A76You have bonded to a Waystone!",
              "0 ITEM_GIVE item=pixelmon:potion amount=3",
-             "1 COMPLETE_QUEST",
-             "0 SET_STAGE 0 savingThePond.json"
+             "1 COMPLETE_QUEST"
           ]
        }
     ],
