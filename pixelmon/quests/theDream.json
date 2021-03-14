@@ -23,8 +23,7 @@
                "ABSOLUTE_POSITION 79 67 88 63 71 72 0"
             ],
             "actions": [
-               "1 MESSAGE \u00A7Get to work!",
-               "1 SET_STAGE 10 theNightmare.json"
+               "1 MESSAGE \u00A7Get to work!"
             ]
          },
          {
