@@ -1,0 +1,94 @@
+{
+   "radiant": false,
+   "rarity": "Common",
+   "type": "Standard",
+   "activeStage": 10,
+   "stages": [
+      {
+         "stage": 0,
+         "nextStage": 10,
+         "objectives": [
+            "DIALOGUE 12e9aaba-6602-4970-b0fd-eb8d6ca96f7c name=npcName text=start choice=startYes choice=startNo",
+            "NPC_RESPOND * 0 1"
+         ],
+         "actions": [
+            "1 MESSAGE \u00A7eDefeat 5 Magikarp!"
+         ]
+      },
+      {
+         "stage": 10,
+         "nextStage": 11,
+         "objectives": [
+            "POKEMON_DEFEAT #!Dex,129,any,any,any 1"
+         ],
+         "actions": []
+      },
+      {
+         "stage": 11,
+         "nextStage": 12,
+         "objectives": [
+            "POKEMON_DEFEAT #!Dex,129,any,any,any 1"
+         ],
+         "actions": []
+      },
+      {
+         "stage": 12,
+         "nextStage": 13,
+         "objectives": [
+            "POKEMON_DEFEAT #!Dex,129,any,any,any 1"
+         ],
+         "actions": []
+      },
+      {
+         "stage": 13,
+         "nextStage": 14,
+         "objectives": [
+            "POKEMON_DEFEAT #!Dex,129,any,any,any 1"
+         ],
+         "actions": []
+      },
+      {
+         "stage": 14,
+         "nextStage": 20,
+         "objectives": [
+            "POKEMON_DEFEAT #!Dex,129,any,any,any 1"
+         ],
+         "actions": []
+      },
+      {
+         "stage": 20,
+         "nextStage": 0,
+         "objectives": [
+            "DIALOGUE 12e9aaba-6602-4970-b0fd-eb8d6ca96f7c name=npcName text=end choice=goodbye",
+            "NPC_RESPOND 12e9aaba-6602-4970-b0fd-eb8d6ca96f7c 0 1"
+         ],
+         "actions": [
+            "1 POKEMON_GIVE Magikarp nature:jolly growth:microscopic",
+            "COMMAND give @s stone 32",
+            "1 COMPLETE_QUEST"
+         ]
+      }
+   ],
+   "strings": {
+      "name": "Save The Pond",
+      "desc-10": "Defeated 0/5 Magikarp.",
+      "desc-11": "Defeated 1/5 Magikarp.",
+      "desc-12": "Defeated 2/5 Magikarp.",
+      "desc-13": "Defeated 3/5 Magikarp.",
+      "desc-14": "Defeated 4/5 Magikarp.",
+      "desc-20": "Now you have defeated all the Magikarp, you should go and tell Edward!",
+      "desc-X": "You defeated all the Magikarp and were given a super powerful pokemon as a reward!",
+      "npcName": "Edward",
+      "start": "Can you clear the pond of magikarp for me?",
+      "startYes": "Yes, I can!",
+      "startNo": "I'm a little busy...",
+      "stage-10-0": "Defeat 5 magikarp",
+      "stage-11-0": "Defeated 1/5 Magikarp.",
+      "stage-12-0": "Defeated 2/5 Magikarp.",
+      "stage-13-0": "Defeated 3/5 Magikarp.",
+      "stage-14-0": "Defeated 4/5 Magikarp.",
+      "stage-20-0": "Return to the Edward",
+      "end": "You have a good eye! Here, take this!",
+      "goodbye": "Goodbye"
+   }
+}
