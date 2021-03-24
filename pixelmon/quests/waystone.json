@@ -1,0 +1,26 @@
+{
+    "radiant": false,
+    "rarity": "Common",
+    "type": "Standard",
+    "activeStage": 10,
+    "stages": [
+       {
+          "stage": 0,
+          "nextStage": -1,
+          "objectives": [
+             "BLOCK_USE item=waystones:waystone count=1"
+          ],
+          "actions": [
+             "0 MESSAGE \u00A76You have bonded to a Waystone!",
+             "0 ITEM_GIVE item=pixelmon:potion amount=3",
+             "1 COMPLETE_QUEST"
+          ]
+       }
+    ],
+    "strings": {
+       "name": "Waystone!",
+       "desc-10": "Bond to a waystone to ",
+       "desc-X": "You have bonded to a Waystone. Find another to travel between them.",
+       "stage-10-0": "Use a Waystone"
+    }
+ }
